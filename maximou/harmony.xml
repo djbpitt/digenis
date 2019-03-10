@@ -1,5 +1,14 @@
 <?xml-model href="maximou_harmony.rnc" type="application/relax-ng-compact-syntax"?>
 <mappings>
+    <!--
+        a: abduction
+        e: emperor
+        c: calisthenes (alexander)
+        g: maximou greek
+        
+        a(m)e is the initial view
+        c(m)g
+    -->
     <pair n="me">
         <mapping>
             <max>m1</max>
