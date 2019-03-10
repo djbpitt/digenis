@@ -1,0 +1,11 @@
+include "maximou.rnc" {
+    root = element root { anchor+ }
+    anchor = element anchor { ref, p+ }
+    p =
+        element p {
+            c,
+            type,
+            mixed { (supplied | page | q)* }
+        }
+}
+c = attribute c { text }

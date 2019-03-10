@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Exploits of Digenis: Maximou</title>
+        <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/maximou.css" />
+        <style type="text/css">
+            #texts h2{
+                margin-top: 0;
+            }</style>
+        <script type="text/javascript" src="js/maximou.js">/**/</script>
+    </head>
+    <body>
+        <div id="controls">
+            <p>Menu</p>
+            <div>
+                <p id="radios">
+                    <label><input type="radio" id="ae_button" name="plect_choice" value="ae"
+                            checked="checked" /> Abduction / Emperor</label>
+                    <label><input type="radio" id="gc_button" name="plect_choice" value="gc" />
+                        Alexander / Maximou Greek</label></p>
+                <hr />
+                <p><a href="maximou_about.xhtml">About this site</a></p>
+            </div>
+        </div>
+        <h1><a class="logo" href="http://www.obdurodon.org">&lt;oo&gt;</a>→<a class="logo"
+                href="http://digenis.obdurodon.org">&lt;da&gt;</a>→<span class="logo"
+                >&lt;mx&gt;</span> Digenis Akritis: Maximou</h1>
+        <div id="plectogram">
+            <div id="ae"><!--#include virtual="maximou_plectogram_ae.svg" --></div>
+            <div id="gc"><!--#include virtual="maximou_plectogram_gc.svg" --></div>
+        </div>
+        <div id="texts">
+            <section id="a" class="slavic">
+                <h2>Abduction (Slavic)</h2>
+                <div><!--#include virtual="abduction.inc" --></div>
+            </section>
+            <section id="c" class="greek">
+                <h2>Alexander</h2>
+                <div><!--#include virtual="alexander.inc" --></div>
+            </section>
+            <section id="m">
+                <h2>Maximou (Slavic)</h2>
+                <div><!--#include virtual="maximou.inc" --></div>
+            </section>
+            <section id="e" class="slavic">
+                <h2>Emperor (Slavic)</h2>
+                <div><!--#include virtual="emperor.inc" --></div>
+            </section>
+            <section id="g" class="greek">
+                <h2>Maximou (Greek)</h2>
+                <div><!--#include virtual="maximouG.inc" --></div>
+            </section>
+        </div>
+    </body>
+</html>

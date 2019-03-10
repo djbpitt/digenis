@@ -1,0 +1,8 @@
+start = root
+root = element root { p+ }
+p = element p { n, type, m, (g | c), text }
+n = attribute n { text }
+type = attribute type { "sense" | "lines" }
+c = attribute c { text }
+m = attribute m { text }
+g = attribute g { text }

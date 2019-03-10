@@ -1,0 +1,17 @@
+maximou.xml (maximou.rnc)
+
+Set 1 (abduction, maximou, emperor):
+abduction.xml (maximou.rnc)
+emperor.xml (maximou.rnc)
+
+Set 2 (alexander, maximou, maximouG):
+alexander.xml (alexander.rnc)
+maximouG.xml (maximouG.rnc)
+
+Mapping information:
+harmony.xml
+me (maximou ~ emperor)
+ma (maximou ~ abduction)
+mc (maximou ~ alexander [Calisthenis])
+mg (maximou ~ maximouG)
+

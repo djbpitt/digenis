@@ -1,0 +1,27 @@
+start = root
+root = element root { title, anchor+ }
+title =
+    element title {
+        titletype,
+        pageref?,
+        mixed { page }
+    }
+titletype = attribute type { "supplied" }
+pageref = attribute pageref { text }
+anchor = element anchor { ref, p+ }
+page = element page { text }
+ref = attribute ref { text }
+p =
+    element p {
+        pageref,
+        mixed { (g | supplied | page | q)* }
+    }
+q =
+    element q {
+        mixed { (supplied | page)* }
+    }
+supplied = element supplied { text }
+g = element g { line+ }
+line = element line { n, text }
+n = attribute n { text }
+type = attribute type { "lines" | "sense" }

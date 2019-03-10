@@ -1,0 +1,34 @@
+start = mappings
+mappings = element mappings { pairme, pairma, pairmg, pairmc }
+pairme =
+    element pair {
+        attribute n { "me" },
+        element mapping {
+            element max { text },
+            element emp { text }+
+        }+
+    }
+pairma =
+    element pair {
+        attribute n { "ma" },
+        element mapping {
+            element max { text },
+            element abd { text }+
+        }+
+    }
+pairmg =
+    element pair {
+        attribute n { "mg" },
+        element mapping {
+            element max { text },
+            element mag { text }+
+        }+
+    }
+pairmc =
+    element pair {
+        attribute n { "mc" },
+        element mapping {
+            element max { text },
+            element cal { text }+
+        }+
+    }

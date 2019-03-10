@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="alexander.rnc" type="application/relax-ng-compact-syntax"?><?xml-stylesheet type="text/css" href="core_edit.css"?>
+<root>
+    <anchor ref="c0">
+        <p type="lines" c="3.24">Alexander asked (Sesonchosis), <q>How many years will I live?</q> He
+            replied, <q>It is good for a living man not to know when he is to die.</q></p>
+    </anchor>
+    <anchor ref="c1">
+        <p type="lines" c="3.25">From there (Alexander) marched to the Amazons; and when he had
+            reached them, he sent them a letter with the following contents:</p>
+    </anchor>
+    <anchor ref="c2">
+        <p type="lines" c="3.25">We are marching on you. Meet us with joy; we do not come to do you
+            ill, but to see your country and at the same time do you good.</p>
+    </anchor>
+    <anchor ref="c3">
+        <p type="lines" c="3.25">Receiving Alexander's letter and reading it, (the leading Amazons)
+            wrote Alexander this reply:</p>
+    </anchor>
+    <anchor ref="c4">
+        <p type="lines" c="3.25">By our letter we shall make clear the nature of our country and of
+            ourselves, who have a way of life to be reckoned with.</p>
+    </anchor>
+    <anchor ref="c5">
+        <p type="lines" c="3.25">If we defeat the enemy … a terrible disgrace stays with them for
+            all time; but if they defeat us, they will be in a situation of having defeated
+            women.</p>
+    </anchor>
+    <anchor ref="c6">
+        <p type="lines" c="3.26">Alexander read (the Amazons') letter and with a smile (a laugh)
+            wrote them this reply:</p>
+    </anchor>
+    <anchor ref="c7">
+        <p type="lines" c="3.26">If you want to live in your own land rather than try your luck in
+            battle, cross your river and be seen by us.</p>
+    </anchor>
+    <anchor ref="c8">
+        <p type="lines" c="3.26">On receiving and reading Alexander's letter, (the Amazons) … wrote
+            him this reply:</p>
+    </anchor>
+    <anchor ref="c9">
+        <p type="lines" c="3.26">We give you permission to come to us and see our country.</p>
+    </anchor>
+    <anchor ref="c10">
+        <p type="lines" c="3.26">We accept allegiance to you, in your presence and in your absence:
+            we have heard of your exceptional qualities and your bravery.</p>
+    </anchor>
+    <anchor ref="c11">
+        <p type="lines" c="3.26">We have decided … to be subject to you as master.</p>
+    </anchor>
+    <anchor ref="c12">
+        <p type="lines" c="3.27">After this exchange of letters, Alexander wrote his mother,
+            Olympias, this account of his deeds:</p>
+    </anchor>
+    <anchor ref="c13">
+        <p type="lines" c="3.27">The Amazons (are) women of exceptional height, much taller than
+            other women, notable for their attractiveness and strength.</p>
+    </anchor>
+
+</root>

@@ -1,0 +1,14 @@
+include "maximou.rnc" {
+    root = element root { (anchor | section_title)+ }
+    anchor = element anchor { ref, p+ }
+    p =
+        element p {
+            E?,
+            G?,
+            type,
+            mixed { (supplied | page | q)* }
+        }
+}
+section_title = element section_title { p }
+E = attribute E { text }
+G = attribute G { text }

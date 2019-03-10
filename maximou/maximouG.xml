@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="maximouG.rnc" type="application/relax-ng-compact-syntax"?><?xml-stylesheet type="text/css" href="core_edit.css"?>
+<root>
+    <section_title>
+        <p type="sense" E="1097–1196" G="6.1–175">The meadow in May</p>
+    </section_title>
+    <anchor ref="g1">
+        <p type="sense" G="6.1–3">Rhetorical introduction: Narrator's preamble</p>
+    </anchor>
+    <anchor ref="g2">
+        <p type="sense" G="6.4–11">Rhetorical introduction: Encomium of May</p>
+    </anchor>
+    <anchor ref="g3">
+        <p type="sense" G="6.12–41">Rhetorical introduction: Ekphrasis of the meadow and the
+            girl</p>
+    </anchor>
+    <anchor ref="g4">
+        <p type="sense" G="6.42–62">Encounter with serpent and lion: Serpent seduces the girl at the
+            spring</p>
+    </anchor>
+    <anchor ref="g5">
+        <p type="sense" E="1097–1119" G="6.63–85">Encounter with the serpent and the lion: Digenis
+            kills the serpent at the spring</p>
+    </anchor>
+    <anchor ref="g6">
+        <p type="sense" E="1120–1138" G="6.86–97">Encounter with the serpent and the lion: Digenis
+            kills the lion at the spring</p>
+    </anchor>
+    <anchor ref="g7">
+        <p type="sense" E="1139–1150" G="6.98–114">Encounter with the serpent and the lion: Digenis
+            plays the lute, the girl sings</p>
+    </anchor>
+    <anchor ref="g8">
+        <p type="sense" E="1151–1196" G="6.115–175">The guerrillas encounter Digenis</p>
+    </anchor>
+    <section_title>
+        <p type="sense" E="1197–1315" G="6.176–310">Digenis defeats Philopappous, Kinnamos, and
+            Ioannakis</p>
+    </section_title>
+    <section_title>
+        <p type="sense" E="1316–1420" G="6.311–475">The guerrillas summon Maximou and Melimitzis</p>
+    </section_title>
+    <section_title>
+        <p type="sense" E="1421–1553" G="6.476–713">Digenis defeats the guerrillas and Maximou</p>
+    </section_title>
+    <anchor ref="g31">
+        <p type="sense" E="1421–1438" G="6.476–496">The guerrillas take counsel</p>
+    </anchor>
+    <anchor ref="g33">
+        <p type="sense" E="1439–1450" G="6.497–507">The guerrillas attack Digenis: Digenis unhorses
+            Melimitzis (with a strike between the shoulders)</p>
+    </anchor>
+    <anchor ref="g34">
+        <p type="sense" E="1451–1460" G="6.508–516">The guerrillas attack Digenis: Philopappous
+            spears Digenis from behind</p>
+    </anchor>
+    <anchor ref="g35">
+        <p type="sense" G="6.516–522">The guerrillas attack Digenis: Philopappous and Kinnamos</p>
+    </anchor>
+    <anchor ref="g36">
+        <p type="sense" E="1461–1481" G="6.523–545">Digenis hides the girl</p>
+    </anchor>
+    <anchor ref="g39">
+        <p type="sense" E="1482–1485, 1497–1500" G="6.546–549">Maximou observes Digenis: Maximou
+            with the guerrillas</p>
+    </anchor>
+    <anchor ref="g40">
+        <p type="sense" E="1486–1496" G="6.550–556">Maximou observes Digenis: Ekphrasis of
+            Maximou</p>
+    </anchor>
+    <anchor ref="g41">
+        <p type="sense" E="1501–1527" G="6.557–568">Maximou observes Digenis: Maximou sees Digenis
+            and is angered</p>
+    </anchor>
+    <anchor ref="g42">
+        <p type="sense" E="1528–1547" G="6.569–617">Digenis crosses to defeat Maximou</p>
+    </anchor>
+    <anchor ref="g45">
+        <p type="sense" G="6.618–643">Digenis defeats four guerrillas</p>
+    </anchor>
+    <anchor ref="g48">
+        <p type="sense" E="1548–1553" G="6.644–713">Digenis and Maximou arrange single combat</p>
+    </anchor>
+    <section_title>
+        <p type="sense" E="1554–1605" G="6.714–805">Digenis defeats Maximou again and commits
+            adultery</p>
+    </section_title>
+    <anchor ref="g51">
+        <p type="sense" G="6.714–729">Digenis defeats Maximou in single combat: Digenis returns to
+            his tent</p>
+    </anchor>
+    <anchor ref="g52">
+        <p type="sense" G="6.730–739">Digenis defeats Maximou in single combat: Ekphrasis of
+            Maximou</p>
+    </anchor>
+    <anchor ref="g53">
+        <p type="sense" E="1554–1561" G="6.740–763">Digenis defeats Maximou in single combat:
+            Digenis unhorses Maximou</p>
+    </anchor>
+    <anchor ref="g54">
+        <p type="sense" E="1562–1573" G="6.764–776">Digenis defeats Maximou in single combat:
+            Maximou offers Digenis alliance</p>
+    </anchor>
+    <anchor ref="g55">
+        <p type="sense" E="1574–1577" G="6.777–Z.3720">Digenis deflowers Maximou</p>
+    </anchor>
+    <anchor ref="g57">
+        <p type="sense" E="1578–1599" G="Z.3721–6.802">Digenis returns to the girl</p>
+    </anchor>
+    <anchor ref="g60">
+        <p type="sense" E="1600–1605">Maximou's men, Kinnamos, Ioannakis, and Philopappous
+            scatter</p>
+    </anchor>
+</root>
