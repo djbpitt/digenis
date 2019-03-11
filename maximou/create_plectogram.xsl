@@ -10,9 +10,10 @@
         <xsl:param name="ref"/>
         <xsl:sequence
             select="
-                string-join(for $i in distinct-values(key('mappingByChild', $ref, $root)/*)
+                string-join(distinct-values(($ref,
+                for $i in distinct-values(key('mappingByChild', $ref, $root)/*)
                 return
-                    ($i, concat('p', $i)), ' ')"
+                    ($i, concat('p', $i)))), ' ')"
         />
     </xsl:function>
     <xsl:function name="djb:process_row" as="node()+">
