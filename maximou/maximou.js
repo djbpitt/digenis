@@ -55,7 +55,7 @@ function plectogramToggle() {
     }
 }
 function itemToggle() {
-    // grey out all text and line elements in plectogram]
+    // grey out all text and line elements in plectogram
     var texts = document.querySelectorAll('g > text[id]');
     for (var i = 0, length = texts.length; i < length; i++) {
         texts[i].setAttribute('opacity', '.3');
@@ -68,7 +68,7 @@ function itemToggle() {
         lines[i].setAttribute('fill', 'black');
         lines[i].setAttribute('stroke', 'black');
     }
-    // items to highlight
+    // highlight inside plectogram
     var classes = this.getAttribute('class').split(' ');
     for (var i = 0, length = classes.length; i < length; i++) {
         var highlights = document.getElementsByClassName(classes[i]);
@@ -78,6 +78,9 @@ function itemToggle() {
             highlights[j].setAttribute('stroke', '#A00000');
         }
     }
+    // highlight inside texts
+    console.log(this.id);
+    console.log(this.getAttribute('class'));
 }
 
 
