@@ -1,14 +1,5 @@
 <?xml-model href="maximou_harmony.rnc" type="application/relax-ng-compact-syntax"?>
 <mappings>
-    <!--
-        a: abduction
-        e: emperor
-        c: callisthenes (alexander)
-        g: maximou greek
-        
-        a(m)e is the initial view
-        c(m)g
-    -->
     <pair n="me">
         <mapping>
             <max>m1</max>
@@ -246,79 +237,78 @@
     <pair n="mg">
         <mapping>
             <max>mx</max>
-            <mag>g5</mag>
+            <mag>ge</mag>
         </mapping>
         <mapping>
             <max>m7</max>
-            <mag>g2</mag>
+            <mag>gb</mag>
         </mapping>
         <mapping>
             <max>m35</max>
-            <mag>g33</mag>
+            <mag>g12</mag>
         </mapping>
         <mapping>
             <max>m36</max>
-            <mag>g33</mag>
+            <mag>g12</mag>
         </mapping>
         <mapping>
             <max>m37</max>
-            <mag>g34</mag>
+            <mag>g12bis</mag>
         </mapping>
         <mapping>
             <max>m38</max>
-            <mag>g41</mag>
-            <mag>g53</mag>
+            <mag>g15</mag>
+            <mag>g20</mag>
         </mapping>
         <mapping>
             <max>m49</max>
-            <mag>g54</mag>
+            <mag>g21</mag>
         </mapping>
         <mapping>
             <max>m50</max>
-            <mag>g54</mag>
+            <mag>g21</mag>
         </mapping>
         <mapping>
             <max>m51</max>
-            <mag>g54</mag>
+            <mag>g21</mag>
         </mapping>
         <mapping>
             <max>m52</max>
-            <mag>g54</mag>
+            <mag>g21</mag>
         </mapping>
         <mapping>
             <max>m53</max>
-            <mag>g54</mag>
+            <mag>g21</mag>
         </mapping>
         <mapping>
             <max>my</max>
-            <mag>g60</mag>
+            <mag>g23bis</mag>
         </mapping>
         <mapping>
             <max>mz</max>
-            <mag>g60</mag>
+            <mag>g23bis</mag>
         </mapping>
     </pair>
     <pair n="mc">
         <mapping>
-            <max>m1</max>
-            <cal>c10</cal>
-        </mapping>
-        <mapping>
             <max>m4</max>
-            <cal>c13</cal>
+            <cal>c12</cal>
         </mapping>
         <mapping>
             <max>m6</max>
             <cal>c1</cal>
         </mapping>
         <mapping>
+            <max>m10</max>
+            <cal>c5</cal>
+        </mapping>
+        <mapping>
             <max>m11</max>
-            <cal>c7</cal>
+            <cal>c5</cal>
         </mapping>
         <mapping>
             <max>m12</max>
-            <cal>c2</cal>
-            <cal>c9</cal>
+            <cal>c7</cal>
         </mapping>
         <mapping>
             <max>m13</max>
@@ -330,23 +320,17 @@
         </mapping>
         <mapping>
             <max>m19</max>
-            <cal>c5</cal>
+            <cal>c4</cal>
+            <cal>c9</cal>
+            <cal>c10</cal>
         </mapping>
         <mapping>
             <max>m51</max>
             <cal>c11</cal>
         </mapping>
         <mapping>
-            <max>m52</max>
-            <cal>c10</cal>
-        </mapping>
-        <mapping>
             <max>m54</max>
             <cal>c0</cal>
-        </mapping>
-        <mapping>
-            <max>m55</max>
-            <cal>c12</cal>
         </mapping>
     </pair>
 </mappings>

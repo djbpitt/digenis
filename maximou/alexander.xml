@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="alexander.rnc" type="application/relax-ng-compact-syntax"?><?xml-stylesheet type="text/css" href="core_edit.css"?>
 <root>
     <anchor ref="c0">
-        <p type="lines" c="3.24">Alexander asked (Sesonchosis), <q>How many years will I live?</q> He
-            replied, <q>It is good for a living man not to know when he is to die.</q></p>
+        <p type="lines" c="1.3.4">When the child (Alexander) was born and came into the light, he
+            cried and said: <q>In my 40th year I will return to you again, mother!</q></p>
     </anchor>
     <anchor ref="c1">
-        <p type="lines" c="3.25">From there (Alexander) marched to the Amazons; and when he had
-            reached them, he sent them a letter with the following contents:</p>
+        <p type="lines" c="4.103.3">Having come near (the Amazons') city, (Alexander) stopped there
+            with his retinue. And waiting there, he sent them a letter containing the following:
+                <q>Alexander, king of kings, sends to Talistris, the Amazon queen …</q></p>
     </anchor>
     <anchor ref="c2">
-        <p type="lines" c="3.25">We are marching on you. Meet us with joy; we do not come to do you
-            ill, but to see your country and at the same time do you good.</p>
+        <p type="lines" c="4.103.16">Then Queen Talistris received Alexander's letter, read it, and
+            wrote a letter back to Alexander as follows:</p>
     </anchor>
     <anchor ref="c3">
-        <p type="lines" c="3.25">Receiving Alexander's letter and reading it, (the leading Amazons)
-            wrote Alexander this reply:</p>
+        <p type="lines" c="4.103.23">If you wish to learn how we abide, let us show you in this
+            letter:</p>
     </anchor>
     <anchor ref="c4">
-        <p type="lines" c="3.25">By our letter we shall make clear the nature of our country and of
-            ourselves, who have a way of life to be reckoned with.</p>
+        <p type="lines" c="4.103.46">If you kill us, you will not achieve any fame, for you will
+            have killed women.</p>
     </anchor>
     <anchor ref="c5">
-        <p type="lines" c="3.25">If we defeat the enemy … a terrible disgrace stays with them for
-            all time; but if they defeat us, they will be in a situation of having defeated
-            women.</p>
+        <p type="lines" c="4.103.47">If you will come to us in battle, send to us quickly: we will
+            meet you at the foot of the mountains!</p>
     </anchor>
     <anchor ref="c6">
-        <p type="lines" c="3.26">Alexander read (the Amazons') letter and with a smile (a laugh)
-            wrote them this reply:</p>
+        <p type="lines" c="4.103.50">Alexander read the letter before all his horsemen. And
+            Alexander laughed greatly at it and had a letter written containing the following:</p>
     </anchor>
     <anchor ref="c7">
-        <p type="lines" c="3.26">If you want to live in your own land rather than try your luck in
-            battle, cross your river and be seen by us.</p>
+        <p type="lines" c="4.103.59">If you do not want to perish, consider well your lives and give
+            us tribute and send us some of your horsewomen, so that we may see them and receive them
+            with joy and honor them well.</p>
     </anchor>
     <anchor ref="c8">
-        <p type="lines" c="3.26">On receiving and reading Alexander's letter, (the Amazons) … wrote
-            him this reply:</p>
+        <p type="lines" c="4.103.64">Then Queen Talistris sent Alexander … precious gifts and a
+            letter containing the following:</p>
     </anchor>
     <anchor ref="c9">
-        <p type="lines" c="3.26">We give you permission to come to us and see our country.</p>
+        <p type="lines" c="4.103.70">A rumor has come to our ears … that, having taken all the
+            world, you want to fight a women's army … It is not fitting for you to fight us.</p>
     </anchor>
     <anchor ref="c10">
-        <p type="lines" c="3.26">We accept allegiance to you, in your presence and in your absence:
-            we have heard of your exceptional qualities and your bravery.</p>
+        <p type="lines" c="4.103.75">For if you destroy us, you will achieve little honor; if we
+            destroy you, this will be a great disgrace for you.</p>
     </anchor>
     <anchor ref="c11">
-        <p type="lines" c="3.26">We have decided … to be subject to you as master.</p>
+        <p type="lines" c="4.103.84">Have mercy on us and accept the small offerings of your
+            faithful servants and write back with hope (for us) soon!</p>
     </anchor>
     <anchor ref="c12">
-        <p type="lines" c="3.27">After this exchange of letters, Alexander wrote his mother,
-            Olympias, this account of his deeds:</p>
-    </anchor>
-    <anchor ref="c13">
-        <p type="lines" c="3.27">The Amazons (are) women of exceptional height, much taller than
-            other women, notable for their attractiveness and strength.</p>
+        <p type="lines" c="4.103.106">Alexander laughed … and said (to Ptolemy): <q>Even if you are
+                the general of (all) my forces, (a single) one of those women can overcome
+            you.</q></p>
     </anchor>
 
 </root>
