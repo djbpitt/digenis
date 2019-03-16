@@ -8,7 +8,7 @@
                y="0"
                text-anchor="middle">0</text>
          <text id="pc1"
-               class="c1 m6 pm6 pc1"
+               class="c1 m5 pm5 pc1 m6 pm6"
                x="14.923076923076923%"
                y="0"
                text-anchor="middle">1</text>
@@ -96,7 +96,7 @@
                y="0"
                text-anchor="middle">4</text>
          <text id="pm5"
-               class="m5 pm5 e19 pe19"
+               class="m5 pm5 e19 pe19 c1 pc1"
                x="9.387096774193548%"
                y="0"
                text-anchor="middle">5</text>
@@ -106,12 +106,12 @@
                y="0"
                text-anchor="middle">6</text>
          <text id="pm7"
-               class="m7 pm7 gb pgb"
+               class="m7"
                x="12.516129032258064%"
                y="0"
                text-anchor="middle">7</text>
          <text id="pm8"
-               class="m8"
+               class="m8 pm8 gb pgb"
                x="14.080645161290324%"
                y="0"
                text-anchor="middle">8</text>
@@ -389,7 +389,7 @@
                y="0"
                text-anchor="middle">a</text>
          <text id="pgb"
-               class="gb m7 pm7 pgb"
+               class="gb m8 pm8 pgb"
                x="6.689655172413793%"
                y="0"
                text-anchor="middle">b</text>
@@ -536,6 +536,12 @@
                y2="23"
                stroke="black"
                stroke-width="1"/>
+         <line x1="9.387096774193548%"
+               y1="108"
+               x2="14.923076923076923%"
+               y2="23"
+               stroke="black"
+               stroke-width="1"/>
          <line x1="10.951612903225806%"
                y1="108"
                x2="14.923076923076923%"
@@ -610,7 +616,7 @@
                y2="210"
                stroke="black"
                stroke-width="1"/>
-         <line x1="12.516129032258064%"
+         <line x1="14.080645161290324%"
                y1="123"
                x2="6.689655172413793%"
                y2="210"

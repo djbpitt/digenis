@@ -240,7 +240,7 @@
             <mag>ge</mag>
         </mapping>
         <mapping>
-            <max>m7</max>
+            <max>m8</max>
             <mag>gb</mag>
         </mapping>
         <mapping>
@@ -293,6 +293,10 @@
         <mapping>
             <max>m4</max>
             <cal>c12</cal>
+        </mapping>
+        <mapping>
+            <max>m5</max>
+            <cal>c1</cal>
         </mapping>
         <mapping>
             <max>m6</max>
