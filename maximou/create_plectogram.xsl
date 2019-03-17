@@ -1,45 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:djb="http://www.obdurodon.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="#all" xmlns="http://www.w3.org/2000/svg" version="2.0">
-    <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
-    <xsl:key name="mappingByChild" match="mapping" use="*"/>
+    exclude-result-prefixes="#all" xmlns="http://www.w3.org/2000/svg" version="3.0">
+    <!-- 
+        create_plectogram.xsl
+        Description: creates two plectograms for Maximou chapter, Abduction/Emperor and Alexander/Greek
+        Input: harmony.xml 
+        Output: no stdout; two plectograms are created as result documents
+    -->
+
+    <!-- separate keys for the two plectograms -->
+    <xsl:key name="mappingsAbdEmp" match="pair[@n = ('ma', 'me')]/mapping" use="*"/>
+    <xsl:key name="mappingsCalGrk" match="pair[@n = ('mc', 'mg')]/mapping" use="*"/>
     <xsl:variable name="root" as="document-node()" select="/"/>
-    <!-- Run against harmony.xml -->
+
+    <!-- functions -->
     <xsl:function name="djb:associates" as="xs:string?">
-        <xsl:param name="ref"/>
+        <!--
+            Parameters
+                $keyName = 'mappingsAbdEmp' ~ 'mappingsCalGrk'
+                $keyRef = @id of plectogram node being plotted (without leading 'p'), e.g., 'e1'
+            Returns
+                White-space separated sequence of all associated @id values in the specified plectogramm (only)
+                Returns text and plectogram identifiers (e.g., 'e1' and 'pe1') even when the latter does not exist
+                Returns empty if there is no association
+            Note
+                Operates transitively, e.g., a click in Abd hits matches in Max and may both bounce back to Abd
+                    and flow through the Emp (and bounce back from there)
+        -->
+        <xsl:param name="keyName" as="xs:string"/>
+        <xsl:param name="keyRef" as="xs:string"/>
         <xsl:sequence
             select="
-                string-join(distinct-values(($ref,
-                for $i in distinct-values(key('mappingByChild', $ref, $root)/*)
-                return
-                    ($i, concat('p', $i)))), ' ')"
+                distinct-values(($keyRef, key($keyName, $keyRef, $root)/*))
+                ! (., concat('p', .))
+                => distinct-values()
+                => string-join(' ')"
         />
     </xsl:function>
+
     <xsl:function name="djb:process_row" as="node()+">
+        <!--
+            Parameters
+                $refs = sequence of identifiers in plectogram row
+                $label = label of plectogram row
+            Returns
+                sequence of SVG <text> elements, beginning with label (which has no @id or @class)
+                    @id = identifier, with 'p' prepended
+                    @class = all associated identifiers in the plectogram (but not the other plectogram)
+                        with and without 'p' prepended (and, therefore, sometimes vacuously)
+            Note
+                key is identified from $label and passed into djb:associates()
+        -->
         <xsl:param name="refs"/>
         <xsl:param name="label"/>
         <xsl:variable name="ref_count" as="xs:integer" select="count($refs)"/>
+        <xsl:variable name="keyName" as="xs:string"
+            select="
+                if ($label = ('abd', 'emp')) then
+                    'mappingsAbdEmp'
+                else
+                    'mappingsCalGrk'"/>
         <text x="-10" y="0" font-weight="bold">
             <xsl:sequence select="$label"/>
         </text>
         <xsl:for-each select="$refs">
-            <!-- @class is all values paired for @ref in harmony.xml, with and without 'p' -->
-            <xsl:variable name="associates" as="xs:string*" select="djb:associates(.)"/>
+            <!-- @class is all values paired for @ref in just that plectogram, with and without 'p' -->
+            <xsl:variable name="associates" as="xs:string*" select="djb:associates($keyName, .)"/>
             <text id="{concat('p',.)}" class="{$associates}"
                 x="{position() div $ref_count * $xScale}%" y="0" text-anchor="middle">
                 <xsl:value-of select="substring(., 2)"/>
             </text>
         </xsl:for-each>
     </xsl:function>
+
+    <!--
+        five input sources, specified individually
+            abduction, maximou, emperor
+            alexander, maximou, maximouG
+        maximou is in both plectograms 
+    -->
     <xsl:variable name="input_abduction" as="document-node()" select="document('abduction.xml')"/>
     <xsl:variable name="input_maximou" as="document-node()" select="document('maximou.xml')"/>
     <xsl:variable name="input_emperor" as="document-node()" select="document('emperor.xml')"/>
     <xsl:variable name="input_alexander" as="document-node()" select="document('alexander.xml')"/>
     <xsl:variable name="input_maximouG" as="document-node()" select="document('maximouG.xml')"/>
+
     <xsl:variable name="xShift" as="xs:double" select="20"/>
     <xsl:variable name="xScale" as="xs:double" select="97"/>
+
     <xsl:template match="/">
+        <!--
+            For each plectogram:
+                create result document (SVG) with five inner groups
+                    three tiers, two sequences of lines
+        -->
         <xsl:result-document href="maximou_plectogram_ae.svg" method="xml" indent="yes"
             omit-xml-declaration="yes">
             <svg height="230px" width="100%">
@@ -66,11 +121,12 @@
                             <!-- x end is Max; y end is Abd -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
-                            <xsl:for-each select="key('mappingByChild', .)/abd">
+                            <xsl:for-each select="key('mappingsAbdEmp', .)/abd">
                                 <xsl:variable name="abdXPos" as="xs:double"
                                     select="index-of($abd_refs, .) div $abd_count * $xScale"/>
                                 <line x1="{$maxXPos}%" y1="108" x2="{$abdXPos}%" y2="23"
-                                    class="{djb:associates(.)}" stroke="black" stroke-width="1"/>
+                                    class="{djb:associates('mappingsAbdEmp', .)}" stroke="black"
+                                    stroke-width="1"/>
                             </xsl:for-each>
                         </xsl:for-each>
                     </g>
@@ -85,11 +141,12 @@
                             <!-- x end is Max; y end is Emp -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
-                            <xsl:for-each select="key('mappingByChild', .)/emp">
+                            <xsl:for-each select="key('mappingsAbdEmp', .)/emp">
                                 <xsl:variable name="empXPos" as="xs:double"
                                     select="index-of($emp_refs, .) div $emp_count * $xScale"/>
                                 <line x1="{$maxXPos}%" y1="123" x2="{$empXPos}%" y2="210"
-                                    class="{djb:associates(.)}" stroke="black" stroke-width="1"/>
+                                    class="{djb:associates('mappingsAbdEmp', .)}" stroke="black"
+                                    stroke-width="1"/>
                             </xsl:for-each>
                         </xsl:for-each>
                     </g>
@@ -122,7 +179,7 @@
                             <!-- x end is Max; y end is Alx -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
-                            <xsl:for-each select="key('mappingByChild', .)/cal">
+                            <xsl:for-each select="key('mappingsCalGrk', .)/cal">
                                 <xsl:variable name="calXPos" as="xs:double"
                                     select="index-of($cal_refs, .) div $cal_count * $xScale"/>
                                 <line x1="{$maxXPos}%" y1="108" x2="{$calXPos}%" y2="23"
@@ -141,7 +198,7 @@
                             <!-- x end is Max; y end is Mag -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
-                            <xsl:for-each select="key('mappingByChild', .)/mag">
+                            <xsl:for-each select="key('mappingsCalGrk', .)/mag">
                                 <xsl:variable name="magXPos" as="xs:double"
                                     select="index-of($mag_refs, .) div $mag_count * $xScale"/>
                                 <line x1="{$maxXPos}%" y1="123" x2="{$magXPos}%" y2="210"
