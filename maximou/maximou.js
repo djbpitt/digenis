@@ -71,9 +71,11 @@ function itemToggle() {
         lines[i].setAttribute('stroke', 'black');
     }
     // highlight inside plectogram
+    const activePlectogram = this.closest('div[id]');
+    console.log('Clicked on a node in ' + activePlectogram.id);
     const classes = this.getAttribute('class').split(' ');
     for (let i = 0, length = classes.length; i < length; i++) {
-        const highlights = document.getElementsByClassName(classes[i]);
+        const highlights = activePlectogram.getElementsByClassName(classes[i]);
         for (let j = 0, length = highlights.length; j < length; j++) {
             highlights[j].setAttribute('opacity', '1');
             highlights[j].setAttribute('fill', '#A00000');

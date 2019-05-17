@@ -25,7 +25,6 @@
             <max>m11</max>
             <emp>e8</emp>
             <emp>e16</emp>
-            <emp>e25</emp>
         </mapping>
         <mapping>
             <max>m12</max>
@@ -85,7 +84,6 @@
         <mapping>
             <max>m34</max>
             <emp>e42</emp>
-            <emp>e47</emp>
         </mapping>
         <mapping>
             <max>m39</max>
@@ -94,7 +92,6 @@
         <mapping>
             <max>m40</max>
             <emp>e44</emp>
-            <emp>e55</emp>
         </mapping>
         <mapping>
             <max>m53</max>
@@ -117,8 +114,7 @@
         <mapping>
             <max>m7</max>
             <abd>a21</abd>
-        </mapping>
-        <mapping>
+        </mapping>        <mapping>
             <max>m15</max>
             <abd>a1</abd>
         </mapping>
@@ -147,14 +143,9 @@
             <abd>a7</abd>
         </mapping>
         <mapping>
-            <max>m28</max>
-            <abd>a8</abd>
-        </mapping>
-        <mapping>
             <max>m29</max>
             <abd>a23</abd>
-        </mapping>
-        <mapping>
+        </mapping>        <mapping>
             <max>m34</max>
             <abd>a32</abd>
         </mapping>
@@ -190,7 +181,6 @@
         <mapping>
             <max>m43</max>
             <abd>a11</abd>
-            <abd>a13</abd>
             <abd>a23</abd>
         </mapping>
         <mapping>
@@ -204,7 +194,6 @@
         </mapping>
         <mapping>
             <max>m46</max>
-            <abd>a12</abd>
             <abd>a22</abd>
         </mapping>
         <mapping>
@@ -217,7 +206,6 @@
         </mapping>
         <mapping>
             <max>m49</max>
-            <abd>a12</abd>
             <abd>a22</abd>
         </mapping>
         <mapping>
@@ -238,7 +226,6 @@
         </mapping>
         <mapping>
             <max>m56</max>
-            <abd>a52</abd>
             <abd>a54</abd>
         </mapping>
         <mapping>
@@ -262,10 +249,6 @@
         <mapping>
             <max>m8</max>
             <mag>gb</mag>
-        </mapping>
-        <mapping>
-            <max>m19</max>
-            <mag>g20</mag>
         </mapping>
         <mapping>
             <max>m35</max>
