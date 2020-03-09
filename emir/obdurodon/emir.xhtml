@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Lay of the Emir</title>
+        <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/emir.css" />
+        <script type="text/javascript" src="js/emir.js">/**/</script>
+    </head>
+    <body>
+        <div id="controls">
+            <p>Menu</p>
+            <div>
+                <p id="checkboxes">
+                    <label><input type="checkbox" id="cb_xvii" checked="checked" /> Russian,
+                        c17</label>
+                    <label><input type="checkbox" id="cb_core" checked="checked" /> Greek,
+                        c12</label></p>
+                <hr />
+                <p id="radios">
+                    <label><input type="radio" id="en" name="lg" value="en" checked="checked"
+                         />English</label>
+                    <label><input type="radio" id="sl" name="lg" value="sl" />Slavic</label></p>
+                <hr />
+                <p><a href="emir_about.xhtml">About this site</a></p>
+            </div>
+        </div>
+        <h1><a class="logo" href="http://www.obdurodon.org">&lt;oo&gt;</a>→<span class="logo"
+                >&lt;da&gt;</span> Digenis Akritis: Lay of the Emir</h1>
+        <div id="plectogram">
+            <!--#include virtual="plectogram.svg" -->
+        </div>
+        <div id="texts">
+            <section id="xvii">
+                <h2>Epitome (Russian, c17)</h2>
+                <div><!--#include virtual="xvii.inc" --></div>
+            </section>
+            <section id="xiv">
+                <h2>Reconstruction (Balkan, c14)</h2>
+                <div><!--#include virtual="xiv.inc" --></div>
+            </section>
+            <section id="core">
+                <h2>Core (Greek, c12)</h2>
+                <div><!--#include virtual="core.inc" --></div>
+            </section>
+        </div>
+    </body>
+</html>

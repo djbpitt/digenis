@@ -1,0 +1,145 @@
+window.addEventListener('DOMContentLoaded', init, false);
+
+function init() {
+    // checkboxes toggle column visibility
+    var checkboxes = document.querySelectorAll('input');
+    for (var i = 0, length = checkboxes.length; i < length; i++) {
+        checkboxes[i].addEventListener('click', columnToggle, false);
+    }
+    // configuration menu responds to mouseover
+    var control = document.querySelectorAll('#controls')[0];
+    control.addEventListener('mouseover', controlToggle, true);
+    control.addEventListener('mouseout', controlToggle, true);
+    // divs scroll other columns on click and highlight hits
+    var divs = document.querySelectorAll('#texts div');
+    for (var i = 0, length = divs.length; i < length; i++) {
+        divs[i].addEventListener('click', scrollTo, false);
+    }
+}
+
+function controlToggle() {
+    // Show/hide for configuration menu
+    var labels = document.querySelectorAll('label');
+    for (i = 0, length = labels.length; i < length; i++) {
+        if (labels[i].style.display !== 'block') {
+            labels[i].style.display = 'block';
+        } else {
+            labels[i].style.display = 'none';
+        }
+    }
+}
+
+function columnToggle() {
+    // Show/hide for columns and plectogram rows
+    // this.checked will have the value after clicking
+    var trigger = this.id;
+    var target = trigger.slice(3);
+    // console.log('Value after clicking is ' + this.checked);
+    if (this.checked == true) {
+        document.getElementById(target).classList.remove('hide');
+        document.getElementById('svg_' + target).classList.remove('hide');
+        document.getElementById('svg_' + target + '_lines').classList.remove('hide');
+    } else {
+        document.getElementById(target).classList.add('hide');
+        document.getElementById('svg_' + target).classList.add('hide');
+        document.getElementById('svg_' + target + '_lines').classList.add('hide');
+    }
+    // adjust size and window for plectogram to fit visibility
+    var xvii_state = document.getElementById('svg_xvii').classList.contains('hide');
+    var core_state = document.getElementById('svg_core').classList.contains('hide');
+    if (xvii_state & core_state) {
+        // both hidden
+        document.getElementsByTagName('svg')[0].setAttribute('height', '30px');
+        document.getElementsByTagName('svg')[0].firstElementChild.setAttribute('transform', 'translate(0,-110)');
+        var columns = document.querySelectorAll('#texts > section');
+        for (var i = 0, length = columns.length; i < length; i++) {
+            columns[i].classList.remove('medium', 'short');
+            columns[i].classList.add('tall');
+        }
+    } else if (xvii_state) {
+        // xvii hidden; core visible
+        document.getElementsByTagName('svg')[0].setAttribute('height', '130px');
+        document.getElementsByTagName('svg')[0].firstElementChild.setAttribute('transform', 'translate(0,-110)');
+        var columns = document.querySelectorAll('#texts > section');
+        for (var i = 0, length = columns.length; i < length; i++) {
+            columns[i].classList.remove('tall', 'short');
+            columns[i].classList.add('medium');
+        }
+    } else if (core_state) {
+        // core hidden; xvii visible
+        document.getElementsByTagName('svg')[0].setAttribute('height', '130px');
+        document.getElementsByTagName('svg')[0].firstElementChild.setAttribute('transform', 'translate(0,-10)');
+        var columns = document.querySelectorAll('#texts > section');
+        for (var i = 0, length = columns.length; i < length; i++) {
+            columns[i].classList.remove('tall', 'short');
+            columns[i].classList.add('medium');
+        }
+    } else {
+        // both visible
+        document.getElementsByTagName('svg')[0].setAttribute('height', '230px');
+        document.getElementsByTagName('svg')[0].firstElementChild.setAttribute('transform', 'translate(0,-10)');
+        var columns = document.querySelectorAll('#texts > section');
+        for (var i = 0, length = columns.length; i < length; i++) {
+            columns[i].classList.remove('tall', 'medium');
+            columns[i].classList.add('short');
+        }
+    }
+}
+function scrollTo() {
+    // Scroll columns (except the one clicked) and highlight hits
+    var sigla, lines, circles;
+    var idParts = this.id.split('_');
+    var hitColumnId = idParts[0];
+    var idTarget = idParts[1];
+    var columns = document.querySelectorAll('#texts > section');
+    // First remove highlighting of previously selected units
+    var anchors = document.querySelectorAll('#texts > section > div');
+    for (var i = 0, length = anchors.length; i < length; i++) {
+        anchors[i].classList.remove('selected');
+    }
+    sigla = document.getElementsByTagName('text');
+    for (var i = 0, length = sigla.length; i < length; i++) {
+        sigla[i].setAttribute('fill', 'black');
+        sigla[i].setAttribute('stroke', 'black');
+        sigla[i].setAttribute('opacity', '.2');
+    }
+    lines = document.getElementsByTagName('line');
+    for (var i = 0, length = lines.length; i < length; i++) {
+        lines[i].setAttribute('fill', 'black');
+        lines[i].setAttribute('stroke', 'black');
+        lines[i].setAttribute('opacity', '.2');
+    }
+    circles = document.getElementsByTagName('circle');
+    for (var i = 0, length = circles.length; i < length; i++) {
+        circles[i].setAttribute('fill', 'black');
+        circles[i].setAttribute('opacity', '.2');
+    }
+    
+    // Scroll each column and highlight the hits
+    for (var i = 0, length = columns.length; i < length; i++) {
+        currentColumnId = columns[i].id;
+        // ... but don't scroll the one that was clicked
+        if (currentColumnId !== hitColumnId) {
+            if (currentColumnId == 'core') {
+                idTarget = idTarget.replace(/bis.*/, '');
+            }
+            window.location.replace(window.location.href.replace(/#.*/, '') + '#' + currentColumnId + '_' + idTarget);
+        }
+        // Highlight newly selected units
+        if (document.getElementById(currentColumnId + '_' + idTarget) !== null) {
+            document.getElementById(currentColumnId + '_' + idTarget).classList.add('selected');
+        }
+    }
+    sigla = document.getElementsByClassName(idTarget);
+    for (var i = 0, length = sigla.length; i < length; i++) {
+        sigla[i].setAttribute('fill', '#A00000')
+        sigla[i].setAttribute('stroke', '#A00000')
+        sigla[i].setAttribute('opacity', '1')
+    }
+    var siglabis = document.getElementsByClassName(idTarget + 'bis');
+    for (var i = 0, length = siglabis.length; i < length; i++) {
+        siglabis[i].setAttribute('fill', '#A00000')
+        siglabis[i].setAttribute('stroke', '#A00000')
+        siglabis[i].setAttribute('opacity', '1')
+    }
+}

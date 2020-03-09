@@ -1,0 +1,19 @@
+start = root
+root = element root { title, p, anchor+ }
+title = element title { type, text }
+type = attribute type { text }
+anchor = element anchor { ref, p+ }
+pageref = attribute pageref { text }
+ref = attribute ref { text }
+# pLike is mixed content in <p> and <q>
+pLike = mixed { (page | em | q | change | del | add)* }
+p = element p { pageref, pLike }
+page = element page { text }
+em = element em { text }
+# change (editorial)
+# del (of epitomizer's linking passages after movement)
+change = element change { orig, text }
+orig = attribute orig { text }
+del = element del { text }
+add = element add { text }
+q = element q { pLike }

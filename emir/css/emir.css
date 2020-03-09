@@ -1,0 +1,36 @@
+h1{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#controls{
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+    border: 1px solid black;
+    margin: 0 0.5em 0 0;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+}
+#controls > p{
+    margin: 0;
+    border: 0;
+    color: blue;
+}
+label{
+    display: none;
+}
+#texts{
+    display: flex;
+    justify-content: space-between;
+}
+#texts > section{
+    padding: 1em;
+    margin: 1em 0.5em;
+    border: 1px solid black;
+}
+.logo
+{
+    color: #A00000;
+}
