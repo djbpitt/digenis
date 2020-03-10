@@ -115,10 +115,7 @@
       <p pageref="173v">At that moment the brothers reached the tent of Amir the tsar and began to
          shout, calling out Amir the tsar;</p>
    </anchor>
-   <anchor ref="ibis">
-      <p pageref="174">and they charged the tent of Amir the tsar and lifted the tent on their
-            lances<del>, calling out Amir the tsar</del>.</p>
-   </anchor>
+
    <anchor ref="j">
       <p pageref="174">But Amir the tsar said to them: <q>My dear <page>174v</page> brothers, get
             you gone from this tent and cast lots among you to see which one of you the lot calls to
@@ -239,24 +236,27 @@
       </p>
    </anchor>
    <anchor ref="23">
+      <p pageref="174">And they charged the tent of Amir the tsar and lifted the tent on their
+            lances<del>, calling out Amir the tsar</del>.</p>
+   </anchor>
+   <anchor ref="23bis">
       <p pageref="175v">The brothers said: <q>Brother, Amir the tsar, we have the power to slay you
             and we have the power to let you go. <del>How can we give our sister to a slave?</del>
             But now tell us, where is our sister?</q>
       </p>
    </anchor>
    <anchor ref="25">
-      <p pageref="175"><add>And Amir the tsar said to them: </add><q>For love of that maiden,</q>
+      <p pageref="175"><add>And Amir the tsar said to them: </add><q>For love of that maiden, this
+            day I shall receive holy baptism.</q>
       </p>
    </anchor>
+
    <anchor ref="26">
       <p pageref="175">
          <q><add>and </add>that I may be your <page>175v</page> brother-in-law,</q>
       </p>
    </anchor>
-   <anchor ref="26bis">
-      <p pageref="175">
-         <q>this day I shall receive holy baptism.</q></p>
-   </anchor>
+
    <anchor ref="27">
       <p pageref="175v">
          <q>And wherever your sister walks, that place is strewn with golden coverlets, and her face
@@ -296,7 +296,12 @@
       </p>
       <p pageref="176v">And the brothers said to Amir the tsar: <q>If you would be our
             brother-in-law, truly renounce your faith for love of this maiden, receive holy baptism,
-            and go with us to the Greek land with your beloved maiden.</q>
+            and go with us to the Greek land with your beloved maiden. </q>
+      </p>
+
+      <p pageref="176v">
+         <change orig="But">and</change> Amir the tsar said: <q>Dear brothers, I shall not return
+            shamefully, lest the Greeks say, ’they bring their brother-in-law like a captive.’ </q>
       </p>
    </anchor>
    <anchor ref="31">
@@ -331,13 +336,17 @@
       <p pageref="178">And taking the patriarch of the city with all the clergy they went to the
          river Euphrates and built <page>178v</page> a font (and) a host of people came forth from
          the city. At that time Amir the tsar came to the river Euphrates, and when the brothers saw
-         Amir the tsar harassed (by the people), taking Amir the tsar they quickly plunged him in
-         godly baptism. And the patriarch himself baptized him: his godfather is the patriarch
-         himself of the city. And they led him to the house of their mother and held a great
-         wedding, very glorious, for three months. And then Amir the tsar built his own court and
-         chambers and began to live with his wife.</p>
+         Amir the tsar harassed (by the people),</p>
    </anchor>
    <anchor ref="33bis">
+
+      <p pageref="178v">taking Amir the tsar they quickly plunged him in godly baptism. And the
+         patriarch himself baptized him: his godfather is the patriarch himself of the city. And
+         they led him to the house of their mother and held a great wedding, very glorious, for
+         three months. And then Amir the tsar built his own court and chambers and began to live
+         with his wife.</p>
+   </anchor>
+   <anchor ref="33ter">
       <p pageref="179v">And then the scribes and Pharisees began to foretell the birth of
          Devgenij.</p>
       <p pageref="179v">And <del>then</del> the queen of Amir the tsar took fruit of male sex in her
@@ -427,14 +436,21 @@
    <anchor ref="52">
       <p pageref="179v">But he swore by the Living God,</p>
    </anchor>
+   <anchor ref="57">
+      <p pageref="178v">readying his [martial] equipment.</p>
+   </anchor>
    <anchor ref="63">
-      <p pageref="176v"><change orig="But">and</change> Amir the tsar said: <q>Dear brothers, I
-            shall not <change orig="surrender">return</change> shamefully, lest the Greeks say,
-            ’they <change orig="bring">meet</change> their brother-in-law like a captive.’ I shall
-            be called your brother-in-law; in great honor shall I come. I wish first to go and
-            collect camels from all the <add>Saracen </add>land and load riches upon them. And I
-            wish to assemble strong warriors, and whoever wishes to accept holy baptism <del>with
-               me</del>.</q>
+      <p pageref="178v"> Looking at them, the emir said: <q>I will deceive the Arabs.</q></p>
+   </anchor>
+   <anchor ref="63bis">
+      <p pageref="176v"><q>I shall be called your brother-in-law; in great honor shall I come. I
+            wish first to go and collect camels from all the <add>Saracen </add>land and load riches
+            upon them. And I wish to assemble strong warriors, and whoever wishes to accept holy
+            baptism <del>with me</del>,</q>
+      </p>
+   </anchor>
+   <anchor ref="63ter">
+      <p pageref="177v"><q>let him come with me.</q>
       </p>
    </anchor>
    <anchor ref="64=[75]">
