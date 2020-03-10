@@ -1,6 +1,7 @@
 <?xml-model href="maximou_harmony.rnc" type="application/relax-ng-compact-syntax"?>
 <mappings>
     <pair n="me">
+        <!-- maximou ~ emperor -->
         <mapping>
             <max>m1</max>
             <emp>e1</emp>
@@ -106,6 +107,7 @@
         </mapping>
     </pair>
     <pair n="ma">
+        <!-- maximou ~ abduction -->
         <mapping>
             <max>m3</max>
             <abd>a13</abd>
@@ -255,6 +257,7 @@
         </mapping>
     </pair>
     <pair n="mg">
+        <!-- maximou ~ maximouG -->
         <mapping>
             <max>mx</max>
             <mag>ge</mag>
@@ -314,6 +317,7 @@
         </mapping>
     </pair>
     <pair n="mc">
+        <!-- maximou ~ alexander (Calisthenis) -->
         <mapping>
             <max>m4</max>
             <cal>c12</cal>
