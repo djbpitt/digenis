@@ -2,32 +2,70 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:djb="http://www.obdurodon.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="#all" xmlns="http://www.w3.org/2000/svg" version="3.0">
-    <!-- 
-        create_plectogram.xsl
-        Description: creates two plectograms for Maximou chapter, Abduction/Emperor and Alexander/Greek
-        Input: harmony.xml 
-        Output: no stdout; two plectograms are created as result documents
-    -->
+    <!-- ================================================================ -->
+    <!-- Title: create_plectogram.xsl                                     -->
+    <!-- Author: djbpitt@gmail.com                                        -->
+    <!-- License: CC-BY                                                   -->
+    <!--                                                                  -->
+    <!-- Synopsis: Create two plectograms for Maximou chapter,            -->
+    <!--   Abduction/Emperor and Alexander/Greek                          -->
+    <!--   to actionable HTML links                                       -->
+    <!--                                                                  -->
+    <!-- Input: harmony.xml                                               -->
+    <!-- Output: No stdout; two plectograms as result documents           -->
+    <!--   maximou_plectogram_ae.svg and maximou_plectogram_gc.svg        -->
+    <!--                                                                  -->
+    <!-- Run with: saxon -s:harmony.xml -xsl:create_plectogram.xsl        -->
+    <!-- ================================================================ -->
+    <xsl:output method="xml" indent="yes"/>
 
-    <!-- separate keys for the two plectograms -->
+    <!-- ================================================================ -->
+    <!-- Stylesheet variables                                             -->
+    <!--                                                                  -->
+    <!-- One per input xml document                                       -->
+    <!-- Document root                                                    -->
+    <!-- $xShift and $yShift                                              -->
+    <!-- ================================================================ -->
+    <xsl:variable name="input_abduction" as="document-node()" select="document('abduction.xml')"/>
+    <xsl:variable name="input_maximou" as="document-node()" select="document('maximou.xml')"/>
+    <xsl:variable name="input_emperor" as="document-node()" select="document('emperor.xml')"/>
+    <xsl:variable name="input_alexander" as="document-node()" select="document('alexander.xml')"/>
+    <xsl:variable name="input_maximouG" as="document-node()" select="document('maximouG.xml')"/>
+    <xsl:variable name="root" as="document-node()" select="/"/>
+    <xsl:variable name="xShift" as="xs:double" select="20"/>
+    <xsl:variable name="xScale" as="xs:double" select="97"/>
+
+    <!-- ================================================================ -->
+    <!-- Keys (one per plectogram)                                        -->
+    <!-- ================================================================ -->
     <xsl:key name="mappingsAbdEmp" match="pair[@n = ('ma', 'me')]/mapping" use="*"/>
     <xsl:key name="mappingsCalGrk" match="pair[@n = ('mc', 'mg')]/mapping" use="*"/>
-    <xsl:variable name="root" as="document-node()" select="/"/>
 
-    <!-- functions -->
+    <!-- ================================================================ -->
+    <!-- Functions                                                        -->
+    <!-- ================================================================ -->
     <xsl:function name="djb:associates" as="xs:string?">
-        <!--
-            Parameters
-                $keyName = 'mappingsAbdEmp' ~ 'mappingsCalGrk'
-                $keyRef = @id of plectogram node being plotted (without leading 'p'), e.g., 'e1'
-            Returns
-                White-space separated sequence of all associated @id values in the specified plectogramm (only)
-                Returns text and plectogram identifiers (e.g., 'e1' and 'pe1') even when the latter does not exist
-                Returns empty if there is no association
-            Note
-                Operates transitively, e.g., a click in Abd hits matches in Max and may both bounce back to Abd
-                    and flow through the Emp (and bounce back from there)
-        -->
+        <!-- ============================================================ -->
+        <!-- djb:associates                                               -->
+        <!-- Synopsis: Finds associated @id valaues to animate plectogram -->
+        <!--                                                              -->
+        <!-- Parameters                                                   -->
+        <!--   keyName as xs:string: 'mappingsAbdEmp' ~ 'mappingsCalGrk'  -->
+        <!--   keyRef as xs:string:  @id of plectogram node being plotted -->
+        <!--     (without leading 'p'), e.g., 'e1'                        -->
+        <!--                                                              -->
+        <!-- Returns                                                      -->
+        <!--   xs:string with one of the following:                       -->
+        <!--     White-space separated sequence of all associated @id     -->
+        <!--       values in the specified plectogramm (only)             -->
+        <!--     Text and plectogram identifiers (e.g., 'e1' and 'pe1')   -->
+        <!--       even when the latter does not exist                    -->
+        <!--     Empty if no association                                  -->
+        <!--                                                              -->
+        <!--  Note: Operates transitively, e.g., a click in Abd hits      -->
+        <!--    matches in Max and may both bounce back to Abd and flow   -->
+        <!--    through the Emp (and bounce back from there)              -->
+        <!-- ============================================================ -->
         <xsl:param name="keyName" as="xs:string"/>
         <xsl:param name="keyRef" as="xs:string"/>
         <xsl:sequence
@@ -38,22 +76,31 @@
                 => string-join(' ')"
         />
     </xsl:function>
+    <!-- ================================================================ -->
 
+    <!-- ================================================================ -->
     <xsl:function name="djb:process_row" as="node()+">
-        <!--
-            Parameters
-                $refs = sequence of identifiers in plectogram row
-                $label = label of plectogram row
-            Returns
-                sequence of SVG <text> elements, beginning with label (which has no @id or @class)
-                    @id = identifier, with 'p' prepended
-                    @class = all associated identifiers in the plectogram (but not the other plectogram)
-                        with and without 'p' prepended (and, therefore, sometimes vacuously)
-            Note
-                key is identified from $label and passed into djb:associates()
-        -->
-        <xsl:param name="refs"/>
-        <xsl:param name="label"/>
+        <!-- ============================================================ -->
+        <!-- djb:process_row                                              -->
+        <!-- Synopsis: Construct row of svg <text> elements               -->
+        <!--                                                              -->
+        <!--  Dependencies                                                -->
+        <!--    djb:associates()                                          -->
+        <!--                                                              -->
+        <!-- Parameters                                                   -->
+        <!--   refs as xs:string*: all references for a text label        -->
+        <!--   label as xs:string: label for plectogram row               -->
+        <!--                                                              -->
+        <!-- Returns                                                      -->
+        <!--   sequence of svg <text> elements, beginning with label      -->
+        <!--     (which has no @id or @class); others have:               -->
+        <!--       @id: identifier, with 'p' prepended                    -->
+        <!--       @class: all associated identifiers in the plectogram   -->
+        <!--         (but not the other plectogram) with and without 'p'  -->
+        <!--         prepended (and, therefore, sometimes vacuously)      -->
+        <!-- ============================================================ -->
+        <xsl:param name="refs" as="xs:string*"/>
+        <xsl:param name="label" as="xs:string"/>
         <xsl:variable name="ref_count" as="xs:integer" select="count($refs)"/>
         <xsl:variable name="keyName" as="xs:string"
             select="
@@ -65,7 +112,10 @@
             <xsl:sequence select="$label"/>
         </text>
         <xsl:for-each select="$refs">
-            <!-- @class is all values paired for @ref in just that plectogram, with and without 'p' -->
+            <!-- ======================================================== -->
+            <!-- @class is all values paired for @ref in just that        -->
+            <!--   plectogram, with and without 'p'                       -->
+            <!-- ======================================================== -->
             <xsl:variable name="associates" as="xs:string*" select="djb:associates($keyName, .)"/>
             <text id="{concat('p',.)}" class="{$associates}"
                 x="{position() div $ref_count * $xScale}%" y="0" text-anchor="middle">
@@ -73,28 +123,16 @@
             </text>
         </xsl:for-each>
     </xsl:function>
+    <!-- ================================================================ -->
 
-    <!--
-        five input sources, specified individually
-            abduction, maximou, emperor
-            alexander, maximou, maximouG
-        maximou is in both plectograms 
-    -->
-    <xsl:variable name="input_abduction" as="document-node()" select="document('abduction.xml')"/>
-    <xsl:variable name="input_maximou" as="document-node()" select="document('maximou.xml')"/>
-    <xsl:variable name="input_emperor" as="document-node()" select="document('emperor.xml')"/>
-    <xsl:variable name="input_alexander" as="document-node()" select="document('alexander.xml')"/>
-    <xsl:variable name="input_maximouG" as="document-node()" select="document('maximouG.xml')"/>
-
-    <xsl:variable name="xShift" as="xs:double" select="20"/>
-    <xsl:variable name="xScale" as="xs:double" select="97"/>
-
+    <!-- ================================================================ -->
+    <!-- Main                                                             -->
+    <!--                                                                  -->
+    <!-- For each plectogram create svg result document with five inner   -->
+    <!--   groups, one for each of three tiers and one for each of two    -->
+    <!--   sequences of lines                                             -->
+    <!-- ================================================================ -->
     <xsl:template match="/">
-        <!--
-            For each plectogram:
-                create result document (SVG) with five inner groups
-                    three tiers, two sequences of lines
-        -->
         <xsl:result-document href="maximou_plectogram_ae.svg" method="xml" indent="yes"
             omit-xml-declaration="yes">
             <svg height="230px" width="100%">
@@ -110,7 +148,9 @@
                         <xsl:sequence select="djb:process_row($input_emperor//anchor/@ref, 'emp')"/>
                     </g>
                     <g id="lines_maximou-abduction" transform="translate({$xShift},0)">
-                        <!-- $max_refs is labels in m plectogram row -->
+                        <!-- ============================================ -->
+                        <!-- $max_refs is labels in m plectogram row      -->
+                        <!-- ============================================ -->
                         <xsl:variable name="max_refs" as="xs:string+"
                             select="$input_maximou//anchor/@ref"/>
                         <xsl:variable name="max_count" as="xs:integer" select="count($max_refs)"/>
@@ -118,7 +158,9 @@
                             select="$input_abduction//anchor/@ref"/>
                         <xsl:variable name="abd_count" as="xs:integer" select="count($abd_refs)"/>
                         <xsl:for-each select="//pair[@n = 'ma']//max">
-                            <!-- x end is Max; y end is Abd -->
+                            <!-- ============================================ -->
+                            <!-- x end is Max; y end is Abd                   -->
+                            <!-- ============================================ -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
                             <xsl:for-each select="key('mappingsAbdEmp', .)/abd">
@@ -138,7 +180,9 @@
                             select="$input_emperor//anchor/@ref"/>
                         <xsl:variable name="emp_count" as="xs:integer" select="count($emp_refs)"/>
                         <xsl:for-each select="//pair[@n = 'me']//max">
-                            <!-- x end is Max; y end is Emp -->
+                            <!-- ============================================ -->
+                            <!-- x end is Max; y end is Emp                   -->
+                            <!-- ============================================ -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
                             <xsl:for-each select="key('mappingsAbdEmp', .)/emp">
@@ -176,7 +220,9 @@
                             select="$input_alexander//anchor/@ref"/>
                         <xsl:variable name="cal_count" as="xs:integer" select="count($cal_refs)"/>
                         <xsl:for-each select="//pair[@n = 'mc']//max">
-                            <!-- x end is Max; y end is Alx -->
+                            <!-- ============================================ -->
+                            <!-- x end is Max; y end is Alx                   -->
+                            <!-- ============================================ -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
                             <xsl:for-each select="key('mappingsCalGrk', .)/cal">
@@ -195,7 +241,9 @@
                             select="$input_maximouG//anchor/@ref"/>
                         <xsl:variable name="mag_count" as="xs:integer" select="count($mag_refs)"/>
                         <xsl:for-each select="//pair[@n = 'mg']//max">
-                            <!-- x end is Max; y end is Mag -->
+                            <!-- ============================================ -->
+                            <!-- x end is Max; y end is Mag                   -->
+                            <!-- ============================================ -->
                             <xsl:variable name="maxXPos" as="xs:double"
                                 select="index-of($max_refs, .) div $max_count * $xScale"/>
                             <xsl:for-each select="key('mappingsCalGrk', .)/mag">
@@ -209,6 +257,5 @@
                 </g>
             </svg>
         </xsl:result-document>
-
     </xsl:template>
 </xsl:stylesheet>
