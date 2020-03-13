@@ -27,7 +27,7 @@
         <!-- Synopsis: Construct pointer for linking                      -->
         <!--                                                              -->
         <!-- Parameters                                                   -->
-        <!--   input as attribute(): contains string basis for pointer    -->
+        <!--   input as attribute()*: contains string basis for pointer   -->
         <!--                                                              -->
         <!-- Returns                                                      -->
         <!--   xs:string with semicolon-delimited pointers strings .      -->
