@@ -1,7 +1,5 @@
 
    <p>
-   <cite>
-      </cite>
    <span class="page">[Tit 183v] </span>
    <cite>Of the Marriage of Devgenij and the Abduction of Stratigovna</cite>
 </p>

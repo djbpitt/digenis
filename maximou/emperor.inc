@@ -1,7 +1,5 @@
 
    <p>
-   <cite>
-      </cite>
    <span class="page">[16r] </span>
    <cite>The Tale of How Devgenij Defeated Tsar Vasilij</cite>
 </p>
@@ -323,8 +321,8 @@
 <div id="e47">
    <p>
       <span class="anchor_label">(47) </span>
-      <span class="page">[18v] </span>he mounted it and tore off and soon caught up to tsar Vasilij at the walls of his
-         city,</p>
+      <span class="page">[18v] </span>he mounted it and tore off and soon caught up to tsar Vasilij at the walls of
+         his city,</p>
 </div>
 <div id="e48">
    <p>

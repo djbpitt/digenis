@@ -9,13 +9,14 @@
     <!--                                                                  -->
     <!-- Synopsis: Convert Maximou XML files to HTML .inc files for SSI   -->
     <!--   inclusion into main Maximou page. Converts anchor references   -->
-    <!--   to actionable HTML links                                       -->
+    <!--   to attribute hooks for js                                      -->
     <!--                                                                  -->
     <!-- Run with: saxon -x:xxx.xml -xsl:xml-to-xhtml.xsl -o:xxx.inc      -->
     <!--   replacing "xxx" with abduction, alexander, emperor, maximou,   -->
     <!--   maximouG                                                       -->
     <!-- ================================================================ -->
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
+    <xsl:strip-space elements="title"/>
 
     <!-- ================================================================ -->
     <!-- Functions                                                        -->
@@ -30,11 +31,12 @@
         <!--                                                              -->
         <!-- Returns                                                      -->
         <!--   xs:string with semicolon-delimited pointers strings .      -->
+        <!--                                                              -->
+        <!-- Notes                                                        -->
+        <!--   @E and @G should have the letter prepended to the number;  -->
+        <!--   @c should drop the letter                                  -->
         <!-- ============================================================ -->
         <xsl:param name="input" as="attribute()*"/>
-        <!--
-            @E and @G should have the letter prepended to the number; @c should drop the letter
-        -->
         <xsl:sequence
             select="
                 string-join(
@@ -56,19 +58,19 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    
+
     <xsl:template match="title/text()">
         <cite>
             <xsl:value-of select="."/>
         </cite>
     </xsl:template>
-    
+
     <xsl:template match="anchor">
         <div id="{@ref}">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="section_title">
         <p class="section_title">
             <xsl:apply-templates/>
@@ -81,7 +83,7 @@
             </xsl:if>
         </p>
     </xsl:template>
-    
+
     <xsl:template match="anchor/p">
         <p>
             <span class="anchor_label">
@@ -106,7 +108,7 @@
             </xsl:if>
         </p>
     </xsl:template>
-    
+
     <xsl:template match="page">
         <span class="page">
             <xsl:text>[</xsl:text>
@@ -114,7 +116,7 @@
             <xsl:text>] </xsl:text>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="g"/>
     <!--<xsl:template match="g">
         <strong>[Grottaferrata text will be inserted here]</strong>

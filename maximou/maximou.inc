@@ -1,7 +1,5 @@
 
    <p>
-   <cite>
-      </cite>
    <span class="page">[181v] </span>
    <cite>An Account of the Bravery of Devgenij: How Filipap and the Maiden Maksimijana
       Sent a Missive</cite>
