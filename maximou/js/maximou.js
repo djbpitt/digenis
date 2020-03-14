@@ -115,6 +115,7 @@ function itemToggle() {
             highlights[j].setAttribute('fill', '#A00000');
             highlights[j].setAttribute('stroke', '#A00000');
             // text blocks
+            console.log(classes[i]);
             document.getElementById(classes[i]).classList.remove('hide');
             document.getElementById(classes[i]).classList.add('selected');
         }
