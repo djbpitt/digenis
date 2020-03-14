@@ -1,4 +1,5 @@
 window.addEventListener('DOMContentLoaded', init, false);
+
 function init() {
     // configuration menu responds to mouseover
     const control = document.getElementById('controls');
@@ -14,7 +15,13 @@ function init() {
     for (; i < length; i++) {
         texts[i].addEventListener('click', itemToggle, false);
     }
+    // Text headings reset visibility and scrolling of texts
+    const headings = document.querySelectorAll('h2');
+    for (let i = 0, length = headings.length; i < length; i++) {
+        headings[i].addEventListener('click', showText, false);
+    }
 }
+
 function controlToggle() {
     // Show/hide for configuration menu
     const controls = document.querySelector('#controls > div');
@@ -24,6 +31,7 @@ function controlToggle() {
         controls.style.display = 'none';
     }
 }
+
 function plectogramToggle() {
     // Swap ae ~ gc plectogram and texts; value will be "ae" (Slavic) or "gc" (Greek)
     // First plectograms
@@ -56,6 +64,19 @@ function plectogramToggle() {
         }
     }
 }
+
+function showText() {
+    const all_texts = document.querySelectorAll('#texts > section > div > div');
+    const all_ps = document.querySelectorAll('#texts > section > div > p');
+    for (let i = 0, length = all_texts.length; i < length; i++) {
+        all_texts[i].classList.remove('selected', 'hide');
+    }
+    const headings = document.querySelectorAll('h2');
+    for (let i = 0, length = headings.length; i < length; i++) {
+        headings[i].scrollIntoView()
+    }
+}
+
 function itemToggle() {
     // grey out all text and line elements in plectogram
     const texts = document.querySelectorAll('g > text[id]');
@@ -70,43 +91,32 @@ function itemToggle() {
         lines[i].setAttribute('fill', 'black');
         lines[i].setAttribute('stroke', 'black');
     }
-    // highlight inside plectogram
+    // hide and remove highlighting from all text
+    const all_texts = document.querySelectorAll('#texts > section > div > div');
+    const all_ps = document.querySelectorAll('#texts > section > div > p');
+    for (let i = 0, length = all_texts.length; i < length; i++) {
+        all_texts[i].classList.remove('selected');
+        all_texts[i].classList.add('hide');
+    }
+    for (let i = 0, length = all_ps.length; i < length; i++) {
+        all_ps[i].classList.remove('selected');
+        all_ps[i].classList.add('hide');
+    }
+    // highlight inside plectogram and texts
     const activePlectogram = this.closest('div[id]');
     console.log('Clicked on a node in ' + activePlectogram.id);
     const classes = this.getAttribute('class').split(' ');
+    console.log('classes are: ' + classes);
+    // highlight svg; show and highlight texts
     for (let i = 0, length = classes.length; i < length; i++) {
         const highlights = activePlectogram.getElementsByClassName(classes[i]);
         for (let j = 0, length = highlights.length; j < length; j++) {
             highlights[j].setAttribute('opacity', '1');
             highlights[j].setAttribute('fill', '#A00000');
             highlights[j].setAttribute('stroke', '#A00000');
+            // text blocks
+            document.getElementById(classes[i]).classList.remove('hide');
+            document.getElementById(classes[i]).classList.add('selected');
         }
     }
-    // highlight inside texts
-    console.log(this.id);
-    console.log(this.getAttribute('class'));
 }
-
-
-/*function process_harmony() {
-// https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseXML
-// Load harmony.xml to assign event listeners and behaviors
-var xhr = new XMLHttpRequest();
-xhr.open('GET', '../harmony.xml', true);
-
-// If specified, responseType must be empty string or "document"
-xhr.responseType = 'document';
-
-// overrideMimeType() can be used to force the response to be parsed as XML
-xhr.overrideMimeType('text/xml');
-
-xhr.onload = function () {
-if (xhr.readyState === xhr.DONE) {
-if (xhr.status === 200) {
-// console.log(xhr.responseXML);
-}
-}
-};
-
-xhr.send(null);
-}*/
