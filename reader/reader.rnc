@@ -1,0 +1,18 @@
+start = section
+section = element section { title, body}
+title = element title { w+ }
+body = element body { p+ }
+p = element p { s+ }
+s = element s { w+ }
+w = element w { pldr, rec, note? }
+pldr = element pldr { text }
+rec = element rec { text }
+note = element note { text }
+principles = element principles { item+ }
+item =
+    element item {
+        hgl?,
+        mixed { os* }
+    }
+os = element os { text }
+hgl = attribute hgl { text }

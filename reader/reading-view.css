@@ -1,0 +1,53 @@
+/* https://www.princexml.com/forum/topic/1341/how-do-i-number-lines-of-a-paragraph */
+body {
+    display: flex;
+    flex-direction: column;
+}
+main {
+    display: flex;
+    flex-direction: row;
+}
+h1,
+div.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    overflow: hidden;
+    margin-left: 60px;
+}
+div.labels {
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+    left: -40px;
+    width: 30px;
+    text-align: right;
+    color: red;
+}
+span.rec,
+span.pldr,
+span.n {
+    padding: 0.3em;
+}
+div.w {
+    display: flex;
+    flex-direction: column;
+}
+span.rec {
+    font-family: "RomanCyrillic Std";
+    margin-bottom: 0.5em;
+}
+span.pldr,
+.os {
+    font-family: "Bukyvede";
+    font-size: 110%;
+}
+span.n {
+    text-align: center;
+    border-top: lightgray 1px solid;
+    color: gray;
+}
+div.diff {
+    background-color: lightblue;
+}
