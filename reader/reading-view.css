@@ -46,6 +46,7 @@ body {
 main {
     position: relative;
     overflow: hidden;
+    padding-right: 3em;
 }
 div.p {
     display: flex;
@@ -70,6 +71,7 @@ span.pldr,
 .os {
     font-family: "bukyvederegular", "Bukyvede";
     font-size: 110%;
+    letter-spacing: 0.05em;
 }
 div.label_group > span {
     font-family: serif;
