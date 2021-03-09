@@ -11,22 +11,35 @@
                 <title>Sample Digenis reading file</title>
                 <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css"/>
                 <link rel="stylesheet" type="text/css" href="reading-view.css"/>
+                <script type="text/javascript" src="reader.js"/>
             </head>
             <body>
-                <xsl:apply-templates select="title, principles"/>
-                <main>
-                    <xsl:apply-templates/>
-                </main>
-                <div id="labels">
-                    <xsl:for-each select="1 to 100"><br/>Ms<br/>Rec<br/></xsl:for-each>
-                </div>
+                <xsl:apply-templates/>
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="body">
+        <main>
+            <xsl:apply-templates/>
+            <div id="labels">
+                <xsl:for-each select="1 to 100">
+                    <div class="label_group">
+                        <span class="n">&#x00a0;</span>
+                        <span class="pldr">Ms</span>
+                        <span class="rec">Rec</span>
+                    </div>
+                </xsl:for-each>
+            </div>
+        </main>
+        <hr/>
+        <footer>Reconstruction and annotations by Robert Romanchuk and David J. Birnbaum.</footer>
+    </xsl:template>
     <xsl:template match="title">
-        <h1>
-            <xsl:value-of select="string-join(descendant::pldr, ' ')"/>
+        <h1 class="os">
+            <xsl:apply-templates/>
         </h1>
+        <p><span class="note">Pink</span> = mouse over for annotation; <span class="diff"
+                >blue</span> = reconstruction differs from manuscript</p>
     </xsl:template>
     <xsl:template match="p">
         <div class="p">
@@ -36,8 +49,8 @@
     <xsl:template match="w">
         <div>
             <xsl:attribute name="class" select="
-                    concat('w', if (pldr ne rec) then
-                        ' diff'
+                    concat('w', if (note) then
+                        ' note'
                     else
                         ())"/>
             <span class="n">
@@ -52,30 +65,27 @@
         </span>
     </xsl:template>
     <xsl:template match="rec">
-        <span class="rec">
+        <span>
+            <xsl:attribute name="class" select="
+                    concat('rec', if (. ne preceding-sibling::pldr) then
+                        ' diff'
+                    else
+                        ())"/>
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="principles">
-        <hr/>
-        <h2>Normalization principles</h2>
-        <ul id="principles">
+    <xsl:template match="note">
+        <div class="annotation">
             <xsl:apply-templates/>
-        </ul>
-    </xsl:template>
-    <xsl:template match="item">
-        <li>
-            <xsl:apply-templates/>
-            <xsl:text> </xsl:text>
-            <xsl:if test="@hgl">
-                <xsl:text>(Lunt #</xsl:text>
-                <xsl:value-of select="@hgl"/>
-                <xsl:text>)</xsl:text>
-            </xsl:if>
-        </li>
+        </div>
     </xsl:template>
     <xsl:template match="os">
         <span class="os">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="gloss">
+        <span class="gloss">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

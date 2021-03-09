@@ -1,53 +1,118 @@
 /* https://www.princexml.com/forum/topic/1341/how-do-i-number-lines-of-a-paragraph */
+@font-face {
+    font-family: 'romancyrillic_stdregular';
+    src: url('fonts/romancyrillic_std-webfont.woff2') format('woff2'), 
+url('fonts/romancyrillic_std-webfont.woff') format('woff'), 
+url('fonts/romancyrillic_std-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bukyvede_lightregular';
+    src: url('fonts/bukyvede_light-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede_light-webfont.woff') format('woff'), 
+url('fonts/bukyvede_light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bukyvedebold';
+    src: url('fonts/bukyvede-bold-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-bold-webfont.woff') format('woff'), 
+url('fonts/bukyvede-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bukyvedeitalic';
+    src: url('fonts/bukyvede-italic-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-italic-webfont.woff') format('woff'), 
+url('fonts/bukyvede-italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bukyvederegular';
+    src: url('fonts/bukyvede-regular-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-regular-webfont.woff') format('woff'), 
+url('fonts/bukyvede-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 body {
     display: flex;
     flex-direction: column;
 }
 main {
-    display: flex;
-    flex-direction: row;
+    position: relative;
+    overflow: hidden;
 }
-h1,
-div.main {
+div.p {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    position: relative;
-    overflow: hidden;
-    margin-left: 60px;
+    margin-left: 40px;
 }
-div.labels {
-    margin-top: 0;
-    position: absolute;
-    top: 0;
-    left: -40px;
-    width: 30px;
-    text-align: right;
-    color: red;
+div.w {
+    display: flex;
+    flex-direction: column;
 }
 span.rec,
 span.pldr,
 span.n {
     padding: 0.3em;
 }
-div.w {
-    display: flex;
-    flex-direction: column;
-}
 span.rec {
-    font-family: "RomanCyrillic Std";
+    font-family: "romancyrillic_stdregular", "RomanCyrillic Std";
     margin-bottom: 0.5em;
 }
 span.pldr,
 .os {
-    font-family: "Bukyvede";
+    font-family: "bukyvederegular", "Bukyvede";
     font-size: 110%;
+}
+div.label_group > span {
+    font-family: serif;
 }
 span.n {
     text-align: center;
     border-top: lightgray 1px solid;
     color: gray;
 }
-div.diff {
+.note {
+    background-color: pink;
+    font-size: initial; /* Global stylesheet reduces size of notes */
+}
+.diff {
     background-color: lightblue;
+}
+.annotation {
+    visibility: hidden;
+    background-color: yellow;
+    padding: 0.5em;
+    margin: 0.5em;
+    position: absolute;
+    border: 1px gray solid;
+}
+div#labels {
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+    width: 40px;
+    color: gray;
+    border-right: 1px lightgray solid;
+    margin-right: 1em;
+}
+div.label_group {
+    display: flex;
+    flex-direction: column;
+}
+span.gloss::before {
+    content: " ‘";
+}
+span.gloss::after {
+    content: "’ "
+}
+hr {
+    width: 98%;
 }
