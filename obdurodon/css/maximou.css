@@ -1,0 +1,145 @@
+@font-face{
+    font-family: 'BukyvedeWeb';
+    src: url('fonts/bukyvede-regular-webfont.eot');
+    src: url('fonts/bukyvede-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/bukyvede-regular-webfont.woff') format('woff'), 
+url('fonts/bukyvede-regular-webfont.ttf') format('truetype'), 
+url('fonts/bukyvede-regular-webfont.svg#BukyvedeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+    font-family: 'KlimentStdWeb';
+    src: url('fonts/kliment_std-webfont.eot');
+    src: url('fonts/kliment_std-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/kliment_std-webfont.woff') format('woff'), 
+url('fonts/kliment_std-webfont.ttf') format('truetype'), 
+url('fonts/kliment_std-webfont.svg#KlimentStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'RomanCyrillic_Std';
+    src: url('fonts/RomanCyrillic_Std.eot');
+    src: url('fonts/RomanCyrillic_Std.eot?#iefix') format('embedded-opentype'), 
+url('fonts/RomanCyrillic_Std.woff') format('woff'), 
+url('fonts/RomanCyrillic_Std.ttf') format('truetype'), 
+url('fonts/RomanCyrillic_Std#KlimentStdRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.sl{
+    font-family: 'RomanCyrillic_Std';
+}
+body{
+    min-width: 1px;
+    overflow-y: hidden;
+}
+h1,
+h2{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#texts > section > h2{
+    margin-top: 0;
+}
+.greek{
+    display: none;
+}
+svg text{
+    font-size: 70%;
+    letter-spacing: -0.5px;
+}
+#controls{
+    display: block;
+    padding: 0 0.5em;
+    border: 1px solid black;
+    margin: 0 0.5em 0 0;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    background-color: #f4eee2;
+}
+#controls > p{
+    color: #A00000;
+    text-align: right;
+    margin: 0.25em;
+}
+#controls > div{
+    display: none;
+}
+#controls > div > p{
+    display: flex;
+    flex-direction: column;
+    margin: 0.25em;
+}
+#texts{
+    display: flex;
+    justify-content: space-between;
+}
+#texts > section{
+    padding: 1em;
+    margin: 1em 0.5em;
+    border: 1px solid black;
+    min-width: 1px;
+    overflow-y: scroll;
+    height: calc(100vh - 400px);
+}
+#texts > section.short{
+    height: calc(100vh - 400px);
+}
+#texts > section.medium{
+    height: calc(100vh - 300px);
+}
+#texts > section.tall{
+    height: calc(100vh - 200px);
+}
+.logo
+{
+    color: #A00000;
+}
+.anchor_label,
+.page{
+    color: gray;
+    font-size: 90%;
+}
+.sense{
+    font-style: italic;
+}
+.hide{
+    display: none;
+}
+add{
+    font-style: italic;
+}
+del{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+.selected{
+    color: #A00000;
+}
+#core > div > p:hover,
+section > div > div:hover,
+circle:hover,
+text:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#core > div > p:visited,
+section > div:visited,
+circle:visited,
+text:visited{
+    cursor: default;
+    text-decoration: none;
+}
+/* #gc is the Alexander/Greek plectogram <div> wrapper */
+#gc{
+    display: none;
+}
+.section_title{
+    font-family: Sans-Serif;
+    font-weight: bold;
+}

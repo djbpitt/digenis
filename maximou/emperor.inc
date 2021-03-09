@@ -196,16 +196,15 @@
       <p>
       <span class="anchor_label">(26) </span>
       <span class="page">[17v] </span>
-         But you have gathered an enormous army thinking to defeat me, and that is
-            disgraceful,
+         But you have gathered an enormous army thinking to defeat me,
       </p>
    </div>
    <div id="e27">
       <p>
       <span class="anchor_label">(27) </span>
       <span class="page">[17v] </span>
-         for my fame has gone throughout all the earth and to all lands. And so now do as you
-            have intended to do.
+         and that is disgraceful, for my fame has gone throughout all the earth and to all lands.
+            And so now do as you have intended to do.
       </p>
    </div>
    <div id="e28">
@@ -329,12 +328,12 @@
    <div id="e46">
       <p>
       <span class="anchor_label">(46) </span>
-      <span class="page">[18v] </span>They drove the horse over to him, he leapt onto it</p>
+      <span class="page">[18v] </span>They drove the horse over to him,</p>
    </div>
    <div id="e47">
       <p>
       <span class="anchor_label">(47) </span>
-      <span class="page">[18v] </span>and Devgenij tore off and soon caught up to tsar Vasilij at the walls of his
+      <span class="page">[18v] </span>he mounted it and tore off and soon caught up to tsar Vasilij at the walls of his
          city,</p>
    </div>
    <div id="e48">

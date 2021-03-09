@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <script type="text/javascript">
+            <![CDATA[
+            function init() {
+                var radios = document.getElementsByTagName('input');
+                for (var i = 0; i < 2; i++) {
+                    radios[i].addEventListener('change', toggle, false);
+                }
+            }
+            window.addEventListener('DOMContentLoaded', init, false);
+            function toggle () {
+                switch (this.id) {
+                    case 'English':
+                    document.getElementById('changeMe').innerHTML = 'English';
+                    break;
+                    case 'Slavic':
+                    document.getElementById('changeMe').innerHTML = 'Slavic';
+                    break;
+                    default:
+                    document.getElementById('changeMe').innerHTML = 'Error: ' + this.id;
+                }
+            }//]]>
+        </script>
+    </head>
+    <body>
+        <p><label for="English"><input type="radio" id="English" name="lg" value="English"
+                    checked="checked" /> English</label>
+            <label for="Slavic"><input type="radio" id="Slavic" name="lg" value="Slavic" />
+                Slavic</label></p>
+        <p id="changeMe">English</p>
+    </body>
+</html>

@@ -1,0 +1,43 @@
+p{
+    display: block;
+    margin-bottom: 1em;
+}
+p:before{
+    content: '[' attr(n) ' : ' attr(type) '] ';
+}
+q:before{
+    content: '“';
+}
+q::after{
+    content: '”';
+}
+page{
+    color: blue;
+}
+page:before{
+    content: "(";
+    color: blue;
+}
+page:after{
+    content: ")";
+    color: blue;
+}
+em{
+    font-style: italic;
+}
+/*
+ * italics for added
+ * strike-through for deleted 
+*/
+change,
+add{
+    font-style: italic;
+}
+change:before{
+    content: " " attr(orig);
+    text-decoration: line-through;
+    font-style: normal;
+}
+del{
+    text-decoration: line-through;
+}

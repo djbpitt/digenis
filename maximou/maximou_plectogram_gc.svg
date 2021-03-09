@@ -166,7 +166,7 @@
                y="0"
                text-anchor="middle">18</text>
          <text id="pm19"
-               class="m19 pm19 c4 pc4 c9 pc9 c10 pc10"
+               class="m19 pm19 g20 pg20 c4 pc4 c9 pc9 c10 pc10"
                x="31.29032258064516%"
                y="0"
                text-anchor="middle">19</text>
@@ -504,7 +504,7 @@
                y="0"
                text-anchor="middle">19bis</text>
          <text id="pg20"
-               class="g20 pg20 m38 pm38 g15 pg15"
+               class="g20 pg20 m19 pm19 m38 pm38 g15 pg15"
                x="83.62068965517241%"
                y="0"
                text-anchor="middle">20</text>
@@ -619,6 +619,12 @@
          <line x1="14.080645161290324%"
                y1="123"
                x2="6.689655172413793%"
+               y2="210"
+               stroke="black"
+               stroke-width="1"/>
+         <line x1="31.29032258064516%"
+               y1="123"
+               x2="83.62068965517241%"
                y2="210"
                stroke="black"
                stroke-width="1"/>

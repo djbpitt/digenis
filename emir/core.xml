@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="common-core.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/css" href="core_edit.css"?>
+<root>
+    <p n="a" type="sense" e="" g="1.65–74">The mother tells her sons of their sister’s abduction at
+        the hands of the Emir, and commands:</p>
+    <p n="b" type="lines" e="" g="1.75–76">Lay down your lives rather than fail to recover your
+        sister.</p>
+    <p n="c" type="sense" e="" g="1.78–85">The mother threatens with a curse; the brothers agree to
+        recover their sister.</p>
+    <p n="d" type="lines" e="" g="1.86">They mounted their horses and set off.</p>
+    <p n="e" type="sense" e="" g="1.88–89">The brothers reach the border of the Saracen land,</p>
+    <p n="f" type="lines" e="" g="1.90–91">a pass/river named Difficult/Purple; there they met a
+        sentry/ies,</p>
+    <p n="g" type="sense" e="" g="1.92–93">and are led to/told of the Emir.</p>
+    <p n="h" type="lines" e="" g="1.94–96">The Emir’s throne/tent is decorated with gold, and
+        surrounded by soldiers.</p>
+    <p n="i" type="sense" e="" g="1.99–116">The brothers communicate their message to the Emir. He
+        tells them:</p>
+    <p n="j" type="lines" e="" g="1.121–123, 129–132">If I defeat you, I will enslave/kill you; if
+        you defeat me, take your sister. The brothers cast lots to fight the Emir: it fell to the
+        youngest, the girl’s twin. They tell him:</p>
+    <p n="1" type="lines" e="1–2" g="1.134–135, 138">Brother, don’t be frightened; think of your
+        mother’s curse.</p>
+    <p n="2" type="sense" e="8–16" g="1.140–163">The brothers call on God; arming of combatant(s)
+        follows. The Emir rides out to battle, his appearance connected to the sun’s rays.</p>
+    <p n="3" type="lines" e="17" g="1.164">He wielded a blue gilded spear.</p>
+    <p n="4" type="sense" e="21–27" g="1.155–160">A retainer warns the Emir not to underestimate his
+        opponent:</p>
+    <p n="5" type="lines" e="29, 32, 38, 40" g="1.189, 172, 180, 181">Don’t let him harm you! Entry
+        of the opponent(s) and description of nature.</p>
+    <p n="6" type="sense" e="46–51" g="1.184–189">The retainers again give advice, and the Emir
+        concedes defeat:</p>
+    <p n="7" type="lines" e="55" g="196">Young man, victory is yours.</p>
+    <p n="8" type="sense" e="56–57" g="1.198–204">The battle over, the brothers together address the
+        Emir.</p>
+    <p n="9" type="lines" e="59–63" g="1.206, 208–209">Give us our sister, as you promised. The Emir
+        replied: Go search the tents of the army.</p>
+    <p n="10" type="sense" e="64" g="1.210–211">If you find her, take her and go. As they go to the
+        tents,</p>
+    <p n="11" type="lines" e="67" g="1.216">they met a Saracen.</p>
+    <p n="12" type="sense" e="68–70" g="1.217–222">Asked about the captured girl, he tells them:</p>
+    <p n="13" type="lines" e="71–73" g="1.223–225">Go to the high/low ground: there you’ll find a
+        ditch where we killed some girls who wouldn’t do what we wanted.</p>
+    <p n="14" type="sense" e="74–78" g="1.226">The brothers follow these directions.</p>
+    <p n="15" type="lines" e="79–80" g="1.227–228">They found slaughtered girls, without limbs and
+        heads.</p>
+    <p n="16" type="sense" e="82–85" g="1.230">They try to find their sister without success.</p>
+    <p n="17" type="lines" e="87" g="1.227">[repetition of E79=G1.227 at E87 only]</p>
+    <p n="18" type="sense" e="88–86" g="1.231–252">They put earth on their heads and lament:</p>
+    <p n="19" type="lines" e="91, 94" g="1.253–254">Lord Sun, why have you done this?</p>
+    <p n="20" type="sense" e="123–125" g="1.255–258">They bury the girls in a common grave.</p>
+    <p n="21" type="lines" e="126" g="1.257">Lamenting, they returned to the Emir.</p>
+    <p n="22" type="lines" e="129" g="1.100">[repetition of E59=G1.100 at E129 only]</p>
+    <p n="23" type="sense" e="" g="">The brothers threaten violence unless their sister is returned.
+        The Emir inquires about their lineage and they recount it. The Emir replies:</p>
+    <p n="24" type="lines" e="145, 149" g="1.285, 297">I descend from Aa(mb)ron and Karoi(li)s; no
+        general can withstand me.</p>
+    <p n="25" type="sense" e="" g="1.298">But now I am defeated by a girl’s beauty; and so:</p>
+    <p n="26" type="lines" e="162–164, 166, 177" g="1.304, 306–309">Accept me as your
+        brother-in-law. I swear that I have not touched your sister. Come to my tent and find her. I
+        will go with you and convert.</p>
+    <p n="27" type="sense" e="180" g="1.312">The brothers go and find their sister in a luxurious
+        tent,  on a coverlet of/couch draped in gold. They say:</p>
+    <p n="28" type="lines" e="189" g="1.323">We thought you were dead!</p>
+    <p n="29" type="sense" e="" g="">The brothers embrace their sister.</p>
+    <p n="30" type="lines" e="195" g="1.204">[repetition of kissing formula: cf. G4.190-191]</p>
+    <p n="31" type="sense" e="" g="">They all returned rejoicing to the Roman land.</p>
+    <p n="32" type="lines" e="213" g="1.335">And it became renowned throughout the world,</p>
+    <p n="33" type="sense" e="" g="">that beauty could defeat a whole army. After the marriage is
+        consummated,</p>
+    <p n="34" type="lines" e="219" g="2.48">they bore Digenis Akritis (Twyborn the Borderer).</p>
+    <p n="35" type="lines" e="226–228" g="2.50–53">The Emir’s mother sent him a letter from Syria,
+        full of lament and reproach: Beloved child,</p>
+    <p n="36" type="sense" e="" g="">You’ve shamed your family; don’t you remember the deeds of your
+        (grand)father?</p>
+    <p n="37" type="lines" e="255–256, 258, 261" g="2.61–62, 75">How many Romans he killed and
+        enslaved? And your uncle?</p>
+    <p n="38" type="sense" e="" g="">And now you’ve thrown all this away for a pork-eater! If you
+        want my blessing,</p>
+    <p n="39" type="lines" e="275, 279–281" g="2.94–96">I have sent you choice horses: mount the
+        chestnut, (lead the black, let the bay follow) and no one will catch you.</p>
+    <p n="40" type="sense" e="282–283" g="2.97">Bring the Roman girl if you like. Otherwise,</p>
+    <p n="41" type="lines" e="286" g="2.86">they will kill your children,</p>
+    <p n="42" type="sense" e="287–291" g="2.87–98">and your wives will be embraced by others. And I
+        will curse you.</p>
+    <p n="43" type="sense" e="292" g="2.100">Messengers bring his mother’s letter and camp near the
+        Emir’s estate. They urge him to leave with them. But he goes to the girl and tells her:</p>
+    <p n="44" type="lines" e="307" g="2.127">My mother has sent me a letter from Syria.</p>
+    <p n="45" type="lines" e="318" g="2.136">The girl’s youngest brother had a dream.</p>
+    <p n="46" type="sense" e="320–325" g="135–146">He tells his brother his dream of a gold-winged
+        falcon pursuing a dove.</p>
+    <p n="47" type="lines" e="326–327" g="2.147–148">The brother interpreted: Hawks stand for
+        abductors,</p>
+    <p n="48" type="sense" e="" g="">the falcon is our brother-in-law, and the dove is our sister.
+        They go to the camp and confront the messengers:</p>
+    <p n="49" type="lines" e="335" g="2.156">Welcome, our brother-in-law’s youngsters!</p>
+    <p n="50" type="sense" e="" g="">Why camp here and not come to the house? They go to the Emir
+        and threaten him:</p>
+    <p n="51" type="lines" e="346" g="2.168">Leave our sister, renounce your son.</p>
+    <p n="52" type="sense" e="" g="">Take your property and go back to Syria. The Emir is upset and
+        reproaches his wife:</p>
+    <p n="53" type="lines" e="355" g="2.187">Don’t you remember how it was at the beginning?</p>
+    <p n="54" type="sense" e="" g="">I took you as a slave,</p>
+    <p n="55" type="lines" e="357" g="2.189">and now I am your slave.</p>
+    <p n="56" type="sense" e="" g="">Now your brothers intend to kill me.</p>
+    <p n="57" type="lines" e="367" g="2.196">I shall draw my sword and kill myself,</p>
+    <p n="58" type="sense" e="" g="">and the Roman nobles will reproach you.</p>
+    <p n="59" type="sense" e="" g="">The girl protests her innocence and goes to her brothers: Why
+        do you attack the Emir, who is innocent?</p>
+    <p n="60" type="lines" e="395" g="2.218">He is delerious from grief!</p>
+    <p n="61" type="sense" e="" g="">He gave up his faith and family for me,</p>
+    <p n="62" type="lines" e="399, 404, 406" g="2.228, 231">and came to Roman territory for my sake.
+        He fears his mother’s curse just like you did.</p>
+    <p n="63" type="sense" e="" g="">The brothers are moved. You are our life and soul, they say; if
+        the Emir wants to go,</p>
+    <p n="64" type="lines" e="411" g="2.184">to see his mother and return,</p>
+    <p n="65" type="sense" e="" g="">he has our blessing. They go to the Emir and ask forgiveness.
+        He swears to be faithful, and readies for his trip. Before leaving he goes to the girl.</p>
+    <p n="66" type="lines" e="468" g="2.267">His tears fell like showers,</p>
+    <p n="67" type="sense" e="" g="">and he asks for her ring. She gives it to him as a reminder of
+        their vows. He mounts his horse, and his in-laws see him off.</p>
+    <p n="68" type="sense" e="" g="">Starting out, the Emir makes a speech to his retainers:</p>
+    <p n="69" type="lines" e="487, 490" g="3.22, 3.24">Youngsters, be strong, and struggle against
+        the elements,</p>
+    <p n="70" type="sense" e="494" g="3.47">so that I may return quickly. And they set out.</p>
+    <p n="71" type="sense" e="" g="">The Emir recounts his exploits to his retainers. He kills a
+        lion and asks them to send its (hide,) teeth and claws to his son.</p>
+    <p n="72" type="lines" e="327" g="3.111">And when they had made their way to Raqqa(b),</p>
+    <p n="73" type="sense" e="" g="">they camp outside and are greeted by the Emir’s mother:</p>
+    <p n="74" type="lines" e="539–540" g="3.132">My sweetest child, light of my eyes!</p>
+    <p n="75" type="sense" e="583, 608" g="3.279–281, 329–333">The Emir persuades his mother and her
+        retainers to return with him and convert. On his return he embraces his wife and baptizes
+        those who have come with him.</p>
+</root>

@@ -1,0 +1,17 @@
+start = root
+root = element root { title, p, anchor+ }
+title = element title { type, text }
+type = attribute type { text }
+anchor = element anchor { ref, pageref, p+ }
+pageref = attribute pageref { text }
+ref = attribute ref { text }
+p =
+    element p {
+        mixed { (page | em | q)* }
+    }
+page = element page { text }
+em = element em { text }
+q =
+    element q {
+        mixed { (em | q | page)* }
+    }

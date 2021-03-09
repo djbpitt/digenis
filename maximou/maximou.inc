@@ -325,7 +325,7 @@
       <p>
       <span class="anchor_label">(49) </span>
       <span class="page">[183r] </span>The maiden Maksimijana also began to entreat him: O light, brilliant sun,
-            glorious Devgenij <span class="page">[183v] </span>, to me have come many tsars and kings, brave and
+            glorious Devgenij, <span class="page">[183v] </span> to me have come many tsars and kings, brave and
             strong in much strength, but no one has dishonored me with a single word;
       </p>
    </div>
