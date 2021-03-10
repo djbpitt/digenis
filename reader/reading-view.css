@@ -117,6 +117,8 @@ span.gloss::before {
 span.gloss::after {
     content: "’ "
 }
-hr {
-    width: 98%;
+footer {
+    margin-top: 1em;
+    margin-left: 0.5em;
+    font-size: smaller;
 }

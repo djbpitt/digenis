@@ -32,7 +32,6 @@
                 </xsl:for-each>
             </div>
         </main>
-        <hr/>
         <footer>Reconstruction and annotations by Robert Romanchuk and David J. Birnbaum.</footer>
     </xsl:template>
     <xsl:template match="title">
