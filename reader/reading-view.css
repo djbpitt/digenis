@@ -65,7 +65,8 @@ span.n {
 }
 span.rec {
     font-family: "romancyrillic_stdregular", "RomanCyrillic Std";
-    margin-bottom: 0.5em;
+    /*margin-bottom: 0.5em;*/
+    border-bottom: lightgray 1px solid
 }
 span.pldr,
 .os {
@@ -80,6 +81,7 @@ span.n {
     text-align: center;
     border-top: lightgray 1px solid;
     color: gray;
+    font-size: smaller;
 }
 .note {
     background-color: pink;
