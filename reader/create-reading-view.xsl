@@ -33,7 +33,7 @@
             </div>
         </main>
         <hr/>
-        <footer>Reconstruction and annotations by Robert Romanchuk and David J. Birnbaum.</footer>
+        <footer class="note">Reconstruction and annotations by Robert Romanchuk and David J. Birnbaum.</footer>
     </xsl:template>
     <xsl:template match="title">
         <h1 class="os">

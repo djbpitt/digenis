@@ -46,7 +46,6 @@ body {
 main {
     position: relative;
     overflow: hidden;
-    padding-right: 3em;
 }
 div.p {
     display: flex;
@@ -85,6 +84,10 @@ span.n {
     background-color: pink;
     font-size: initial; /* Global stylesheet reduces size of notes */
 }
+footer.note {
+    background-color: initial;
+    font-size: smaller;
+}
 .diff {
     background-color: lightblue;
 }
@@ -92,7 +95,7 @@ span.n {
     visibility: hidden;
     background-color: yellow;
     padding: 0.5em;
-    margin: 0.5em;
+    margin-left: -2em;
     position: absolute;
     border: 1px gray solid;
 }
@@ -110,10 +113,10 @@ div.label_group {
     flex-direction: column;
 }
 span.gloss::before {
-    content: " ‘";
+    content: "‘";
 }
 span.gloss::after {
-    content: "’ "
+    content: "’"
 }
 hr {
     width: 98%;
