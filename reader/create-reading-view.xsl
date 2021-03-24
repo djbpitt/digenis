@@ -36,7 +36,7 @@
         <footer class="note">Reconstruction and annotations by Robert Romanchuk and David J.
             Birnbaum.</footer>
     </xsl:template>
-    <xsl:template match="title">
+    <xsl:template match="section/title">
         <h1 class="os">
             <xsl:apply-templates/>
         </h1>
@@ -95,5 +95,10 @@
         <a href="{.}">
             <xsl:value-of select="."/>
         </a>
+    </xsl:template>
+    <xsl:template match="title">
+        <cite>
+            <xsl:apply-templates/>
+        </cite>
     </xsl:template>
 </xsl:stylesheet>

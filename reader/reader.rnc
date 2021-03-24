@@ -9,7 +9,7 @@ pldr = element pldr { text }
 rec = element rec { text }
 note =
     element note {
-        mixed { (os | gloss | link)* }
+        mixed { (os | gloss | link | title)* }
     }
 gloss = element gloss { text }
 os = element os { text }
