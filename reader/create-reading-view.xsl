@@ -33,7 +33,9 @@
             </div>
         </main>
         <hr/>
-        <footer class="note">Reconstruction and annotations by Robert Romanchuk and David J. Birnbaum.</footer>    </xsl:template>
+        <footer class="note">Reconstruction and annotations by Robert Romanchuk and David J.
+            Birnbaum.</footer>
+    </xsl:template>
     <xsl:template match="title">
         <h1 class="os">
             <xsl:apply-templates/>
@@ -88,5 +90,10 @@
         <span class="gloss">
             <xsl:apply-templates/>
         </span>
+    </xsl:template>
+    <xsl:template match="link">
+        <a href="{.}">
+            <xsl:value-of select="."/>
+        </a>
     </xsl:template>
 </xsl:stylesheet>

@@ -98,6 +98,7 @@ footer.note {
     background-color: yellow;
     padding: 0.5em;
     margin-left: -2em;
+    max-width: 20%;
     position: absolute;
     border: 1px gray solid;
 }
