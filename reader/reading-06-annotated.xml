@@ -17,7 +17,8 @@
             <w>
                <pldr>слышав,</pldr>
                <rec>слышавъ,</rec>
-               <note>ppl pt a n sg m <os>(оу)слышати</os>; <gloss>having heard</gloss></note>
+               <note>ppl pt a n sg m <os>(оу)слышати</os>
+                  <gloss>having heard</gloss></note>
             </w>
             <w>
                <pldr>Девгений</pldr>
@@ -58,7 +59,7 @@
             <w>
                <pldr>сердце</pldr>
                <rec>сьрдьци</rec>
-               <note><os>на сьрдьци быти</os> (adverbial phrase); <gloss>to be to one’s
+               <note><os>на сьрдьци быти</os> (adverbial phrase) <gloss>to be to one’s
                      liking</gloss></note>
             </w>
             <w>
@@ -146,7 +147,8 @@
             <w>
                <pldr>приехавъ,</pldr>
                <rec>приѣхавъ,</rec>
-               <note>ppl pt a n sg m <os>приѣхати</os>; <gloss>having arrived (veh.)</gloss></note>
+               <note>ppl pt a n sg m <os>приѣхати</os>
+                  <gloss>having arrived (veh.)</gloss></note>
             </w>
             <w>
                <pldr>Девгений</pldr>
@@ -189,7 +191,8 @@
             <w>
                <pldr>повеленное</pldr>
                <rec>повелѣньноѥ</rec>
-               <note>ppl pt p n sg n <os>повелѣти</os>; <gloss>the thing ordered</gloss></note>
+               <note>ppl pt p n sg n <os>повелѣти</os>
+                  <gloss>the thing ordered</gloss></note>
             </w>
             <w>
                <pldr>мое</pldr>
@@ -240,7 +243,7 @@
             <w>
                <pldr>исхищение</pldr>
                <rec>исхищениѥ</rec>
-               <note>noun (vbl) jo-stem n sg n; <gloss>abduction</gloss></note>
+               <note>noun (vbl) jo-stem n sg n<gloss>abduction</gloss></note>
             </w>
             <w>
                <pldr>свое».</pldr>
@@ -267,7 +270,8 @@
             <w>
                <pldr>пред</pldr>
                <rec>предъ</rec>
-               <note>prep + a; = <os>прѣзъ</os>; <gloss>через; through</gloss></note>
+               <note>prep + a; = <os>прѣзъ</os>
+                  <gloss>через; through</gloss></note>
             </w>
             <w>
                <pldr>врата».</pldr>
@@ -474,7 +478,8 @@
             <w>
                <pldr>пришествия</pldr>
                <rec>пришьствиꙗ</rec>
-               <note>noun jo-stem g sg n <os>пришьствие</os>; <gloss>arrival</gloss></note>
+               <note>noun jo-stem g sg n <os>пришьствие</os>
+                  <gloss>arrival</gloss></note>
             </w>
             <w>
                <pldr>ожидай</pldr>
@@ -499,14 +504,14 @@
             <w>
                <pldr>пристроивше</pldr>
                <rec>пристроивъше</rec>
-               <note>ppl pt a n pl(!) m(!) <os>пристроитися</os>; <gloss>having readied
-                     oneself</gloss></note>
+               <note>ppl pt a n pl(!) m(!) <os>пристроитися</os>
+                  <gloss>having readied oneself</gloss></note>
             </w>
             <w>
                <pldr>сь,</pldr>
                <rec>сѧ,</rec>
-               <note>ppl pt a n pl(!) m(!) <os>пристроитися</os>; <gloss>having readied
-                     oneself</gloss></note>
+               <note>ppl pt a n pl(!) m(!) <os>пристроитися</os>
+                  <gloss>having readied oneself</gloss></note>
             </w>
             <w>
                <pldr>стани</pldr>
@@ -519,7 +524,8 @@
             <w>
                <pldr>храма</pldr>
                <rec>храма</rec>
-               <note>noun o-stem g sg m <os>храмъ</os>; <gloss>building</gloss></note>
+               <note>noun o-stem g sg m <os>храмъ</os>
+                  <gloss>building</gloss></note>
             </w>
             <w>
                <pldr>пред</pldr>
@@ -545,7 +551,8 @@
             <w>
                <pldr>рекъ,</pldr>
                <rec>рекъ,</rec>
-               <note>ppl pt a n sg m <os>речи</os>; <gloss>having said</gloss></note>
+               <note>ppl pt a n sg m <os>речи</os>
+                  <gloss>having said</gloss></note>
             </w>
             <w>
                <pldr>поцелова</pldr>
@@ -702,7 +709,7 @@
             <w>
                <pldr>з</pldr>
                <rec>съ</rec>
-               <note>prep + i; съ &gt; з by regressive assim.; <gloss>together with</gloss></note>
+               <note>prep + i; съ &gt; з by regressive assim.<gloss>together with</gloss></note>
             </w>
             <w>
                <pldr>дружиною</pldr>
@@ -735,7 +742,8 @@
             <w>
                <pldr>лову</pldr>
                <rec>ловꙋ</rec>
-               <note>noun o-stem(!) g sg m <os>ловъ</os>; <gloss>hunt</gloss></note>
+               <note>noun o-stem(!) g sg m <os>ловъ</os>
+                  <gloss>hunt</gloss></note>
             </w>
             <w>
                <pldr>приехавъ,</pldr>
@@ -858,14 +866,16 @@
             </w>
             <w>
                <pldr>полубице</pldr>
-               <rec>на голꙋбиици</rec>
-               <note>NB: corrected; noun jo-stem(!) l sg m <os>голубиѥць</os>; <gloss>gray or
-                     piebald horse</gloss></note>
+               <rec>на голꙋбꙋици</rec>
+               <note>NB: emended; m (or common gender) jā-stem Lsg <os>полубꙋица</os>
+                  <gloss>half-mustang</gloss>; see
+                     <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
             </w>
             <w>
                <pldr>инаходомъ,</pldr>
                <rec>иноходомь,</rec>
-               <note>adj lg l sg m <os>иноходыи</os>; <gloss>ambling (horse)</gloss></note>
+               <note>adj lg l sg m <os>иноходыи</os>
+                  <gloss>ambling (horse)</gloss></note>
             </w>
             <w>
                <pldr>а</pldr>
@@ -1207,7 +1217,8 @@
             <w>
                <pldr>ударивъ</pldr>
                <rec>оударивъ</rec>
-               <note>ppl pt a n sg m <os>оударити</os>; <gloss>having struck</gloss></note>
+               <note>ppl pt a n sg m <os>оударити</os>
+                  <gloss>having struck</gloss></note>
             </w>
             <w>
                <pldr>во</pldr>
@@ -1280,7 +1291,8 @@
             <w>
                <pldr>зовы</pldr>
                <rec>зовы</rec>
-               <note>ppl pr a n sg m <os>зъвати</os>; <gloss>calling</gloss></note>
+               <note>ppl pr a n sg m <os>зъвати</os>
+                  <gloss>calling</gloss></note>
             </w>
             <w>
                <pldr>и</pldr>
@@ -1375,7 +1387,8 @@
             <w>
                <pldr>стоя</pldr>
                <rec>стоѧ</rec>
-               <note>ppl pr a n sg m <os>стоꙗти</os>; <gloss>standing</gloss></note>
+               <note>ppl pr a n sg m <os>стоꙗти</os>
+                  <gloss>standing</gloss></note>
             </w>
             <w>
                <pldr>без</pldr>
@@ -1428,7 +1441,8 @@
             <w>
                <pldr>ятъ</pldr>
                <rec>ѧ(тъ)</rec>
-               <note>aor 3sg (negated) <os>яти вѣру</os>; <gloss>believe</gloss></note>
+               <note>aor 3sg (negated) <os>яти вѣру</os>
+                  <gloss>believe</gloss></note>
             </w>
             <w>
                <pldr>веры,</pldr>
@@ -1437,7 +1451,8 @@
             <w>
                <pldr>глаголя</pldr>
                <rec>глаголѧ</rec>
-               <note>ppl pr a n sg m <os>глаголати</os>; <gloss>speaking</gloss></note>
+               <note>ppl pr a n sg m <os>глаголати</os>
+                  <gloss>speaking</gloss></note>
             </w>
             <w>
                <pldr>сице:</pldr>
@@ -1482,7 +1497,7 @@
             <w>
                <pldr>человѣку</pldr>
                <rec>человѣкꙋ</rec>
-               <note><os>человѣку вънити</os> dat + inf constr; <gloss>it is for a man to
+               <note><os>человѣку вънити</os> dat + inf constr<gloss>it is for a man to
                      enter</gloss></note>
             </w>
             <w>
@@ -1496,8 +1511,9 @@
                <rec>И</rec>
             </w>
             <w>
-               <pldr>не</pldr>
+               <pldr>&#xa0;</pldr>
                <rec>не</rec>
+               <note>NB: emended, cf. Тит 185v: <os>… и не лѣзе вънъ ис полаты своеѩ</os></note>
             </w>
             <w>
                <pldr>поиде</pldr>
@@ -1540,7 +1556,8 @@
             <w>
                <pldr>ожидаяи</pldr>
                <rec>ожидаѧи</rec>
-               <note>ppl pr a n sg m (long form) <os>ожидати</os>; <gloss>awaiting</gloss></note>
+               <note>ppl pr a n sg m (long form) <os>ожидати</os>
+                  <gloss>awaiting</gloss></note>
             </w>
             <w>
                <pldr>его,</pldr>
@@ -1581,8 +1598,8 @@
             <w>
                <pldr>предстоящи</pldr>
                <rec>предъстоѧще</rec>
-               <note>ppl pr a n pl m <os>предъстояти</os>; <gloss>be present in
-                  waiting</gloss></note>
+               <note>ppl pr a n pl m <os>предъстояти</os>
+                  <gloss>be present in waiting</gloss></note>
             </w>
             <w>
                <pldr>не</pldr>
@@ -1591,7 +1608,8 @@
             <w>
                <pldr>смея</pldr>
                <rec>смѣꙗ</rec>
-               <note>ppl pr a n sg(!) m <os>смѣти</os>; <gloss>daring</gloss></note>
+               <note>ppl pr a n sg(!) m <os>смѣти</os>
+                  <gloss>daring</gloss></note>
             </w>
             <w>
                <pldr>ничтоже</pldr>
