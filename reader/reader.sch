@@ -2,10 +2,6 @@
 <sch:schema xmlns:sch="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
     <sch:pattern>
-        <sch:rule context="gloss">
-            <sch:assert test="preceding-sibling::node()[1][self::text()][matches(., ';\s')]">Gloss
-                should be preceded by semicolon inside note</sch:assert>
-        </sch:rule>
         <sch:rule context="note[preceding-sibling::reg eq 'сѧ']">
             <sch:assert test=". eq parent::w/preceding-sibling::w/note">Notes on сѧ verbs must be
                 repeated on the verb and on the сѧ.</sch:assert>
@@ -31,8 +27,13 @@
                 letterform ю after palatals (write ꙋ instead).</sch:report>
             <sch:report test="matches(., '[шжчщц]ы')">The reconstructed form must not contain the
                 letterform ы after palatals (write и instead).</sch:report>
+            <sch:report test="matches(., '[шжчщц]ъ')">The reconstructed form must not contain a back
+                jer after a palatal (write ь instead).</sch:report>
             <sch:report test="matches(., '[a-zA-Z]')">The reconstructed form must not contain
                 Latin-alphabet letters.</sch:report>
+            <sch:report
+                test="matches(., '[бвгдзжклмнпрстфхцчшщ]$') and not(. = ('без', 'бес', 'из', 'ис'))"
+                >The only words that can end in consonants are без, бес, из, and ис.</sch:report>
         </sch:rule>
     </sch:pattern>
 </sch:schema>
