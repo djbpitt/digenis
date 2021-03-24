@@ -2,7 +2,24 @@
 <project>
     <meta>
         <filters directoryPatterns="" filePatterns="\Qdigenis.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>editor.font</String>
+                        <String>Monaco,0,18</String>
+                    </entry>
+                    <entry>
+                        <String>font.for.author.v12</String>
+                        <String>RomanCyrillic Std,0,16</String>
+                    </entry>
+                    <entry>
+                        <String>key.fonts.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="digenis.xpr">
         <folder path="."/>
