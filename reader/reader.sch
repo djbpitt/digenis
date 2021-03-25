@@ -34,6 +34,8 @@
             <sch:report
                 test="matches(., '[бвгдзжклмнпрстфхцчшщ]$') and not(. = ('без', 'бес', 'из', 'ис'))"
                 >The only words that can end in consonants are без, бес, из, and ис.</sch:report>
+            <sch:report test="matches(., '[кгх]и')">Velar consonants cannot be followed by и;
+                replace with ы.</sch:report>
         </sch:rule>
     </sch:pattern>
 </sch:schema>
