@@ -101,4 +101,9 @@
             <xsl:apply-templates/>
         </cite>
     </xsl:template>
+    <xsl:template match="q">
+        <q>
+            <xsl:apply-templates/>
+        </q>
+    </xsl:template>
 </xsl:stylesheet>
