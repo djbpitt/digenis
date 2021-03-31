@@ -26,7 +26,7 @@
                 <xsl:for-each select="1 to 100">
                     <div class="label_group">
                         <span class="n">&#x00a0;</span>
-                        <span class="pldr">Ms</span>
+                        <span class="pldr">Тх</span>
                         <span class="rec">Rec</span>
                     </div>
                 </xsl:for-each>

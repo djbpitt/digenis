@@ -13,6 +13,8 @@
                 letterform я (replace with ꙗ or ѧ).</sch:report>
             <sch:report test="matches(., '^е')">The reconstructed form must not contain initial е
                 (replace with ѥ).</sch:report>
+            <sch:report test="matches(., '^ѧ')">The reconstructed form must not contain initial ѧ
+                (replace with ѩ).</sch:report>
             <sch:report test="matches(., '[аеыоуꙋꙗѧѥию]е')">The reconstructed form must not contain
                 е after a vowel letter (replace with ѥ).</sch:report>
             <sch:report test="matches(., '^[уꙋ]')">The reconstructed form must not contain initial у
@@ -36,6 +38,8 @@
                 >The only words that can end in consonants are без, бес, из, and ис.</sch:report>
             <sch:report test="matches(., '[кгх]и')">Velar consonants cannot be followed by и;
                 replace with ы.</sch:report>
+            <sch:report test="matches(., '[аеыоуѧѩѥꙋиюꙗ][аѧе]')">Plain (non-jotated) vowels should
+                not follow vowel letters except at hiatus.</sch:report>
         </sch:rule>
     </sch:pattern>
 </sch:schema>
