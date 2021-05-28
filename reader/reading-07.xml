@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="reader-preparation.rnc" type="application/relax-ng-compact-syntax"?>
 <section>
-    <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·з҃҃·</title>
+    <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·з҃·</title>
     <body>
         <p>И повеле Девгений дѣвице преклонитися к себѣ, и яко орелъ исхити прекрасную Стратиговну,
             и посади ю на гриве у борзаго своего фара, и рече Стратигу: «Выеде и отъими дщерь свою

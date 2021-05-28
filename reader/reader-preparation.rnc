@@ -1,0 +1,5 @@
+start = section
+section = element section { title, body }
+title = element title { text }
+body = element body { p+ }
+p = element p { text }

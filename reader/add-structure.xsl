@@ -22,7 +22,7 @@
     <xsl:template match="/">
         <xsl:processing-instruction name="xml-model">href="reader.rnc" type="application/relax-ng-compact-syntax"</xsl:processing-instruction>
         <xsl:processing-instruction name="xml-model">href="reader.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
-        <xsl:apply-templates/>
+        <xsl:apply-templates select="*"/>
     </xsl:template>
     <xsl:template match="p">
         <xsl:copy>

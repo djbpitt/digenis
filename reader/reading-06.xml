@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="reader-preparation.rnc" type="application/relax-ng-compact-syntax"?>
 <section>
-    <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·ѕ҃҃·</title>
+    <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·ѕ҃·</title>
     <body>
         <p>И то слышав, Девгений радостенъ бысть и рече к дѣвице: «Несть на сердце тако, якоже ты
             глаголеши, понеже ми есть в томъ срамъ от отца твоего и от братии твоей. Начнут

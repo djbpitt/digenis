@@ -17,6 +17,10 @@
                         <String>key.fonts.option.pane</String>
                         <Boolean>true</Boolean>
                     </entry>
+                    <entry>
+                        <String>storage.level.scenario.associations</String>
+                        <Boolean>false</Boolean>
+                    </entry>
                 </serializableOrderedMap>
             </serialized>
         </options>
