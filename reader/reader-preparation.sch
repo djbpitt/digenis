@@ -5,6 +5,11 @@
         <sch:rule context="p">
             <sch:assert test="string-length(normalize-space(.)) ne 0">Paragraphs cannot be
                 empty</sch:assert>
+            <sch:assert test="not(starts-with(., ' '))">Paragraphs cannot start with
+                spaces</sch:assert>
+            <sch:assert test="not(ends-with(., ' '))">Paragraphs cannot end in spaces</sch:assert>
+            <sch:report test="contains(., '[') or contains(., ']')">Paragraphhs cannot contain
+                square brackets</sch:report>
         </sch:rule>
     </sch:pattern>
 </sch:schema>
