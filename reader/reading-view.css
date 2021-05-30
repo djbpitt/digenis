@@ -127,3 +127,7 @@ footer {
     margin-left: 0.5em;
     font-size: smaller;
 }
+.outline {
+    border: 1px red solid;
+    border-radius: 10px;
+}

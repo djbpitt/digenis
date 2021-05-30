@@ -16,7 +16,7 @@
                 => replace('([шжчщц])ѥ', '$1е')
                 => replace('([шжчщц])ю', '$1ꙋ')
                 => replace('([шжчщц])ы', '$1и')
-                => replace('([шжчщцц]ъ)', '$1ь')
+                => replace('([шжчщцц])ъ', '$1ь')
                 "/>
     </xsl:function>
     <xsl:template match="/">

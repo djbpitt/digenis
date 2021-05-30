@@ -187,7 +187,10 @@
          </w>
          <w>
             <pldr>месяцъ</pldr>
+
             <rec>мѣсѧць</rec>
+
+
          </w>
          <w>
             <pldr>просвети</pldr>
@@ -292,7 +295,9 @@
          </w>
          <w>
             <pldr>жъ,</pldr>
+
             <rec>же,</rec>
+
          </w>
          <w>
             <pldr>восставъ</pldr>
@@ -903,7 +908,7 @@
          </w>
          <w>
             <pldr>косецъ</pldr>
-            <rec>косецъь</rec>
+            <rec>косець</rec>
          </w>
          <w>
             <pldr>траву</pldr>
@@ -1179,7 +1184,7 @@
          </w>
          <w>
             <pldr>овецъ</pldr>
-            <rec>овецъь</rec>
+            <rec>овець</rec>
          </w>
          <w>
             <pldr>пред</pldr>
