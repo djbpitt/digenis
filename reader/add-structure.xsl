@@ -9,7 +9,7 @@
         <xsl:param name="in" as="xs:string"/>
         <xsl:sequence select="
                 translate($in, 'й', 'и')
-                => replace('(.)у', '$1ꙋ')
+                => replace('(.)у(.)', '$1ꙋ$2')
                 => replace('^у', 'оу')
                 => replace('^е', 'ѥ')
                 => replace('([аеыоꙋѧꙗѥию])е', '$1ѥ')

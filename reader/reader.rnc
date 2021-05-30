@@ -8,9 +8,13 @@ pldr = element pldr { text }
 rec = element rec { text }
 note =
     element note {
-        mixed { (os | gloss | link | title | q)* }
+        mixed { (os | gloss | link | title | q | em)* }
     }
+em = element em { text }
 gloss = element gloss { text }
 os = element os { text }
 link = element link { xsd:anyURI }
-q = element q { text }
+q =
+    element q {
+        mixed { em* }
+    }

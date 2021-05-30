@@ -15,7 +15,7 @@
          </w>
          <w>
             <pldr>преславно</pldr>
-            <rec>преславно</rec>
+            <rec>преславьно</rec>
          </w>
          <w>
             <pldr>Божиимъ</pldr>
@@ -881,15 +881,15 @@
          </w>
          <w>
             <pldr>отецъ</pldr>
-            <rec>отець</rec>
+            <rec>отьць</rec>
          </w>
          <w>
             <pldr>со</pldr>
-            <rec>со</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>стрыями</pldr>
-            <rec>стрыями</rec>
+            <rec>стрыѥмь</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -897,11 +897,11 @@
          </w>
          <w>
             <pldr>начаста</pldr>
-            <rec>начаста</rec>
+            <rec>начѧста</rec>
          </w>
          <w>
             <pldr>целовати</pldr>
-            <rec>целовати</rec>
+            <rec>цѣловати</rec>
          </w>
          <w>
             <pldr>его</pldr>
@@ -909,11 +909,11 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>усто,</pldr>
-            <rec>оусто,</rec>
+            <rec>оуста,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -929,11 +929,11 @@
          </w>
          <w>
             <pldr>руце,</pldr>
-            <rec>рꙋце,</rec>
+            <rec>рꙋцѣ.</rec>
          </w>
          <w>
             <pldr>и</pldr>
-            <rec>и</rec>
+            <rec>И</rec>
          </w>
          <w>
             <pldr>глаголаху</pldr>
@@ -941,19 +941,19 @@
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>нему</pldr>
-            <rec>немꙋ</rec>
+            <rec>нѥмꙋ</rec>
          </w>
          <w>
             <pldr>вси:</pldr>
-            <rec>вси:</rec>
+            <rec>вьси:</rec>
          </w>
          <w>
             <pldr>«Видеще,</pldr>
-            <rec>«Видеще,</rec>
+            <rec>«Видѩ,</rec>
          </w>
          <w>
             <pldr>господине,</pldr>
@@ -965,11 +965,11 @@
          </w>
          <w>
             <pldr>велегласнаго</pldr>
-            <rec>велегласнаго</rec>
+            <rec>велегласьнаго</rec>
          </w>
          <w>
             <pldr>возраста</pldr>
-            <rec>возраста</rec>
+            <rec>възраста</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -985,19 +985,23 @@
          </w>
          <w>
             <pldr>храбръства,</pldr>
-            <rec>храбръства,</rec>
+            <rec>храбрьства,</rec>
          </w>
          <w>
             <pldr>кто</pldr>
-            <rec>кто</rec>
+            <rec>къто</rec>
          </w>
          <w>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
-            <pldr>подивится?»</pldr>
-            <rec>подивится?»</rec>
+            <pldr>подивит</pldr>
+            <rec>подивить</rec>
+         </w>
+         <w>
+            <pldr>ся?»</pldr>
+            <rec>сѧ?»</rec>
          </w>
          <w>
             <pldr>Бе</pldr>
