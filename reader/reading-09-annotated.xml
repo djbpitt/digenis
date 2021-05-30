@@ -452,7 +452,7 @@
          </w>
          <w>
             <pldr>токмо</pldr>
-            <rec>токъмо</rec>
+            <rec>тъкъмо</rec>
          </w>
          <w>
             <pldr>знамение</pldr>
@@ -1087,7 +1087,11 @@
          </w>
          <w>
             <pldr>невестъчего,</pldr>
-            <rec>невѣстъчего,</rec>
+            <rec>невѣстъчево,</rec>
+            <note>From <os>невѣстъка</os>, diminutive of <os>невѣста</os>
+               <gloss>bride</gloss>. The nGsg spelling in the manuscript doesn’t fit the sense, but
+               the manuscript reflects the pronunciation of nGsg <os>-ого</os> as <em>/ovo/</em>
+               elsewhere, so we emend here to a nNsg of a possessive in <os>-ов-</os>.</note>
          </w>
          <w>
             <pldr>приятъ,</pldr>
@@ -1099,7 +1103,7 @@
          </w>
          <w>
             <pldr>кормилица,</pldr>
-            <rec>кърмилица,</rec>
+            <rec>кърмилицѧ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1141,7 +1145,7 @@
          </w>
          <w>
             <pldr>прииде</pldr>
-            <rec>приде</rec>
+            <rec>прииде</rec>
          </w>
          <w>
             <pldr>во</pldr>

@@ -8,7 +8,7 @@ url('fonts/romancyrillic_std-webfont.ttf') format('truetype');
     font-style: normal;
 }
 @font-face {
-    font-family: 'Monomakh Unicode';
+    font-family: 'Monomakh Unicode Web';
     src: url('fonts/MonomakhUnicode.eot');
     src: url('fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
         url('fonts/MonomakhUnicode.woff2') format('woff2'),
@@ -80,7 +80,7 @@ span.rec {
 span.pldr,
 .os {
     /*font-family: "bukyvederegular", "Bukyvede";*/
-    font-family: "Monomakh Unicode";
+    font-family: "Monomakh Unicode Web", "Monomakh Unicode";
     /*font-size: 110%;*/
     /*letter-spacing: 0.05em;*/
 }

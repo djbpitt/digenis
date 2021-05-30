@@ -75,11 +75,11 @@
          </w>
          <w>
             <pldr>глаголеши,</pldr>
-            <rec>глаголеши,</rec>
+            <rec>глаголѥши,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
          </w>
          <w>
             <pldr>ми</pldr>
@@ -123,7 +123,7 @@
          </w>
          <w>
             <pldr>братии</pldr>
-            <rec>брати</rec>
+            <rec>братиѩ</rec>
          </w>
          <w>
             <pldr>твоей.</pldr>
@@ -597,7 +597,7 @@
          </w>
          <w>
             <pldr>градомъ,</pldr>
-            <rec>градъмъ,</rec>
+            <rec>градъмь,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -842,11 +842,18 @@
             <rec>поѣха</rec>
          </w>
          <w>
-            <pldr>полубице</pldr>
-            <rec>на голꙋбꙋици</rec>
+            <pldr>&#xa0;</pldr>
+            <rec>на</rec>
             <note>NB: emended; m (or common gender) jā-stem Lsg <os>полубꙋица</os>
                <gloss>half-mustang</gloss>; see
-                  <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
+               <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
+         </w>
+         <w>
+            <pldr>полубице</pldr>
+            <rec>полꙋбꙋици</rec>
+            <note>NB: emended; m (or common gender) jā-stem Lsg <os>полубꙋица</os>
+               <gloss>half-mustang</gloss>; see
+               <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
          </w>
          <w>
             <pldr>инаходомъ,</pldr>
@@ -864,7 +871,7 @@
          </w>
          <w>
             <pldr>борзого</pldr>
-            <rec>бързого</rec>
+            <rec>бързаго</rec>
          </w>
          <w>
             <pldr>повеле</pldr>
@@ -928,7 +935,7 @@
          </w>
          <w>
             <pldr>градомъ,</pldr>
-            <rec>градомь,</rec>
+            <rec>градъмь,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1131,7 +1138,7 @@
          </w>
          <w>
             <pldr>звонцовъ</pldr>
-            <rec>звоньцевъ</rec>
+            <rec>звоньць</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1276,8 +1283,12 @@
             <rec>сыны,</rec>
          </w>
          <w>
-            <pldr>дабы</pldr>
-            <rec>дабы</rec>
+            <pldr>да</pldr>
+            <rec>да</rec>
+         </w>
+         <w>
+            <pldr>бы</pldr>
+            <rec>бы</rec>
          </w>
          <w>
             <pldr>видели</pldr>
@@ -1445,11 +1456,11 @@
          </w>
          <w>
             <pldr>смеетъ</pldr>
-            <rec>смѣетъ</rec>
+            <rec>съмѣетъ</rec>
          </w>
          <w>
             <pldr>влететь,</pldr>
-            <rec>влетѣти,</rec>
+            <rec>вълетѣти,</rec>
          </w>
          <w>
             <pldr>ниже</pldr>
@@ -1564,8 +1575,8 @@
          </w>
          <w>
             <pldr>смея</pldr>
-            <rec>смѣꙗ</rec>
-            <note>ppl pr a n sg(!) m <os>смѣти</os>
+            <rec>съмѣꙗ</rec>
+            <note>ppl pr a n sg(!) m <os>съмѣти</os>
                <gloss>daring</gloss></note>
          </w>
          <w>
