@@ -11,11 +11,11 @@
          </w>
          <w>
             <pldr>слышавъ,</pldr>
-            <rec>слышавъ,</rec>
+            <rec>слышавъше,</rec>
          </w>
          <w>
             <pldr>отецъ</pldr>
-            <rec>отець</rec>
+            <rec>отьць</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -34,8 +34,11 @@
             <rec>радости</rec>
          </w>
          <w>
-            <pldr>наполнишась,</pldr>
-            <rec>наполнишась,</rec>
+            <pldr>наполниша,</pldr>
+            <rec>напълниша,</rec>
+         </w>         <w>
+            <pldr>сь,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -43,15 +46,15 @@
          </w>
          <w>
             <pldr>начаша</pldr>
-            <rec>начаша</rec>
+            <rec>начѧшѧ</rec>
          </w>
          <w>
             <pldr>свадбу</pldr>
-            <rec>свадбꙋ</rec>
+            <rec>сватьбꙋ</rec>
          </w>
          <w>
             <pldr>готовить,</pldr>
-            <rec>готовить,</rec>
+            <rec>готовити,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -59,11 +62,11 @@
          </w>
          <w>
             <pldr>созваша</pldr>
-            <rec>созваша</rec>
+            <rec>съзвашѧ</rec>
          </w>
          <w>
             <pldr>весь</pldr>
-            <rec>весь</rec>
+            <rec>вьсь</rec>
          </w>
          <w>
             <pldr>градъ,</pldr>
@@ -75,7 +78,7 @@
          </w>
          <w>
             <pldr>поидоша</pldr>
-            <rec>поидоша</rec>
+            <rec>поидошѧ</rec>
          </w>
          <w>
             <pldr>противу</pldr>
@@ -83,7 +86,7 @@
          </w>
          <w>
             <pldr>Девгения</pldr>
-            <rec>Девгения</rec>
+            <rec>Девгениꙗ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -91,7 +94,7 @@
          </w>
          <w>
             <pldr>Стратиговны,</pldr>
-            <rec>Стратиговны,</rec>
+            <rec>Стратиговьны,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -99,7 +102,7 @@
          </w>
          <w>
             <pldr>стретиша</pldr>
-            <rec>стретиша</rec>
+            <rec>сърѣтишѧ</rec>
          </w>
          <w>
             <pldr>ихъ</pldr>
@@ -111,15 +114,15 @@
          </w>
          <w>
             <pldr>8</pldr>
-            <rec>8</rec>
+            <rec>·и҃·</rec>
          </w>
          <w>
             <pldr>поприщъ</pldr>
-            <rec>поприщь</rec>
+            <rec>попьрищь</rec>
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>града</pldr>
@@ -127,7 +130,7 @@
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>великою</pldr>
@@ -145,7 +148,7 @@
          </w>
          <w>
             <pldr>падоша</pldr>
-            <rec>падоша</rec>
+            <rec>падошѧ</rec>
          </w>
          <w>
             <pldr>ницъ</pldr>
@@ -153,15 +156,15 @@
          </w>
          <w>
             <pldr>вси</pldr>
-            <rec>вси</rec>
+            <rec>вьси</rec>
          </w>
          <w>
             <pldr>пред</pldr>
-            <rec>пред</rec>
+            <rec>предъ</rec>
          </w>
          <w>
             <pldr>Девгениемъ,</pldr>
-            <rec>Девгениѥмъ,</rec>
+            <rec>Девгениѥмь,</rec>
          </w>
          <w>
             <pldr>глаголюще</pldr>
@@ -189,7 +192,7 @@
          </w>
          <w>
             <pldr>сотворимое</pldr>
-            <rec>сотворимоѥ</rec>
+            <rec>сътворимоѥ</rec>
          </w>
          <w>
             <pldr>тобою,</pldr>
@@ -197,11 +200,11 @@
          </w>
          <w>
             <pldr>младым</pldr>
-            <rec>младым</rec>
+            <rec>младымь</rec>
          </w>
          <w>
             <pldr>юношемъ,</pldr>
-            <rec>юношемъ,</rec>
+            <rec>оуношемь,</rec>
          </w>
          <w>
             <pldr>о</pldr>
