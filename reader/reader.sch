@@ -40,6 +40,7 @@
                 replace with ы.</sch:report>
             <sch:report test="matches(., '[аеыоуѧѩѥꙋиюꙗ][аѧе]')">Plain (non-jotated) vowels should
                 not follow vowel letters except at hiatus.</sch:report>
+            <sch:report test=". eq 'дабы'">Да бы is two words.</sch:report>
         </sch:rule>
     </sch:pattern>
 </sch:schema>

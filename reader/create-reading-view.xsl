@@ -106,4 +106,9 @@
             <xsl:apply-templates/>
         </q>
     </xsl:template>
+    <xsl:template match="em">
+        <em>
+            <xsl:apply-templates/>
+        </em>
+    </xsl:template>
 </xsl:stylesheet>
