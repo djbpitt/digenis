@@ -38,8 +38,8 @@
                 >The only words that can end in consonants are без, бес, из, and ис.</sch:report>
             <sch:report test="matches(., '[кгх]и')">Velar consonants cannot be followed by и;
                 replace with ы.</sch:report>
-            <sch:report test="matches(., '[аеыоуѧѩѥꙋиюꙗ][аѧе]')">Plain (non-jotated) vowels should
-                not follow vowel letters except at hiatus.</sch:report>
+            <sch:report role="warning" test="matches(., '[аеыоуѧѩѥꙋиюꙗ][аѧе]')">Plain (non-jotated)
+                vowels should not follow vowel letters except at hiatus.</sch:report>
             <sch:report test=". eq 'дабы'">Да бы is two words.</sch:report>
         </sch:rule>
     </sch:pattern>
