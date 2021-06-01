@@ -2,7 +2,7 @@
 <?xml-model href="reader.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="reader.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section>
-   <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·и҃·</title>
+   <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·И҃·</title>
    <body>
       <p>
          <w>
@@ -15,11 +15,13 @@
          </w>
          <w>
             <pldr>собра</pldr>
-            <rec>събра</rec>
+            <rec>събьра</rec>
+            <!-- The infinitive/aorist root is бьр– (front jer) -->
          </w>
          <w>
             <pldr>множество</pldr>
             <rec>мъножьство</rec>
+            <!-- The root has a back jer between the first two consonants: мън– -->
          </w>
          <w>
             <pldr>вой</pldr>
@@ -48,6 +50,9 @@
          <w>
             <pldr>тысящники,</pldr>
             <rec>тысѧщьникы,</rec>
+            <note>mApl of o-stem <os>тысѧщьникъ</os>
+               <gloss>chiliarch (leader of 1000)</gloss></note>
+            <!-- The suffix –ьник– begins with a front jer -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -99,7 +104,8 @@
          </w>
          <w>
             <pldr>многими</pldr>
-            <rec>многыми</rec>
+            <rec>мъногыми</rec>
+            <!-- The root has a back jer between the first two consonants: мън– -->
          </w>
          <w>
             <pldr>вои</pldr>
@@ -132,6 +138,8 @@
          <w>
             <pldr>ужасна,</pldr>
             <rec>оужасьна,</rec>
+            <note>fNsg short form of <os>оужасьнъ</os>
+               <gloss>fearful</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -175,7 +183,8 @@
          </w>
          <w>
             <pldr>Воссия</pldr>
-            <rec>Въссиꙗ</rec>
+            <rec>Въсиꙗ</rec>
+            <!-- Single с, since no doubled consonants -->
          </w>
          <w>
             <pldr>солнце</pldr>
@@ -187,17 +196,15 @@
          </w>
          <w>
             <pldr>месяцъ</pldr>
-
             <rec>мѣсѧць</rec>
-
-
          </w>
          <w>
             <pldr>просвети</pldr>
             <rec>просвѣти</rec>
          </w>
-         <w>  <pldr>ся.</pldr>
-         <rec>сѧ.</rec>
+         <w>
+            <pldr>ся.</pldr>
+            <rec>сѧ.</rec>
          </w>
          <w>
             <pldr>Стратиг</pldr>
@@ -213,7 +220,8 @@
          </w>
          <w>
             <pldr>приспе</pldr>
-            <rec>приспе</rec>
+            <rec>приспѣ</rec>
+            <!-- The root ends in ѣ, not е -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -230,6 +238,7 @@
          <w>
             <pldr>многими</pldr>
             <rec>мъногыми</rec>
+            <!-- The root has a back jer between the first two consonants: мън– -->
          </w>
          <w>
             <pldr>вои</pldr>
@@ -257,7 +266,8 @@
          </w>
          <w>
             <pldr>собра</pldr>
-            <rec>събра</rec>
+            <rec>събьра</rec>
+            <!-- The infinitive/aorist root is бьр– (front jer) -->
          </w>
          <w>
             <pldr>своихъ</pldr>
@@ -270,6 +280,7 @@
          <w>
             <pldr>Какъ</pldr>
             <rec>Какъ</rec>
+            <note>Here: <gloss>why</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -295,13 +306,11 @@
          </w>
          <w>
             <pldr>жъ,</pldr>
-
             <rec>же,</rec>
-
          </w>
          <w>
             <pldr>восставъ</pldr>
-            <rec>въставъ</rec>
+            <rec>въставъ,</rec>
          </w>
          <w>
             <pldr>рече:</pldr>
@@ -313,7 +322,8 @@
          </w>
          <w>
             <pldr>требую</pldr>
-            <rec>требꙋю</rec>
+            <rec>трѣбꙋю</rec>
+            <!-- The root has a ѣ, not a е -->
          </w>
          <w>
             <pldr>азъ</pldr>
@@ -321,7 +331,8 @@
          </w>
          <w>
             <pldr>человѣческия</pldr>
-            <rec>человѣческыѩ</rec>
+            <rec>человѣчьскыѩ</rec>
+            <!-- The suffix –ьск– begins with front jer, not е -->
          </w>
          <w>
             <pldr>помощи,</pldr>
@@ -338,7 +349,8 @@
          <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
@@ -380,7 +392,8 @@
          </w>
          <w>
             <pldr>фаре,</pldr>
-            <rec>фарѣ,</rec>
+            <rec>фари,</rec>
+            <!-- jo-stem, so Lsg –и, not –ѣ -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -389,7 +402,8 @@
          <w>
             <pldr>препояса</pldr>
             <rec>препоꙗса</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -490,9 +504,10 @@
             <rec>прилежьно</rec>
          </w>
          <w>
-            <pldr>молити:</pldr>
-            <rec>молити:</rec>
-         </w>         <w>
+            <pldr>молити</pldr>
+            <rec>молити</rec>
+         </w>
+         <w>
             <pldr>сь:</pldr>
             <rec>сѧ:</rec>
          </w>
@@ -674,7 +689,9 @@
          </w>
          <w>
             <pldr>брони</pldr>
-            <rec>брънꙗ</rec>
+            <rec>брънѩ</rec>
+            <note>jā-stem fNpl <os>брънѩ</os> (always plural) <gloss>armor</gloss></note>
+            <!-- pl. t. -->
          </w>
          <w>
             <pldr>златы</pldr>
@@ -686,7 +703,8 @@
          </w>
          <w>
             <pldr>шеломъ</pldr>
-            <rec>шлѣмъ</rec>
+            <rec>шлемъ</rec>
+            <!-- We write е, rather than ѣ, for *tert -->
          </w>
          <w>
             <pldr>златъ</pldr>
@@ -710,11 +728,14 @@
          </w>
          <w>
             <pldr>жемчюгомъ</pldr>
-            <rec>жьньчꙋгомь</rec>
+            <rec>жьньчꙋгъмь</rec>
+            <!-- ESl mIsg is –ьмь, not –омь -->
          </w>
          <w>
             <pldr>саженъ,</pldr>
             <rec>саженъ,</rec>
+            <note>ppl pt p mNsg <os>садити</os>
+               <gloss>sow</gloss> (here <gloss>decorated</gloss>)</note>
          </w>
          <w>
             <pldr>а</pldr>
@@ -766,15 +787,18 @@
          </w>
          <w>
             <pldr>бронех,</pldr>
-            <rec>бронѧхъ,</rec>
+            <rec>бронꙗхъ,</rec>
+            <!-- jā-stem Lpl is –ꙗхъ, not –ѧхъ -->
          </w>
          <w>
             <pldr>токмо</pldr>
-            <rec>токмо</rec>
+            <rec>тъкъмо</rec>
+            <!--  written with two back jers -->
          </w>
          <w>
             <pldr>шеломы</pldr>
-            <rec>шлѣми</rec>
+            <rec>шлеми</rec>
+            <!-- We write е, rather than ѣ, for *tert -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -885,7 +909,8 @@
          <w>
             <pldr>удари</pldr>
             <rec>оудари</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -952,7 +977,8 @@
          <w>
             <pldr>возврати</pldr>
             <rec>възврати</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -975,7 +1001,8 @@
          <w>
             <pldr>удари</pldr>
             <rec>оудари</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1014,7 +1041,8 @@
          <w>
             <pldr>с</pldr>
             <rec>съ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>верхъ</pldr>
             <rec>вьрхꙋ</rec>
          </w>
@@ -1053,7 +1081,8 @@
          <w>
             <pldr>молити</pldr>
             <rec>молити</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1072,7 +1101,8 @@
          <w>
             <pldr>радовати</pldr>
             <rec>радовати</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
