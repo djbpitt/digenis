@@ -34,8 +34,8 @@
             <rec>радости</rec>
          </w>
          <w>
-            <pldr>наполниша,</pldr>
-            <rec>напълниша,</rec>
+            <pldr>наполниша</pldr>
+            <rec>напълнишѧ</rec>
          </w>
          <w>
             <pldr>сь,</pldr>
@@ -139,7 +139,7 @@
          </w>
          <w>
             <pldr>честию.</pldr>
-            <rec>честию.</rec>
+            <rec>чьстию.</rec>
          </w>
       </p>
       <p>
@@ -205,7 +205,7 @@
          </w>
          <w>
             <pldr>юношемъ,</pldr>
-            <rec>оуношемь!</rec>
+            <rec>оуношею!</rec>
          </w>
          <w>
             <pldr>о</pldr>
@@ -352,7 +352,7 @@
          </w>
          <w>
             <pldr>звати,</pldr>
-            <rec>звати,</rec>
+            <rec>звати;</rec>
             <note> звати inserted by Speranskii, adopted by Kuz'mina and Tvorogov </note>
          </w>
          <w>
@@ -539,7 +539,7 @@
          </w>
          <w>
             <pldr>зятя</pldr>
-            <rec>зѧтꙗ</rec>
+            <rec>зѧти</rec>
          </w>
          <w>
             <pldr>милово;</pldr>
@@ -665,7 +665,7 @@
          </w>
          <w>
             <pldr>выехаша,</pldr>
-            <rec>выѣхаша,</rec>
+            <rec>выѣхашѧ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -756,7 +756,7 @@
          </w>
          <w>
             <pldr>зятю</pldr>
-            <rec>зѧтю</rec>
+            <rec>зѧти</rec>
          </w>
          <w>
             <pldr>своему</pldr>
@@ -912,7 +912,7 @@
          </w>
          <w>
             <pldr>шатеръ</pldr>
-            <rec>шатеръ</rec>
+            <rec>шатьръ</rec>
          </w>
          <w>
             <pldr>великъ</pldr>
@@ -976,7 +976,7 @@
          </w>
          <w>
             <pldr>шатра</pldr>
-            <rec>шатра</rec>
+            <rec>шатьра</rec>
          </w>
          <w>
             <pldr>того</pldr>
@@ -984,7 +984,7 @@
          </w>
          <w>
             <pldr>шелковы,</pldr>
-            <rec>шелкова,</rec>
+            <rec>шьлкова,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1064,7 +1064,7 @@
          </w>
          <w>
             <pldr>теща</pldr>
-            <rec>теща</rec>
+            <rec>тьща</rec>
          </w>
          <w>
             <pldr>дастъ</pldr>
@@ -1366,11 +1366,11 @@
          </w>
          <w>
             <pldr>славу</pldr>
-            <rec>славу</rec>
+            <rec>славꙋ</rec>
          </w>
          <w>
             <pldr>Богу</pldr>
-            <rec>Богу</rec>
+            <rec>Богꙋ</rec>
          </w>
          <w>
             <pldr>воздаяху,</pldr>
@@ -1381,8 +1381,8 @@
             <rec>иже</rec>
          </w>
          <w>
-            <pldr>съподоби</pldr>
-            <rec>сподоби</rec>
+            <pldr>сподоби</pldr>
+            <rec>съподоби</rec>
          </w>
          <w>
             <pldr>имъ</pldr>
