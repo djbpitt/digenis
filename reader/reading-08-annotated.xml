@@ -311,6 +311,8 @@
          <w>
             <pldr>восставъ</pldr>
             <rec>въставъ,</rec>
+            <note>From <em>vъs-stati</em>
+               <gloss>stand up</gloss>, with degemination.</note>
          </w>
          <w>
             <pldr>рече:</pldr>
@@ -553,7 +555,8 @@
          </w>
          <w>
             <pldr>греха</pldr>
-            <rec>грѣха</rec>
+            <rec>греха</rec>
+            <!--We keep е here, instead of changing it to ѣ-->
          </w>
          <w>
             <pldr>не</pldr>
@@ -787,8 +790,8 @@
          </w>
          <w>
             <pldr>бронех,</pldr>
-            <rec>бронꙗхъ,</rec>
-            <!-- jā-stem Lpl is –ꙗхъ, not –ѧхъ -->
+            <rec>брънꙗхъ,</rec>
+            <!-- jā-stem Lpl is –ꙗхъ, not –ѧхъ, stem is *tъrt -->
          </w>
          <w>
             <pldr>токмо</pldr>
@@ -810,7 +813,8 @@
          </w>
          <w>
             <pldr>златы,</pldr>
-            <rec>златы,</rec>
+            <rec>злати,</rec>
+            <!-- mNpl, agreeing with шлеми -->
          </w>
          <w>
             <pldr>а</pldr>
@@ -885,6 +889,8 @@
          <w>
             <pldr>стрети</pldr>
             <rec>сърѣте</rec>
+            <note>3sg aor of <os>сърѣсти, сърѧщꙋть</os>
+               <gloss>meet</gloss></note>
          </w>
          <w>
             <pldr>ихъ,</pldr>
@@ -901,6 +907,8 @@
          <w>
             <pldr>дюжи</pldr>
             <rec>дюжии</rec>
+            <note>mNsg long form of <os>дюжии</os>
+               <gloss>powerful</gloss></note>
          </w>
          <w>
             <pldr>соколъ</pldr>
@@ -937,6 +945,8 @@
          <w>
             <pldr>косецъ</pldr>
             <rec>косьць</rec>
+            <note>jo-stem mNsg <os>косьць</os>
+               <gloss>mower</gloss></note>
          </w>
          <w>
             <pldr>траву</pldr>
@@ -1021,6 +1031,8 @@
          <w>
             <pldr>нагна,</pldr>
             <rec>нагъна,</rec>
+            <note>3sg aor of <os>нагънати, женꙋть</os>
+               <gloss>overtake</gloss></note>
          </w>
          <w>
             <pldr>удари</pldr>
@@ -1048,7 +1060,8 @@
          </w>
          <w>
             <pldr>шелома,</pldr>
-            <rec>шлѣма,</rec>
+            <rec>шлема,</rec>
+            <!-- We write е, rather than ѣ, for *tert -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -1065,6 +1078,9 @@
          <w>
             <pldr>сверже.</pldr>
             <rec>съвьрже.</rec>
+            <note>3sg aor of <os>съврещи, съвьргꙋть</os>
+               <gloss>cast down</gloss></note>
+            <!-- We write е, rather than ѣ, for *tert -->
          </w>
          <w>
             <pldr>И</pldr>
@@ -1113,6 +1129,8 @@
          <w>
             <pldr>восхищеною</pldr>
             <rec>въсхыщеною</rec>
+            <note>ppl pt p fIsg of <os>въсхытити</os>
+               <gloss>abduct</gloss></note>
          </w>
          <w>
             <pldr>дѣвицею,</pldr>
@@ -1132,7 +1150,8 @@
          </w>
          <w>
             <pldr>Подаждь</pldr>
-            <rec>Подаждь</rec>
+            <rec>Подажь</rec>
+            <!-- We write ж for *dj -->
          </w>
          <w>
             <pldr>ми</pldr>
@@ -1177,6 +1196,8 @@
          <w>
             <pldr>превяза,</pldr>
             <rec>превѧза,</rec>
+            <note>3sg of <os>(пре)вѧзати</os>
+               <gloss>tie (up)</gloss></note>
          </w>
          <w>
             <pldr>нагнавъ,</pldr>
@@ -1244,7 +1265,7 @@
          </w>
          <w>
             <pldr>погна,</pldr>
-            <rec>поъгна,</rec>
+            <rec>погъна,</rec>
          </w>
          <w>
             <pldr>где</pldr>
@@ -1257,6 +1278,8 @@
          <w>
             <pldr>стояще.</pldr>
             <rec>стоꙗше.</rec>
+            <note>3sg imperfect of <os>стоꙗти</os>
+               <gloss>stand</gloss>; note our correction of <os>щ</os> to <os>ш</os></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1312,7 +1335,8 @@
          </w>
          <w>
             <pldr>мне</pldr>
-            <rec>мьне</rec>
+            <rec>мьнѣ</rec>
+            <!-- Dsg ends in ѣ -->
          </w>
          <w>
             <pldr>не</pldr>
