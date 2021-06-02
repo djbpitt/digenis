@@ -18,12 +18,16 @@
             <rec>рано</rec>
          </w>
          <w>
-            <pldr>исполчися</pldr>
-            <rec>исполчися</rec>
+            <pldr>исполчи</pldr>
+            <rec>испълчи</rec>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>царь</rec>
+            <rec>цѣсарь</rec>
          </w>
          <w>
             <pldr>Василий</pldr>
@@ -39,23 +43,23 @@
          </w>
          <w>
             <pldr>чрезъ</pldr>
-            <rec>чрезъ</rec>
+            <rec>чресъ</rec>
          </w>
          <w>
             <pldr>реку</pldr>
-            <rec>реку</rec>
+            <rec>рѣкꙋ</rec>
          </w>
          <w>
             <pldr>ехати,</pldr>
-            <rec>ѥхати,</rec>
+            <rec>ѣхати,</rec>
          </w>
          <w>
             <pldr>хотяще,</pldr>
-            <rec>хотяще,</rec>
+            <rec>хотѧ,</rec>
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>зайца</pldr>
@@ -63,23 +67,25 @@
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>тяняте,</pldr>
-            <rec>тяняте,</rec>
+            <rec>тенетѣ,</rec>
+            <note>Attested as <os>тенето</os>, <os>теното</os>, <os>тоното</os>
+               <gloss>snare</gloss>.</note>
          </w>
          <w>
             <pldr>яти</pldr>
-            <rec>яти</rec>
+            <rec>ѩти</rec>
          </w>
          <w>
             <pldr>Девгения.</pldr>
-            <rec>Девгения.</rec>
+            <rec>Девгениꙗ.</rec>
          </w>
          <w>
             <pldr>Увидевъ</pldr>
-            <rec>Увидевъ</rec>
+            <rec>Оувидѣвъ</rec>
          </w>
          <w>
             <pldr>Девгений</pldr>
@@ -87,7 +93,7 @@
          </w>
          <w>
             <pldr>множество</pldr>
-            <rec>множество</rec>
+            <rec>мъножьство</rec>
          </w>
          <w>
             <pldr>вой</pldr>
@@ -95,7 +101,7 @@
          </w>
          <w>
             <pldr>исполчено</pldr>
-            <rec>исполчено</rec>
+            <rec>испълчено</rec>
          </w>
          <w>
             <pldr>у</pldr>
@@ -103,11 +109,11 @@
          </w>
          <w>
             <pldr>царя</pldr>
-            <rec>царя</rec>
+            <rec>цѣсарꙗ</rec>
          </w>
          <w>
             <pldr>Василия</pldr>
-            <rec>Василия</rec>
+            <rec>Василиꙗ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -115,27 +121,27 @@
          </w>
          <w>
             <pldr>разуме,</pldr>
-            <rec>разꙋме,</rec>
+            <rec>разꙋмѣ,</rec>
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>хотят</pldr>
-            <rec>хотят</rec>
+            <rec>хотѧть</rec>
          </w>
          <w>
             <pldr>приехать</pldr>
-            <rec>приѥхать</rec>
+            <rec>приѣхати</rec>
          </w>
          <w>
             <pldr>чрезъ</pldr>
-            <rec>чрезъ</rec>
+            <rec>чресъ</rec>
          </w>
          <w>
             <pldr>реку</pldr>
-            <rec>реку</rec>
+            <rec>рѣкꙋ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -143,7 +149,11 @@
          </w>
          <w>
             <pldr>обойти</pldr>
-            <rec>обоити</rec>
+            <rec>объити</rec>
+            <note>The manuscript says <os>боити</os>, Tvorogov emends to <os>объити</os>
+               <gloss>surround</gloss> (which we accept); Kuz′mina favors<os>оубити</os>
+               <gloss>kill</gloss>, but the context is about trapping, and not immediately about
+               killing.</note>
          </w>
          <w>
             <pldr>его.</pldr>
@@ -159,11 +169,15 @@
          </w>
          <w>
             <pldr>ярости</pldr>
-            <rec>ярости</rec>
+            <rec>ꙗрости</rec>
          </w>
          <w>
-            <pldr>исполнись</pldr>
-            <rec>исполнись</rec>
+            <pldr>исполнис</pldr>
+            <rec>испълни</rec>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -175,15 +189,15 @@
          </w>
          <w>
             <pldr>своим</pldr>
-            <rec>своим</rec>
+            <rec>своимъ</rec>
          </w>
          <w>
             <pldr>предстателемъ:</pldr>
-            <rec>предстателемъ:</rec>
+            <rec>предъстателемъ:</rec>
          </w>
          <w>
             <pldr>«Приидите</pldr>
-            <rec>«Приидите</rec>
+            <rec>«Приидѣте</rec>
          </w>
          <w>
             <pldr>по</pldr>
@@ -191,7 +205,7 @@
          </w>
          <w>
             <pldr>мне,</pldr>
-            <rec>мне,</rec>
+            <rec>мьнѣ,</rec>
          </w>
          <w>
             <pldr>мало</pldr>
@@ -199,11 +213,11 @@
          </w>
          <w>
             <pldr>помедливше,</pldr>
-            <rec>помедливше,</rec>
+            <rec>помьдьливъше,</rec>
          </w>
          <w>
             <pldr>азъ</pldr>
-            <rec>азъ</rec>
+            <rec>ꙗзъ</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -211,15 +225,20 @@
          </w>
          <w>
             <pldr>прежде</pldr>
-            <rec>прежде</rec>
+            <rec>преже</rec>
          </w>
          <w>
             <pldr>васъ</pldr>
             <rec>васъ</rec>
          </w>
          <w>
-            <pldr>потруждаюся</pldr>
-            <rec>потрꙋждаюся</rec>
+            <pldr>потруждаю</pldr>
+            <rec>потрꙋжаю</rec>
+            <note>Here: <gloss>delay, tarry</gloss>.</note>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -227,11 +246,11 @@
          </w>
          <w>
             <pldr>послужу</pldr>
-            <rec>послꙋжу</rec>
+            <rec>послꙋжꙋ</rec>
          </w>
          <w>
             <pldr>царю».</pldr>
-            <rec>царю».</rec>
+            <rec>цѣсарю».</rec>
          </w>
       </p>
       <p>
@@ -256,12 +275,18 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>подпреся</pldr>
-            <rec>подпреся</rec>
+            <pldr>подпре</pldr>
+            <rec>подъпре</rec>
+            <note><os>подъпрети, подъпьрꙋть сѧ</os>
+               <gloss>prop oneself up</gloss></note>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>копиемъ,</pldr>
-            <rec>копиѥмъ,</rec>
+            <rec>копиѥмь,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -273,19 +298,19 @@
          </w>
          <w>
             <pldr>чрезъ</pldr>
-            <rec>чрезъ</rec>
+            <rec>чресъ</rec>
          </w>
          <w>
             <pldr>реку,</pldr>
-            <rec>рекꙋ,</rec>
+            <rec>рѣкꙋ,</rec>
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>дюжи</pldr>
-            <rec>дюжи</rec>
+            <rec>дюжии</rec>
          </w>
          <w>
             <pldr>соколъ,</pldr>
@@ -293,7 +318,7 @@
          </w>
          <w>
             <pldr>велегласно</pldr>
-            <rec>велегласно</rec>
+            <rec>велегласьно</rec>
          </w>
          <w>
             <pldr>кликнувъ:</pldr>
@@ -301,7 +326,7 @@
          </w>
          <w>
             <pldr>«Где</pldr>
-            <rec>«Где</rec>
+            <rec>Къде</rec>
          </w>
          <w>
             <pldr>есть</pldr>
@@ -313,7 +338,7 @@
          </w>
          <w>
             <pldr>царь,</pldr>
-            <rec>царь,</rec>
+            <rec>цѣсарь,</rec>
          </w>
          <w>
             <pldr>иже</pldr>
