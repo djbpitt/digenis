@@ -1072,27 +1072,27 @@
          </w>
          <w>
             <pldr>30</pldr>
-            <rec>30</rec>
+            <rec>·л҃·</rec>
          </w>
          <w>
             <pldr>драгих</pldr>
-            <rec>драгих</rec>
+            <rec>драгыхъ</rec>
          </w>
          <w>
             <pldr>поволокъ</pldr>
-            <rec>поволокъ</rec>
+            <rec>паволокъ</rec>
          </w>
          <w>
             <pldr>зеленых,</pldr>
-            <rec>зеленых,</rec>
+            <rec>зеленыхъ,</rec>
          </w>
          <w>
             <pldr>20</pldr>
-            <rec>20</rec>
+            <rec>·к҃·</rec>
          </w>
          <w>
             <pldr>кожуховъ,</pldr>
-            <rec>кожꙋховъ,</rec>
+            <rec>кожꙋхъ,</rec>
          </w>
          <w>
             <pldr>шиты</pldr>
@@ -1100,23 +1100,23 @@
          </w>
          <w>
             <pldr>сухимъ</pldr>
-            <rec>сꙋхимъ</rec>
+            <rec>сꙋхымь</rec>
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златомъ</rec>
+            <rec>златомь</rec>
          </w>
          <w>
             <pldr>з</pldr>
-            <rec>з</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>драгимъ</pldr>
-            <rec>драгимъ</rec>
+            <rec>драгымь</rec>
          </w>
          <w>
             <pldr>камениемъ</pldr>
-            <rec>камениѥмъ</rec>
+            <rec>камениѥмь</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1124,11 +1124,11 @@
          </w>
          <w>
             <pldr>жемчюгомъ,</pldr>
-            <rec>жемчꙋгомъ,</rec>
+            <rec>жемчꙋгомь;</rec>
          </w>
          <w>
             <pldr>иныя</pldr>
-            <rec>иныя</rec>
+            <rec>иныѩ</rec>
          </w>
          <w>
             <pldr>дары</pldr>
@@ -1136,7 +1136,7 @@
          </w>
          <w>
             <pldr>многи</pldr>
-            <rec>многи</rec>
+            <rec>мъногы</rec>
          </w>
          <w>
             <pldr>дастъ</pldr>
@@ -1148,7 +1148,7 @@
          </w>
          <w>
             <pldr>Первы</pldr>
-            <rec>Первы</rec>
+            <rec>Пьрвыи</rec>
          </w>
          <w>
             <pldr>шуринъ</pldr>
@@ -1160,39 +1160,39 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>80</pldr>
-            <rec>80</rec>
+            <rec>·п҃·</rec>
          </w>
          <w>
             <pldr>поясовъ</pldr>
-            <rec>поясовъ</rec>
+            <rec>поꙗсъ</rec>
          </w>
          <w>
             <pldr>златокованых,</pldr>
-            <rec>златокованых,</rec>
+            <rec>златокованыхъ,</rec>
          </w>
          <w>
             <pldr>иныя</pldr>
-            <rec>иныя</rec>
+            <rec>иныѩ</rec>
          </w>
          <w>
             <pldr>шурья</pldr>
-            <rec>шꙋрья</rec>
+            <rec>шꙋриꙗ</rec>
          </w>
          <w>
             <pldr>даша</pldr>
-            <rec>даша</rec>
+            <rec>дашѧ</rec>
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>многия</pldr>
-            <rec>многия</rec>
+            <rec>многыѩ</rec>
          </w>
          <w>
             <pldr>дары,</pldr>
@@ -1200,11 +1200,11 @@
          </w>
          <w>
             <pldr>имже</pldr>
-            <rec>имже</rec>
+            <rec>имъже</rec>
          </w>
          <w>
             <pldr>несть</pldr>
-            <rec>несть</rec>
+            <rec>нѣсть</rec>
          </w>
          <w>
             <pldr>числа.</pldr>
@@ -1213,24 +1213,30 @@
       </p>
       <p>
          <w>
-            <pldr>Исполнишася</pldr>
-            <rec>Исполнишася</rec>
+            <pldr>Исполниша</pldr>
+            <rec>Испълнишѧ</rec>
+         </w>         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>3</pldr>
-            <rec>3</rec>
+            <rec>·г҃·</rec>
          </w>
          <w>
             <pldr>месяцъ,</pldr>
-            <rec>месяць,</rec>
+            <rec>мѣсѧци;</rec>
          </w>
          <w>
-            <pldr>радующеся</pldr>
-            <rec>радꙋющеся</rec>
+            <pldr>радующе</pldr>
+            <rec>радꙋюще</rec>
+         </w>         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>свадьбе,</pldr>
-            <rec>свадьбе,</rec>
+            <rec>сватьбѣ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1238,7 +1244,7 @@
          </w>
          <w>
             <pldr>приятъ</pldr>
-            <rec>приятъ</rec>
+            <rec>приѩ(тъ)</rec>
          </w>
          <w>
             <pldr>Стратигъ</pldr>
@@ -1250,7 +1256,7 @@
          </w>
          <w>
             <pldr>честь,</pldr>
-            <rec>честь,</rec>
+            <rec>чьсть,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1281,8 +1287,11 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>Амиратъ</pldr>
-            <rec>Амиратъ</rec>
+            <pldr>Амира</pldr>
+            <rec>Амира</rec>
+         </w>         <w>
+            <pldr>тъ</pldr>
+            <rec>тъ</rec>
          </w>
          <w>
             <pldr>царь.</pldr>
@@ -1298,19 +1307,19 @@
          </w>
          <w>
             <pldr>поеде</pldr>
-            <rec>поѥде</rec>
+            <rec>поѣха</rec>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>нимъ</pldr>
-            <rec>нимъ</rec>
+            <rec>нимь</rec>
          </w>
          <w>
             <pldr>провожения</pldr>
-            <rec>провожения</rec>
+            <rec>провожениꙗ</rec>
          </w>
          <w>
             <pldr>ради,</pldr>
@@ -1322,7 +1331,7 @@
          </w>
          <w>
             <pldr>зря</pldr>
-            <rec>зря</rec>
+            <rec>зьрѧ</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -1337,8 +1346,11 @@
             <rec>Стратигъ</rec>
          </w>
          <w>
-            <pldr>радовавшесь,</pldr>
-            <rec>радовавшесь,</rec>
+            <pldr>радовавше</pldr>
+            <rec>радовавше</rec>
+         </w>         <w>
+            <pldr>сь,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1362,14 +1374,14 @@
          </w>
          <w>
             <pldr>воздаяху,</pldr>
-            <rec>воздаяхꙋ,</rec>
+            <rec>въздаꙗхꙋ,</rec>
          </w>
          <w>
             <pldr>иже</pldr>
             <rec>иже</rec>
          </w>
          <w>
-            <pldr>сподоби</pldr>
+            <pldr>съподоби</pldr>
             <rec>сподоби</rec>
          </w>
          <w>
@@ -1378,7 +1390,7 @@
          </w>
          <w>
             <pldr>Богъ</pldr>
-            <rec>Богъ</rec>
+            <rec></rec>
          </w>
          <w>
             <pldr>таковаго</pldr>
@@ -1386,7 +1398,7 @@
          </w>
          <w>
             <pldr>зятя.</pldr>
-            <rec>зятя.</rec>
+            <rec>зѧти.</rec>
          </w>
       </p>
    </body>
