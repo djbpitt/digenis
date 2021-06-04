@@ -225,7 +225,7 @@
          </w>
          <w>
             <pldr>победи</pldr>
-            <rec>победи</rec>
+            <rec>побѣди</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -269,7 +269,7 @@
          </w>
          <w>
             <pldr>победихъ</pldr>
-            <rec>победихъ</rec>
+            <rec>побѣдихъ</rec>
          </w>
          <w>
             <pldr>Стратигову</pldr>
@@ -293,7 +293,7 @@
          </w>
          <w>
             <pldr>побежденъ</pldr>
-            <rec>побеженъ</rec>
+            <rec>побѣженъ</rec>
          </w>
          <w>
             <pldr>бысть».</pldr>
@@ -732,7 +732,7 @@
          </w>
          <w>
             <pldr>преславную</pldr>
-            <rec>преславнꙋю</rec>
+            <rec>преславьнꙋю</rec>
          </w>
          <w>
             <pldr>свадбу</pldr>
@@ -925,7 +925,7 @@
          <w>
             <pldr>шит</pldr>
             <rec>шитъ</rec>
-            <note> шитъ inserted by Tvorogov from Мс </note>
+            <note> шит inserted by Tvorogov from Мс </note>
          </w>
          <w>
             <pldr>весь</pldr>
@@ -1040,7 +1040,8 @@
          </w>
          <w>
             <pldr>аравитцихъ,</pldr>
-            <rec>аравитьскыхъ,</rec>
+            <rec>аравитьскаꙗ,</rec>
+            <!-- I've emended CSR agreement of Gpl adj. to EESl Apl аравитьскаꙗ (as in Мс) -->
          </w>
          <w>
             <pldr>да</pldr>
