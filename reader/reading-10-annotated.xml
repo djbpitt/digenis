@@ -64,6 +64,7 @@
          <w>
             <pldr>созваша</pldr>
             <rec>съзвашѧ</rec>
+            <!-- the infinitive root of this verb has a back jer, so: съзъвашѧ -->
          </w>
          <w>
             <pldr>весь</pldr>
@@ -84,6 +85,7 @@
          <w>
             <pldr>противу</pldr>
             <rec>противꙋ</rec>
+            <note>(here) <gloss>toward</gloss> (+ G)</note>
          </w>
          <w>
             <pldr>Девгения</pldr>
@@ -153,7 +155,17 @@
          </w>
          <w>
             <pldr>ницъ</pldr>
-            <rec>ниць</rec>
+            <rec>ници</rec>
+            <note><os>ниць</os>
+               <gloss>face downward</gloss>; originally an adjective, with agreement, later
+               developed into an invariant adverb</note>
+            <!--
+               This was originally a short-form adj, and should agree with the subject. 
+               It was later interpreted as an adverb that didn’t have to agree. See the
+               brown dictionary, v. 5, p. 417, which includes adjectival (agreeing)
+               examples from around our period. In keeping with our preference for 
+               earlier forms, I’ve been favoring the agreeing adjective. 
+            -->
          </w>
          <w>
             <pldr>вси</pldr>
@@ -206,6 +218,8 @@
          <w>
             <pldr>юношемъ,</pldr>
             <rec>оуношею!</rec>
+            <note>Note the m jo-stem ending on a jā-stem noun, apparently because of the masculine
+               gender.</note>
          </w>
          <w>
             <pldr>о</pldr>
@@ -304,11 +318,8 @@
             <rec>И</rec>
          </w>
          <w>
-            <pldr>Амира</pldr>
-            <rec>Амира</rec>
-         </w>         <w>
-            <pldr>тъ</pldr>
-            <rec>тъ</rec>
+            <pldr>Амира-тъ</pldr>
+            <rec>Амира-тъ</rec>
          </w>
          <w>
             <pldr>въборзе</pldr>
@@ -317,6 +328,9 @@
          <w>
             <pldr>шурью</pldr>
             <rec>шꙋрию</rec>
+            <note><os>шуринъ</os>
+               <gloss>wife’s brother</gloss>; this is a jā-stem collective plural, cf.
+                  <os>братъ</os>, mNpl <os>братиꙗ</os></note>
          </w>
          <w>
             <pldr>свою</pldr>
@@ -324,7 +338,8 @@
          </w>
          <w>
             <pldr>созва,</pldr>
-            <rec>съзва,</rec>
+            <rec>съзъва,</rec>
+            <!-- The infinitive root is зъв–, with a jer -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -352,8 +367,16 @@
          </w>
          <w>
             <pldr>звати,</pldr>
-            <rec>звати;</rec>
-            <note> звати inserted by Speranskii, adopted by Kuz'mina and Tvorogov </note>
+            <rec>зъвати;</rec>
+            <note>з(ъ)вати inserted by Speranskij, adopted by Kuz′mina and Tvorogov</note>
+            <!--
+            The infinitive root is зъв–, with a jer
+            We've been using “scholarly” transliteration, so Speranskij (j, rather than i, at end)
+            We use prime (′), rather tha straight apostrophe, to transliterate soft sign/front jer
+               (and, by the way, double prime (ʺ) for hard sign/back jer)
+            No blank spaces after start tags or before end tags; we use space characters only where
+               we need to represent a space, e.g., between words
+         -->
          </w>
          <w>
             <pldr>глагола</pldr>
@@ -378,6 +401,9 @@
          <w>
             <pldr>свату,</pldr>
             <rec>сватꙋ,</rec>
+            <note><os>сватъ</os>
+               <gloss>daughter-in-law’s or son-in-law’s father</gloss> (that is, <gloss>fellow
+                  father-in-law)</gloss>; originally o-stem, but here with ŭ-stem Vsg ending</note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -390,7 +416,8 @@
          <w>
             <pldr>потрудити</pldr>
             <rec>потрꙋдити</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -405,7 +432,8 @@
          <w>
             <pldr>обрадуем</pldr>
             <rec>обрадꙋѥмъ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -416,7 +444,8 @@
          <w>
             <pldr>видим</pldr>
             <rec>видимъ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -435,13 +464,21 @@
          <w>
             <pldr>обрадуют</pldr>
             <rec>обрадꙋють</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
+            <!-- 
+               Jotated ѥ; thus Miklosisch and the Prague OCS dictionary
+               Etymologically по + the 3sg pronoun, where we usually jotate
+                  (e.g., нѥмꙋ)
+              The brown dictionary writes понеже, but they apparently never
+                  write jotated ѥ anywhere
+            -->
          </w>
          <w>
             <pldr>ихъ</pldr>
@@ -504,6 +541,8 @@
          <w>
             <pldr>скопивъ</pldr>
             <rec>съкопивъ</rec>
+            <note><os>съкопити</os>
+               <gloss>gather</gloss></note>
          </w>
          <w>
             <pldr>весь</pldr>
@@ -544,6 +583,8 @@
          <w>
             <pldr>милово;</pldr>
             <rec>милаго,</rec>
+            <note>The pronunciation of the mnGsg long adjective ending <os>–ого</os> as
+                  <em>/ovo/</em> is spelled here. See Vlasto §3.40 (p. 112–13)</note>
          </w>
          <w>
             <pldr>совокупи</pldr>
@@ -567,7 +608,13 @@
          </w>
          <w>
             <pldr>своя,</pldr>
-            <rec>своѩ;</rec>
+            <rec>своꙗ;</rec>
+            <!--
+               I changed своѩ to своꙗ to agree with nApl дѣти; if you think it
+               is meant to scope to wife and kids, I think it should be своѩ, although
+               I don’t know whether there are reliable rules for agreement when 
+               conjoined referents are feminine + neuter 
+            -->
          </w>
          <w>
             <pldr>посла</pldr>
@@ -578,11 +625,8 @@
             <rec>къ</rec>
          </w>
          <w>
-            <pldr>Амира</pldr>
-            <rec>Амирѣ</rec>
-         </w>         <w>
-            <pldr>ту,</pldr>
-            <rec>тꙋ,</rec>
+            <pldr>Амира-ту,</pldr>
+            <rec>Амирѣ-тꙋ,</rec>
          </w>
          <w>
             <pldr>свату</pldr>
@@ -601,15 +645,13 @@
             <rec>слышавъ</rec>
          </w>
          <w>
-            <pldr>Амира</pldr>
-            <rec>Амира</rec>
-         </w>         <w>
-            <pldr>тъ</pldr>
-            <rec>тъ</rec>
+            <pldr>Амира-тъ</pldr>
+            <rec>Амира-тъ</rec>
          </w>
          <w>
             <pldr>царь</pldr>
             <rec>цьсарь</rec>
+            <!-- цьсарь in general, цѣсарь for the Byzantine emperor, but not modern царь -->
          </w>
          <w>
             <pldr>Стратига</pldr>
@@ -626,6 +668,8 @@
          <w>
             <pldr>грядуща,</pldr>
             <rec>грѧдꙋща,</rec>
+            <note>mAsg present active particple <os>грѧсти, грѧдуть</os> (here)
+               <gloss>come</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -674,7 +718,8 @@
          <w>
             <pldr>совокупиша</pldr>
             <rec>съвъкꙋпишѧ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -692,7 +737,8 @@
          </w>
          <w>
             <pldr>единомъ</pldr>
-            <rec>ѥдиномь</rec>
+            <rec>ѥдинъмь</rec>
+            <!-- djb: check whether –ъмь is for pronouns, too -->
          </w>
          <w>
             <pldr>мѣстѣ</pldr>
@@ -776,7 +822,13 @@
          </w>
          <w>
             <pldr>покрыты</pldr>
-            <rec>покрыты</rec>
+            <rec>покрыти</rec>
+            <!--
+               Is this a new predication, e.g., “And the they were covered
+               with rich fabrics”? If so, it should be покрыти. Since 
+               фаревь/фарь is genitive-accusative, this shouldn’t be 
+               regular accusative.
+            -->
          </w>
          <w>
             <pldr>драгими</pldr>
@@ -804,7 +856,8 @@
          </w>
          <w>
             <pldr>златом</pldr>
-            <rec>златомь</rec>
+            <rec>златъмь</rec>
+            <!-- mnIsg –ъмь -->
          </w>
          <w>
             <pldr>кованы;</pldr>
@@ -833,6 +886,8 @@
          <w>
             <pldr>пардусовъ</pldr>
             <rec>пардꙋсъ</rec>
+            <note><os>пардꙋсъ</os>
+               <gloss>(hunting) leopard</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -852,7 +907,16 @@
          </w>
          <w>
             <pldr>кормилицы</pldr>
-            <rec>кърмилици</rec>
+            <rec>кърмильци</rec>
+            <note>jo-stem <os>кърмильць</os>
+               <gloss>care-taker (of animals)</gloss>. The usual suffix is <os>–ьц–</os>, rather
+               than <os>–иц–</os>.</note>
+            <!-- 
+               green dictionary for кърмильць (in their orthography) v. 7, p. 318 
+               includes “тот, кто кормит животных”, a meaning not given for 
+               кърмилица (never mind that the Ipl ending would be wrong for a 
+               jā-stem)
+            -->
          </w>
          <w>
             <pldr>своими,</pldr>
@@ -877,18 +941,23 @@
          <w>
             <pldr>кожуховъ,</pldr>
             <rec>кожꙋхъ,</rec>
+            <note><os>кожꙋхъ</os>
+               <gloss>fur coat</gloss></note>
          </w>
          <w>
             <pldr>сухимъ</pldr>
             <rec>сꙋхымь</rec>
+            <note><os>сухъ златъ</os> is an idiom for <gloss>pure gold</gloss></note>
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златомь</rec>
+            <rec>златъмь</rec>
+            <!-- mnIsg –ъмь -->
          </w>
          <w>
             <pldr>шиты,</pldr>
-            <rec>шиты,</rec>
+            <rec>шитыхъ,</rec>
+            <!-- agrees with 20 кожухъ (Gpl) -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -925,20 +994,28 @@
          <w>
             <pldr>шит</pldr>
             <rec>шитъ</rec>
-            <note> шит inserted by Tvorogov from Мс </note>
+            <note><os>шит(ъ)</os> inserted by Tvorogov from Мс </note>
+            <!-- 
+               In the <note> element, no blank spaces after start tags or before 
+               end tags; we use space characters only where we need to represent 
+               a space, e.g., between words
+            -->
          </w>
          <w>
             <pldr>весь</pldr>
-            <rec>весь</rec>
+            <rec>вьсь</rec>
+            <!-- Jer in root -->
          </w>
          <w>
             <pldr>златомъ;</pldr>
-            <rec>златомь;</rec>
+            <rec>златъмь;</rec>
+            <!-- mnIsg –ъмь -->
          </w>
          <w>
             <pldr>вмещаху</pldr>
             <rec>въмѣщахꙋ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -969,6 +1046,8 @@
          <w>
             <pldr>ужища</pldr>
             <rec>оужищѧ</rec>
+            <note><os>оужище</os>
+               <gloss>cord</gloss> (for tying back opening of tent)</note>
          </w>
          <w>
             <pldr>у</pldr>
@@ -984,7 +1063,8 @@
          </w>
          <w>
             <pldr>шелковы,</pldr>
-            <rec>шьлкова,</rec>
+            <rec>шьлковы,</rec>
+            <!-- agrees with оужицѧ-->
          </w>
          <w>
             <pldr>а</pldr>
@@ -993,6 +1073,8 @@
          <w>
             <pldr>колца</pldr>
             <rec>кольца</rec>
+            <note><os>кольце</os>
+               <gloss>ring</gloss> (here: also for tying back opening of tent)</note>
          </w>
          <w>
             <pldr>сребряные;</pldr>
@@ -1025,6 +1107,8 @@
          <w>
             <pldr>Феодоръ;</pldr>
             <rec>Ѳеодоръ;</rec>
+            <note>The icon is of two Sts. Theodore (give their names), here with a pluraal, rather
+               than a dual</note>
          </w>
          <w>
             <pldr>да</pldr>
@@ -1041,7 +1125,10 @@
          <w>
             <pldr>аравитцихъ,</pldr>
             <rec>аравитьскаꙗ,</rec>
-            <!-- I've emended CSR agreement of Gpl adj. to EESl Apl аравитьскаꙗ (as in Мс) -->
+            <!-- 
+               I've emended CSR agreement of Gpl adj. to EESl Apl аравитьскаꙗ (as in Мс)
+               djb: I think this is what we’d expect in OR
+            -->
          </w>
          <w>
             <pldr>да</pldr>
@@ -1066,6 +1153,8 @@
          <w>
             <pldr>теща</pldr>
             <rec>тьща</rec>
+            <note><os>тьща</os>
+               <gloss>wife’s mother</gloss></note>
          </w>
          <w>
             <pldr>дастъ</pldr>
@@ -1097,7 +1186,8 @@
          </w>
          <w>
             <pldr>шиты</pldr>
-            <rec>шиты</rec>
+            <rec>шитыхъ</rec>
+            <!-- Gpl adj to agree with noun -->
          </w>
          <w>
             <pldr>сухимъ</pldr>
@@ -1105,7 +1195,8 @@
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златомь</rec>
+            <rec>златъмь</rec>
+            <!-- mnIsg –ъмь -->
          </w>
          <w>
             <pldr>з</pldr>
@@ -1125,7 +1216,8 @@
          </w>
          <w>
             <pldr>жемчюгомъ,</pldr>
-            <rec>жемчꙋгомь;</rec>
+            <rec>жемчꙋгъмь;</rec>
+            <!-- mnIsg –ъмь -->
          </w>
          <w>
             <pldr>иныя</pldr>
@@ -1193,7 +1285,8 @@
          </w>
          <w>
             <pldr>многия</pldr>
-            <rec>многыѩ</rec>
+            <rec>мъногыѩ</rec>
+            <!-- jer between first two consonants -->
          </w>
          <w>
             <pldr>дары,</pldr>
@@ -1216,7 +1309,8 @@
          <w>
             <pldr>Исполниша</pldr>
             <rec>Испълнишѧ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1231,7 +1325,8 @@
          <w>
             <pldr>радующе</pldr>
             <rec>радꙋюще</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1288,15 +1383,13 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>Амира</pldr>
-            <rec>Амира</rec>
-         </w>         <w>
-            <pldr>тъ</pldr>
-            <rec>тъ</rec>
+            <pldr>Амира-тъ</pldr>
+            <rec>Амира-тъ</rec>
          </w>
          <w>
             <pldr>царь.</pldr>
-            <rec>царь.</rec>
+            <rec>цьсарь.</rec>
+            <!-- цьсарь in general, цѣсарь for the Byzantine emperor, but not modern царь -->
          </w>
          <w>
             <pldr>А</pldr>
@@ -1348,8 +1441,10 @@
          </w>
          <w>
             <pldr>радовавше</pldr>
-            <rec>радовавше</rec>
-         </w>         <w>
+            <rec>радовавъ</rec>
+            <!-- mNsg to agree with Стратигъ -->
+         </w>
+         <w>
             <pldr>сь,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -1384,6 +1479,8 @@
          <w>
             <pldr>сподоби</pldr>
             <rec>съподоби</rec>
+            <note><os>съподобити</os>
+               <gloss>award; endow</gloss></note>
          </w>
          <w>
             <pldr>имъ</pldr>
@@ -1391,7 +1488,7 @@
          </w>
          <w>
             <pldr>Богъ</pldr>
-            <rec></rec>
+            <rec/>
          </w>
          <w>
             <pldr>таковаго</pldr>
