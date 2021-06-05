@@ -63,7 +63,7 @@
          </w>
          <w>
             <pldr>созваша</pldr>
-            <rec>съзвашѧ</rec>
+            <rec>съзъвашѧ</rec>
             <!-- the infinitive root of this verb has a back jer, so: съзъвашѧ -->
          </w>
          <w>
@@ -368,11 +368,12 @@
          <w>
             <pldr>звати,</pldr>
             <rec>зъвати;</rec>
-            <note>з(ъ)вати inserted by Speranskij, adopted by Kuz′mina and Tvorogov</note>
+            <note>з(ъ)вати inserted by Speranskij, adopted by <span style="word-wrap:"
+                  >Kuz′mina</span> and Tvorogov</note>
             <!--
             The infinitive root is зъв–, with a jer
             We've been using “scholarly” transliteration, so Speranskij (j, rather than i, at end)
-            We use prime (′), rather tha straight apostrophe, to transliterate soft sign/front jer
+            We use prime (′), rather than straight apostrophe, to transliterate soft sign/front jer
                (and, by the way, double prime (ʺ) for hard sign/back jer)
             No blank spaces after start tags or before end tags; we use space characters only where
                we need to represent a space, e.g., between words
@@ -551,6 +552,12 @@
          <w>
             <pldr>родъ</pldr>
             <rec>родъ</rec>
+            <!-- 
+               Should we include a cultural note about
+               родъ as collateral, so spouse and lineal
+               offspring are not included? Is that definition
+               correct?
+            -->
          </w>
          <w>
             <pldr>свой</pldr>
@@ -737,8 +744,14 @@
          </w>
          <w>
             <pldr>единомъ</pldr>
-            <rec>ѥдинъмь</rec>
-            <!-- djb: check whether –ъмь is for pronouns, too -->
+            <rec>ѥдиномь</rec>
+            <!-- 
+               xi–xiv says adjective, Cejtlin says pronoun
+               we follow the pronominal form found in the ms
+                  (which was borrowed into adjectival declension
+                  in ESl eventually)
+                ѥдьн– not in xi–xiv
+            -->
          </w>
          <w>
             <pldr>мѣстѣ</pldr>
@@ -844,7 +857,10 @@
          </w>
          <w>
             <pldr>седла</pldr>
-            <rec>сѣдла</rec>
+            <rec>седьла</rec>
+            <!--
+                 Vasmer sedьlo and sedъlo                 
+            -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -883,6 +899,9 @@
             <pldr>конюховъ,</pldr>
             <rec>конюхъ,</rec>
          </w>
+         <!--
+            Should there be a number here? 
+          -->
          <w>
             <pldr>пардусовъ</pldr>
             <rec>пардꙋсъ</rec>
@@ -1045,10 +1064,12 @@
          </w>
          <w>
             <pldr>ужища</pldr>
-            <rec>оужищѧ</rec>
+            <rec>оужища</rec>
             <note><os>оужище</os>
                <gloss>cord</gloss> (for tying back opening of tent)</note>
+            <!-- neuter plural, so –а Srev III; 1167 -->
          </w>
+         <!-- RESUME HERE -->
          <w>
             <pldr>у</pldr>
             <rec>оу</rec>
