@@ -111,4 +111,18 @@
             <xsl:apply-templates/>
         </em>
     </xsl:template>
+    <xsl:template match="text()">
+        <!-- 
+            XHTML will wrap after prime by default
+            insert word joiner (&#x2060;) to override
+        -->
+        <xsl:analyze-string select="." regex="′">
+            <xsl:matching-substring>
+                <xsl:value-of select=". || '&#x2060;'"/>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>
 </xsl:stylesheet>
