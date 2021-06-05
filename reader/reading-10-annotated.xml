@@ -1069,7 +1069,6 @@
                <gloss>cord</gloss> (for tying back opening of tent)</note>
             <!-- neuter plural, so –а Srev III; 1167 -->
          </w>
-         <!-- RESUME HERE -->
          <w>
             <pldr>у</pldr>
             <rec>оу</rec>
@@ -1084,8 +1083,8 @@
          </w>
          <w>
             <pldr>шелковы,</pldr>
-            <rec>шьлковы,</rec>
-            <!-- agrees with оужицѧ-->
+            <rec>шьлкова,</rec>
+            <!-- agrees with оужица (neuter pl.) -->
          </w>
          <w>
             <pldr>а</pldr>
@@ -1128,8 +1127,12 @@
          <w>
             <pldr>Феодоръ;</pldr>
             <rec>Ѳеодоръ;</rec>
-            <note>The icon is of two Sts. Theodore (give their names), here with a pluraal, rather
-               than a dual</note>
+            <note>The icon is of two Sts. Theodore, given here with a pluraal, rather than a
+               dual</note>
+            <!--
+               Give the names of the two saints
+               Should we change this to a dual?
+            -->
          </w>
          <w>
             <pldr>да</pldr>
@@ -1237,8 +1240,11 @@
          </w>
          <w>
             <pldr>жемчюгомъ,</pldr>
-            <rec>жемчꙋгъмь;</rec>
-            <!-- mnIsg –ъмь -->
+            <rec>жьньчꙋгъмь;</rec>
+            <!-- 
+               I think we agreed to standardize on жьньчꙋгъ 
+               mnIsg –ъмь 
+            -->
          </w>
          <w>
             <pldr>иныя</pldr>
@@ -1462,8 +1468,7 @@
          </w>
          <w>
             <pldr>радовавше</pldr>
-            <rec>радовавъ</rec>
-            <!-- mNsg to agree with Стратигъ -->
+            <rec>радоваше</rec>
          </w>
          <w>
             <pldr>сь,</pldr>
