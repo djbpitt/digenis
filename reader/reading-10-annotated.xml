@@ -368,8 +368,7 @@
          <w>
             <pldr>звати,</pldr>
             <rec>зъвати;</rec>
-            <note>з(ъ)вати inserted by Speranskij, adopted by <span style="word-wrap:"
-                  >Kuz′mina</span> and Tvorogov</note>
+            <note>з(ъ)вати inserted by Speranskij, adopted by Kuz′mina and Tvorogov</note>
             <!--
             The infinitive root is зъв–, with a jer
             We've been using “scholarly” transliteration, so Speranskij (j, rather than i, at end)
@@ -552,12 +551,8 @@
          <w>
             <pldr>родъ</pldr>
             <rec>родъ</rec>
-            <!-- 
-               Should we include a cultural note about
-               родъ as collateral, so spouse and lineal
-               offspring are not included? Is that definition
-               correct?
-            -->
+            <note>Apparently his collateral kin, that is, not including his spouse and children, who
+               are mentioned separately below</note>
          </w>
          <w>
             <pldr>свой</pldr>
@@ -615,13 +610,7 @@
          </w>
          <w>
             <pldr>своя,</pldr>
-            <rec>своꙗ;</rec>
-            <!--
-               I changed своѩ to своꙗ to agree with nApl дѣти; if you think it
-               is meant to scope to wife and kids, I think it should be своѩ, although
-               I don’t know whether there are reliable rules for agreement when 
-               conjoined referents are feminine + neuter 
-            -->
+            <rec>своѩ;</rec>
          </w>
          <w>
             <pldr>посла</pldr>
@@ -899,14 +888,13 @@
             <pldr>конюховъ,</pldr>
             <rec>конюхъ,</rec>
          </w>
-         <!--
-            Should there be a number here? 
-          -->
          <w>
             <pldr>пардусовъ</pldr>
             <rec>пардꙋсъ</rec>
             <note><os>пардꙋсъ</os>
-               <gloss>(hunting) leopard</gloss></note>
+               <gloss>(hunting) leopard</gloss>. The number of leopards is missing and cannot be
+               restored with confidence, although it was probably present originally, since all of
+               the other gifts are counted.</note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1122,17 +1110,15 @@
          </w>
          <w>
             <pldr>святый</pldr>
-            <rec>свѧтыхъ</rec>
+            <rec>свѧтꙋю</rec>
+            <note>The icon is of two Sts. Theodore (Theodore Tyron and Theodore Stratilates),
+               represented in the manuscript by a plural that we emend to a dual.</note>
          </w>
          <w>
             <pldr>Феодоръ;</pldr>
-            <rec>Ѳеодоръ;</rec>
-            <note>The icon is of two Sts. Theodore, given here with a pluraal, rather than a
-               dual</note>
-            <!--
-               Give the names of the two saints
-               Should we change this to a dual?
-            -->
+            <rec>Ѳеодора;</rec>
+            <note>The icon is of two Sts. Theodore (Theodore Tyron and Theodore Stratilates), a
+               plural in the manuscript that we emend to a dual.</note>
          </w>
          <w>
             <pldr>да</pldr>
