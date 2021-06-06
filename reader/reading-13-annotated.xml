@@ -72,7 +72,7 @@
          <w>
             <pldr>тяняте,</pldr>
             <rec>тенетѣ,</rec>
-            <note><os>тенето</os> (also attestd as <os>теното</os>, <os>тоното</os>)
+            <note><os>тенето</os> (also attested as <os>теното</os>, <os>тоното</os>)
                   <gloss>snare</gloss></note>
          </w>
          <w>
@@ -154,6 +154,12 @@
                <gloss>surround</gloss> (which we accept). Kuz′mina favors<os>оубити</os>
                <gloss>kill</gloss>, but the context is about trapping, and not immediately about
                killing.</note>
+            <!--
+               Rob: Should we write обыти? Either way, we need to update
+               our retroversion principles page. This scction also has
+               изыдошѧ; how do we reconcile this with our having
+               written отъимати elsewhere?
+            -->
          </w>
          <w>
             <pldr>его.</pldr>
@@ -239,6 +245,7 @@
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>Here: <gloss>delay, tarry</gloss>.</note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -423,6 +430,8 @@
          <w>
             <pldr>вотъкнувъ,</pldr>
             <rec>вътъкнꙋвъ,</rec>
+            <note><os>вътъкнꙋти, вътъкнꙋть</os>
+               <gloss>stick</gloss> (here: stuck his spear into the ground)</note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -431,7 +440,10 @@
          <w>
             <pldr>вынявъ</pldr>
             <rec>выимъ</rec>
-            <!-- for past active participle see Lunt OCS grammar §15.83, p. 133 -->
+            <!-- 
+               for past active participle see Lunt OCS grammar §15.83, p. 133
+               поемъ occurs in the manuscript later in this part; we emend to поимъ
+            -->
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -537,7 +549,7 @@
       <p>
          <w>
             <pldr>Царь</pldr>
-            <rec>Цьсарь</rec>
+            <rec>Цѣсарь</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -704,9 +716,9 @@
          <w>
             <pldr>вседъ</pldr>
             <rec>въсѣдъ</rec>
-            <note>From <os>*въз-сѣсти, взъ-сѧдꙋть</os>
-               <gloss>climb up and sit on (a horse)</gloss>, with assimilation (<em>/zs/</em> →
-                  <em>/ss/</em>) and degemination (→ <em>/s/</em>)</note>
+            <note>From <os>*въз-сѣсти, въз-сѧдꙋть</os>
+               <gloss>climb up and sit on</gloss> (a horse), with assimilation (<em>/zs/</em> →
+                  <em>/ss/</em>) and then degemination (→ <em>/s/</em>)</note>
             <!-- xi–xiv, v. 2, p. 131 -->
          </w>
          <w>
@@ -788,13 +800,13 @@
          <w>
             <pldr>самого</pldr>
             <rec>самого</rec>
-            <note><os>самъ червьртъ</os>
+            <note><os>самъ четвьртъ</os>
                <gloss>with three others</gloss></note>
          </w>
          <w>
             <pldr>четверта</pldr>
             <rec>четвьрта</rec>
-            <note><os>самъ червьртъ</os>
+            <note><os>самъ четвьртъ</os>
                <gloss>with three others</gloss></note>
          </w>
          <w>
@@ -967,7 +979,7 @@
          </w>
          <w>
             <pldr>человѣкомъ</pldr>
-            <rec>человѣкомь</rec>
+            <rec>человѣкъмь</rec>
          </w>
          <w>
             <pldr>бити</pldr>
@@ -1029,7 +1041,7 @@
          </w>
          <w>
             <pldr>отвещавъ</pldr>
-            <rec>отъвѣщавъе</rec>
+            <rec>отъвѣщавъше</rec>
          </w>
          <w>
             <pldr>ему:</pldr>
@@ -1046,7 +1058,7 @@
          <w>
             <pldr>противенъ</pldr>
             <rec>противьнъ</rec>
-            <note>Here: <gloss>you alone will not be able to oppose the entire city</gloss></note>
+            <note>Here: <gloss>you alone will not (be able to) oppose the entire city</gloss></note>
          </w>
          <w>
             <pldr>быти</pldr>
@@ -1236,7 +1248,6 @@
             <pldr>сынъ</pldr>
             <rec>сынъ</rec>
          </w>
-         <!-- RESUME HERE -->
          <w>
             <pldr>больше</pldr>
             <rec>больше</rec>
@@ -1278,6 +1289,11 @@
          <w>
             <pldr>летъ</pldr>
             <rec>лѣтъ</rec>
+            <!--
+               Rob: In principle 12 should take a dual, but even in OCS that pattern
+               co-existed with Gpl, as if it were one large number, so I’ve retained
+               that manuscript reading here. See Lunt OCS grammar §20, p. 153.
+            -->
          </w>
          <w>
             <pldr>в</pldr>
@@ -1303,7 +1319,8 @@
             <pldr>опочинути,</pldr>
             <rec>опъчинꙋти,</rec>
             <!--
-               This is Tvorogov’s emendation; is it correct?
+               This is Tvorogov’s emendation, and it fits the sense,
+               but is it correct?
             -->
          </w>
          <w>
@@ -1324,7 +1341,7 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>юности</pldr>
@@ -1336,7 +1353,7 @@
          </w>
          <w>
             <pldr>сотворихъ»,</pldr>
-            <rec>сотворихъ»,</rec>
+            <rec>сътворихъ»,</rec>
          </w>
          <w>
             <pldr>—</pldr>
@@ -1376,7 +1393,7 @@
          </w>
          <w>
             <pldr>царскомъ,</pldr>
-            <rec>цьсарьскомъ,</rec>
+            <rec>цьсарьскомь,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1424,7 +1441,7 @@
          </w>
          <w>
             <pldr>Иаакимомъ</pldr>
-            <rec>Иаакымомь</rec>
+            <rec>Иаакымъмь</rec>
          </w>
          <w>
             <pldr>возложи</pldr>
