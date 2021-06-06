@@ -824,7 +824,7 @@
          </w>
          <w>
             <pldr>покрыты</pldr>
-            <rec>покрыти</rec>
+            <rec>покрытыхъ</rec>
             <!--
                Is this a new predication, e.g., “And the they were covered
                with rich fabrics”? If so, it should be покрыти. Since 
@@ -1111,8 +1111,9 @@
          <w>
             <pldr>святый</pldr>
             <rec>свѧтꙋю</rec>
-            <note>The icon is of two Sts. Theodore (Theodore Tyron and Theodore Stratilates),
-               represented in the manuscript by a plural that we emend to a dual.</note>
+            <note>The icon is of two military saints Theodore (Theodore Tyron and Theodore
+               Stratilates), represented in the manuscript by a plural that we emend to a
+               dual.</note>
          </w>
          <w>
             <pldr>Феодоръ;</pldr>
@@ -1454,7 +1455,7 @@
          </w>
          <w>
             <pldr>радовавше</pldr>
-            <rec>радоваше</rec>
+            <rec>радоваше(тъ)</rec>
          </w>
          <w>
             <pldr>сь,</pldr>
