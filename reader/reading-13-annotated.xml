@@ -1240,10 +1240,14 @@
          <w>
             <pldr>больше</pldr>
             <rec>больше</rec>
+            <!-- 
+               Schmalstig p. 59 neuter comparative could
+               be either -je or -jьš-e, so we follow the manuscript
+            -->
          </w>
          <w>
             <pldr>отца</pldr>
-            <rec>отца</rec>
+            <rec>отьца</rec>
          </w>
          <w>
             <pldr>своего».</pldr>
@@ -1269,11 +1273,11 @@
          </w>
          <w>
             <pldr>12</pldr>
-            <rec>12</rec>
+            <rec>·вꙇ҃·</rec>
          </w>
          <w>
             <pldr>летъ</pldr>
-            <rec>летъ</rec>
+            <rec>лѣтъ</rec>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1289,7 +1293,7 @@
          </w>
          <w>
             <pldr>ныне</pldr>
-            <rec>ныне</rec>
+            <rec>нынѣ</rec>
          </w>
          <w>
             <pldr>хощу</pldr>
@@ -1297,11 +1301,14 @@
          </w>
          <w>
             <pldr>опочинути,</pldr>
-            <rec>опочинꙋти,</rec>
+            <rec>опъчинꙋти,</rec>
+            <!--
+               This is Tvorogov’s emendation; is it correct?
+            -->
          </w>
          <w>
             <pldr>многи</pldr>
-            <rec>многы</rec>
+            <rec>мъногы</rec>
          </w>
          <w>
             <pldr>победы</pldr>
@@ -1365,11 +1372,11 @@
          </w>
          <w>
             <pldr>престоле</pldr>
-            <rec>престоле</rec>
+            <rec>престолѣ</rec>
          </w>
          <w>
             <pldr>царскомъ,</pldr>
-            <rec>царскомъ,</rec>
+            <rec>цьсарьскомъ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1481,7 +1488,7 @@
          </w>
          <w>
             <pldr>призва</pldr>
-            <rec>призва</rec>
+            <rec>призъва</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1489,7 +1496,7 @@
          </w>
          <w>
             <pldr>сотвори</pldr>
-            <rec>сотвори</rec>
+            <rec>сътвори</rec>
          </w>
          <w>
             <pldr>радость</pldr>
@@ -1535,7 +1542,7 @@
          </w>
          <w>
             <pldr>ныне</pldr>
-            <rec>ныне</rec>
+            <rec>нынѣ</rec>
          </w>
          <w>
             <pldr>и</pldr>
