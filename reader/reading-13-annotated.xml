@@ -39,7 +39,7 @@
          </w>
          <w>
             <pldr>думаше</pldr>
-            <rec>дꙋмаше</rec>
+            <rec>дꙋмаше(ть)</rec>
          </w>
          <w>
             <pldr>чрезъ</pldr>
@@ -72,8 +72,8 @@
          <w>
             <pldr>тяняте,</pldr>
             <rec>тенетѣ,</rec>
-            <note>Attested as <os>тенето</os>, <os>теното</os>, <os>тоното</os>
-               <gloss>snare</gloss>.</note>
+            <note><os>тенето</os> (also attestd as <os>теното</os>, <os>тоното</os>)
+                  <gloss>snare</gloss></note>
          </w>
          <w>
             <pldr>яти</pldr>
@@ -151,7 +151,7 @@
             <pldr>обойти</pldr>
             <rec>объити</rec>
             <note>The manuscript says <os>боити</os>, Tvorogov emends to <os>объити</os>
-               <gloss>surround</gloss> (which we accept); Kuz′mina favors<os>оубити</os>
+               <gloss>surround</gloss> (which we accept). Kuz′mina favors<os>оубити</os>
                <gloss>kill</gloss>, but the context is about trapping, and not immediately about
                killing.</note>
          </w>
@@ -430,7 +430,8 @@
          </w>
          <w>
             <pldr>вынявъ</pldr>
-            <rec>выѩвъ</rec>
+            <rec>выимъ</rec>
+            <!-- for past active participle see Lunt OCS grammar §15.83, p. 133 -->
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -685,6 +686,8 @@
          <w>
             <pldr>примчаша</pldr>
             <rec>примъчашѧ</rec>
+            <note><os>примъчати, примъчѧть</os>
+               <gloss>bring in a hurry</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -700,7 +703,11 @@
          </w>
          <w>
             <pldr>вседъ</pldr>
-            <rec>всѣдъ</rec>
+            <rec>въсѣдъ</rec>
+            <note>From <os>*въз-сѣсти, взъ-сѧдꙋть</os>
+               <gloss>climb up and sit on (a horse)</gloss>, with assimilation (<em>/zs/</em> →
+                  <em>/ss/</em>) and degemination (→ <em>/s/</em>)</note>
+            <!-- xi–xiv, v. 2, p. 131 -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -781,10 +788,14 @@
          <w>
             <pldr>самого</pldr>
             <rec>самого</rec>
+            <note><os>самъ червьртъ</os>
+               <gloss>with three others</gloss></note>
          </w>
          <w>
             <pldr>четверта</pldr>
-            <rec>четверта</rec>
+            <rec>четвьрта</rec>
+            <note><os>самъ червьртъ</os>
+               <gloss>with three others</gloss></note>
          </w>
          <w>
             <pldr>взятъ.</pldr>
@@ -802,7 +813,7 @@
          </w>
          <w>
             <pldr>посла</pldr>
-            <rec>посла</rec>
+            <rec>посъла</rec>
          </w>
          <w>
             <pldr>от</pldr>
@@ -814,7 +825,7 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>градъ</pldr>
@@ -826,7 +837,7 @@
          </w>
          <w>
             <pldr>вестью.</pldr>
-            <rec>вестью.</rec>
+            <rec>вѣстию.</rec>
          </w>
          <w>
             <pldr>Глаголи</pldr>
@@ -834,11 +845,11 @@
          </w>
          <w>
             <pldr>гражьданомъ:</pldr>
-            <rec>гражьданомъ:</rec>
+            <rec>гражаномъ:</rec>
          </w>
          <w>
             <pldr>«Выдите</pldr>
-            <rec>«Выдите</rec>
+            <rec>«Выидѣте</rec>
          </w>
          <w>
             <pldr>противъ</pldr>
@@ -850,11 +861,18 @@
          </w>
          <w>
             <pldr>днесь</pldr>
-            <rec>днесь</rec>
+            <rec>дьньсь</rec>
+            <!-- 
+               Rob: I left this as one word, figuring that it was 
+               similar to adverbial constructions like въбързѣ 
+            -->
          </w>
          <w>
             <pldr>подай</pldr>
             <rec>подаи</rec>
+            <!--
+               Rob: We expect an aorist here. Should we emend?
+            -->
          </w>
          <w>
             <pldr>ми</pldr>
@@ -866,7 +884,7 @@
          </w>
          <w>
             <pldr>царьствовати</pldr>
-            <rec>царьствовати</rec>
+            <rec>цьсарьствовати</rec>
          </w>
          <w>
             <pldr>в</pldr>
@@ -890,7 +908,7 @@
          </w>
          <w>
             <pldr>слышавъ</pldr>
-            <rec>слышавъ</rec>
+            <rec>слышавъше</rec>
          </w>
          <w>
             <pldr>его,</pldr>
@@ -898,15 +916,22 @@
          </w>
          <w>
             <pldr>вси</pldr>
-            <rec>вси</rec>
+            <rec>вьси</rec>
          </w>
          <w>
-            <pldr>совокупишась,</pldr>
-            <rec>совокꙋпишась,</rec>
+            <pldr>совокупиша</pldr>
+            <rec>съвъкꙋпишѧ</rec>
+         </w>
+         <w>
+            <pldr>сь,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>изыдоша</pldr>
-            <rec>изыдоша</rec>
+            <rec>изыдошѧ</rec>
+            <!--
+               We should check for consistency with consonantal prefixes before ид–
+            -->
          </w>
          <w>
             <pldr>пред</pldr>
@@ -938,15 +963,19 @@
          </w>
          <w>
             <pldr>простымъ</pldr>
-            <rec>простымъ</rec>
+            <rec>простымь</rec>
          </w>
          <w>
             <pldr>человѣкомъ</pldr>
-            <rec>человѣкомъ</rec>
+            <rec>человѣкомь</rec>
          </w>
          <w>
-            <pldr>битись.</pldr>
-            <rec>битись.</rec>
+            <pldr>бити</pldr>
+            <rec>бити</rec>
+         </w>
+         <w>
+            <pldr>сь.</pldr>
+            <rec>сѧ.</rec>
          </w>
          <w>
             <pldr>Он</pldr>
@@ -958,7 +987,7 @@
          </w>
          <w>
             <pldr>посла,</pldr>
-            <rec>посла,</rec>
+            <rec>посъла,</rec>
          </w>
          <w>
             <pldr>глаголя:</pldr>
@@ -967,6 +996,8 @@
          <w>
             <pldr>«Пожалуйте</pldr>
             <rec>«Пожалꙋите</rec>
+            <note><os>пожаловати, пожалꙋють</os>
+               <gloss>give</gloss> (here)</note>
          </w>
          <w>
             <pldr>оружия</pldr>
@@ -982,7 +1013,7 @@
          </w>
          <w>
             <pldr>разгневайте</pldr>
-            <rec>разгневаите</rec>
+            <rec>разгнѣваите</rec>
          </w>
          <w>
             <pldr>мене».</pldr>
@@ -998,7 +1029,7 @@
          </w>
          <w>
             <pldr>отвещавъ</pldr>
-            <rec>отвещавъ</rec>
+            <rec>отъвѣщавъе</rec>
          </w>
          <w>
             <pldr>ему:</pldr>
@@ -1014,7 +1045,8 @@
          </w>
          <w>
             <pldr>противенъ</pldr>
-            <rec>противенъ</rec>
+            <rec>противьнъ</rec>
+            <note>Here: <gloss>you alone will not be able to oppose the entire city</gloss></note>
          </w>
          <w>
             <pldr>быти</pldr>
@@ -1053,8 +1085,12 @@
             <rec>Девгении,</rec>
          </w>
          <w>
-            <pldr>разгневась</pldr>
-            <rec>разгневась</rec>
+            <pldr>разгнева</pldr>
+            <rec>разгнѣва</rec>
+         </w>
+         <w>
+            <pldr>сь</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1078,7 +1114,7 @@
          </w>
          <w>
             <pldr>изби,</pldr>
-            <rec>изби,</rec>
+            <rec>изби(тъ),</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1102,7 +1138,7 @@
          </w>
          <w>
             <pldr>предстателемъ</pldr>
-            <rec>предстателемъ</rec>
+            <rec>предъстателемъ</rec>
          </w>
          <w>
             <pldr>своимъ,</pldr>
@@ -1114,7 +1150,7 @@
          </w>
          <w>
             <pldr>вниде</pldr>
-            <rec>вниде</rec>
+            <rec>въниде</rec>
          </w>
          <w>
             <pldr>во</pldr>
@@ -1130,11 +1166,11 @@
          </w>
          <w>
             <pldr>начатъ</pldr>
-            <rec>начатъ</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <pldr>царствовати.</pldr>
-            <rec>царствовати.</rec>
+            <rec>цьсарьствовати.</rec>
          </w>
          <w>
             <pldr>А</pldr>
@@ -1142,7 +1178,7 @@
          </w>
          <w>
             <pldr>пленыхъ</pldr>
-            <rec>пленыхъ</rec>
+            <rec>пленьныхъ</rec>
          </w>
          <w>
             <pldr>свободи</pldr>
@@ -1154,7 +1190,7 @@
          </w>
          <w>
             <pldr>мале</pldr>
-            <rec>мале</rec>
+            <rec>малѣ</rec>
          </w>
          <w>
             <pldr>времени,</pldr>
@@ -1174,7 +1210,7 @@
          </w>
          <w>
             <pldr>«несть</pldr>
-            <rec>«несть</rec>
+            <rec>«нѣсть</rec>
          </w>
          <w>
             <pldr>рабъ</pldr>
@@ -1182,7 +1218,7 @@
          </w>
          <w>
             <pldr>боле</pldr>
-            <rec>боле</rec>
+            <rec>болѥ</rec>
          </w>
          <w>
             <pldr>господина</pldr>
@@ -1200,6 +1236,7 @@
             <pldr>сынъ</pldr>
             <rec>сынъ</rec>
          </w>
+         <!-- RESUME HERE -->
          <w>
             <pldr>больше</pldr>
             <rec>больше</rec>
@@ -1506,7 +1543,7 @@
          </w>
          <w>
             <pldr>присно</pldr>
-            <rec>присно</rec>
+            <rec>присьно</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1514,7 +1551,7 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>веки</pldr>
