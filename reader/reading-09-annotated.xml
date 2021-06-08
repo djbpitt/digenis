@@ -60,6 +60,7 @@
                in unison with his sons, but because the General alone is the subject of the finite
                verb in the sentence, it seems more likely that the plural form is yet another
                example of an emergent non-agreeing gerund replacing an original participle.</note>
+            <!--Rather, preserve MS form as ChSl gerund (accepted by Vaillant, rejected by Lunt) and so note?-->
          </w>
          <w>
             <pldr>ему</pldr>
@@ -83,7 +84,8 @@
          </w>
          <w>
             <pldr>смерти</pldr>
-            <rec>смьрти</rec>
+            <rec>съмьрти</rec>
+            <!--Gorazd, Miklosich, and Sreznevskij all write with slovo+back jer-->
          </w>
          <w>
             <pldr>не</pldr>
@@ -269,6 +271,7 @@
          <w>
             <pldr>родительми</pldr>
             <rec>родители</rec>
+            <!--Here and below, should this instead be corrected to dual?-->
          </w>
          <w>
             <pldr>моими</pldr>
@@ -459,7 +462,7 @@
             <rec>знамениѥ</rec>
             <note>Devgenij proposes to mark his captives with some sort of disfigurement or
                defacement before releasing them. The type of marking is unclear, but it may have
-               been cut or burned into their faces or bodies. See Svetozar Koljević, <title>The epic
+               been cut from or burned into their faces or bodies. See Svetozar Koljević, <title>The epic
                   in the making</title>, Oxford: Clarendon Press, 1980, p. 227. Later in the Digenis
                text the term <os>пѧтьно</os> is used in place of <os>знамениѥ</os> in a simlar
                context.</note>
@@ -565,6 +568,7 @@
          <w>
             <pldr>бысть</pldr>
             <rec>бысть</rec>
+            <!--One of several places where impf. aorist бѣ is better (attested here in Mc, incidentally)-->
          </w>
          <w>
             <pldr>на</pldr>
@@ -596,7 +600,8 @@
          </w>
          <w>
             <pldr>и</pldr>
-            <rec>и</rec>
+            <rec>а</rec>
+            <!--Note in Tx we have а here, while in Mc, и; Tx reading is better (Tvorogov was nodding)-->
          </w>
          <w>
             <pldr>у</pldr>
@@ -618,7 +623,8 @@
          </w>
          <w>
             <pldr>многоцены</pldr>
-            <rec>мъногоценьны</rec>
+            <rec>мъногоцѣньны</rec>
+            <!--jat' in root-->
          </w>
          <w>
             <pldr>з</pldr>
@@ -638,7 +644,8 @@
          </w>
          <w>
             <pldr>жемчюгомъ,</pldr>
-            <rec>жьньчѹгъмъ,</rec>
+            <rec>жьньчѹгъмь,</rec>
+            <!--back jer for mIsg ending-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -698,6 +705,7 @@
          <w>
             <pldr>ихъ</pldr>
             <rec>ихъ</rec>
+            <!--Inserted звати below found at this point in Tт-->
          </w>
          <w>
             <pldr>на</pldr>
@@ -718,6 +726,7 @@
          <w>
             <pldr>звати.</pldr>
             <rec>зъвати.</rec>
+            <!--Absent in Tx; Tvorogov (or his source) took звати from Tт; what do you think of its insertion here?-->
          </w>
          <w>
             <pldr>И</pldr>
@@ -794,7 +803,8 @@
          </w>
          <w>
             <pldr>чада</pldr>
-            <rec>чада</rec>
+            <rec>чѧда</rec>
+            <!--Etymological front nasal in root-->
          </w>
          <w>
             <pldr>моя,</pldr>
@@ -806,7 +816,8 @@
          </w>
          <w>
             <pldr>введи</pldr>
-            <rec>введи</rec>
+            <rec>въведи</rec>
+            <!--Back jer after prefix-->
          </w>
          <w>
             <pldr>нас</pldr>
@@ -826,7 +837,8 @@
          </w>
          <w>
             <pldr>чад</pldr>
-            <rec>чадъ</rec>
+            <rec>чѧдъ</rec>
+            <!--Etymological front nasal in root-->
          </w>
          <w>
             <pldr>моихъ:</pldr>
@@ -843,6 +855,7 @@
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
+            <!--This lexeme and the following should be moved after моихъ above, following Tт-->
          </w>
          <w>
             <pldr>тщери</pldr>
@@ -1075,7 +1088,8 @@
          </w>
          <w>
             <pldr>имение,</pldr>
-            <rec>имениѥ,</rec>
+            <rec>имѣниѥ,</rec>
+            <!--Jat' in root here-->
          </w>
          <w>
             <pldr>еже</pldr>
@@ -1278,6 +1292,7 @@
          <w>
             <pldr>прослылъ</pldr>
             <rec>прослылъ</rec>
+            <!--note here on прослꙋти?-->
          </w>
          <w>
             <pldr>еси</pldr>
@@ -1297,7 +1312,8 @@
          </w>
          <w>
             <pldr>и</pldr>
-            <rec>и</rec>
+            <rec>а</rec>
+            <!--Note in Tx we have а here, while in Mc, и; Tx reading is better (Tvorogov was nodding)-->
          </w>
          <w>
             <pldr>нынѣ</pldr>
@@ -1310,6 +1326,7 @@
          <w>
             <pldr>—</pldr>
             <rec>—</rec>
+            <!--I'd strike this and punctuate: ...а нынѣ ꙗзъ. Божиею помощию ... молитвою, чьто ѥсмь дꙋмалъ, то-->
          </w>
          <w>
             <pldr>Божиею</pldr>
@@ -1325,7 +1342,8 @@
          </w>
          <w>
             <pldr>твоимъ</pldr>
-            <rec>твоимъ</rec>
+            <rec>твоимь</rec>
+            <!--front jer ending for nIsg-->
          </w>
          <w>
             <pldr>благословениемъ</pldr>
@@ -1346,6 +1364,7 @@
          <w>
             <pldr>—</pldr>
             <rec>—</rec>
+           <!--Again, I'd strike this and punctuate as above--> 
          </w>
          <w>
             <pldr>что</pldr>
@@ -1462,6 +1481,7 @@
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
+            <!--Should this conjuction be struck?-->
          </w>
          <w>
             <pldr>восхитихъ</pldr>
@@ -1513,11 +1533,13 @@
          </w>
          <w>
             <pldr>противо</pldr>
-            <rec>противо</rec>
+            <rec>противъ</rec>
+            <!--Corrected to противъ, as neither correct case (see below) nor meaning for (rare) OCS противо-->
          </w>
          <w>
             <pldr>менѣ</pldr>
-            <rec>мьнѣ</rec>
+            <rec>мене</rec>
+            <!--Tx менѣ = A/G мене, Tx мне/мнѣ = D мьнѣ; this is G мене-->
          </w>
          <w>
             <pldr>на</pldr>
@@ -1558,7 +1580,8 @@
          </w>
          <w>
             <pldr>повеленая</pldr>
-            <rec>повелѣньнаꙗ</rec>
+            <rec>повелѣнаꙗ</rec>
+            <!--This participial form should not have (CSR?) нь inserted, correct?-->
          </w>
          <w>
             <pldr>Девгениемъ.</pldr>
