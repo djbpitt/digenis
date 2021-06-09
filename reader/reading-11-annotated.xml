@@ -640,7 +640,7 @@
          <w>
             <pldr>ласканиемъ,</pldr>
             <rec>ласканиѥмь,</rec>
-            <!--back jer ending for nIsg-->
+            <!--front jer ending for nIsg-->
          </w>
          <w>
             <pldr>прелестью</pldr>
@@ -1245,6 +1245,7 @@
          <w>
             <pldr>царь</pldr>
             <rec>цѣсарь</rec>
+            <!-- царь supplied by Tvorogov (or another) here, not in Tx-->
          </w>
          <w>
             <pldr>яростенъ</pldr>
@@ -1261,6 +1262,7 @@
          <w>
             <pldr>нарядивъ</pldr>
             <rec>нарѧдивъ</rec>
+            <!--note an object is missing here, prob. посълы lost in an eye-skip, unless we take посъла as obj. (awk.)-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -1336,20 +1338,23 @@
          </w>
          <w>
             <pldr>видети,</pldr>
-            <rec>видѣти,</rec>
+            <rec>видѣти.</rec>
+            <!--Full-stop added here-->
          </w>
          <w>
             <pldr>царьство</pldr>
             <rec>Цѣсарьство</rec>
             <note>The emperor refers to himself as <q>My Imperial Majesty</q>.</note>
+            <!--Can you capitalize all instances of Цѣсарьство? I believe they are all so used-->
          </w>
          <w>
-            <pldr>мое.</pldr>
-            <rec>моѥ.</rec>
+            <pldr>мое</pldr>
+            <rec>моѥ</rec>
+            <!--Full-stop removed from here, and change to lower-case in following word-->
          </w>
          <w>
             <pldr>Иного</pldr>
-            <rec>Иного</rec>
+            <rec>иного</rec>
          </w>
          <w>
             <pldr>помышления</pldr>
@@ -1362,6 +1367,7 @@
          <w>
             <pldr>имамъ</pldr>
             <rec>имамь</rec>
+            <!--Note this agreement found elsewhere (i.e., царьство мое + 1sg verb)-->
          </w>
          <w>
             <pldr>на</pldr>
