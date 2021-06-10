@@ -63,7 +63,8 @@
          </w>
          <w>
             <pldr>зайца</pldr>
-            <rec>заица</rec>
+            <rec>заѩца</rec>
+            <!--Corrected from leveled CSR form to form in Gorazd, etc.-->
          </w>
          <w>
             <pldr>в</pldr>
@@ -160,6 +161,9 @@
                изыдошѧ; how do we reconcile this with our having
                written отъимати elsewhere?
             -->
+            <!--Thus: Exception: write the prefix объ- before consonants or vowels
+               where the manuscript has обо- (cf. Lunt OCS grammar §3.312) and
+               изъ before vowels.??-->
          </w>
          <w>
             <pldr>его.</pldr>
@@ -444,6 +448,7 @@
                for past active participle see Lunt OCS grammar §15.83, p. 133
                поемъ occurs in the manuscript later in this part; we emend to поимъ
             -->
+            <!--Also разнемъ in First Hunt episode; emend to разимъ or разъимъ?-->
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -483,7 +488,8 @@
          </w>
          <w>
             <pldr>сечетъ:</pldr>
-            <rec>сечеть:</rec>
+            <rec>сѣчеть:</rec>
+            <!--Jat' in root-->
          </w>
          <w>
             <pldr>перво</pldr>
@@ -818,6 +824,7 @@
          <w>
             <pldr>И</pldr>
             <rec>И</rec>
+            <!--Tvorogov ignores a form here-->
          </w>
          <w>
             <pldr>единаго</pldr>
@@ -877,14 +884,15 @@
             <!-- 
                Rob: I left this as one word, figuring that it was 
                similar to adverbial constructions like въбързѣ 
-            -->
+            --> <!--Agreed!-->
          </w>
          <w>
             <pldr>подай</pldr>
-            <rec>подаи</rec>
+            <rec>пода</rec>
             <!--
                Rob: We expect an aorist here. Should we emend?
-            -->
+            --> 
+            <!--I've deleted и as in my edition; I don't think we can do anything with a separate и here-->
          </w>
          <w>
             <pldr>ми</pldr>
@@ -943,7 +951,7 @@
             <rec>изыдошѧ</rec>
             <!--
                We should check for consistency with consonantal prefixes before ид–
-            -->
+            --> <!--Agreed!-->
          </w>
          <w>
             <pldr>пред</pldr>
@@ -1042,6 +1050,7 @@
          <w>
             <pldr>отвещавъ</pldr>
             <rec>отъвѣщавъше</rec>
+            <!--I think we need 3pl aorist отъвѣщашѧ here-->
          </w>
          <w>
             <pldr>ему:</pldr>
@@ -1294,6 +1303,8 @@
                co-existed with Gpl, as if it were one large number, so I’ve retained
                that manuscript reading here. See Lunt OCS grammar §20, p. 153.
             -->
+            <!--But at another place in Mc (Lay of the Emir), we get a dual with 12:
+               по конець носа ·вꙇ҃· замка замчена. What would dual be here?-->
          </w>
          <w>
             <pldr>в</pldr>
@@ -1317,11 +1328,12 @@
          </w>
          <w>
             <pldr>опочинути,</pldr>
-            <rec>опъчинꙋти,</rec>
+            <rec>опочинꙋти,</rec>
             <!--
                This is Tvorogov’s emendation, and it fits the sense,
                but is it correct?
             -->
+            <!-- Mc reads опочинити here; I've corrected to to Miklosich's опоинѫти-->
          </w>
          <w>
             <pldr>многи</pldr>
@@ -1433,7 +1445,8 @@
          </w>
          <w>
             <pldr>Канама</pldr>
-            <rec>Канама</rec>
+            <rec>Кинама</rec>
+            <!--Emended according to Greek spelling-->
          </w>
          <w>
             <pldr>со</pldr>
@@ -1441,7 +1454,8 @@
          </w>
          <w>
             <pldr>Иаакимомъ</pldr>
-            <rec>Иаакымъмь</rec>
+            <rec>Иоанакомь</rec>
+            <!--Emended according to Greek spelling-->
          </w>
          <w>
             <pldr>возложи</pldr>
