@@ -60,7 +60,14 @@
                in unison with his sons, but because the General alone is the subject of the finite
                verb in the sentence, it seems more likely that the plural form is yet another
                example of an emergent non-agreeing gerund replacing an original participle.</note>
-            <!--Rather, preserve MS form as ChSl gerund (accepted by Vaillant, rejected by Lunt) and so note?-->
+            <!--
+               Rather, preserve MS form as ChSl gerund (accepted by Vaillant, rejected by Lunt) and so note?
+               djb: See my email about this. The short version is that it's a slippery slope. If we keep a non-agreeing
+                  gerund here, we need to restore them everywhere we've changed them to participles. That there 
+                  would be a lot of changes isn't a reason not to do it, of course, but I lean toward using agreeing
+                  participles in the retroversion (and if we do that, we might want to clarify the policy in our
+                  documentation). Details in the email.
+            -->
          </w>
          <w>
             <pldr>ему</pldr>
@@ -85,7 +92,10 @@
          <w>
             <pldr>смерти</pldr>
             <rec>съмьрти</rec>
-            <!--Gorazd, Miklosich, and Sreznevskij all write with slovo+back jer-->
+            <!--
+               Gorazd, Miklosich, and Sreznevskij all write with slovo+back jer
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>не</pldr>
@@ -271,7 +281,11 @@
          <w>
             <pldr>родительми</pldr>
             <rec>родители</rec>
-            <!--Here and below, should this instead be corrected to dual?-->
+            <!--
+               Here and below, should this instead be corrected to dual?
+               djb: Do we understand it as 'parents' or 'relatives'? If it's the former, we
+                  should emend to a dual. If the latter makes sense, we could favor a plural.
+            -->
          </w>
          <w>
             <pldr>моими</pldr>
@@ -462,10 +476,10 @@
             <rec>знамениѥ</rec>
             <note>Devgenij proposes to mark his captives with some sort of disfigurement or
                defacement before releasing them. The type of marking is unclear, but it may have
-               been cut from or burned into their faces or bodies. See Svetozar Koljević, <title>The epic
-                  in the making</title>, Oxford: Clarendon Press, 1980, p. 227. Later in the Digenis
-               text the term <os>пѧтьно</os> is used in place of <os>знамениѥ</os> in a simlar
-               context.</note>
+               been cut from or burned into their faces or bodies. See Svetozar Koljević, <title>The
+                  epic in the making</title>, Oxford: Clarendon Press, 1980, p. 227. Later in the
+               Digenis text the term <os>пѧтьно</os> is used in place of <os>знамениѥ</os> in a
+               simlar context.</note>
          </w>
          <w>
             <pldr>свое</pldr>
@@ -568,7 +582,13 @@
          <w>
             <pldr>бысть</pldr>
             <rec>бысть</rec>
-            <!--One of several places where impf. aorist бѣ is better (attested here in Mc, incidentally)-->
+            <!--
+               One of several places where impf. aorist бѣ is better (attested here in Mc, incidentally)
+               djb: Do you want to emend? I'm not confident about how rigorously бысть and бѣ were
+                  distinguished at different times, so I'd be inclined to follow the manuscripts here. The
+                  question then becomes whether wer follow Тх because that's the manuscript transcription
+                  our students will be reading, or emend according to Мс.
+            -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -601,7 +621,12 @@
          <w>
             <pldr>и</pldr>
             <rec>а</rec>
-            <!--Note in Tx we have а here, while in Mc, и; Tx reading is better (Tvorogov was nodding)-->
+            <note>The sources differ in the choice of conjuction; we favor <os>а</os> (Тх) over
+                  <os>и</os> (Мс)</note>
+            <!--
+               Note in Tx we have а here, while in Mc, и; Tx reading is better (Tvorogov was nodding)
+               djb: I've added a note
+            -->
          </w>
          <w>
             <pldr>у</pldr>
@@ -624,7 +649,10 @@
          <w>
             <pldr>многоцены</pldr>
             <rec>мъногоцѣньны</rec>
-            <!--jat' in root-->
+            <!--
+               jat' in root
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>з</pldr>
@@ -645,7 +673,10 @@
          <w>
             <pldr>жемчюгомъ,</pldr>
             <rec>жьньчѹгъмь,</rec>
-            <!--back jer for mIsg ending-->
+            <!--
+               back jer for mIsg ending
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -705,7 +736,10 @@
          <w>
             <pldr>ихъ</pldr>
             <rec>ихъ</rec>
-            <!--Inserted звати below found at this point in Tт-->
+            <!--
+               Inserted звати below found at this point in Tт
+               djb: See below.
+            -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -726,7 +760,13 @@
          <w>
             <pldr>звати.</pldr>
             <rec>зъвати.</rec>
-            <!--Absent in Tx; Tvorogov (or his source) took звати from Tт; what do you think of its insertion here?-->
+            <note>There is no verb here in Тх; we follow Tvorogov in inserting <os>зъвати</os> from
+               Тт.</note>
+            <!--
+               Absent in Tx; Tvorogov (or his source) took звати from Tт; what do you think of its insertion here?
+               djb: I've added a note. Once we replace Tvorogov with your transcription, we can put this back where
+                 it actually occurs in Тт, but for now I've left it where Tvorogov put it
+            -->
          </w>
          <w>
             <pldr>И</pldr>
@@ -804,7 +844,10 @@
          <w>
             <pldr>чада</pldr>
             <rec>чѧда</rec>
-            <!--Etymological front nasal in root-->
+            <!--
+               Etymological front nasal in root
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>моя,</pldr>
@@ -817,7 +860,10 @@
          <w>
             <pldr>введи</pldr>
             <rec>въведи</rec>
-            <!--Back jer after prefix-->
+            <!--
+               Back jer after prefix
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>нас</pldr>
@@ -838,7 +884,10 @@
          <w>
             <pldr>чад</pldr>
             <rec>чѧдъ</rec>
-            <!--Etymological front nasal in root-->
+            <!--
+               Etymological front nasal in root
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>моихъ:</pldr>
@@ -846,7 +895,7 @@
          </w>
          <w>
             <pldr>будуще</pldr>
-            <rec>бꙋдꙋще</rec>
+            <rec>бꙋдꙋщѧ</rec>
          </w>
          <w>
             <pldr>единой</pldr>
@@ -855,11 +904,20 @@
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
-            <!--This lexeme and the following should be moved after моихъ above, following Tт-->
+            <!--
+               This lexeme and the following should be moved after моихъ above, following Tт
+               djb: Do you want to move it in our materials or just add a note that it’s in the wrong
+                  place in the manuscript? For the moment I’ve just added the note. I’ve emended бꙋдще 
+                  (mNpl) to бꙋдꙋщѧ (fGsg) to agree with дъщере (which I’ve emended to change the
+                  Dsg -и to Gsg -е).
+            -->
          </w>
          <w>
             <pldr>тщери</pldr>
-            <rec>дъщери</rec>
+            <rec>дъщере</rec>
+            <note>This is in the wrong place in the manuscript; it should read <os>и чѧдъ моихъ и
+                  дъщери бꙋдꙋщѧ ѥдинои оу матере</os>.</note>
+            <!-- djb: I've changed the ending to Gsg, and made бꙋдꙋ -->
          </w>
          <w>
             <pldr>у</pldr>
@@ -1089,7 +1147,10 @@
          <w>
             <pldr>имение,</pldr>
             <rec>имѣниѥ,</rec>
-            <!--Jat' in root here-->
+            <!--
+               Jat' in root here
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>еже</pldr>
@@ -1292,7 +1353,12 @@
          <w>
             <pldr>прослылъ</pldr>
             <rec>прослылъ</rec>
-            <!--note here on прослꙋти?-->
+            <note>Class I <os>прослꙋти, прослывꙋть</os>
+               <gloss>be famous (for)</gloss></note>
+            <!--
+               note here on прослꙋти?
+               djb: Done!
+            -->
          </w>
          <w>
             <pldr>еси</pldr>
@@ -1313,6 +1379,8 @@
          <w>
             <pldr>и</pldr>
             <rec>а</rec>
+            <note>The sources differ in the choice of conjuction; we favor <os>а</os> (Тх) over
+                  <os>и</os> (Мс)</note>
             <!--Note in Tx we have а here, while in Mc, и; Tx reading is better (Tvorogov was nodding)-->
          </w>
          <w>
@@ -1320,13 +1388,12 @@
             <rec>нынѣ</rec>
          </w>
          <w>
-            <pldr>азъ</pldr>
-            <rec>ꙗзъ</rec>
-         </w>
-         <w>
-            <pldr>—</pldr>
-            <rec>—</rec>
-            <!--I'd strike this and punctuate: ...а нынѣ ꙗзъ. Божиею помощию ... молитвою, чьто ѥсмь дꙋмалъ, то-->
+            <pldr>азъ —</pldr>
+            <rec>ꙗзъ.</rec>
+            <!--
+               I'd strike this and punctuate: ...а нынѣ ꙗзъ. Божиею помощию ... молитвою, чьто ѥсмь дꙋмалъ, то
+               djb: Agreed and done
+            -->
          </w>
          <w>
             <pldr>Божиею</pldr>
@@ -1343,7 +1410,10 @@
          <w>
             <pldr>твоимъ</pldr>
             <rec>твоимь</rec>
-            <!--front jer ending for nIsg-->
+            <!--
+               front jer ending for nIsg
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>благословениемъ</pldr>
@@ -1358,17 +1428,16 @@
             <rec>матерьнѥю</rec>
          </w>
          <w>
-            <pldr>молитвою</pldr>
+            <pldr>молитвою —</pldr>
             <rec>молитвою</rec>
-         </w>
-         <w>
-            <pldr>—</pldr>
-            <rec>—</rec>
-           <!--Again, I'd strike this and punctuate as above--> 
+            <!--
+               Again, I'd strike this and punctuate as above
+               djb: Agreed and done
+            -->
          </w>
          <w>
             <pldr>что</pldr>
-            <rec>чьто</rec>
+            <rec>Чьто</rec>
          </w>
          <w>
             <pldr>есмь</pldr>
@@ -1481,7 +1550,10 @@
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
-            <!--Should this conjuction be struck?-->
+            <!--
+               Should this conjuction be struck?
+               djb: I’m okay with keeping it, since it joins to finite (aorist) predications
+            -->
          </w>
          <w>
             <pldr>восхитихъ</pldr>
@@ -1534,12 +1606,22 @@
          <w>
             <pldr>противо</pldr>
             <rec>противъ</rec>
-            <!--Corrected to противъ, as neither correct case (see below) nor meaning for (rare) OCS противо-->
+            <!--
+               Corrected to противъ, as neither correct case (see below) nor meaning for (rare) OCS противо
+               djb: Agreed. Modern Russian sometimes adds -o at the end of prepositions before two pronouns
+               that begin with consonant clusters, thus обо мне and обо всём. I would be surprised to see it
+               before мене (modern меня), since I think the proximate cause is the initial consonant cluster in
+               the pronoun. For all of those reasons, I think we should reconstruct противъ here.
+            -->
          </w>
          <w>
             <pldr>менѣ</pldr>
             <rec>мене</rec>
-            <!--Tx менѣ = A/G мене, Tx мне/мнѣ = D мьнѣ; this is G мене-->
+            <!--
+               Tx менѣ = A/G мене, Tx мне/мнѣ = D мьнѣ; this is G мене
+               djb: Agreed. We can read the disyllabic spelling as G and the monosyllabic
+                  as D, and then emend the G to мене (as you do here) and the D to мьнѣ.
+            -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -1581,7 +1663,13 @@
          <w>
             <pldr>повеленая</pldr>
             <rec>повелѣнаꙗ</rec>
-            <!--This participial form should not have (CSR?) нь inserted, correct?-->
+            <!--
+               This participial form should not have (CSR?) нь inserted, correct?
+               djb: I think so. The participle did not requie the adjectival
+               -ьн- suffix (that is, a spelling with -ньн-), although I think (= we should
+               check) it permitted it. Pending new information, I would spell these as in 
+               the manuscript.
+            -->
          </w>
          <w>
             <pldr>Девгениемъ.</pldr>
