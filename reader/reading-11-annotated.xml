@@ -133,11 +133,14 @@
          <w>
             <pldr>своими</pldr>
             <rec>своими</rec>
-            <note>The instrumental without preposition might be understood as he conveyed news of
-               her freedom <gloss>through her servants</gloss>, but a more likely reading is that
-               the preposition <os>съ</os> was accidentally omitted, and it means that she was freed
-               together with her servants.</note>
-            <!--Add reference to svoj as Gr. idios (Miklosich s.v., [b]), rather than as reflexive pronoun?-->
+            <note>The most likely reading is that the preposition <os>съ</os> was accidentally
+               omitted, and it means that she was freed together with her servants. Alternatively,
+               the instrumental without preposition might be understood as he conveyed news of her
+               freedom <gloss>through her servants</gloss>. <os>свои</os> is primaily reflexive, but
+               can also translate Gk <gk>ἴδιος</gk></note>
+            <!--
+               Add reference to svoj as Gr. idios (Miklosich s.v., [b]), rather than as reflexive pronoun?
+            -->
          </w>
          <w>
             <pldr>предстатели.</pldr>
@@ -733,7 +736,7 @@
          </w>
          <w>
             <pldr>царству,</pldr>
-            <rec>цѣсарьствꙋ,</rec>
+            <rec>Цѣсарьствꙋ,</rec>
          </w>
          <w>
             <pldr>зане</pldr>
@@ -941,7 +944,7 @@
          </w>
          <w>
             <pldr>царьство</pldr>
-            <rec>цѣсарьство</rec>
+            <rec>Цѣсарьство</rec>
          </w>
          <w>
             <pldr>твое</pldr>
@@ -962,8 +965,8 @@
          <w>
             <pldr>вины,</pldr>
             <rec>вины,</rec>
-            <note><q>Your majesty (that is, you the emperor) has no accusation to raise against me</q>
-               follows Daniel 6:5.</note>
+            <note><q>Your majesty (that is, you the emperor) has no accusation to raise against
+                  me</q> follows Daniel 6:5.</note>
          </w>
          <w>
             <pldr>но</pldr>

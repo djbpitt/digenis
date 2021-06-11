@@ -647,7 +647,7 @@
          <w>
             <pldr>царь</pldr>
             <rec>цьсарь</rec>
-            <!-- цьсарь in general, цѣсарь for the Byzantine emperor, but not modern царь -->
+            <!-- цьсарь in general, Цѣсарь for the Byzantine emperor, but not modern царь -->
          </w>
          <w>
             <pldr>Стратига</pldr>
@@ -830,6 +830,9 @@
                with rich fabrics”? If so, it should be покрыти. Since 
                фаревь/фарь is genitive-accusative, this shouldn’t be 
                regular accusative.
+               P.S. We decided to regard it not as a new predication, and
+               therefore to use Gpl for the adjective. This makes the 
+               conjunction awkward.
             -->
          </w>
          <w>
@@ -1403,7 +1406,7 @@
          <w>
             <pldr>царь.</pldr>
             <rec>цьсарь.</rec>
-            <!-- цьсарь in general, цѣсарь for the Byzantine emperor, but not modern царь -->
+            <!-- цьсарь in general, Цѣсарь for the Byzantine emperor, but not modern царь -->
          </w>
          <w>
             <pldr>А</pldr>

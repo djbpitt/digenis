@@ -72,13 +72,14 @@
          <w>
             <pldr>бою</pldr>
             <rec>бою</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
             <pldr>царства</pldr>
-            <rec>цѣсарьства</rec>
+            <rec>Цѣсарьства</rec>
          </w>
          <w>
             <pldr>твоего,</pldr>
@@ -127,7 +128,8 @@
          <w>
             <pldr>бою</pldr>
             <rec>бою</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -182,7 +184,8 @@
          <w>
             <pldr>видиши</pldr>
             <rec>видиши</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -225,13 +228,14 @@
          <w>
             <pldr>обрадуеши</pldr>
             <rec>обрадꙋѥши</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
             <pldr>царству</pldr>
-            <rec>цѣсарьствꙋ</rec>
+            <rec>Цѣсарьствꙋ</rec>
          </w>
          <w>
             <pldr>своему,</pldr>
@@ -256,7 +260,8 @@
          <w>
             <pldr>сокрушат</pldr>
             <rec>съкрꙋшать</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся».</pldr>
             <rec>сѧ».</rec>
          </w>
@@ -345,7 +350,8 @@
          <w>
             <pldr>совокупи</pldr>
             <rec>съвъкꙋпи</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -496,7 +502,8 @@
          <w>
             <pldr>вмещаху</pldr>
             <rec>въмѣщахꙋ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -523,7 +530,8 @@
          <w>
             <pldr>бысть,</pldr>
             <rec>бѣшѧ,</rec>
-            <!-- perfective 3sg aorist frequently used and frequently wrong; here emended to 3pl imperfective aorist -->         </w>
+            <!-- perfective 3sg aorist frequently used and frequently wrong; here emended to 3pl imperfective aorist -->
+         </w>
          <w>
             <pldr>ови</pldr>
             <rec>ови</rec>
@@ -676,8 +684,10 @@
          <w>
             <pldr>ужасе</pldr>
             <rec>оужасе</rec>
-         </w>                   <w>  <pldr>ся.</pldr>
-         <rec>сѧ.</rec>
+         </w>
+         <w>
+            <pldr>ся.</pldr>
+            <rec>сѧ.</rec>
          </w>
       </p>
       <p>
@@ -708,7 +718,8 @@
          <w>
             <pldr>«Дивлю</pldr>
             <rec>«Дивлю</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -719,7 +730,8 @@
          <w>
             <pldr>потруди</pldr>
             <rec>потрꙋди</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -770,7 +782,8 @@
          <w>
             <pldr>видети</pldr>
             <rec>видѣти</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -832,7 +845,8 @@
          </w>
          <w>
             <pldr>поведать,</pldr>
-            <rec>побѣдити,</rec> <!--Tvorogov emends (his or another's?)-->
+            <rec>побѣдити,</rec>
+            <!--Tvorogov emends (his or another's?)-->
          </w>
          <w>
             <pldr>в</pldr>
@@ -844,7 +858,8 @@
          </w>
          <w>
             <pldr>есмь</pldr>
-            <rec>ѥсть</rec> <!--Tvorogov emends (his or another's?)-->
+            <rec>ѥсть</rec>
+            <!--Tvorogov emends (his or another's?)-->
          </w>
          <w>
             <pldr>срамъ,</pldr>
@@ -852,7 +867,8 @@
          </w>
          <w>
             <pldr>...</pldr>
-            <rec>...</rec> <!--several forms not included in Tvorogov's text here-->
+            <rec>...</rec>
+            <!--several forms not included in Tvorogov's text here-->
          </w>
          <w>
             <pldr>зане</pldr>
@@ -970,11 +986,16 @@
          </w>
          <w>
             <pldr>моего</pldr>
-            <rec>моѥго</rec> 
+            <rec>моѥго</rec>
          </w>
          <w>
             <pldr>царству</pldr>
-            <rec>цѣсарьства</rec>
+            <rec>Цѣсарьства</rec>
+            <note>The manuscript reading has a Gsg possessive pronoun modifying a Dsg noun. Either
+               case is possible in this context, but the combination is incorrect, and we emend
+               (somewhat arbitrarily) to Gsg.</note>
+            <!-- Should we say something about possible extension of a ŭ-stem Gsg (originally masculine
+            only) into a neuter context here? I don’t like it as an explanation.-->
          </w>
          <w>
             <pldr>не</pldr>
@@ -1090,7 +1111,8 @@
          </w>
          <w>
             <pldr>царю</pldr>
-            <rec>цѣсарю</rec> <!--Insertion (no object in MS), not sure whose originally-->
+            <rec>цѣсарю</rec>
+            <!--Insertion (no object in MS), not sure whose originally-->
          </w>
          <w>
             <pldr>своему:</pldr>
@@ -1107,7 +1129,8 @@
          <w>
             <pldr>надееши</pldr>
             <rec>надѣѥши</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1166,7 +1189,8 @@
          <w>
             <pldr>уподобити</pldr>
             <rec>оуподобити</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1225,7 +1249,8 @@
          <w>
             <pldr>исполчеваи</pldr>
             <rec>испълчеваи</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1311,7 +1336,8 @@
          </w>
          <w>
             <pldr>неисполнениихъ».</pldr>
-            <rec>неиспълненыихъ».</rec> <!--Tvorogov has left out two words that complete this sentence-->
+            <rec>неиспълненыихъ».</rec>
+            <!--Tvorogov has left out two words that complete this sentence-->
          </w>
          <w>
             <pldr>И</pldr>
@@ -1410,13 +1436,14 @@
          <w>
             <pldr>вменяет</pldr>
             <rec>въмѣнꙗѥть</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
             <pldr>царство</pldr>
-            <rec>цѣсарьство</rec>
+            <rec>Цѣсарьство</rec>
          </w>
          <w>
             <pldr>твое,</pldr>
@@ -1444,8 +1471,10 @@
          </w>
          <w>
             <pldr>ужаснути</pldr>
-            <rec>оужаснꙋти</rec> <!--NB no jer in Gorazd, Miklosich, or Sreznevskij-->
-         </w>         <w>
+            <rec>оужаснꙋти</rec>
+            <!--NB no jer in Gorazd, Miklosich, or Sreznevskij-->
+         </w>
+         <w>
             <pldr>сь:</pldr>
             <rec>сѧ:</rec>
          </w>
