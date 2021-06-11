@@ -137,7 +137,8 @@
                omitted, and it means that she was freed together with her servants. Alternatively,
                the instrumental without preposition might be understood as he conveyed news of her
                freedom <gloss>through her servants</gloss>. <os>свои</os> is primaily reflexive, but
-               can also translate Gk <gk>ἴδιος</gk></note>
+               can also translate Gk <gk>ἴδιος</gk>
+               <gloss>one’s own (but not necessarily the subject)</gloss></note>
             <!--
                Add reference to svoj as Gr. idios (Miklosich s.v., [b]), rather than as reflexive pronoun?
             -->
@@ -275,7 +276,10 @@
          <w>
             <pldr>созданъ,</pldr>
             <rec>съзьданъ,</rec>
-            <!--Front jer added to root-->
+            <!--
+               Front jer added to root
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>но</pldr>
@@ -308,7 +312,10 @@
          <w>
             <pldr>христианомъ</pldr>
             <rec>христиꙗномъ</rec>
-            <!--Removed 2SSl-Influenced dejotated spelling (old spelling in Gorazd, Miklosich)-->
+            <!--
+               Removed 2SSl-Influenced dejotated spelling (old spelling in Gorazd, Miklosich)
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>показа</pldr>
@@ -377,7 +384,10 @@
          <w>
             <pldr>Иисусѣ,</pldr>
             <rec>Исꙋсѣ,</rec>
-            <!--Removed extra izhe to restore old spelling (as in Gorazd)-->
+            <!--
+               Removed extra izhe to restore old spelling (as in Gorazd)
+               djb: Yep. 
+            -->
          </w>
          <w>
             <pldr>Господѣ</pldr>
@@ -452,7 +462,10 @@
          <w>
             <pldr>СКАЗАНИЕ,</pldr>
             <rec>СЪКАЗАНИѤ,</rec>
-            <!--back jer inserted and jotated jest'-->
+            <!--
+               back jer inserted and jotated jest'
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>КАКО</pldr>
@@ -643,7 +656,10 @@
          <w>
             <pldr>ласканиемъ,</pldr>
             <rec>ласканиѥмь,</rec>
-            <!--front jer ending for nIsg-->
+            <!--
+               front jer ending for nIsg
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>прелестью</pldr>
@@ -764,6 +780,12 @@
             <!-- 
                Should be прослꙋти; we keep the form with ы in the 
                root here because Srez. includes it as a cross-reference 
+               
+               djb: Unless I'm misreading, the examples in Srez and xi–xiv
+               are post-1200, and the root in /u/ seems to be the primary
+               entry in both. Given the late dates of our mss, I'm not
+               confident that we should have confidence in the manuscript 
+               readings with respect to this detail. 
             -->
          </w>
          <w>
@@ -773,7 +795,10 @@
          <w>
             <pldr>всей</pldr>
             <rec>вьсеи</rec>
-            <!--jest', not jat' in fDsg soft/mixed pronominal (although jat' correct in fDsg def hard adj below)-->
+            <!--
+               jest', not jat' in fDsg soft/mixed pronominal (although jat' correct in fDsg def hard adj below)
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>вселеней.</pldr>
@@ -965,7 +990,7 @@
          <w>
             <pldr>вины,</pldr>
             <rec>вины,</rec>
-            <note><q>Your majesty (that is, you the emperor) has no accusation to raise against
+            <note><q>Your Majesty (that is, you the Emperor) has no accusation to raise against
                   me</q> follows Daniel 6:5.</note>
          </w>
          <w>
@@ -1100,7 +1125,10 @@
          <w>
             <pldr>воинъ</pldr>
             <rec>вои</rec>
-            <!--Sure about this emendation? воини appears later (w/ къ нѥму оударишѧ сѧ, w/o [не]мъного)-->
+            <!--Sure about this emendation? воини appears later (w/ къ нѥму оударишѧ сѧ, w/o [не]мъного)
+               djb: We should review uses of воинъ everywhere and document a consistent editorial policy. I've
+               opened an issue in GitHub.
+            -->
             <!--Continue checking from here-->
          </w>
          <w>
@@ -1247,8 +1275,12 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>цѣсарь</rec>
-            <!-- царь supplied by Tvorogov (or another) here, not in Tx-->
+            <rec>Цѣсарь</rec>
+            <note>Not present in Тх; we accept Tvorogov’s emendation and insert it here.</note>
+            <!-- 
+               царь supplied by Tvorogov (or another) here, not in Tx
+               djb: Is it in one of the other witnesses, so that we can cite a ms source?
+            -->
          </w>
          <w>
             <pldr>яростенъ</pldr>
@@ -1265,7 +1297,14 @@
          <w>
             <pldr>нарядивъ</pldr>
             <rec>нарѧдивъ</rec>
-            <!--note an object is missing here, prob. посълы lost in an eye-skip, unless we take посъла as obj. (awk.)-->
+            <note>We expect—but do not find—a direct object here. The scribe may have omitted
+                  <os>посълы</os>
+               <gloss>messengers</gloss> as an eye-skip, since aorist <os>посъла</os> occurs
+               immediately after.</note>
+            <!--
+               note an object is missing here, prob. посълы lost in an eye-skip, unless we take посъла as obj. (awk.)
+               djb: Note added
+            -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -1342,18 +1381,27 @@
          <w>
             <pldr>видети,</pldr>
             <rec>видѣти.</rec>
-            <!--Full-stop added here-->
+            <!--
+               Full-stop added here
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>царьство</pldr>
             <rec>Цѣсарьство</rec>
             <note>The emperor refers to himself as <q>My Imperial Majesty</q>.</note>
-            <!--Can you capitalize all instances of Цѣсарьство? I believe they are all so used-->
+            <!--
+               Can you capitalize all instances of Цѣсарьство? I believe they are all so used
+               djb: Done!
+            -->
          </w>
          <w>
             <pldr>мое</pldr>
             <rec>моѥ</rec>
-            <!--Full-stop removed from here, and change to lower-case in following word-->
+            <!--
+               Full-stop removed from here, and change to lower-case in following word
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>Иного</pldr>
