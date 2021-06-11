@@ -7,14 +7,15 @@ w = element w { pldr, rec, note? }
 pldr = element pldr { text }
 rec = element rec { text }
 note =
-    element note {
-        mixed { (os | gloss | link | title | q | em)* }
-    }
+  element note {
+    mixed { (os | gloss | link | title | q | em | gk)* }
+  }
 em = element em { text }
 gloss = element gloss { text }
 os = element os { text }
 link = element link { xsd:anyURI }
 q =
-    element q {
-        mixed { em* }
-    }
+  element q {
+    mixed { em* }
+  }
+gk = element gk { text }

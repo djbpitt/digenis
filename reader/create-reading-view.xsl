@@ -111,6 +111,11 @@
             <xsl:apply-templates/>
         </em>
     </xsl:template>
+    <xsl:template match="gk">
+        <span class="gk">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
     <xsl:template match="text()">
         <!-- 
             XHTML will wrap after prime by default
