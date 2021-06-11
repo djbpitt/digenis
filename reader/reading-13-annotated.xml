@@ -64,7 +64,10 @@
          <w>
             <pldr>зайца</pldr>
             <rec>заѩца</rec>
-            <!--Corrected from leveled CSR form to form in Gorazd, etc.-->
+            <!--
+               Corrected from leveled CSR form to form in Gorazd, etc.
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>в</pldr>
@@ -164,6 +167,7 @@
             <!--Thus: Exception: write the prefix объ- before consonants or vowels
                where the manuscript has обо- (cf. Lunt OCS grammar §3.312) and
                изъ before vowels.??-->
+            <!-- djb: Guidelines updated accordingly, but see my note at изыдошѧ, below. -->
          </w>
          <w>
             <pldr>его.</pldr>
@@ -448,7 +452,10 @@
                for past active participle see Lunt OCS grammar §15.83, p. 133
                поемъ occurs in the manuscript later in this part; we emend to поимъ
             -->
-            <!--Also разнемъ in First Hunt episode; emend to разимъ or разъимъ?-->
+            <!--Also разнемъ in First Hunt episode; emend to разимъ or разъимъ?
+               djb: разъимъ or разъымъ, once we've revisited the spelling of prefixes
+               before root-initial /j/ (orthographic и).
+            -->
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -489,7 +496,10 @@
          <w>
             <pldr>сечетъ:</pldr>
             <rec>сѣчеть:</rec>
-            <!--Jat' in root-->
+            <!--
+               Jat' in root
+               djb: Yep.
+            -->
          </w>
          <w>
             <pldr>перво</pldr>
@@ -824,7 +834,10 @@
          <w>
             <pldr>И</pldr>
             <rec>И</rec>
-            <!--Tvorogov ignores a form here-->
+            <!--
+               Tvorogov ignores a form here
+               djb: Should we add a <note>?
+            -->
          </w>
          <w>
             <pldr>единаго</pldr>
@@ -884,15 +897,22 @@
             <!-- 
                Rob: I left this as one word, figuring that it was 
                similar to adverbial constructions like въбързѣ 
-            --> <!--Agreed!-->
+            -->
+            <!--Agreed!-->
          </w>
          <w>
             <pldr>подай</pldr>
             <rec>пода</rec>
+            <note>We emend to remove the trailing <os>и</os> because expect an aorist here.
+                  <os>дати</os> has aorist forms in both <os>да</os> and <os>дастъ</os> (even in
+               OCS); <os>дастъ</os> is much morre common in the <em>Digenis</em> sources.</note>
             <!--
                Rob: We expect an aorist here. Should we emend?
-            --> 
-            <!--I've deleted и as in my edition; I don't think we can do anything with a separate и here-->
+               I've deleted и as in my edition; I don't think we can do anything with a separate и here
+ 
+ djb: Aorist да instead of дастъ is possible, but should we standardize on дастъ, which is much
+                  more numerous? I'm uneasy with the inconsistency. Meanwhile, I've added a note.
+            -->
          </w>
          <w>
             <pldr>ми</pldr>
@@ -948,10 +968,15 @@
          </w>
          <w>
             <pldr>изыдоша</pldr>
-            <rec>изыдошѧ</rec>
+            <rec>изъидошѧ</rec>
             <!--
                We should check for consistency with consonantal prefixes before ид–
-            --> <!--Agreed!-->
+            -->
+            <!--Agreed!
+               djb: I've changed this to ъи and updated our principles, but I'd like to revisit the
+                  question because the ms reading looks good to me here and I have reservations
+                  about emending it.
+            -->
          </w>
          <w>
             <pldr>пред</pldr>
@@ -1049,8 +1074,11 @@
          </w>
          <w>
             <pldr>отвещавъ</pldr>
-            <rec>отъвѣщавъше</rec>
-            <!--I think we need 3pl aorist отъвѣщашѧ here-->
+            <rec>отъвѣщашѧ</rec>
+            <!--
+               I think we need 3pl aorist отъвѣщашѧ here
+               djb: Agreed. I've made the change.
+            -->
          </w>
          <w>
             <pldr>ему:</pldr>
@@ -1303,8 +1331,12 @@
                co-existed with Gpl, as if it were one large number, so I’ve retained
                that manuscript reading here. See Lunt OCS grammar §20, p. 153.
             -->
-            <!--But at another place in Mc (Lay of the Emir), we get a dual with 12:
-               по конець носа ·вꙇ҃· замка замчена. What would dual be here?-->
+            <!--
+               But at another place in Mc (Lay of the Emir), we get a dual with 12:
+               по конець носа ·вꙇ҃· замка замчена. What would dual be here?
+               djb: OCS has бѣ бо лѣтома ꙇ҃б (http://gorazd.org/gulliver/?recordId=15660)
+                  Should review this as part of a comprehensive review of the dual?
+            -->
          </w>
          <w>
             <pldr>в</pldr>
@@ -1333,7 +1365,11 @@
                This is Tvorogov’s emendation, and it fits the sense,
                but is it correct?
             -->
-            <!-- Mc reads опочинити here; I've corrected to to Miklosich's опоинѫти-->
+            <!-- 
+               Mc reads опочинити here; I've corrected to to Miklosich's опоинѫти
+               djb: Yep. What does Тх say? That is, what is Tvorogov emending? Should
+                  we include a note?
+            -->
          </w>
          <w>
             <pldr>многи</pldr>
@@ -1446,7 +1482,11 @@
          <w>
             <pldr>Канама</pldr>
             <rec>Кинама</rec>
-            <!--Emended according to Greek spelling-->
+            <note>We emend this to follow the Greek spelling.</note>
+            <!--
+               Emended according to Greek spelling
+               djb: Note added
+            -->
          </w>
          <w>
             <pldr>со</pldr>
@@ -1455,7 +1495,11 @@
          <w>
             <pldr>Иаакимомъ</pldr>
             <rec>Иоанакомь</rec>
-            <!--Emended according to Greek spelling-->
+            <note>We emend this to follow the Greek spelling.</note>
+            <!--
+               Emended according to Greek spelling
+               Note added.
+            -->
          </w>
          <w>
             <pldr>возложи</pldr>
