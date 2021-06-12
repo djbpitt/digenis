@@ -3,6 +3,17 @@
 <?xml-model href="reader.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section>
    <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·вꙇ҃·</title>
+   <!--
+      I've written the possessive of Цѣсарь as Цѣсарѥвъ, with jotated ѥ, because
+      1) it's etymologically correct, 2) it's in Cejtlin, and 3) it's consistent with our
+      writing forms like глаголѥши. But if we do that, should we also write inflected
+      forms with ѥ, e.g., Isg Цѣсарѥмь? Historically it's a palatal /r/ < /rj/, and not
+      just a soft /r/. On the other hand, it's sort a superfluous distinction to make in
+      EESl, where palatal and palatalized merged with the jer shift. On a third hand, 
+      we're reconstucting etymological jers, that is, a state of the language before the
+      completion of the jer shift. On a fourth hand, if we write глаголѥши, we should
+      also be writing землѥю, полѥмь, конѥмь.
+   -->
    <body>
       <p>
          <w>
@@ -15,7 +26,8 @@
          </w>
          <w>
             <pldr>царевъ,</pldr>
-            <rec>цѣсаревъ,</rec>
+            <rec>Цѣсарѥвъ,</rec>
+            <!-- capitalize Цѣсарь, jotated ѥ -->
          </w>
          <w>
             <pldr>глагола</pldr>
@@ -31,7 +43,8 @@
          </w>
          <w>
             <pldr>царемъ,</pldr>
-            <rec>цѣсарьмь,</rec>
+            <rec>Цѣсарьмь,</rec>
+            <!-- capitalize Цѣсарь -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -51,7 +64,8 @@
          </w>
          <w>
             <pldr>царю</pldr>
-            <rec>цѣсарю</rec>
+            <rec>Цѣсарю</rec>
+            <!-- capitalize Цѣсарь -->
          </w>
          <w>
             <pldr>своему</pldr>
@@ -103,11 +117,12 @@
          </w>
          <w>
             <pldr>зане</pldr>
-            <rec>зане</rec>
+            <rec>занѥ</rec>
          </w>
          <w>
             <pldr>упование</pldr>
-            <rec>оупованиѥ</rec>
+            <rec>оупъваниѥ</rec>
+            <!--Root vowel is ъ, not о-->
          </w>
          <w>
             <pldr>имеяи</pldr>
@@ -140,6 +155,8 @@
          <w>
             <pldr>помысла,</pldr>
             <rec>помысла,</rec>
+            <note><os>помыслъ</os>
+               <gloss>intention</gloss> (here)</note>
          </w>
          <w>
             <pldr>но</pldr>
@@ -167,11 +184,15 @@
          </w>
          <w>
             <pldr>глаголемую</pldr>
-            <rec>глаголемꙋю</rec>
+            <rec>глаголѥмꙋю</rec>
+            <!-- ѥ in Class III with C stem -->
          </w>
          <w>
             <pldr>Ефрантъ,</pldr>
             <rec>Ѥфрантъ,</rec>
+            <note><os>Ѥфрантъ</os> and <os>Ѥфратъ</os> (both also with <os>Ѥв–</os> and
+               <os>Ѥѵ–</os>) are attested early as representations of <gloss>Euphrates</gloss>. We
+               retain the spelling in the manuscript.</note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -287,7 +308,8 @@
          </w>
          <w>
             <pldr>царю,</pldr>
-            <rec>цѣсарю,</rec>
+            <rec>Цѣсарю,</rec>
+            <!-- capitalize Цѣсарь -->
          </w>
          <w>
             <pldr>сказа</pldr>
@@ -307,7 +329,8 @@
          </w>
          <w>
             <pldr>Девгениемъ.</pldr>
-            <rec>Девгениѥмъ.</rec>
+            <rec>Девгениѥмь.</rec>
+            <!-- mIsg ends in front jer -->
          </w>
       </p>
       <p>
@@ -321,7 +344,8 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>цѣсарь</rec>
+            <rec>Цѣсарь</rec>
+            <!-- capitalize Цѣсарь -->
          </w>
          <w>
             <pldr>вборзе</pldr>
@@ -433,7 +457,8 @@
          </w>
          <w>
             <pldr>царевъ</pldr>
-            <rec>цѣсаревъ</rec>
+            <rec>Цѣсарѥвъ</rec>
+            <!-- capitalize Цѣсарѥвъ, jotated ѥ -->
          </w>
          <w>
             <pldr>шатеръ</pldr>
@@ -477,7 +502,8 @@
          </w>
          <w>
             <pldr>златомъ;</pldr>
-            <rec>златомь;</rec>
+            <rec>златъмь;</rec>
+            <!-- nIsg -ъмь -->
          </w>
          <w>
             <pldr>а</pldr>
@@ -530,7 +556,10 @@
          <w>
             <pldr>бысть,</pldr>
             <rec>бѣшѧ,</rec>
-            <!-- perfective 3sg aorist frequently used and frequently wrong; here emended to 3pl imperfective aorist -->
+            <!-- 
+               perfective 3sg aorist frequently used and frequently wrong; here emended to 3pl imperfective aorist
+               djb: Do we have clear guidelines for imperfective vs perfective aorist?
+            -->
          </w>
          <w>
             <pldr>ови</pldr>
@@ -551,6 +580,8 @@
          <w>
             <pldr>они</pldr>
             <rec>ини</rec>
+            <note>Тх reads <os>ини</os> here, which makes sense, so we follow the manuscript and
+               reject Tvorogov’s unnecessary ementation to <os>они</os>.</note>
             <!-- NB Tx also reads ини here, Tvorogov unnecessarily emends to они -->
          </w>
          <w>
@@ -575,7 +606,8 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>цѣсарь</rec>
+            <rec>Цѣсарь</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -679,7 +711,8 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>цѣсарь</rec>
+            <rec>Цѣсарь</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>ужасе</pldr>
@@ -709,7 +742,8 @@
          </w>
          <w>
             <pldr>цареви,</pldr>
-            <rec>цѣсарю,</rec>
+            <rec>Цѣсарю,</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>глаголя:</pldr>
@@ -737,7 +771,8 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>цѣсарь</rec>
+            <rec>Цѣсарь</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>твой</pldr>
@@ -754,6 +789,14 @@
          <w>
             <pldr>худости.</pldr>
             <rec>хꙋдости.</rec>
+            <note>Digenis refers to himself as <q>My Nothingness</q>, a play on words with the
+               concept of referring to the Emperor along the lines of <os>Ваше Величьство</os>
+               <gloss>Your Highness</gloss>.</note>
+            <!-- 
+               Tvorogov translate къ here as modern ради, but if you're comfortable
+               with literal ‘toward’ (that is, ‘to come to me’), we can keep the more 
+               natural meaning of the preposition.
+            -->
          </w>
          <w>
             <pldr>Но</pldr>
@@ -762,6 +805,10 @@
          <w>
             <pldr>обычей</pldr>
             <rec>обычаи</rec>
+            <!--
+               Are we okay with just changing the е in the manuscript here
+               without comment? Can we make any sense of it?
+            -->
          </w>
          <w>
             <pldr>ти</pldr>
@@ -846,6 +893,8 @@
          <w>
             <pldr>поведать,</pldr>
             <rec>побѣдити,</rec>
+            <note>Tvorogov emends here, but <os>побѣдити</os> fits more naturally than his
+                  <os>поведати</os>.</note>
             <!--Tvorogov emends (his or another's?)-->
          </w>
          <w>
@@ -958,7 +1007,8 @@
          </w>
          <w>
             <pldr>царь:</pldr>
-            <rec>цѣсарь:</rec>
+            <rec>Цѣсарь:</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>«Да</pldr>
@@ -1052,6 +1102,7 @@
          <w>
             <pldr>Девгениева</pldr>
             <rec>Девгениѥва</rec>
+            <note>That is, he captured Digenis’s messenger.</note>
          </w>
          <w>
             <pldr>приятъ.</pldr>
@@ -1067,7 +1118,8 @@
          </w>
          <w>
             <pldr>царевъ</pldr>
-            <rec>цѣсаревъ</rec>
+            <rec>Цѣсарѥвъ</rec>
+            <!-- capitalize Цѣсарѥвъ, jotated ѥ -->
          </w>
          <w>
             <pldr>посолъ</pldr>
@@ -1091,7 +1143,7 @@
          </w>
          <w>
             <pldr>царем.</pldr>
-            <rec>цѣсаремь.</rec>
+            <rec>Цѣсаремь.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1111,7 +1163,9 @@
          </w>
          <w>
             <pldr>царю</pldr>
-            <rec>цѣсарю</rec>
+            <rec>Цѣсарю</rec>
+            <note>There is no indirect object in Тх; we follow Tvorogov in emending to insert a
+               reference to the Emperor.</note>
             <!--Insertion (no object in MS), not sure whose originally-->
          </w>
          <w>
@@ -1164,7 +1218,8 @@
          </w>
          <w>
             <pldr>упование</pldr>
-            <rec>оупованиѥ</rec>
+            <rec>оупъваниѥ</rec>
+            <!-- Back jer, rather than о, in the root -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -1224,11 +1279,16 @@
          </w>
          <w>
             <pldr>время</pldr>
-            <rec>врѣмѧ</rec>
+            <rec>времѧ</rec>
+            <!-- we use tret spellings for *tert -->
          </w>
          <w>
             <pldr>дни</pldr>
-            <rec>дьни</rec>
+            <rec>дьне</rec>
+            <!-- 
+               I changed this to Gsg, understanding that ‘the time
+               *of the day* had run out’.
+            -->
          </w>
          <w>
             <pldr>преминуло,</pldr>
@@ -1248,7 +1308,14 @@
          </w>
          <w>
             <pldr>исполчеваи</pldr>
-            <rec>испълчеваи</rec>
+            <rec>испълчиваи</rec>
+            <!--
+               I've emended (replaced е with и). The only citation I can find
+               for Class III испълчевати сѧ (that is, with imperative in -аи) is in the
+               green dictionary (v. 6, p. 283), and it's this example, and therefore not
+               corroberative. But Class III испълчивати сѧ, where imperative in -аи 
+               is expected, is attested in Flavius (same page).
+            -->
          </w>
          <w>
             <pldr>сь</pldr>
@@ -1284,7 +1351,8 @@
          </w>
          <w>
             <pldr>узриши</pldr>
-            <rec>оузриши</rec>
+            <rec>оузьриши</rec>
+            <!-- Front jer in root -->
          </w>
          <w>
             <pldr>худаго</pldr>
@@ -1336,8 +1404,12 @@
          </w>
          <w>
             <pldr>неисполнениихъ».</pldr>
-            <rec>неиспълненыихъ».</rec>
-            <!--Tvorogov has left out two words that complete this sentence-->
+            <rec>неиспълненыхъ».</rec>
+            <!--
+               Tvorogov has left out two words that complete this sentence
+               djb: Should we restore them?
+            -->
+            <!-- We've been contracting adjectives, so I changed -ыихъ to -ыхъ -->
          </w>
          <w>
             <pldr>И</pldr>
@@ -1373,7 +1445,8 @@
          </w>
          <w>
             <pldr>царю.</pldr>
-            <rec>цѣсарю.</rec>
+            <rec>Цѣсарю.</rec>
+            <!-- Capitalize -->
          </w>
       </p>
       <p>
@@ -1424,6 +1497,10 @@
          <w>
             <pldr>многоимцы:</pldr>
             <rec>мъногоимьци:</rec>
+            <!-- 
+               Is there a Greek form we should cite here to explain
+               how ‘wealthy persons’ functions as ‘military retinue’?
+            -->
          </w>
          <w>
             <pldr>«Во</pldr>
@@ -1436,6 +1513,8 @@
          <w>
             <pldr>вменяет</pldr>
             <rec>въмѣнꙗѥть</rec>
+            <note><os>въмѣнꙗти сѧ</os>
+               <gloss>be worth; measure up as</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
@@ -1451,7 +1530,8 @@
          </w>
          <w>
             <pldr>царю,</pldr>
-            <rec>цѣсарю,</rec>
+            <rec>Цѣсарю,</rec>
+            <!-- Capitalize -->
          </w>
          <w>
             <pldr>аще</pldr>
@@ -1516,7 +1596,8 @@
          </w>
          <w>
             <pldr>скочивъ</pldr>
-            <rec>съкочивъ</rec>
+            <rec>скочивъ</rec>
+            <!-- No jer after initial с; it isn’t a prefix -->
          </w>
          <w>
             <pldr>у</pldr>
@@ -1560,7 +1641,8 @@
          </w>
          <w>
             <pldr>царя.</pldr>
-            <rec>цѣсарꙗ.</rec>
+            <rec>Цѣсарꙗ.</rec>
+            <!-- Capitalize -->
          </w>
       </p>
    </body>
