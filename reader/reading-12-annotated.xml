@@ -13,6 +13,8 @@
       we're reconstucting etymological jers, that is, a state of the language before the
       completion of the jer shift. On a fourth hand, if we write глаголѥши, we should
       also be writing землѥю, полѥмь, конѥмь.
+      
+      rr: it's your call! If e.g. Isg Цѣсарѥмь is correct, let's go with it consistently.
    -->
    <body>
       <p>
@@ -559,6 +561,11 @@
             <!-- 
                perfective 3sg aorist frequently used and frequently wrong; here emended to 3pl imperfective aorist
                djb: Do we have clear guidelines for imperfective vs perfective aorist?
+               
+               rr: some guidelines in van Schooneveld, The OR Finite Preterite System, VIII.3, VIII.4 (pp. 157ff): 
+               ppl pt p + bystĭ = periphrastic passive aorist; ppl pt p + bě = periphrastic passive pluperfect
+               (Vlasto discusses both at 3.134.5, p. 181, distinguishing the former as an action, latter as a state).
+               NB also that Mc generally uses ipf aorist more frequently than Tx (but no Mc text here)
             -->
          </w>
          <w>
@@ -583,6 +590,7 @@
             <note>Тх reads <os>ини</os> here, which makes sense, so we follow the manuscript and
                reject Tvorogov’s unnecessary ementation to <os>они</os>.</note>
             <!-- NB Tx also reads ини here, Tvorogov unnecessarily emends to они -->
+            <!-- RR: We'll remove the note you added when we insert the actual MS text -->
          </w>
          <w>
             <pldr>в</pldr>
@@ -790,12 +798,22 @@
             <pldr>худости.</pldr>
             <rec>хꙋдости.</rec>
             <note>Digenis refers to himself as <q>My Nothingness</q>, a play on words with the
-               concept of referring to the Emperor along the lines of <os>Ваше Величьство</os>
+               style of address to the Emperor as <os>Твоѥ Цѣсарьство</os>
                <gloss>Your Highness</gloss>.</note>
             <!-- 
+               RR: I've corrected the note to the actual use in the text. This is also the second time:
+               cf. previous хꙋдобꙋ мою видѣти; cf. also there the Greek line:
+               κἀκεῖ μὲ ὄψει, δέσποτα, τὸν σὸν ἀχρεῖον δοῦλον.
+               Z 5.2325 And there you will see me, lord, your useless servant;
+               
                Tvorogov translate къ here as modern ради, but if you're comfortable
                with literal ‘toward’ (that is, ‘to come to me’), we can keep the more 
                natural meaning of the preposition.
+               RR: къ is simply πρὸς, as usual. Cf. the Greek lines:
+               «πόθεν μοι τοῦτο γέγονεν ὁ γῆς πάσης δεσπόζων 
+               G 4.1016 “How has it come about that he who is master of the whole earth
+               παραγενέσθαι πρὸς ἐμὲ τὸν ἐξουθενημένον; 
+               G 4.1017 is visiting me in my total insignificance?
             -->
          </w>
          <w>
@@ -808,6 +826,8 @@
             <!--
                Are we okay with just changing the е in the manuscript here
                without comment? Can we make any sense of it?
+               rr: обычей appears to be a later ESl variant, found in dictionaries under обычаи
+               I'm guessing it renders CSR phonological development of unstressed ja > [i]
             -->
          </w>
          <w>
@@ -893,9 +913,10 @@
          <w>
             <pldr>поведать,</pldr>
             <rec>побѣдити,</rec>
-            <note>Tvorogov emends here, but <os>побѣдити</os> fits more naturally than his
-                  <os>поведати</os>.</note>
-            <!--Tvorogov emends (his or another's?)-->
+            <note>Tvorogov emends <os>поведати</os> to <os>побѣдити</os> and we follow.</note>
+            <!-- emends (his or another's?)-->
+            <!-- RR: I didn't explain well, I've corrected the note. 
+               Also, побѣдити is probably not Tvorogov's emendation, we'll have to check.-->
          </w>
          <w>
             <pldr>в</pldr>
@@ -1045,7 +1066,14 @@
                case is possible in this context, but the combination is incorrect, and we emend
                (somewhat arbitrarily) to Gsg.</note>
             <!-- Should we say something about possible extension of a ŭ-stem Gsg (originally masculine
-            only) into a neuter context here? I don’t like it as an explanation.-->
+            only) into a neuter context here? I don’t like it as an explanation.
+            rr: I don't either; I wasn't thinking of paradigmatic extension as such, but of an error that the Tx scribe 
+            wouldn't immediately go back to correct, because of the existence of ŭ-stem mGsg and its extension.
+            In other words, whatever was in his source MS, he wrote out one Gsg and one Dsg-like form, perhaps
+            in two parts (memorizing first prep. + mod., then noun) and when he glanced back at it (if indeed he 
+            did) it didn't strike him as odd. I also find it more likely that he'd miscopy the noun than the modifier, 
+            for the above reason as well as the error of one letter only in the noun.
+            -->
          </w>
          <w>
             <pldr>не</pldr>
@@ -1102,7 +1130,8 @@
          <w>
             <pldr>Девгениева</pldr>
             <rec>Девгениѥва</rec>
-            <note>That is, he captured Digenis’s messenger.</note>
+            <note>That is, he accepted Digenis’s messenger.</note>
+            <!--RR: not captured; the exhange of messengers/messages is continuing-->
          </w>
          <w>
             <pldr>приятъ.</pldr>
@@ -1166,7 +1195,7 @@
             <rec>Цѣсарю</rec>
             <note>There is no indirect object in Тх; we follow Tvorogov in emending to insert a
                reference to the Emperor.</note>
-            <!--Insertion (no object in MS), not sure whose originally-->
+            <!--RR: this is probably not Tvorogov's original emendation; we'll need to check later-->
          </w>
          <w>
             <pldr>своему:</pldr>
@@ -1288,6 +1317,8 @@
             <!-- 
                I changed this to Gsg, understanding that ‘the time
                *of the day* had run out’.
+               
+               RR: I was nodding here and above!
             -->
          </w>
          <w>
@@ -1314,7 +1345,7 @@
                for Class III испълчевати сѧ (that is, with imperative in -аи) is in the
                green dictionary (v. 6, p. 283), and it's this example, and therefore not
                corroberative. But Class III испълчивати сѧ, where imperative in -аи 
-               is expected, is attested in Flavius (same page).
+               is expected, is attested in Flavius (same page).  RR: great, thanks!!
             -->
          </w>
          <w>
@@ -1408,6 +1439,8 @@
             <!--
                Tvorogov has left out two words that complete this sentence
                djb: Should we restore them?
+               rr: let's wait until we get the actual Tx text up. Their restoration  
+               will also require an emendation to неиспълченыхъ here.
             -->
             <!-- We've been contracting adjectives, so I changed -ыихъ to -ыхъ -->
          </w>
@@ -1469,6 +1502,8 @@
          <w>
             <pldr>бояры</pldr>
             <rec>боꙗры</rec>
+            <!-- καὶ ἔλεγε τοῖς ἄρχουσι μετὰ χαρᾶς μεγάλης,
+               Z 5.2331 And, with great joy, he said to the princes -->
          </w>
          <w>
             <pldr>своя,</pldr>
@@ -1481,6 +1516,7 @@
          <w>
             <pldr>думати.</pldr>
             <rec>дꙋмати.</rec>
+            <!-- RR: this is 'to take counsel' -->
          </w>
          <w>
             <pldr>И</pldr>
@@ -1500,6 +1536,10 @@
             <!-- 
                Is there a Greek form we should cite here to explain
                how ‘wealthy persons’ functions as ‘military retinue’?
+               
+               rr: First, no precise Greek parallel for this line. Second, it's
+               not military retinue but 'princes' (see my new note above)
+               Both in Z and here, the emperor travels in considerable state!
             -->
          </w>
          <w>

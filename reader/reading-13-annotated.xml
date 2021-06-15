@@ -455,6 +455,9 @@
             <!--Also разнемъ in First Hunt episode; emend to разимъ or разъимъ?
                djb: разъимъ or разъымъ, once we've revisited the spelling of prefixes
                before root-initial /j/ (orthographic и).
+               
+               rr: Doesn't ъи = ы? In which case разъимъ or разымъ (w/o jer), no?
+               If so, I prefer the former orthography as (pedagogically) more transparent
             -->
          </w>
          <w>
@@ -837,6 +840,7 @@
             <!--
                Tvorogov ignores a form here
                djb: Should we add a <note>?
+               rr: I'd wait until the actual Tx text is included
             -->
          </w>
          <w>
@@ -905,13 +909,17 @@
             <rec>пода</rec>
             <note>We emend to remove the trailing <os>и</os> because expect an aorist here.
                   <os>дати</os> has aorist forms in both <os>да</os> and <os>дастъ</os> (even in
-               OCS); <os>дастъ</os> is much morre common in the <em>Digenis</em> sources.</note>
+               OCS); <os>дастъ</os> is much more common in our main manuscript source.</note>
             <!--
                Rob: We expect an aorist here. Should we emend?
                I've deleted и as in my edition; I don't think we can do anything with a separate и here
  
  djb: Aorist да instead of дастъ is possible, but should we standardize on дастъ, which is much
                   more numerous? I'm uneasy with the inconsistency. Meanwhile, I've added a note.
+                  
+                  rr: Aor пода(сть) is almost obligatory in the fragments of Mc, the language of which  
+                  is in some respects more archaic than that of Tx; I've emended the note appropriately.
+                  Could it be argued that the по-prefix adds some nuance, or is it semantically empty?
             -->
          </w>
          <w>
@@ -1336,6 +1344,11 @@
                по конець носа ·вꙇ҃· замка замчена. What would dual be here?
                djb: OCS has бѣ бо лѣтома ꙇ҃б (http://gorazd.org/gulliver/?recordId=15660)
                   Should review this as part of a comprehensive review of the dual?
+                  
+                  rr: not sure; as you know, I'm nervous about over-emending to dual
+                  (as I assume it was falling out even in the earliest texts); nonetheless,
+                  if we want to systematize our text with the dual for pedagogical reasons,
+                  let's introduce it everywhere (even w/ hands, elbows, etc.).
             -->
          </w>
          <w>
@@ -1369,6 +1382,11 @@
                Mc reads опочинити here; I've corrected to to Miklosich's опоинѫти
                djb: Yep. What does Тх say? That is, what is Tvorogov emending? Should
                   we include a note?
+                  
+                  rr: Apologies, Tx reads опочинити here (no Mc reading); 
+                  Tvorogov and I both correct to (Miklosich's) опочинѫти.
+                  Again, I'd leave off notes until we get the actual manuscript 
+                  text up (there are many more such instances, undocumented)
             -->
          </w>
          <w>

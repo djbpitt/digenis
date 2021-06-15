@@ -136,11 +136,12 @@
             <note>The most likely reading is that the preposition <os>съ</os> was accidentally
                omitted, and it means that she was freed together with her servants. Alternatively,
                the instrumental without preposition might be understood as he conveyed news of her
-               freedom <gloss>through her servants</gloss>. <os>свои</os> is primaily reflexive, but
+               freedom <gloss>through his servants</gloss>. <os>свои</os> is primaily reflexive, but
                can also translate Gk <gk>ἴδιος</gk>
-               <gloss>one’s own (but not necessarily the subject)</gloss></note>
+               <gloss>one’s own (but not necessarily the subject’s)</gloss></note>
             <!--
                Add reference to svoj as Gr. idios (Miklosich s.v., [b]), rather than as reflexive pronoun?
+               RR: corrected note to "through his servants" and "the subject’s"
             -->
          </w>
          <w>
@@ -786,6 +787,8 @@
                entry in both. Given the late dates of our mss, I'm not
                confident that we should have confidence in the manuscript 
                readings with respect to this detail. 
+               
+               RR: agreed, shall we emend to -slu- here and elsewhere?
             -->
          </w>
          <w>
@@ -1129,7 +1132,7 @@
                djb: We should review uses of воинъ everywhere and document a consistent editorial policy. I've
                opened an issue in GitHub.
             -->
-            <!--Continue checking from here-->
+            <!--Continue checking from here     RR: CAN THIS BE DELETED? LOOKS SUPERFLUOUS-->
          </w>
          <w>
             <pldr>с</pldr>
@@ -1280,6 +1283,9 @@
             <!-- 
                царь supplied by Tvorogov (or another) here, not in Tx
                djb: Is it in one of the other witnesses, so that we can cite a ms source?
+               
+               rr: no; other witnesses to this episode are the reworked "Maximou" episode in Тт and Пг,
+               but they are silent here; also note this is probably not Tvorogov's emendation
             -->
          </w>
          <w>

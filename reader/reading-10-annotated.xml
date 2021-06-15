@@ -404,6 +404,8 @@
             <note><os>сватъ</os>
                <gloss>daughter-in-law’s or son-in-law’s father</gloss> (that is, <gloss>fellow
                   father-in-law)</gloss>; originally o-stem, but here with ŭ-stem Vsg ending</note>
+            <!--RR: should this vocative be corrected to свате? My understanding is that the spread of 
+               short u-stem forms is a later phenomenon-->
          </w>
          <w>
             <pldr>к</pldr>
@@ -821,6 +823,34 @@
          <w>
             <pldr>а</pldr>
             <rec>а</rec>
+            <!--RR: Should there be a note about the meaning of а here? Below is what I wrote in my email:
+               
+               As a possible (and possibly strained) case for preserving а at 190 and emending to покрытыхъ at 191, 
+               might the unusual conjoining conjunction а = и of the end of the Igor Tale be a model? In the Slovar'-
+               spravochnik "Slova o polku igoreve":
+
+              а) Соединяет однородные члены предложения и однородные предложения как смысловое 
+              целое: Княземъ слава а дружинѣ! Аминь. 45. (Так читают: Дубенский, Барсов, Перетц, Орлов, 
+              Гудзий, Лихачев. Первые издатели, Тихонравов, Срезневский читают: „Княземъ слава, а 
+              дружинѣ аминь“.)
+
+              I recall that Ivanov considered it an archaism, but in the Slovar'-spravochnik there is a citation from the 
+              Galician (?) translation of Josephus, which is close to Orlov's posited translation context for Digenis 
+              (or even the same, I'm not sure what end of the century Orlov placed it):
+
+              От рыданиа а слез его скрачашеся гласъ его. Флав. Полон. Иерус. (Барсов), 1 (XV в. ~ нач. 
+              XII в.).
+
+              And its presence in the IT gives us a manuscript context ("convoy") with Mc, for what it's worth. 
+              Anyway, the Slovar-Spravochnik entry is here: http://feb-web.ru/feb/slovoss/ss-abc/1.htm
+
+              Finally, Danicic attests this usage rarely in early and middle Serbian/stokavian (s.v. a, vol. 1, p. 3, 
+              definition at top). 
+
+              Does Danicic's second definition on p. 3, et quoque (which seems best for the context), imply a new 
+              predication?
+
+               -->
          </w>
          <w>
             <pldr>покрыты</pldr>
@@ -833,6 +863,8 @@
                P.S. We decided to regard it not as a new predication, and
                therefore to use Gpl for the adjective. This makes the 
                conjunction awkward.
+               
+               RR: see comment above for the conjunction
             -->
          </w>
          <w>
@@ -919,13 +951,15 @@
             <pldr>кормилицы</pldr>
             <rec>кърмильци</rec>
             <note>jo-stem <os>кърмильць</os>
-               <gloss>care-taker (of animals)</gloss>. The usual suffix is <os>–ьц–</os>, rather
+               <gloss>care-taker (of animals or children)</gloss>. The usual suffix is <os>–ьц–</os>, rather
                than <os>–иц–</os>.</note>
             <!-- 
                green dictionary for кърмильць (in their orthography) v. 7, p. 318 
                includes “тот, кто кормит животных”, a meaning not given for 
                кърмилица (never mind that the Ipl ending would be wrong for a 
                jā-stem)
+               
+               RR: I've added "or children" to the note, apropos Miklosich's 'paedagogus'
             -->
          </w>
          <w>
@@ -1004,11 +1038,13 @@
          <w>
             <pldr>шит</pldr>
             <rec>шитъ</rec>
-            <note><os>шит(ъ)</os> inserted by Tvorogov from Мс </note>
+            <note><os>шит(ъ)</os> inserted by Tvorogov from Мс</note>
             <!-- 
                In the <note> element, no blank spaces after start tags or before 
                end tags; we use space characters only where we need to represent 
                a space, e.g., between words
+               
+               RR: removed last space in note
             -->
          </w>
          <w>
@@ -1117,6 +1153,10 @@
             <note>The icon is of two military saints Theodore (Theodore Tyron and Theodore
                Stratilates), represented in the manuscript by a plural that we emend to a
                dual.</note>
+            <!--RR: This is trickier than we admit to here: the MS presents it either as a new predication in Nsg
+               ('a gold icon (A): St. Theodore (N)'), possibly inventory style; or in apposition w/o syncretic G-A
+               ('a gold icon, St. Theodore (A)'). This could most directly be emended to Gpl (святыхъ Ѳеодоръ,
+               'of the (several) Sts Theodore'), then changed for pedagogical reasons to dual. -->
          </w>
          <w>
             <pldr>Феодоръ;</pldr>
