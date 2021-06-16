@@ -89,6 +89,7 @@
          <w>
             <pldr>выехаша</pldr>
             <rec>выѣхашѧ</rec>
+            <!--RR: I think this should be выѣха: it makes better sense, and Тт has выеде here.-->
          </w>
          <w>
             <pldr>из</pldr>
@@ -180,7 +181,8 @@
          <w>
             <pldr>«Востани!</pldr>
             <rec>«Въстани!</rec>
-         </w>
+            <note>From <em>vъs-stati</em>
+               <gloss>stand up</gloss>, with degemination.</note>         </w>
          <w>
             <pldr>Воссия</pldr>
             <rec>Въсиꙗ</rec>
@@ -773,7 +775,8 @@
          </w>
          <w>
             <pldr>мои</pldr>
-            <rec>мои</rec>
+            <rec>моꙗ</rec>
+            <!--RR: emended to fNsg, as in Mc. I'm OK with the BCS-like vb. agreement below (also in Mc).-->
          </w>
          <w>
             <pldr>суть</pldr>
@@ -860,6 +863,7 @@
          <w>
             <pldr>поцеловавъ</pldr>
             <rec>поцѣловавъ</rec>
+            <!--RR: NB Tт has aor. поцелова here, so I'd recommend we emend Tx reading to поцѣлова-->
          </w>
          <w>
             <pldr>ю,</pldr>

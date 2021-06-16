@@ -118,6 +118,7 @@
             <pldr>«Выеде</pldr>
             <rec>«Выѣди</rec>
             <note>NB: corrected; 2sg imv irreg Class I <os>выѣхати (выѣдꙋть)</os></note>
+            <!-- Mc actually reads выедѧ here; I'd correct to Tт's выиди, it makes more sense in context-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -211,6 +212,7 @@
             <pldr>поехавъ</pldr>
             <rec>поѣхавъ</rec>
             <note>ppl pt a mNsg irreg Class I <os>поѣхати (поѣдꙋть)</os></note>
+            <!--RR: NB Tт has aor. поеде here, so I'd recommend we emend Tx reading to поѣха-->
          </w>
          <w>
             <pldr>з</pldr>
@@ -233,6 +235,7 @@
             <rec>поꙗхꙋ(ть)</rec>
             <note>3pl imperfect irreg Class I <os>пѣти, поють</os>
                <gloss>sing</gloss>, apparently pl to include Digenis and his retinue.</note>
+            <!--RR: Probably an error for ppl pr a поѩ, see below-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -262,7 +265,8 @@
          </w>
          <w>
             <pldr>сконча,</pldr>
-            <rec>съконьча,</rec>
+            <rec>съконьчѧ,</rec>
+            <!--RR: emended ending to front nasal, following our principles-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -279,7 +283,8 @@
          </w>
          <w>
             <pldr>выеде</pldr>
-            <rec>выѣде</rec>
+            <rec>выѣха</rec>
+            <!--RR: emended aorist to correct form-->
          </w>
          <w>
             <pldr>к</pldr>
@@ -324,6 +329,7 @@
          <w>
             <pldr>поиде</pldr>
             <rec>поиде</rec>
+            <!--RR: this is probably an error for поидошѧ, but there are no other witnesses here-->
          </w>
          <w>
             <pldr>к</pldr>
@@ -366,12 +372,15 @@
             <rec>объзьрѣвъ</rec>
             <note>ppl pt a mNsg Class IVB <os>объзьрѣти сѧ</os>
                <gloss>having surveyed</gloss></note>
+            <!--RR: Tvorogov inserts обозревся (not in Mc) from Tт; in fact, борзе above (in Mc) is probably
+               a corruption of aor. обозреся; if I'm right, Tvorogov gives us a form and, once again, its ghost-->
          </w>
          <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
             <note>ppl pt a mNsg Class IVB <os>объзьрѣти сѧ</os>
                <gloss>having surveyed</gloss></note>
+            <!--RR: see above, this is an insertion (but a necessary one)-->
          </w>
          <w>
             <pldr>ест</pldr>
@@ -448,6 +457,7 @@
             <pldr>погони,</pldr>
             <rec>погонѧ,</rec>
          </w>
+         <!--RR: stopped here on 15 June, will continue from here-->
          <w>
             <pldr>хощу</pldr>
             <rec>хощꙋ</rec>
