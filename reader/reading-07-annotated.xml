@@ -235,7 +235,7 @@
             <rec>поꙗхꙋ(ть)</rec>
             <note>3pl imperfect irreg Class I <os>пѣти, поють</os>
                <gloss>sing</gloss>, apparently pl to include Digenis and his retinue.</note>
-            <!--RR: Probably an error for ppl pr a поѩ, see below-->
+            <!--RR: Probably an error for ppl pr a поѩ, see next ppl pr a below-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -366,6 +366,7 @@
             <pldr>борзе</pldr>
             <rec>бързѣ</rec>
             <note>Adv (historically a short nLsg adjective; cf. Vlasto §3.68, p. 134)</note>
+            <!--RR: see below-->
          </w>
          <w>
             <pldr>обозрев</pldr>
@@ -373,7 +374,7 @@
             <note>ppl pt a mNsg Class IVB <os>объзьрѣти сѧ</os>
                <gloss>having surveyed</gloss></note>
             <!--RR: Tvorogov inserts обозревся (not in Mc) from Tт; in fact, борзе above (in Mc) is probably
-               a corruption of aor. обозреся; if I'm right, Tvorogov gives us a form and, once again, its ghost-->
+               a corruption of aor. обозреся; if I'm right, Tvorogov gives us a form as well as its ghost-->
          </w>
          <w>
             <pldr>ся,</pldr>
@@ -457,15 +458,16 @@
             <pldr>погони,</pldr>
             <rec>погонѧ,</rec>
          </w>
-         <!--RR: stopped here on 15 June, will continue from here-->
          <w>
             <pldr>хощу</pldr>
             <rec>хощꙋ</rec>
+            <!--RR: Tvorogov emends accorting to Tт, form missing in Tx (see below)-->
          </w>
          <w>
             <pldr>возвратити</pldr>
             <rec>възвратити</rec>
          </w>
+         <!--RR: Tvorogov emends accorting to Tт, aor возврати in Tx-->
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
@@ -491,6 +493,7 @@
          <w>
             <pldr>Девгений</pldr>
             <rec>Девгении</rec>
+            <!--RR: form added by Tvorogov, who ignores material in Tт here-->
          </w>
          <w>
             <pldr>милостивники</pldr>
@@ -594,8 +597,9 @@
          </w>
          <w>
             <pldr>сени</pldr>
-            <rec>сени</rec>
+            <rec>сѣни</rec>
          </w>
+         <!--RR: written with jat'; see Vasmer s.v. сень, Miklosich s.v. сѣнь, etc.-->
          <w>
             <pldr>Стратиговы</pldr>
             <rec>Стратиговы</rec>
@@ -610,7 +614,8 @@
          </w>
          <w>
             <pldr>сени</pldr>
-            <rec>сени</rec>
+            <rec>сѣни</rec>
+            <!--RR: written with jat'; see Vasmer s.v. сень, Miklosich s.v. сѣнь, etc.-->
          </w>
          <w>
             <pldr>распадоша</pldr>
@@ -1154,7 +1159,7 @@
          </w>
          <w>
             <pldr>1000</pldr>
-            <rec>1000</rec>
+            <rec>·҂а҃·</rec>
          </w>
          <w>
             <pldr>емлютъ,</pldr>
@@ -1192,7 +1197,7 @@
          </w>
          <w>
             <pldr>5000</pldr>
-            <rec>5000</rec>
+            <rec>·҂е҃·</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1208,7 +1213,8 @@
          </w>
          <w>
             <pldr>тысящъ.</pldr>
-            <rec>тысѧщь.</rec>
+            <rec>тысѧщь?</rec>
+            <!--RR: Punctuation corrected from PLDR-->
          </w>
          <w>
             <pldr>И</pldr>
@@ -1308,13 +1314,14 @@
          </w>
          <w>
             <pldr>обыщи</pldr>
-            <rec>обыщи</rec>
+            <rec>объищи</rec>
             <note>2sg imv Class I <os>обыскати (обыщꙋть)</os>
                <gloss>search around (for lice)</gloss> (cf. Henri Grégoire, <q>Le Digénis russe</q>,
                in: <title>Russian epic studies</title>, ed. Roman Jakobson and Ernest J. Simmons,
                Philadelphia: American Folklore Society, pp. 131–69 (p. 159). [Memoirs of the
                American Folklore Society, v. 42 (1947)]
                   <link>https://archive.org/details/russianepicstudi42jako</link>)</note>
+            <!--RR: Changed spelling from обы- to объи-, as we have done elsewhere-->
          </w>
          <w>
             <pldr>мя,</pldr>
