@@ -124,7 +124,6 @@
          <w>
             <pldr>братии</pldr>
             <rec>братиѩ</rec>
-            <!--RR: left off here-->
          </w>
          <w>
             <pldr>твоей.</pldr>
@@ -186,10 +185,11 @@
          </w>
          <w>
             <pldr>повеленное</pldr>
-            <rec>повелѣньноѥ</rec>
+            <rec>повелѣноѥ</rec>
             <note>ppl pt p n sg n <os>повелѣти</os>
                <gloss>the thing ordered</gloss></note>
          </w>
+         <!--RR: Again, removed the superfluous Muscovite -ьн- infix from ppl pt p-->
          <w>
             <pldr>мое</pldr>
             <rec>моѥ</rec>
@@ -262,8 +262,7 @@
          <w>
             <pldr>пред</pldr>
             <rec>предъ</rec>
-            <note>prep + a; = <os>прѣзъ</os>
-               <gloss>через; through</gloss></note>
+            <!--RR: I now take this as прѣдъ + acc 'before,' so have struck note-->
          </w>
          <w>
             <pldr>врата».</pldr>
@@ -494,6 +493,7 @@
             <rec>пристроивъше</rec>
             <note>ppl pt a n pl(!) m(!) <os>пристроитися</os>
                <gloss>having readied oneself</gloss></note>
+            <!--RR: Here we may need to correct to f -и-->
          </w>
          <w>
             <pldr>сь,</pldr>
@@ -776,6 +776,7 @@
          <w>
             <pldr>приеха».</pldr>
             <rec>приѣха».</rec>
+            <!--RR begin here-->
          </w>
          <w>
             <pldr>И</pldr>
