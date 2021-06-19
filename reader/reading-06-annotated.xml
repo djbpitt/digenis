@@ -805,7 +805,8 @@
          <w>
             <pldr>седлати,</pldr>
             <!-- Vasmer III:589–90 седьло ~ седъло -->
-            <rec>седьлати,</rec>
+            <!--RR: Miklosich, Gorazd use jat' in this root for similarly derived words (сѣдѣло, сѣдало, сѣдалище)-->
+            <rec>сѣдьлати,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -844,24 +845,27 @@
             <rec>поѣха</rec>
          </w>
          <w>
-            <pldr>&#xa0;</pldr>
+            <pldr>на</pldr>
             <rec>на</rec>
             <note>NB: emended; m (or common gender) jā-stem Lsg <os>полубꙋица</os>
                <gloss>half-mustang</gloss>; see
                <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
+            <!--RR: This form is in Tx, I've restored it-->
          </w>
          <w>
             <pldr>полубице</pldr>
             <rec>полꙋбꙋици</rec>
             <note>NB: emended; m (or common gender) jā-stem Lsg <os>полубꙋица</os>
-               <gloss>half-mustang</gloss>; see
+               <gloss>half-wild horse (tamed mustang?)</gloss>; see
                <link>http://inslav.ru/zalizniak80/congratulations/Pichkhadze.pdf</link></note>
+            <!--RR: I've adjusted the note-->
          </w>
          <w>
             <pldr>инаходомъ,</pldr>
             <rec>иноходомь,</rec>
             <note>adj lg l sg m <os>иноходыи</os>
-               <gloss>ambling (horse)</gloss></note>
+               <gloss>ambling or pacing</gloss></note>
+            <!--RR: I've adjusted the note-->
          </w>
          <w>
             <pldr>а</pldr>
@@ -878,6 +882,7 @@
          <w>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
+            <!--RR: form insterted by Tvorogov or a previous editor; no other MS readings here-->
          </w>
          <w>
             <pldr>пред</pldr>
@@ -926,6 +931,8 @@
          <w>
             <pldr>милостивники</pldr>
             <rec>милостивьникы</rec>
+            <!--RR: in Tx, с милостивники; in my reconstruction I correct to своѩ милостивьникы,
+               based on Tt and assuming a partly skipped form; in this edition better simply to drop с-->
          </w>
          <w>
             <pldr>пусти</pldr>
@@ -1112,7 +1119,8 @@
          </w>
          <w>
             <pldr>услышавъ</pldr>
-            <rec>оуслышавъ</rec>
+            <rec>оуслышавъши</rec>
+            <!--RR: sh ppl pt a emended to fem.-->
          </w>
          <w>
             <pldr>дѣвица</pldr>
@@ -1160,7 +1168,8 @@
          </w>
          <w>
             <pldr>сени,</pldr>
-            <rec>сени,</rec>
+            <rec>сѣни,</rec>
+            <!--RR: jat' in root, see above-->
          </w>
          <w>
             <pldr>где</pldr>
@@ -1216,7 +1225,8 @@
          </w>
          <w>
             <pldr>распадоша</pldr>
-            <rec>распадоша</rec>
+            <rec>распадошѧ</rec>
+            <!--RR: last vowel emended to front nasal-->
          </w>
          <w>
             <pldr>сь,</pldr>
@@ -1330,7 +1340,8 @@
          </w>
          <w>
             <pldr>поведа</pldr>
-            <rec>повѣда</rec>
+            <rec>повѣдашѧ</rec>
+            <!--RR: emended to aor. 3pl-->
          </w>
          <w>
             <pldr>ему,</pldr>
@@ -1485,7 +1496,8 @@
          <w>
             <pldr>&#xa0;</pldr>
             <rec>не</rec>
-            <note>NB: emended, cf. Тит 185v: <os>… и не лѣзе вънъ ис полаты своеѩ</os></note>
+            <note>NB: emended, cf. Тт 185v: <os>… и не лѣзе вънъ ис полаты своеѩ</os></note>
+            <!--RR: Again, let's discuss emendation away from Tx if the latter's meaning is sound-->
          </w>
          <w>
             <pldr>поиде</pldr>
@@ -1580,6 +1592,7 @@
             <rec>съмѣꙗ</rec>
             <note>ppl pr a n sg(!) m <os>съмѣти</os>
                <gloss>daring</gloss></note>
+            <!--RR: in my reconstruction I emend to съмѣꙗхꙋ, based on Tt's singular ipf смеяше-->
          </w>
          <w>
             <pldr>ничтоже</pldr>
