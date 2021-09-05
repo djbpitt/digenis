@@ -170,8 +170,7 @@
          <w>
             <pldr>рече</pldr>
             <rec>рече</rec>
-            <note>2sg aorist of <os>решти</os>
-               <gloss>say</gloss></note>
+            <note>3sg aorist of <os>решти</os> (<os>рекꙋть</os>) <gloss>say</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -290,7 +289,7 @@
          <w>
             <pldr>имамъ</pldr>
             <rec>имамь</rec>
-            <note>1sg present of <os>имѣти</os>
+            <note>1sg present of <os>имѣти</os> (<os>имꙋть</os> or <os>имѣють</os>)
                <os>have</os></note>
          </w>
          <w>
@@ -304,7 +303,7 @@
          <w>
             <pldr>сотворшаго</pldr>
             <rec>сътворьшаго</rec>
-            <note>past active participle mNsg of <os>слышати</os>
+            <note>mNsg long past active participle of <os>слышати</os>
                <gloss>hear</gloss></note>
          </w>
          <w>
@@ -464,7 +463,7 @@
          <w>
             <pldr>мнози</pldr>
             <rec>мънози</rec>
-            <note>mNpl of <os>мъногъ</os>
+            <note>mNpl short adjective <os>мъногъ</os>
                <gloss>many</gloss></note>
          </w>
          <w>
@@ -678,13 +677,13 @@
          <w>
             <pldr>надея</pldr>
             <rec>надѣѩ</rec>
-            <note>mNsg present active short participle of <os>надѣꙗти сѧ</os>
+            <note>mNsg short present active participle of <os>надѣꙗти сѧ</os>
                <gloss>hope</gloss></note>
          </w>
          <w>
             <pldr>сь.</pldr>
             <rec>сѧ.</rec>
-            <note>mNsg present active short participle of <os>надѣꙗти сѧ</os>
+            <note>mNsg short present active participle of <os>надѣꙗти сѧ</os>
                <gloss>hope</gloss></note>
          </w>
       </p>
@@ -778,7 +777,7 @@
          <w>
             <pldr>хотяше</pldr>
             <rec>хотꙗше(ть)</rec>
-            <note>2sg imperfect of <os>хотѣти</os>
+            <note>3sg imperfect of <os>хотѣти</os>
                <gloss>wish</gloss></note>
          </w>
          <w>
@@ -848,7 +847,7 @@
          <w>
             <pldr>похвати</pldr>
             <rec>похвати</rec>
-            <note>3sg aoriest of <os>похватити</os>
+            <note>3sg aorist of <os>похватити</os>
                <gloss>seize</gloss></note>
          </w>
          <w>
@@ -906,7 +905,7 @@
          <w>
             <pldr>выде</pldr>
             <rec>выиде</rec>
-            <note>2sg aorist of <os>выити</os>
+            <note>3sg aorist of <os>выити</os>
                <gloss>come out</gloss></note>
          </w>
          <w>
@@ -1059,8 +1058,8 @@
          <w>
             <pldr>поверже</pldr>
             <rec>повьрже</rec>
-            <note>3sg aorist of <os>поврещи</os> (<os>повьргꙋть</os>) <gloss>turn</gloss>; (here)
-                  <gloss>cast down</gloss></note>
+            <note>3sg aorist of <os>поврещи</os> (<os>повьргꙋть</os>) <gloss>turn</gloss>;
+                  <gloss>cast down</gloss> (here)</note>
          </w>
          <w>
             <pldr>свою</pldr>
@@ -1239,7 +1238,7 @@
          </w>
          <w>
             <pldr>умре</pldr>
-            <rec>оумьре</rec>
+            <rec>оумре</rec>
             <note>3sg aorist of <os>оумрети</os> (<os>оумьрꙋть</os>) <gloss>die</gloss></note>
          </w>
          <w>
@@ -1302,7 +1301,7 @@
          <w>
             <pldr>побѣже.</pldr>
             <rec>побѣже.</rec>
-            <!--  Aorist of побежати (poběžati < *poběžěti) would be побежа -->
+            <!--  Aorist of побежати (poběžati < *poběžěti) would be побѣжа -->
             <note>3sg aorist of <os>побѣгнꙋти</os>
                <gloss>set off running (away)</gloss></note>
          </w>
@@ -1423,7 +1422,7 @@
          <w>
             <pldr>догнавъ</pldr>
             <rec>догънавъ</rec>
-            <note>short mNsg past active participle from <os>догънати</os> (<os>доженꙋть</os>)
+            <note>mNsg short past active participle of <os>догънати</os> (<os>доженꙋть</os>)
                   <gloss>catch (up to)</gloss></note>
          </w>
          <w>
