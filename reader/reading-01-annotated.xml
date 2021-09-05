@@ -29,7 +29,7 @@
             <!--Inserted from Tт, not in Tx-->
          </w>
          <w>
-            <pldr>·вꙇ҃·</pldr>
+            <pldr>12</pldr>
             <rec>·вꙇ҃·</rec>
             <note><os>вътороѥ на десѧте</os></note>
          </w>
@@ -54,7 +54,7 @@
             <rec>на</rec>
          </w>
          <w>
-            <pldr>·гꙇ҃·</pldr>
+            <pldr>13</pldr>
             <rec>·гꙇ҃·</rec> 
             <note><os>третиѥ на десѧте</os></note>
          </w>
@@ -75,7 +75,7 @@
             <rec>на</rec>
          </w>
          <w>
-            <pldr>·дꙇ҃·</pldr>
+            <pldr>14</pldr>
             <rec>·дꙇ҃·</rec>
             <note><os>четвьртоѥ на десѧте</os></note>
          </w>
@@ -253,7 +253,7 @@
          </w>
          <w>
             <pldr>«Тѣм,</pldr>
-            <rec>«Тѣм,</rec>
+            <rec>«Тѣмь,</rec>
          </w>
          <w>
             <pldr>отче,</pldr>
@@ -799,8 +799,8 @@
          </w>
          <w>
             <pldr>лактями,</pldr>
-            <rec>лакътьми,</rec>
-            <!--Should this be dual лакътьма?-->
+            <rec>локътьми,</rec>
+            <!--NB only form in лок- attested for 'elbow' in SDRJa11-14, & never in du (even w/ du рꙋцѣ). Cf. Lunt 8b (add 8a, 8b to phonology)-->
          </w>
          <w>
             <pldr>и</pldr>
@@ -1053,16 +1053,15 @@
          <w>
             <pldr>уды</pldr>
             <rec>оузды</rec>
-            <!-- Mc has уды, Tvorogov (prob. < Speranskij) emends to уста, Vaillant emends to узды-->
-            <!--begin from here-->
+            <!-- Tx has уды, Tvorogov (prob. < Speranskij) emends to уста, Vaillant emends to узды-->
          </w>
          <w>
             <pldr>своя,</pldr>
-            <rec>своя,</rec>
+            <rec>своѩ,</rec>
          </w>
          <w>
             <pldr>хотя</pldr>
-            <rec>хотя</rec>
+            <rec>хотѧ</rec>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1070,11 +1069,11 @@
          </w>
          <w>
             <pldr>пожрети.</pldr>
-            <rec>пожрети.</rec>
+            <rec>пожьрѣти.</rec>
          </w>
          <w>
             <pldr>Юноша</pldr>
-            <rec>Юноша</rec>
+            <rec>Оуноша</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -1082,7 +1081,7 @@
          </w>
          <w>
             <pldr>борзо</pldr>
-            <rec>борзо</rec>
+            <rec>бързо</rec>
          </w>
          <w>
             <pldr>скочи,</pldr>
@@ -1114,7 +1113,7 @@
          </w>
          <w>
             <pldr>оторва</pldr>
-            <rec>оторва</rec>
+            <rec>отърва</rec>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -1130,15 +1129,15 @@
          </w>
          <w>
             <pldr>вборзе</pldr>
-            <rec>вборзе</rec>
+            <rec>въбързѣ</rec>
          </w>
          <w>
             <pldr>умре</pldr>
-            <rec>оумре</rec>
+            <rec>оумьре</rec>
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>руку</pldr>
@@ -1150,19 +1149,19 @@
          </w>
          <w>
             <pldr>От</pldr>
-            <rec>От</rec>
+            <rec>Отъ</rec>
          </w>
          <w>
             <pldr>рыкания</pldr>
-            <rec>рыкания</rec>
+            <rec>рыканиꙗ</rec>
          </w>
          <w>
             <pldr>жъ</pldr>
-            <rec>жь</rec>
+            <rec>же</rec>
          </w>
          <w>
             <pldr>медведя</pldr>
-            <rec>медведя</rec>
+            <rec>медвѣди</rec>
          </w>
          <w>
             <pldr>того</pldr>
@@ -1174,7 +1173,7 @@
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>гласа</pldr>
@@ -1182,15 +1181,16 @@
          </w>
          <w>
             <pldr>юноши</pldr>
-            <rec>юноши</rec>
+            <rec>оуноши</rec>
          </w>
          <w>
             <pldr>голкъ</pldr>
-            <rec>голкъ</rec>
+            <rec>гълка</rec>
          </w>
+         <!-- SDRJa11-14 only gives fem. form for 'noise'. Clearly this whole line is bad, but let's stay close to Tx-->
          <w>
             <pldr>великъ</pldr>
-            <rec>великъ</rec>
+            <rec>велика</rec>
          </w>
          <w>
             <pldr>побѣже.</pldr>
@@ -1208,15 +1208,15 @@
          </w>
          <w>
             <pldr>царь</pldr>
-            <rec>царь</rec>
+            <rec>цьсарь</rec>
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>сыну</pldr>
-            <rec>сынꙋ</rec>
+            <rec>сынови</rec>
          </w>
          <w>
             <pldr>кликну:</pldr>
@@ -1235,12 +1235,15 @@
             <rec>мои,</rec>
          </w>
          <w>
-            <pldr>стерегись,</pldr>
-            <rec>стерегись,</rec>
+            <pldr>стереги</pldr>
+            <rec>стрези</rec>
+         </w> <w>
+            <pldr>сь,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
          </w>
          <w>
             <pldr>лось</pldr>
@@ -1248,11 +1251,11 @@
          </w>
          <w>
             <pldr>бѣжитъ</pldr>
-            <rec>бѣжитъ</rec>
+            <rec>бѣжить</rec>
          </w>
          <w>
             <pldr>велми</pldr>
-            <rec>велми</rec>
+            <rec>вельми</rec>
          </w>
          <w>
             <pldr>великъ,</pldr>
@@ -1260,19 +1263,22 @@
          </w>
          <w>
             <pldr>тебе</pldr>
-            <rec>тебе</rec>
+            <rec>тебѣ</rec>
          </w>
          <w>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
-            <pldr>укрытися</pldr>
-            <rec>оукрытися</rec>
+            <pldr>укрыти</pldr>
+            <rec>оукрыти</rec>
+         </w> <w>
+            <pldr>сь</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>негде».</pldr>
-            <rec>негде».</rec>
+            <rec>нѣкъде».</rec>
          </w>
          <w>
             <pldr>То</pldr>
@@ -1292,11 +1298,11 @@
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>левъ,</pldr>
-            <rec>левъ,</rec>
+            <rec>львъ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1304,11 +1310,11 @@
          </w>
          <w>
             <pldr>догнавъ</pldr>
-            <rec>догнавъ</rec>
+            <rec>догънавъ</rec>
          </w>
          <w>
             <pldr>лося,</pldr>
-            <rec>лося,</rec>
+            <rec>лоси,</rec>
          </w>
          <w>
             <pldr>похвати</pldr>
@@ -1324,19 +1330,20 @@
          </w>
          <w>
             <pldr>задние</pldr>
-            <rec>задниѥ</rec>
+            <rec>задьнѧѩ</rec>
          </w>
          <w>
             <pldr>ноги,</pldr>
-            <rec>ноги,</rec>
+            <rec>ногы,</rec>
          </w>
+         <!-- Should this be du., or is du. only for a pair of human legs (even though there are two at issue here)?-->
          <w>
             <pldr>надвое</pldr>
-            <rec>надвоѥ</rec>
+            <rec>надъвоѥ</rec>
          </w>
          <w>
             <pldr>раздра.</pldr>
-            <rec>раздра.</rec>
+            <rec>раздьра.</rec>
          </w>
       </p>
    </body>
