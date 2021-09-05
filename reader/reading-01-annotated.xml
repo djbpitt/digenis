@@ -43,7 +43,9 @@
          </w>
          <w>
             <pldr>играше,</pldr>
-            <rec>играше,</rec>
+            <rec>играше(ть),</rec>
+            <note>3sg imperfect of <os>играти</os>
+               <gloss>play</gloss></note>
          </w>
          <w>
             <pldr>а</pldr>
@@ -55,7 +57,7 @@
          </w>
          <w>
             <pldr>13</pldr>
-            <rec>·гꙇ҃·</rec> 
+            <rec>·гꙇ҃·</rec>
             <note><os>третиѥ на десѧте</os></note>
          </w>
          <w>
@@ -85,11 +87,15 @@
          </w>
          <w>
             <pldr>покушаше</pldr>
-            <rec>покꙋшаше</rec>
+            <rec>покꙋшаше(ть)</rec>
+            <note>3sg imperfect of <os>покꙋшати сѧ</os>
+               <gloss>try</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>3sg imperfect of <os>покꙋшати сѧ</os>
+               <gloss>try</gloss></note>
          </w>
          <w>
             <pldr>вся</pldr>
@@ -110,6 +116,8 @@
          <w>
             <pldr>начатъ</pldr>
             <rec>начѧ(тъ)</rec>
+            <note>3sg aorist of <os>начѧти</os>
+               <gloss>begin</gloss></note>
          </w>
          <w>
             <pldr>прилежно</pldr>
@@ -162,6 +170,8 @@
          <w>
             <pldr>рече</pldr>
             <rec>рече</rec>
+            <note>2sg aorist of <os>решти</os>
+               <gloss>say</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -266,6 +276,8 @@
          <w>
             <pldr>пуди</pldr>
             <rec>пꙋди</rec>
+            <note>2sg imperative of <os>пудити</os>
+               <gloss>drive (away)</gloss></note>
          </w>
          <w>
             <pldr>менѣ,</pldr>
@@ -278,10 +290,12 @@
          <w>
             <pldr>имамъ</pldr>
             <rec>имамь</rec>
+            <note>1sg present of <os>имѣти</os>
+               <os>have</os></note>
          </w>
          <w>
             <pldr>упование</pldr>
-            <rec>оупованиѥ</rec>
+            <rec>оупъваниѥ</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -290,6 +304,8 @@
          <w>
             <pldr>сотворшаго</pldr>
             <rec>сътворьшаго</rec>
+            <note>past active participle mNsg of <os>слышати</os>
+               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>Бога,</pldr>
@@ -367,7 +383,9 @@
          </w>
          <w>
             <pldr>глаголетъ</pldr>
-            <rec>глаголеть</rec>
+            <rec>глаголѥть</rec>
+            <note>3sg present of <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>юноша,</pldr>
@@ -380,10 +398,14 @@
          <w>
             <pldr>совокупи</pldr>
             <rec>съвъкꙋпи</rec>
+            <note>3sg aorist of <os>съвъкꙋпити</os>
+               <gloss>gather</gloss></note>
          </w>
          <w>
             <pldr>вся</pldr>
             <rec>вьсѧ</rec>
+            <note>mApl pronoun <os>вьсь</os>
+               <gloss>all</gloss></note>
          </w>
          <w>
             <pldr>вои</pldr>
@@ -411,7 +433,9 @@
          </w>
          <w>
             <pldr>бысть</pldr>
-            <rec>бысть</rec>
+            <rec>бы(сть)</rec>
+            <note>3sg aorist of <os>быти</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
@@ -440,10 +464,14 @@
          <w>
             <pldr>мнози</pldr>
             <rec>мънози</rec>
+            <note>mNpl of <os>мъногъ</os>
+               <gloss>many</gloss></note>
          </w>
          <w>
             <pldr>идяху</pldr>
-            <rec>идꙗхꙋ</rec>
+            <rec>идꙗхꙋ(ть)</rec>
+            <note>3pl imperfect of <os>ити</os>
+               <gloss>go</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -479,7 +507,9 @@
          </w>
          <w>
             <pldr>слышаху</pldr>
-            <rec>слышахꙋ</rec>
+            <rec>слышахꙋ(ть)</rec>
+            <note>3pl imperfect of <os>слышати</os>
+               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>Девгениеву</pldr>
@@ -496,6 +526,8 @@
          <w>
             <pldr>вышедше</pldr>
             <rec>вышьдъше</rec>
+            <note>mNpl short past active participle of <os>выити</os>
+               <gloss>go</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -524,6 +556,8 @@
          <w>
             <pldr>ловитъ</pldr>
             <rec>ловить</rec>
+            <note>3sg present of <os>ловити</os>
+               <gloss>hunt</gloss></note>
          </w>
          <w>
             <pldr>зайцы</pldr>
@@ -567,10 +601,15 @@
          </w>
          <w>
             <pldr>смеяше</pldr>
-            <rec>смѣꙗше</rec>
-         </w>         <w>
+            <rec>смѣꙗше(ть)</rec>
+            <note>3sg imperfect of <os>смѣꙗти сѧ</os>
+               <gloss>laugh</gloss></note>
+         </w>
+         <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
+            <note>3sg imperfect of <os>смѣꙗти сѧ</os>
+               <gloss>laugh</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -587,6 +626,8 @@
          <w>
             <pldr>вниде,</pldr>
             <rec>въниде,</rec>
+            <note>3sg aorist of <os>вънити</os>
+               <gloss>enter</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -595,6 +636,8 @@
          <w>
             <pldr>сниде</pldr>
             <rec>съниде</rec>
+            <note>3sg aorist of <os>сънити</os>
+               <gloss>come down</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
@@ -615,6 +658,8 @@
          <w>
             <pldr>млады,</pldr>
             <rec>младыи,</rec>
+            <note>mNsg long adjective <os>младъ</os>
+               <gloss>young</gloss></note>
          </w>
          <w>
             <pldr>на</pldr>
@@ -623,6 +668,8 @@
          <w>
             <pldr>Божию</pldr>
             <rec>Божию</rec>
+            <note>fAsg adjective <os>божии</os>
+               <gloss>God’s</gloss></note>
          </w>
          <w>
             <pldr>силу</pldr>
@@ -631,9 +678,14 @@
          <w>
             <pldr>надея</pldr>
             <rec>надѣѩ</rec>
-         </w>         <w>
+            <note>mNsg present active short participle of <os>надѣꙗти сѧ</os>
+               <gloss>hope</gloss></note>
+         </w>
+         <w>
             <pldr>сь.</pldr>
             <rec>сѧ.</rec>
+            <note>mNsg present active short participle of <os>надѣꙗти сѧ</os>
+               <gloss>hope</gloss></note>
          </w>
       </p>
       <p>
@@ -660,6 +712,8 @@
          <w>
             <pldr>хождаше,</pldr>
             <rec>хожашета,</rec>
+            <note>3du imperfect of <os>ходити</os>
+               <gloss>walk</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -692,6 +746,8 @@
          <w>
             <pldr>очюти</pldr>
             <rec>очꙋти</rec>
+            <note>3sg aorist of <os>очꙋтити</os>
+               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>медведица</pldr>
@@ -712,6 +768,8 @@
          <w>
             <pldr>поскочи</pldr>
             <rec>поскочи</rec>
+            <note>3sg aorist of <os>(по)скочити</os>
+               <gloss>rush</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -719,7 +777,9 @@
          </w>
          <w>
             <pldr>хотяше</pldr>
-            <rec>хотꙗше</rec>
+            <rec>хотꙗше(ть)</rec>
+            <note>2sg imperfect of <os>хотѣти</os>
+               <gloss>wish</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -728,6 +788,8 @@
          <w>
             <pldr>пожрети.</pldr>
             <rec>пожьрѣти.</rec>
+            <note>infinitive of <os>пожьрѣти</os>
+               <gloss>eat up</gloss></note>
          </w>
          <w>
             <pldr>Юноша</pldr>
@@ -748,6 +810,8 @@
          <w>
             <pldr>ученъ,</pldr>
             <rec>оученъ,</rec>
+            <note>mNsg short past passive participate of <os>оучити</os>
+               <gloss>teach</gloss></note>
          </w>
          <w>
             <pldr>како</pldr>
@@ -784,6 +848,8 @@
          <w>
             <pldr>похвати</pldr>
             <rec>похвати</rec>
+            <note>3sg aoriest of <os>похватити</os>
+               <gloss>seize</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -792,6 +858,8 @@
          <w>
             <pldr>согну</pldr>
             <rec>съгънꙋ</rec>
+            <note>3sg aorist of <os>съгънꙋти</os>
+               <gloss>fold, press</gloss></note>
          </w>
          <w>
             <pldr>ея</pldr>
@@ -800,7 +868,10 @@
          <w>
             <pldr>лактями,</pldr>
             <rec>локътьми,</rec>
-            <!--NB only form in лок- attested for 'elbow' in SDRJa11-14, & never in du (even w/ du рꙋцѣ). Cf. Lunt 8b (add 8a, 8b to phonology)-->
+            <!--
+               NB only form in лок- attested for 'elbow' in SDRJa11-14, & never in du (even w/ du рꙋцѣ). 
+               Cf. Lunt 8b (add 8a, 8b to phonology)
+            -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -817,6 +888,8 @@
          <w>
             <pldr>бѣ</pldr>
             <rec>бѣ</rec>
+            <note>3sg <q>imperfective aorist</q> of <os>быти</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>во</pldr>
@@ -833,6 +906,8 @@
          <w>
             <pldr>выде</pldr>
             <rec>выиде</rec>
+            <note>2sg aorist of <os>выити</os>
+               <gloss>come out</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -872,7 +947,9 @@
          </w>
          <w>
             <pldr>бежаше</pldr>
-            <rec>бѣжаше</rec>
+            <rec>бѣжаше(ть)</rec>
+            <note>3sg imperfect of <os>бѣжати</os>
+               <gloss>run</gloss></note>
          </w>
          <w>
             <pldr>во</pldr>
@@ -899,6 +976,8 @@
          <w>
             <pldr>кликну</pldr>
             <rec>кликнꙋ</rec>
+            <note>3sg aorist of <os>кликнꙋти</os>
+               <gloss>call</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -923,13 +1002,19 @@
          <w>
             <pldr>стереги</pldr>
             <rec>стрези</rec>
-         </w>         <w>
+            <note>2sg imperative of <os>стрещи сѧ</os> (<os>стрегꙋть</os>)
+               <gloss>beware</gloss></note>
+         </w>
+         <w>
             <pldr>сь,</pldr>
             <rec>сѧ,</rec>
+            <note>2sg imperative of <os>стрещи сѧ</os> (<os>стрегꙋть</os>)
+               <gloss>beware</gloss></note>
          </w>
          <w>
             <pldr>доколе</pldr>
             <rec>доколѣ</rec>
+            <note>adverb <gloss>before</gloss>; <gloss>until</gloss></note>
          </w>
          <w>
             <pldr>не</pldr>
@@ -974,6 +1059,8 @@
          <w>
             <pldr>поверже</pldr>
             <rec>повьрже</rec>
+            <note>3sg aorist of <os>поврещи</os> (<os>повьргꙋть</os>) <gloss>turn</gloss>; (here)
+                  <gloss>cast down</gloss></note>
          </w>
          <w>
             <pldr>свою</pldr>
@@ -997,11 +1084,15 @@
          </w>
          <w>
             <pldr>немже</pldr>
-            <rec>немьже</rec>
+            <rec>нѥмьже</rec>
+            <note>nLsg relative pronoun <os>иже</os>
+               <gloss>(at) which</gloss></note>
          </w>
          <w>
             <pldr>стояше,</pldr>
-            <rec>стоꙗше,</rec>
+            <rec>стоꙗше(ть),</rec>
+            <note>3sg imperfect of <os>стоꙗти</os>
+               <gloss>stand</gloss></note>
          </w>
          <w>
             <pldr>яко</pldr>
@@ -1022,6 +1113,8 @@
          <w>
             <pldr>наскочи.</pldr>
             <rec>наскочи.</rec>
+            <note>3sg aorist of <os>наскочити</os>
+               <gloss>rush upon</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1042,13 +1135,20 @@
          <w>
             <pldr>возврати</pldr>
             <rec>възврати</rec>
-         </w>         <w>
+            <note>3sg aorist of <os>възвратити сѧ</os>
+               <gloss>turn</gloss></note>
+         </w>
+         <w>
             <pldr>сь,</pldr>
             <rec>сѧ,</rec>
+            <note>3sg aorist of <os>възвратити сѧ</os>
+               <gloss>turn</gloss></note>
          </w>
          <w>
             <pldr>разверзь</pldr>
             <rec>развьрзъ</rec>
+            <note>mNsg short past active participle of <os>разврести</os> (<os>развьрзꙋть</os>)
+                  <gloss>open</gloss></note>
          </w>
          <w>
             <pldr>уды</pldr>
@@ -1062,6 +1162,8 @@
          <w>
             <pldr>хотя</pldr>
             <rec>хотѧ</rec>
+            <note>mNsg short present active participle of <os>хотѣти</os>
+               <gloss>want</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1094,6 +1196,8 @@
          <w>
             <pldr>ухвати</pldr>
             <rec>оухвати</rec>
+            <note>3sg aorist of <os>оухватити</os>
+               <gloss>seize</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1114,6 +1218,8 @@
          <w>
             <pldr>оторва</pldr>
             <rec>отърва</rec>
+            <note>3sg aorist of <os>отъръвати</os>
+               <gloss>tear off</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -1134,6 +1240,7 @@
          <w>
             <pldr>умре</pldr>
             <rec>оумьре</rec>
+            <note>3sg aorist of <os>оумрети</os> (<os>оумьрꙋть</os>) <gloss>die</gloss></note>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1186,8 +1293,8 @@
          <w>
             <pldr>голкъ</pldr>
             <rec>гълка</rec>
+            <!-- SDRJa11-14 only gives fem. form for 'noise'. Clearly this whole line is bad, but let's stay close to Tx-->
          </w>
-         <!-- SDRJa11-14 only gives fem. form for 'noise'. Clearly this whole line is bad, but let's stay close to Tx-->
          <w>
             <pldr>великъ</pldr>
             <rec>велика</rec>
@@ -1195,6 +1302,9 @@
          <w>
             <pldr>побѣже.</pldr>
             <rec>побѣже.</rec>
+            <!--  Aorist of побежати (poběžati < *poběžěti) would be побежа -->
+            <note>3sg aorist of <os>побѣгнꙋти</os>
+               <gloss>set off running (away)</gloss></note>
          </w>
       </p>
       <p>
@@ -1237,7 +1347,8 @@
          <w>
             <pldr>стереги</pldr>
             <rec>стрези</rec>
-         </w> <w>
+         </w>
+         <w>
             <pldr>сь,</pldr>
             <rec>сѧ,</rec>
          </w>
@@ -1272,7 +1383,8 @@
          <w>
             <pldr>укрыти</pldr>
             <rec>оукрыти</rec>
-         </w> <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -1311,6 +1423,8 @@
          <w>
             <pldr>догнавъ</pldr>
             <rec>догънавъ</rec>
+            <note>short mNsg past active participle from <os>догънати</os> (<os>доженꙋть</os>)
+                  <gloss>catch (up to)</gloss></note>
          </w>
          <w>
             <pldr>лося,</pldr>
@@ -1330,7 +1444,7 @@
          </w>
          <w>
             <pldr>задние</pldr>
-            <rec>задьнѧѩ</rec>
+            <rec>задьнѩѩ</rec>
          </w>
          <w>
             <pldr>ноги,</pldr>
@@ -1344,6 +1458,8 @@
          <w>
             <pldr>раздра.</pldr>
             <rec>раздьра.</rec>
+            <note>3sg aorist of <os>раздьрати</os> (<os>раздерꙋть</os>) <gloss>tear
+               apart</gloss></note>
          </w>
       </p>
    </body>
