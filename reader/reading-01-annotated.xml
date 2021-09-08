@@ -359,8 +359,9 @@
          <w>
             <pldr>слово</pldr>
             <rec>слово</rec>
-            <note>noun s-stem nAsg <os>слово</os> 
-               <gloss>word</gloss></note>          </w>
+            <note>noun s-stem nAsg <os>слово</os>
+               <gloss>word</gloss></note>
+         </w>
          <w>
             <pldr>слышавъ</pldr>
             <rec>слышавъ</rec>
@@ -868,8 +869,9 @@
          <w>
             <pldr>лактями,</pldr>
             <rec>локътьми,</rec>
-            <note>noun t-stem mIpl <os>локъть</os> 
-               <gloss>elbow</gloss></note>            <!--
+            <note>noun t-stem mIpl <os>локъть</os>
+               <gloss>elbow</gloss></note>
+            <!--
                NB only form in лок- attested for 'elbow' in SDRJa11-14, & never in du (even w/ du рꙋцѣ). 
                Cf. Lunt 8b (add 8a, 8b to phonology)
             -->
