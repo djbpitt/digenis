@@ -3,6 +3,10 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     version="3.0">
+    <!-- 
+        Creates reading view of section of Digenis reader
+        input is reading-xx-annotated.xml, output is reading-xx.xhtml
+    -->
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
     <xsl:strip-space elements="p w s"/>
