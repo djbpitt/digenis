@@ -291,14 +291,15 @@
          </w>
          <w>
             <pldr>подпре</pldr>
-            <rec>подъпре</rec>
-            <note><os>подъпрети, подъпьрꙋть сѧ</os>
+            <rec>подъпре(тъ)</rec>
+            <note><os>подъпрети сѧ, подъпьрꙋть сѧ</os>
                <gloss>prop oneself up</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
-         </w>
+            <note><os>подъпрети сѧ, подъпьрꙋть сѧ</os>
+               <gloss>prop oneself up</gloss></note>         </w>
          <w>
             <pldr>копиемъ,</pldr>
             <rec>копиѥмь,</rec>
