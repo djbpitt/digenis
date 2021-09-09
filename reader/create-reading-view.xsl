@@ -10,10 +10,14 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
     <xsl:strip-space elements="p w s"/>
+    <xsl:variable name="part-number" as="xs:string"
+        select="base-uri() ! tokenize(., '/')[last()] => substring-before('-annotated') => substring-after('-') => replace('^0+', '')"/>
     <xsl:template match="/">
         <html>
             <head>
-                <title>Sample Digenis reading file</title>
+                <title>
+                    <xsl:value-of select="concat('Digenis part ', $part-number)"/>
+                </title>
                 <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css"/>
                 <link rel="stylesheet" type="text/css" href="reading-view.css"/>
                 <script type="text/javascript" src="reader.js"/>
