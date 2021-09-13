@@ -218,7 +218,7 @@
          </w>
          <w>
             <pldr>глаголаше</pldr>
-            <rec>глаголахꙋ</rec>
+            <rec>глаголахꙋ(ть)</rec>
          </w>
          <w>
             <pldr>межъ</pldr>
@@ -329,7 +329,7 @@
          </w>
          <w>
             <pldr>влечаше</pldr>
-            <rec>влѣчаше</rec>
+            <rec>влѣчаше(ть)</rec>
          </w>
          <w>
             <pldr>лосову</pldr>
@@ -673,10 +673,7 @@
          <w>
             <pldr>обрелъ</pldr>
             <rec>обрѣлъ</rec>
-         </w>         <w>
-            <pldr></pldr>
-            <rec>бѣ</rec>
-         </w>
+         </w>         
          <w>
             <pldr>юношу</pldr>
             <rec>оуношꙋ</rec>
@@ -735,7 +732,7 @@
          </w>
          <w>
             <pldr>своя</pldr>
-            <rec>своꙗ</rec>
+            <rec>своѩ</rec>
          </w>
          <w>
             <pldr>разнемъ</pldr>
@@ -1153,7 +1150,7 @@
          </w>
          <w>
             <pldr>имяше,</pldr>
-            <rec>имѧше,</rec>
+            <rec>имѧше(ть),</rec>
          </w>
          <w>
             <pldr>перси</pldr>
@@ -1201,7 +1198,7 @@
          </w>
          <w>
             <pldr>радоваше</pldr>
-            <rec>радоваше</rec>
+            <rec>радоваше(ть)</rec>
          </w>         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
@@ -1287,7 +1284,7 @@
          </w>
          <w>
             <pldr>бяше</pldr>
-            <rec>бꙗше</rec>
+            <rec>бꙗше(ть)</rec>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1538,7 +1535,7 @@
          </w>
          <w>
             <pldr>смеяше</pldr>
-            <rec>смѣꙗше</rec>
+            <rec>смѣꙗше(ть)</rec>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1610,7 +1607,7 @@
          </w>
          <w>
             <pldr>живяше.</pldr>
-            <rec>живꙗше.</rec>
+            <rec>живꙗше(ть).</rec>
          </w>
       </p>
    </body>
