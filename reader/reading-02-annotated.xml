@@ -227,7 +227,7 @@
          <w>
             <pldr>созданъ».</pldr>
             <rec>съзьданъ».</rec>
-            <note>ppl pt pas mNsg <os>съзьдати, съзиждꙋть</os>
+            <note>ppl pt pas mNsg <os>съзьдати, съзижꙋть</os>
                <gloss>create</gloss></note>
          </w>
          <w>
@@ -428,7 +428,6 @@
             <pldr>лось.</pldr>
             <rec>лось.</rec>
          </w>
-         <!-- Resume annotation here -->
          <w>
             <pldr>И</pldr>
             <rec>И</rec>
@@ -464,6 +463,8 @@
          <w>
             <pldr>мертвая</pldr>
             <rec>мьртваꙗ</rec>
+            <note>adj lg nApl <os>мьртвъ</os>
+               <gloss>dead</gloss></note>
          </w>
          <w>
             <pldr>та</pldr>
@@ -472,6 +473,8 @@
          <w>
             <pldr>поверги.</pldr>
             <rec>повьрзи.</rec>
+            <note>imp 2sg <os>поврѣщи, повьргꙋть</os>
+               <gloss>cast down</gloss></note>
          </w>
          <w>
             <pldr>Зде</pldr>
@@ -484,6 +487,8 @@
          <w>
             <pldr>ины</pldr>
             <rec>ини</rec>
+            <note>adj sh mNpl <os>инъ</os>
+               <gloss>other</gloss></note>
          </w>
          <w>
             <pldr>живы</pldr>
@@ -560,6 +565,8 @@
          <w>
             <pldr>Отвещаша</pldr>
             <rec>Отъвеща</rec>
+            <note>aor 3sg <os>отъвѣщати</os>
+               <gloss>answer</gloss></note>
          </w>
          <w>
             <pldr>юноша:</pldr>
@@ -620,10 +627,14 @@
          <w>
             <pldr>матерню,</pldr>
             <rec>матерьню,</rec>
+            <note>adj sh fAsg <os>матерьнь</os>
+               <gloss>maternal; mother’s</gloss></note>
          </w>
          <w>
             <pldr>яжь</pldr>
             <rec>ꙗже</rec>
+            <note>pron rel fNsg <os>иже</os>
+               <gloss>which</gloss></note>
          </w>
          <w>
             <pldr>мя</pldr>
@@ -632,6 +643,8 @@
          <w>
             <pldr>породи».</pldr>
             <rec>породи».</rec>
+            <note>aor 3sg <os>породити</os>
+               <gloss>give birth</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -664,6 +677,8 @@
          <w>
             <pldr>прииде</pldr>
             <rec>прииде</rec>
+            <note>aor 3sg <os>приити, приидꙋть</os>
+               <gloss>arrive</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -672,6 +687,8 @@
          <w>
             <pldr>восхити</pldr>
             <rec>въсхыти</rec>
+            <note>aor 3sg <os>въсхытити</os>
+               <gloss>take up</gloss></note>
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -700,6 +717,8 @@
          <w>
             <pldr>поиде.</pldr>
             <rec>поиде.</rec>
+            <note>aor 3sg <os>поити, поидꙋть</os>
+               <gloss>set forth</gloss></note>
          </w>
          <w>
             <pldr>Звер</pldr>
@@ -712,6 +731,8 @@
          <w>
             <pldr>обрелъ</pldr>
             <rec>обрѣлъ</rec>
+            <note>sh l-ppl pt act mNsg <os>обрѣсти, обрѧчꙋть</os>
+               <gloss>find</gloss></note>
          </w>
          <w>
             <pldr>юношу</pldr>
@@ -728,6 +749,8 @@
          <w>
             <pldr>идуща</pldr>
             <rec>идꙋща</rec>
+            <note>ppl pr act mAsg <os>ити, идꙋть</os>
+               <gloss>come</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -776,6 +799,13 @@
          <w>
             <pldr>разнемъ</pldr>
             <rec>разньмъ</rec>
+            <!-- What vcrb is this? ‘
+               Yawn’ is OCS zьjati ~ zijati, zějati
+               razьniti is ‘discern’ 
+               razęti, razьmǫtь fits the form makes sense (sort of), but isn't in Miklosich or SJS
+            -->
+            <!-- <note>ppl pt act mNsg <os>разѧти, раз???</os>
+               <gloss>yawn open</gloss></note>-->
          </w>
          <w>
             <pldr>на</pldr>
@@ -804,6 +834,8 @@
          <w>
             <pldr>удари</pldr>
             <rec>оудари</rec>
+            <note>aor 3sg <os>ударити</os>
+               <gloss>strike</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -874,6 +906,8 @@
          <w>
             <pldr>«Виждь,</pldr>
             <rec>«Вижь,</rec>
+            <note>imp 2sg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
          <!-- attested in SDRJa11-14 s.v. видѣти 421 9up -->
          <w>
@@ -895,12 +929,17 @@
          <w>
             <pldr>рассечень</pldr>
             <rec>рассѣченъ</rec>
+            <note>ppl pt pass <os>разсѣщи, разсѣкꙋть</os>
+               <gloss>cut through</gloss></note>
          </w>
          <w>
             <pldr>бысть</pldr>
             <rec>бысть</rec>
          </w>
-         <!-- should we correct this to perfect auxiliary ѥсть for pedagogical reasons? -->
+         <!-- 
+            rr: should we correct this to perfect auxiliary ѥсть for pedagogical reasons?
+            djb: probably not; if we think aor + pt pass ppl is possible, we don't need to emend
+         -->
          <w>
             <pldr>левъ,</pldr>
             <rec>львъ,</rec>
@@ -932,7 +971,11 @@
          <w>
             <pldr>поскочиста</pldr>
             <rec>поскочиста</rec>
+            <note>aor 3du <os>поскочити</os>
+               <gloss>jump</gloss></note>
+            <!-- djb: I changed the gloss from ‘rush’ in the original word list -->
          </w>
+         <!-- Resume annotation here -->
          <w>
             <pldr>отецъ</pldr>
             <rec>отьць</rec>
