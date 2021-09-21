@@ -170,6 +170,7 @@
          <w>
             <pldr>юноши</pldr>
             <rec>оуношѧ</rec>
+            <!-- mGAsg a-stem -->
          </w>
          <w>
             <pldr>14</pldr>
@@ -187,7 +188,7 @@
          <w>
             <pldr>суща,</pldr>
             <rec>сꙋща,</rec>
-            <note>ppl pr mAsg sh <os>быти, бꙋдꙋть</os>
+            <note>ppl pr act sh mAsg <os>быти, бꙋдꙋть</os>
                <gloss>be</gloss></note>
          </w>
          <w>
@@ -229,8 +230,9 @@
          <w>
             <pldr>созданъ».</pldr>
             <rec>съзьданъ».</rec>
-            <note>ppl pt pas mNsg <os>съзьдати, съзижꙋть</os>
+            <note>ppl pt pas sh mNsg <os>съзьдати, съзижꙋть</os>
                <gloss>create</gloss></note>
+            <!-- Vasmer II: 89 confirms ж in ESl alongside жд borrowed from OCS -->
          </w>
          <w>
             <pldr>Но</pldr>
@@ -276,7 +278,7 @@
          </w>
          <w>
             <pldr>болота</pldr>
-            <rec>болота</rec>
+            <rec>блата</rec>
          </w>
          <w>
             <pldr>выиде,</pldr>
@@ -309,6 +311,7 @@
             <rec>оузрѣста</rec>
             <note>aor 3du <os>узьрѣти</os>
                <gloss>catch sight of</gloss></note>
+            <!-- Class IVB with stable jer in root, Prague dictionary -->
          </w>
          <w>
             <pldr>юношу,</pldr>
@@ -380,7 +383,7 @@
          </w>
          <w>
             <pldr>правой</pldr>
-            <rec>правои</rec>
+            <rec>правѣи</rec>
          </w>
          <w>
             <pldr>руке</pldr>
@@ -410,7 +413,7 @@
          </w>
          <w>
             <pldr>левой</pldr>
-            <rec>лѣвои</rec>
+            <rec>лѣвѣи</rec>
          </w>
          <w>
             <pldr>руке</pldr>
@@ -475,7 +478,7 @@
          <w>
             <pldr>поверги.</pldr>
             <rec>повьрзи.</rec>
-            <note>imp 2sg <os>поврѣщи, повьргꙋть</os>
+            <note>imp 2sg <os>поврещи, повьргꙋть</os>
                <gloss>cast down</gloss></note>
          </w>
          <w>
