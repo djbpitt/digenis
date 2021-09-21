@@ -23,7 +23,7 @@
          </w>
          <w>
             <pldr>дарованиемъ!</pldr>
-            <rec>дарованиимь!</rec>
+            <rec>дарованиѥмь!</rec>
          </w>
          <w>
             <pldr>Кто</pldr>
@@ -108,7 +108,8 @@
          <w>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
-            <note><os>ѥмꙋ имѣти</os> (dat+ inf) <gloss>it is for him to have</gloss></note>
+            <note><os>ѥмꙋ имѣти</os> (dat+inf of <os>имѣти, имꙋть</os>
+               <gloss>have</gloss>) <gloss>it is for him to have</gloss></note>
          </w>
          <w>
             <pldr>надо</pldr>
@@ -125,7 +126,8 @@
          <w>
             <pldr>имѣти.</pldr>
             <rec>имѣти.</rec>
-            <note><os>ѥмꙋ имѣти</os> (dat+ inf) <gloss>it is for him to have</gloss></note>
+            <note><os>ѥмꙋ имѣти</os> (dat+inf of <os>имѣти, имꙋть</os>
+               <gloss>have</gloss>) <gloss>it is for him to have</gloss></note>
          </w>
          <w>
             <pldr>Како</pldr>
@@ -185,7 +187,7 @@
          <w>
             <pldr>суща,</pldr>
             <rec>сꙋща,</rec>
-            <note>ppl pr mAsg sh <os>быти</os>
+            <note>ppl pr mAsg sh <os>быти, бꙋдꙋть</os>
                <gloss>be</gloss></note>
          </w>
          <w>
@@ -975,7 +977,6 @@
                <gloss>jump</gloss></note>
             <!-- djb: I changed the gloss from ‘rush’ in the original word list -->
          </w>
-         <!-- Resume annotation here -->
          <w>
             <pldr>отецъ</pldr>
             <rec>отьць</rec>
@@ -995,6 +996,8 @@
          <w>
             <pldr>начаста</pldr>
             <rec>начѧста</rec>
+            <note>aor 3du <os>начѧти, начьнꙋть</os>
+               <gloss>begin</gloss></note>
          </w>
          <w>
             <pldr>целовати</pldr>
@@ -1034,7 +1037,9 @@
          </w>
          <w>
             <pldr>глаголаху</pldr>
-            <rec>глаголахꙋ</rec>
+            <rec>глаголахꙋ(ть)</rec>
+            <note>ipf 3pl <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -1051,6 +1056,9 @@
          <w>
             <pldr>«Видеще,</pldr>
             <rec>«Видѩ,</rec>
+            <note>ppl pr act mNpl (sg expected!) <os>видѣти</os>
+               <gloss>see</gloss></note>
+            <!-- djb: I changed the annotation from nAsg to mNpl -->
          </w>
          <w>
             <pldr>господине,</pldr>
@@ -1063,6 +1071,8 @@
          <w>
             <pldr>велегласнаго</pldr>
             <rec>вельгласьнаго</rec>
+            <note>adj lg mGsg <os>вельгласьнъ</os>
+               <gloss>grandiloquent</gloss></note>
          </w>
          <w>
             <pldr>возраста</pldr>
@@ -1103,6 +1113,8 @@
          <w>
             <pldr>Бе</pldr>
             <rec>Бѣ</rec>
+            <note>imperfective aor 3sg <os>быти, бꙋдꙋть</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1143,6 +1155,8 @@
          <w>
             <pldr>имуще</pldr>
             <rec>имы</rec>
+            <note>ppl pr act sh mNpl (mNsg expected) <os>имѣти, имꙋть</os>
+               <gloss>have</gloss></note>
          </w>
          <w>
             <pldr>кудрявы</pldr>
@@ -1159,6 +1173,12 @@
          <w>
             <pldr>вели</pldr>
             <rec>вели</rec>
+            <note>adj nAdu <os>велии</os>
+               <gloss>big</gloss></note>
+            <!--
+               djb: This was marked as "sh" in the word list, but I don't think
+               this adj distinguishes lg and sh
+            -->
          </w>
          <w>
             <pldr>гораздны.</pldr>
@@ -1174,6 +1194,8 @@
          <w>
             <pldr>нь</pldr>
             <rec>нь</rec>
+            <note>pron pers mAsg <os>и</os>
+               <gloss>he</gloss></note>
          </w>
          <w>
             <pldr>зрети</pldr>
@@ -1234,6 +1256,7 @@
          <w>
             <pldr>имяше,</pldr>
             <rec>имѧше(ть),</rec>
+            <note>ipf 3sg <os>имѣти, имꙋть</os> <gloss>have</gloss></note>
          </w>
          <w>
             <pldr>перси</pldr>
@@ -1258,6 +1281,8 @@
          <w>
             <pldr>Видев</pldr>
             <rec>Видѣвъ</rec>
+            <note>ppl pt act mNsg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
          <w>
             <pldr>же</pldr>
@@ -1282,10 +1307,14 @@
          <w>
             <pldr>радоваше</pldr>
             <rec>радоваше(ть)</rec>
+            <note>ipf 3sg <os>радовати сѧ</os>
+               <gloss>rejoice</gloss></note>
          </w>
          <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
+            <note>ipf 3sg <os>радовати сѧ</os>
+               <gloss>rejoice</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1294,6 +1323,8 @@
          <w>
             <pldr>глагола</pldr>
             <rec>глагола</rec>
+            <note>aor 3sg <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -1362,14 +1393,20 @@
          <w>
             <pldr>сохранил</pldr>
             <rec>съхранилъ</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
          </w>
          <w>
             <pldr>бяше</pldr>
             <rec>бꙗше(ть)</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1402,6 +1439,8 @@
          <w>
             <pldr>измыеши</pldr>
             <rec>измыѥши</rec>
+            <note>fut 2sg <os>измыти</os>
+               <gloss>wash off</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1446,10 +1485,14 @@
          <w>
             <pldr>облечеши</pldr>
             <rec>облѣчеши</rec>
+            <note>fut 2sg <os>облѣчи, облѣкꙋть сѧ</os>
+               <gloss>dress oneself</gloss></note>
          </w>
          <w>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
+            <note>fut 2sg <os>облѣчи, облѣкꙋть сѧ</os>
+               <gloss>dress oneself</gloss></note>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1458,6 +1501,8 @@
          <w>
             <pldr>рудныя</pldr>
             <rec>рꙋдьныꙗ</rec>
+            <note>adj lg mApl <os>рꙋдьнъ</os>
+               <gloss>ruddy</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
@@ -1498,6 +1543,8 @@
          <w>
             <pldr>капани,</pldr>
             <rec>капании,</rec>
+            <note>noun jo-stem nGpl <os>капаниѥ</os>
+               <gloss>dripping</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1530,14 +1577,20 @@
          <w>
             <pldr>орудиша</pldr>
             <rec>орꙋдиша</rec>
+            <note>aor 3pl <os>оруꙋити сѧ</os>
+               <gloss>become ruddy</gloss></note>
          </w>
          <w>
             <pldr>сь.</pldr>
             <rec>сѧ.</rec>
+            <note>aor 3pl <os>оруꙋити сѧ</os>
+               <gloss>become ruddy</gloss></note>
          </w>
          <w>
             <pldr>Измыю</pldr>
             <rec>Измыю</rec>
+            <note>fut 1sg <os>измыти, измыють</os>
+               <gloss>wash off</gloss></note>
          </w>
          <w>
             <pldr>твои</pldr>
@@ -1624,6 +1677,8 @@
          <w>
             <pldr>смеяше</pldr>
             <rec>смѣꙗше(ть)</rec>
+            <note>ipf 3sg <os>смѣти</os>
+               <gloss>dare</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1664,6 +1719,8 @@
          <w>
             <pldr>бяху</pldr>
             <rec>бꙗхꙋ</rec>
+            <note>ipf 3pl <os>быти, бꙋдꙋть</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>мнози</pldr>
@@ -1696,6 +1753,8 @@
          <w>
             <pldr>живяше.</pldr>
             <rec>живꙗше(ть).</rec>
+            <note>ipf 3sg <os>жити, живꙋть</os>
+               <gloss>live</gloss></note>
          </w>
       </p>
    </body>
