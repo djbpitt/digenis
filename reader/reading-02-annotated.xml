@@ -23,7 +23,7 @@
          </w>
          <w>
             <pldr>дарованиемъ!</pldr>
-            <rec>дарованиимь!</rec>
+            <rec>дарованиѥмь!</rec>
          </w>
          <w>
             <pldr>Кто</pldr>
@@ -40,7 +40,8 @@
          <w>
             <pldr>дивит</pldr>
             <rec>дивить</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>ся?</pldr>
             <rec>сѧ?</rec>
          </w>
@@ -54,14 +55,21 @@
          </w>
          <w>
             <pldr>яви</pldr>
-            <rec>яви</rec>
-         </w>         <w>
+            <rec>ꙗви</rec>
+            <note>aor 3sg <os>ꙗвити сѧ</os>
+               <gloss>show forth</gloss></note>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
+            <note>aor 3sg <os>ꙗвити сѧ</os>
+               <gloss>show forth</gloss></note>
          </w>
          <w>
             <pldr>млада</pldr>
             <rec>млада</rec>
+            <note>adj sh mGsg <os>младъ</os>
+               <gloss>(of the) young</gloss></note>
          </w>
          <w>
             <pldr>отрочати,</pldr>
@@ -78,6 +86,8 @@
          <w>
             <pldr>догна</pldr>
             <rec>догъна</rec>
+            <note>aor 3sg <os>догънати, доженꙋть</os>
+               <gloss>catch (up to)</gloss></note>
          </w>
          <w>
             <pldr>быстрее</pldr>
@@ -98,6 +108,8 @@
          <w>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
+            <note><os>ѥмꙋ имѣти</os> (dat+inf of <os>имѣти, имꙋть</os>
+               <gloss>have</gloss>) <gloss>it is for him to have</gloss></note>
          </w>
          <w>
             <pldr>надо</pldr>
@@ -114,6 +126,8 @@
          <w>
             <pldr>имѣти.</pldr>
             <rec>имѣти.</rec>
+            <note><os>ѥмꙋ имѣти</os> (dat+inf of <os>имѣти, имꙋть</os>
+               <gloss>have</gloss>) <gloss>it is for him to have</gloss></note>
          </w>
          <w>
             <pldr>Како</pldr>
@@ -122,6 +136,8 @@
          <w>
             <pldr>побѣди</pldr>
             <rec>побѣди</rec>
+            <note>aor 3sg <os>побѣдити</os>
+               <gloss>vanquish</gloss></note>
          </w>
          <w>
             <pldr>медведи</pldr>
@@ -154,6 +170,7 @@
          <w>
             <pldr>юноши</pldr>
             <rec>оуношѧ</rec>
+            <!-- mGAsg a-stem -->
          </w>
          <w>
             <pldr>14</pldr>
@@ -171,6 +188,8 @@
          <w>
             <pldr>суща,</pldr>
             <rec>сꙋща,</rec>
+            <note>ppl pr act sh mAsg <os>быти, бꙋдꙋть</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>но</pldr>
@@ -211,6 +230,9 @@
          <w>
             <pldr>созданъ».</pldr>
             <rec>съзьданъ».</rec>
+            <note>ppl pt pas sh mNsg <os>съзьдати, съзижꙋть</os>
+               <gloss>create</gloss></note>
+            <!-- Vasmer II: 89 confirms ж in ESl alongside жд borrowed from OCS -->
          </w>
          <w>
             <pldr>Но</pldr>
@@ -218,7 +240,9 @@
          </w>
          <w>
             <pldr>глаголаше</pldr>
-            <rec>глаголахꙋ</rec>
+            <rec>глаголахꙋ(ть)</rec>
+            <note>ipf 3pl <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>межъ</pldr>
@@ -254,11 +278,13 @@
          </w>
          <w>
             <pldr>болота</pldr>
-            <rec>болота</rec>
+            <rec>блата</rec>
          </w>
          <w>
             <pldr>выиде,</pldr>
             <rec>выиде,</rec>
+            <note>aor 3 sg <os>выити, выидꙋть</os>
+               <gloss>come out</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -283,6 +309,9 @@
          <w>
             <pldr>узреста</pldr>
             <rec>оузрѣста</rec>
+            <note>aor 3du <os>узьрѣти</os>
+               <gloss>catch sight of</gloss></note>
+            <!-- Class IVB with stable jer in root, Prague dictionary -->
          </w>
          <w>
             <pldr>юношу,</pldr>
@@ -298,12 +327,15 @@
          </w>
          <w>
             <pldr>глядаху,</pldr>
-            <rec>глѧдахꙋ,</rec>
+            <rec>глѧдахꙋ(ть),</rec>
+            <note>ipf 3pl <os>глѧдати</os>
+               <gloss>watch</gloss></note>
          </w>
          <w>
             <pldr>да</pldr>
             <rec>да</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>бы</pldr>
             <rec>бы</rec>
          </w>
@@ -314,6 +346,8 @@
          <w>
             <pldr>вредилъ</pldr>
             <rec>врѣдилъ</rec>
+            <note><os>да бы не врѣдилъ</os> cond 3sg <os>врѣдити</os>
+               <gloss>lest it harm; so that it should not harm</gloss></note>
          </w>
          <w>
             <pldr>юноши.</pldr>
@@ -329,11 +363,15 @@
          </w>
          <w>
             <pldr>влечаше</pldr>
-            <rec>влѣчаше</rec>
+            <rec>влѣчаше(ть)</rec>
+            <note>ipf 3sg <os>влѣщи, влѣкꙋть</os>
+               <gloss>drag</gloss></note>
          </w>
          <w>
             <pldr>лосову</pldr>
             <rec>лосевꙋ</rec>
+            <note>adj poss fAsg &lt; <os>лось</os>
+               <gloss>elk; moose</gloss></note>
          </w>
          <w>
             <pldr>главу</pldr>
@@ -345,7 +383,7 @@
          </w>
          <w>
             <pldr>правой</pldr>
-            <rec>правои</rec>
+            <rec>правѣи</rec>
          </w>
          <w>
             <pldr>руке</pldr>
@@ -366,6 +404,8 @@
          <w>
             <pldr>убитие,</pldr>
             <rec>оубитаꙗ,</rec>
+            <note>ppl pt pass lg mAdu <os>оубити, оубиють</os>
+               <gloss>kill</gloss></note>
          </w>
          <w>
             <pldr>на</pldr>
@@ -373,7 +413,7 @@
          </w>
          <w>
             <pldr>левой</pldr>
-            <rec>лѣвои</rec>
+            <rec>лѣвѣи</rec>
          </w>
          <w>
             <pldr>руке</pldr>
@@ -386,6 +426,8 @@
          <w>
             <pldr>раздраны</pldr>
             <rec>раздьраныи</rec>
+            <note>ppl pt pass lg mAsg <os>раздьрати, раздерꙋть</os>
+               <gloss>tear apart</gloss></note>
          </w>
          <w>
             <pldr>лось.</pldr>
@@ -426,6 +468,8 @@
          <w>
             <pldr>мертвая</pldr>
             <rec>мьртваꙗ</rec>
+            <note>adj lg nApl <os>мьртвъ</os>
+               <gloss>dead</gloss></note>
          </w>
          <w>
             <pldr>та</pldr>
@@ -434,6 +478,8 @@
          <w>
             <pldr>поверги.</pldr>
             <rec>повьрзи.</rec>
+            <note>imp 2sg <os>поврещи, повьргꙋть</os>
+               <gloss>cast down</gloss></note>
          </w>
          <w>
             <pldr>Зде</pldr>
@@ -446,6 +492,8 @@
          <w>
             <pldr>ины</pldr>
             <rec>ини</rec>
+            <note>adj sh mNpl <os>инъ</os>
+               <gloss>other</gloss></note>
          </w>
          <w>
             <pldr>живы</pldr>
@@ -522,6 +570,8 @@
          <w>
             <pldr>Отвещаша</pldr>
             <rec>Отъвеща</rec>
+            <note>aor 3sg <os>отъвѣщати</os>
+               <gloss>answer</gloss></note>
          </w>
          <w>
             <pldr>юноша:</pldr>
@@ -538,7 +588,8 @@
          <w>
             <pldr>Надею</pldr>
             <rec>Надѣю</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
@@ -581,10 +632,14 @@
          <w>
             <pldr>матерню,</pldr>
             <rec>матерьню,</rec>
+            <note>adj sh fAsg <os>матерьнь</os>
+               <gloss>maternal; mother’s</gloss></note>
          </w>
          <w>
             <pldr>яжь</pldr>
             <rec>ꙗже</rec>
+            <note>pron rel fNsg <os>иже</os>
+               <gloss>which</gloss></note>
          </w>
          <w>
             <pldr>мя</pldr>
@@ -593,6 +648,8 @@
          <w>
             <pldr>породи».</pldr>
             <rec>породи».</rec>
+            <note>aor 3sg <os>породити</os>
+               <gloss>give birth</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -625,6 +682,8 @@
          <w>
             <pldr>прииде</pldr>
             <rec>прииде</rec>
+            <note>aor 3sg <os>приити, приидꙋть</os>
+               <gloss>arrive</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -633,6 +692,8 @@
          <w>
             <pldr>восхити</pldr>
             <rec>въсхыти</rec>
+            <note>aor 3sg <os>въсхытити</os>
+               <gloss>take up</gloss></note>
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -661,6 +722,8 @@
          <w>
             <pldr>поиде.</pldr>
             <rec>поиде.</rec>
+            <note>aor 3sg <os>поити, поидꙋть</os>
+               <gloss>set forth</gloss></note>
          </w>
          <w>
             <pldr>Звер</pldr>
@@ -673,9 +736,8 @@
          <w>
             <pldr>обрелъ</pldr>
             <rec>обрѣлъ</rec>
-         </w>         <w>
-            <pldr></pldr>
-            <rec>бѣ</rec>
+            <note>sh l-ppl pt act mNsg <os>обрѣсти, обрѧчꙋть</os>
+               <gloss>find</gloss></note>
          </w>
          <w>
             <pldr>юношу</pldr>
@@ -692,6 +754,8 @@
          <w>
             <pldr>идуща</pldr>
             <rec>идꙋща</rec>
+            <note>ppl pr act mAsg <os>ити, идꙋть</os>
+               <gloss>come</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -735,11 +799,18 @@
          </w>
          <w>
             <pldr>своя</pldr>
-            <rec>своꙗ</rec>
+            <rec>своѩ</rec>
          </w>
          <w>
             <pldr>разнемъ</pldr>
             <rec>разньмъ</rec>
+            <!-- What vcrb is this? ‘
+               Yawn’ is OCS zьjati ~ zijati, zějati
+               razьniti is ‘discern’ 
+               razęti, razьmǫtь fits the form makes sense (sort of), but isn't in Miklosich or SJS
+            -->
+            <!-- <note>ppl pt act mNsg <os>разѧти, раз???</os>
+               <gloss>yawn open</gloss></note>-->
          </w>
          <w>
             <pldr>на</pldr>
@@ -768,6 +839,8 @@
          <w>
             <pldr>удари</pldr>
             <rec>оудари</rec>
+            <note>aor 3sg <os>ударити</os>
+               <gloss>strike</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -805,9 +878,6 @@
             <pldr>полы.</pldr>
             <rec>полы.</rec>
          </w>
-         <!--
-               continue from here
-            -->
       </p>
       <p>
          <w>
@@ -816,11 +886,11 @@
          </w>
          <w>
             <pldr>начатъ</pldr>
-            <rec>начатъ</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <pldr>отецъ</pldr>
-            <rec>отець</rec>
+            <rec>отьць</rec>
          </w>
          <w>
             <pldr>его</pldr>
@@ -828,7 +898,7 @@
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>стрыю</pldr>
@@ -840,19 +910,22 @@
          </w>
          <w>
             <pldr>«Виждь,</pldr>
-            <rec>«Виждь,</rec>
+            <rec>«Вижь,</rec>
+            <note>imp 2sg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
+         <!-- attested in SDRJa11-14 s.v. видѣти 421 9up -->
          <w>
             <pldr>стрыю,</pldr>
             <rec>стрыю,</rec>
          </w>
          <w>
             <pldr>величия</pldr>
-            <rec>величия</rec>
+            <rec>величиꙗ</rec>
          </w>
          <w>
             <pldr>Божия,</pldr>
-            <rec>Божия,</rec>
+            <rec>Божиꙗ,</rec>
          </w>
          <w>
             <pldr>како</pldr>
@@ -860,19 +933,25 @@
          </w>
          <w>
             <pldr>рассечень</pldr>
-            <rec>рассечень</rec>
+            <rec>рассѣченъ</rec>
+            <note>ppl pt pass <os>разсѣщи, разсѣкꙋть</os>
+               <gloss>cut through</gloss></note>
          </w>
          <w>
             <pldr>бысть</pldr>
             <rec>бысть</rec>
          </w>
+         <!-- 
+            rr: should we correct this to perfect auxiliary ѥсть for pedagogical reasons?
+            djb: probably not; if we think aor + pt pass ppl is possible, we don't need to emend
+         -->
          <w>
             <pldr>левъ,</pldr>
-            <rec>левъ,</rec>
+            <rec>львъ,</rec>
          </w>
          <w>
             <pldr>якоже</pldr>
-            <rec>якоже</rec>
+            <rec>ꙗкоже</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -880,7 +959,7 @@
          </w>
          <w>
             <pldr>прежни</pldr>
-            <rec>прежни</rec>
+            <rec>прежьнии</rec>
          </w>
          <w>
             <pldr>лось».</pldr>
@@ -892,11 +971,14 @@
          </w>
          <w>
             <pldr>борзо</pldr>
-            <rec>борзо</rec>
+            <rec>бързо</rec>
          </w>
          <w>
             <pldr>поскочиста</pldr>
             <rec>поскочиста</rec>
+            <note>aor 3du <os>поскочити</os>
+               <gloss>jump</gloss></note>
+            <!-- djb: I changed the gloss from ‘rush’ in the original word list -->
          </w>
          <w>
             <pldr>отецъ</pldr>
@@ -917,6 +999,8 @@
          <w>
             <pldr>начаста</pldr>
             <rec>начѧста</rec>
+            <note>aor 3du <os>начѧти, начьнꙋть</os>
+               <gloss>begin</gloss></note>
          </w>
          <w>
             <pldr>целовати</pldr>
@@ -956,7 +1040,9 @@
          </w>
          <w>
             <pldr>глаголаху</pldr>
-            <rec>глаголахꙋ</rec>
+            <rec>глаголахꙋ(ть)</rec>
+            <note>ipf 3pl <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -973,6 +1059,9 @@
          <w>
             <pldr>«Видеще,</pldr>
             <rec>«Видѩ,</rec>
+            <note>ppl pr act mNpl (sg expected!) <os>видѣти</os>
+               <gloss>see</gloss></note>
+            <!-- djb: I changed the annotation from nAsg to mNpl -->
          </w>
          <w>
             <pldr>господине,</pldr>
@@ -984,7 +1073,9 @@
          </w>
          <w>
             <pldr>велегласнаго</pldr>
-            <rec>велегласьнаго</rec>
+            <rec>вельгласьнаго</rec>
+            <note>adj lg mGsg <os>вельгласьнъ</os>
+               <gloss>grandiloquent</gloss></note>
          </w>
          <w>
             <pldr>возраста</pldr>
@@ -1024,7 +1115,9 @@
          </w>
          <w>
             <pldr>Бе</pldr>
-            <rec>Бе</rec>
+            <rec>Бѣ</rec>
+            <note>imperfective aor 3sg <os>быти, бꙋдꙋть</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1032,19 +1125,19 @@
          </w>
          <w>
             <pldr>юноша</pldr>
-            <rec>юноша</rec>
+            <rec>оуноша</rec>
          </w>
          <w>
             <pldr>возрастомъ</pldr>
-            <rec>возрастомъ</rec>
+            <rec>възрастъмь</rec>
          </w>
          <w>
             <pldr>велми</pldr>
-            <rec>велми</rec>
+            <rec>вельми</rec>
          </w>
          <w>
             <pldr>лепъ</pldr>
-            <rec>лепъ</rec>
+            <rec>лѣпъ</rec>
          </w>
          <w>
             <pldr>паче</pldr>
@@ -1064,11 +1157,13 @@
          </w>
          <w>
             <pldr>имуще</pldr>
-            <rec>имꙋще</rec>
+            <rec>имы</rec>
+            <note>ppl pr act sh mNpl (mNsg expected) <os>имѣти, имꙋть</os>
+               <gloss>have</gloss></note>
          </w>
          <w>
             <pldr>кудрявы</pldr>
-            <rec>кꙋдрявы</rec>
+            <rec>кꙋдрꙗвы</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1081,11 +1176,20 @@
          <w>
             <pldr>вели</pldr>
             <rec>вели</rec>
+            <note>adj nAdu <os>велии</os>
+               <gloss>big</gloss></note>
+            <!--
+               djb: This was marked as "sh" in the word list, but I don't think
+               this adj distinguishes lg and sh
+            -->
          </w>
          <w>
             <pldr>гораздны.</pldr>
-            <rec>гораздны.</rec>
+            <rec>гораздьно.</rec>
          </w>
+         <!--
+               Reading above matches G better (ὀμμάτια μεγάλα), but вельми гораздьна perhaps more char. of Tx?
+            -->
          <w>
             <pldr>На</pldr>
             <rec>На</rec>
@@ -1093,10 +1197,12 @@
          <w>
             <pldr>нь</pldr>
             <rec>нь</rec>
+            <note>pron pers mAsg <os>и</os>
+               <gloss>he</gloss></note>
          </w>
          <w>
             <pldr>зрети</pldr>
-            <rec>зрети</rec>
+            <rec>зрѣти</rec>
          </w>
          <w>
             <pldr>—</pldr>
@@ -1116,11 +1222,11 @@
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>снегъ,</pldr>
-            <rec>снегъ,</rec>
+            <rec>снѣгъ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1128,19 +1234,19 @@
          </w>
          <w>
             <pldr>румяно,</pldr>
-            <rec>рꙋмяно,</rec>
+            <rec>рꙋмꙗно,</rec>
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>червецъ,</pldr>
-            <rec>червець,</rec>
+            <rec>чьрвьць,</rec>
          </w>
          <w>
             <pldr>брови</pldr>
-            <rec>брови</rec>
+            <rec>бръви</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -1148,15 +1254,16 @@
          </w>
          <w>
             <pldr>черны</pldr>
-            <rec>черны</rec>
+            <rec>чьрны</rec>
          </w>
          <w>
             <pldr>имяше,</pldr>
-            <rec>имяше,</rec>
+            <rec>имѧше(ть),</rec>
+            <note>ipf 3sg <os>имѣти, имꙋть</os> <gloss>have</gloss></note>
          </w>
          <w>
             <pldr>перси</pldr>
-            <rec>перси</rec>
+            <rec>пьрси</rec>
          </w>
          <w>
             <pldr>жъ</pldr>
@@ -1172,11 +1279,13 @@
          </w>
          <w>
             <pldr>шире.</pldr>
-            <rec>шире.</rec>
+            <rec>ширѣишѧ.</rec>
          </w>
          <w>
             <pldr>Видев</pldr>
-            <rec>Видев</rec>
+            <rec>Видѣвъ</rec>
+            <note>ppl pt act mNsg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
          <w>
             <pldr>же</pldr>
@@ -1184,23 +1293,31 @@
          </w>
          <w>
             <pldr>отецъ</pldr>
-            <rec>отець</rec>
+            <rec>отьць</rec>
          </w>
          <w>
             <pldr>юношу</pldr>
-            <rec>юношꙋ</rec>
+            <rec>оуношꙋ</rec>
          </w>
          <w>
             <pldr>велми</pldr>
-            <rec>велми</rec>
+            <rec>вельми</rec>
          </w>
          <w>
             <pldr>красна,</pldr>
             <rec>красна,</rec>
          </w>
          <w>
-            <pldr>радовашесь</pldr>
-            <rec>радовашесь</rec>
+            <pldr>радоваше</pldr>
+            <rec>радоваше(ть)</rec>
+            <note>ipf 3sg <os>радовати сѧ</os>
+               <gloss>rejoice</gloss></note>
+         </w>
+         <w>
+            <pldr>сь</pldr>
+            <rec>сѧ</rec>
+            <note>ipf 3sg <os>радовати сѧ</os>
+               <gloss>rejoice</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1209,18 +1326,20 @@
          <w>
             <pldr>глагола</pldr>
             <rec>глагола</rec>
+            <note>aor 3sg <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>нему:</pldr>
-            <rec>немꙋ:</rec>
+            <rec>нѥмꙋ:</rec>
          </w>
          <w>
             <pldr>«Чадо</pldr>
-            <rec>«Чадо</rec>
+            <rec>«Чѧдо</rec>
          </w>
          <w>
             <pldr>мое</pldr>
@@ -1232,7 +1351,7 @@
          </w>
          <w>
             <pldr>преславни</pldr>
-            <rec>преславни</rec>
+            <rec>преславьныи</rec>
          </w>
          <w>
             <pldr>Девгений,</pldr>
@@ -1244,7 +1363,7 @@
          </w>
          <w>
             <pldr>золъ</pldr>
-            <rec>золъ</rec>
+            <rec>зълъ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1256,51 +1375,61 @@
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>полудни</pldr>
-            <rec>полꙋдни</rec>
+            <rec>полꙋдьни</rec>
          </w>
          <w>
             <pldr>бысть.</pldr>
-            <rec>бысть.</rec>
+            <rec>бысть».</rec>
          </w>
          <w>
             <pldr>Всяки</pldr>
-            <rec>Всяки</rec>
+            <rec>Вьсꙗкыи</rec>
          </w>
          <w>
             <pldr>зверь</pldr>
-            <rec>зверь</rec>
+            <rec>звѣрь</rec>
          </w>
          <w>
-            <pldr>сохранился</pldr>
-            <rec>сохранился</rec>
+            <pldr>сохранил</pldr>
+            <rec>съхранилъ</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
          </w>
          <w>
             <pldr>бяше</pldr>
-            <rec>бяше</rec>
+            <rec>бꙗше(ть)</rec>
+            <note>plpf 3sg <os>съхранити сѧ</os>
+               <gloss>hide</gloss></note>
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>пустолесие.</pldr>
-            <rec>пꙋстолесиѥ.</rec>
+            <rec>пꙋстолѣсии.</rec>
          </w>
          <w>
             <pldr>Пойдемъ,</pldr>
-            <rec>Поидемъ,</rec>
+            <rec>«Поидѣмъ,</rec>
          </w>
          <w>
             <pldr>чадо,</pldr>
-            <rec>чадо,</rec>
+            <rec>чѧдо,</rec>
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>студеному</pldr>
@@ -1308,11 +1437,13 @@
          </w>
          <w>
             <pldr>источнику,</pldr>
-            <rec>источникꙋ,</rec>
+            <rec>источьникꙋ,</rec>
          </w>
          <w>
             <pldr>измыеши</pldr>
             <rec>измыѥши</rec>
+            <note>fut 2sg <os>измыти</os>
+               <gloss>wash off</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1328,11 +1459,11 @@
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>многаго</pldr>
-            <rec>многаго</rec>
+            <rec>мъногаго</rec>
          </w>
          <w>
             <pldr>пота</pldr>
@@ -1344,7 +1475,7 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>ины</pldr>
@@ -1352,11 +1483,19 @@
          </w>
          <w>
             <pldr>порты</pldr>
-            <rec>порты</rec>
+            <rec>пърты</rec>
          </w>
          <w>
-            <pldr>облечешися,</pldr>
-            <rec>облечешися,</rec>
+            <pldr>облечеши</pldr>
+            <rec>облѣчеши</rec>
+            <note>fut 2sg <os>облѣчи, облѣкꙋть сѧ</os>
+               <gloss>dress oneself</gloss></note>
+         </w>
+         <w>
+            <pldr>ся,</pldr>
+            <rec>сѧ,</rec>
+            <note>fut 2sg <os>облѣчи, облѣкꙋть сѧ</os>
+               <gloss>dress oneself</gloss></note>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1364,31 +1503,33 @@
          </w>
          <w>
             <pldr>рудныя</pldr>
-            <rec>рꙋдныя</rec>
+            <rec>рꙋдьныꙗ</rec>
+            <note>adj lg mApl <os>рꙋдьнъ</os>
+               <gloss>ruddy</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>себѣ</pldr>
-            <rec>себѣ</rec>
+            <rec>себе</rec>
          </w>
          <w>
             <pldr>снимеши,</pldr>
-            <rec>снимеши,</rec>
+            <rec>сънимеши,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>зверинаго</pldr>
-            <rec>зверинаго</rec>
+            <rec>звѣринаго</rec>
          </w>
          <w>
             <pldr>пота,</pldr>
@@ -1400,11 +1541,13 @@
          </w>
          <w>
             <pldr>медвежи</pldr>
-            <rec>медвежи</rec>
+            <rec>медвѣжи</rec>
          </w>
          <w>
             <pldr>капани,</pldr>
-            <rec>капани,</rec>
+            <rec>капании,</rec>
+            <note>noun jo-stem nGpl <os>капаниѥ</os>
+               <gloss>dripping</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1416,15 +1559,15 @@
          </w>
          <w>
             <pldr>зверя</pldr>
-            <rec>зверя</rec>
+            <rec>звѣри</rec>
          </w>
          <w>
             <pldr>крови</pldr>
-            <rec>крови</rec>
+            <rec>кръве</rec>
          </w>
          <w>
             <pldr>порты</pldr>
-            <rec>порты</rec>
+            <rec>пърти</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -1432,15 +1575,25 @@
          </w>
          <w>
             <pldr>тебе</pldr>
-            <rec>тебе</rec>
+            <rec>тебѣ</rec>
          </w>
          <w>
-            <pldr>орудишась.</pldr>
-            <rec>орꙋдишась.</rec>
+            <pldr>орудиша</pldr>
+            <rec>орꙋдиша</rec>
+            <note>aor 3pl <os>оруꙋити сѧ</os>
+               <gloss>become ruddy</gloss></note>
+         </w>
+         <w>
+            <pldr>сь.</pldr>
+            <rec>сѧ.</rec>
+            <note>aor 3pl <os>оруꙋити сѧ</os>
+               <gloss>become ruddy</gloss></note>
          </w>
          <w>
             <pldr>Измыю</pldr>
             <rec>Измыю</rec>
+            <note>fut 1sg <os>измыти, измыють</os>
+               <gloss>wash off</gloss></note>
          </w>
          <w>
             <pldr>твои</pldr>
@@ -1448,7 +1601,7 @@
          </w>
          <w>
             <pldr>руце</pldr>
-            <rec>рꙋце</rec>
+            <rec>рꙋцѣ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1468,17 +1621,17 @@
          </w>
          <w>
             <pldr>азъ».</pldr>
-            <rec>азъ».</rec>
+            <rec>ꙗзъ».</rec>
          </w>
       </p>
       <p>
          <w>
             <pldr>Во</pldr>
-            <rec>Во</rec>
+            <rec>Въ</rec>
          </w>
          <w>
             <pldr>источницѣ</pldr>
-            <rec>источницѣ</rec>
+            <rec>источьницѣ</rec>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1486,11 +1639,11 @@
          </w>
          <w>
             <pldr>томъ</pldr>
-            <rec>томъ</rec>
+            <rec>томь</rec>
          </w>
          <w>
             <pldr>свети,</pldr>
-            <rec>свети,</rec>
+            <rec>свѣти,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1502,15 +1655,19 @@
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>свеща</pldr>
-            <rec>свеща</rec>
+            <rec>свѣща</rec>
          </w>
          <w>
-            <pldr>светится.</pldr>
-            <rec>светится.</rec>
+            <pldr>светит</pldr>
+            <rec>свѣтить</rec>
+         </w>
+         <w>
+            <pldr>ся.</pldr>
+            <rec>сѧ.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1522,7 +1679,9 @@
          </w>
          <w>
             <pldr>смеяше</pldr>
-            <rec>смеяше</rec>
+            <rec>смѣꙗше(ть)</rec>
+            <note>ipf 3sg <os>смѣти</os>
+               <gloss>dare</gloss></note>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -1530,11 +1689,11 @@
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>воде</pldr>
-            <rec>воде</rec>
+            <rec>водѣ</rec>
          </w>
          <w>
             <pldr>той</pldr>
@@ -1542,7 +1701,7 @@
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>храбрыхъ</pldr>
@@ -1550,23 +1709,25 @@
          </w>
          <w>
             <pldr>приитъти</pldr>
-            <rec>приитъти</rec>
+            <rec>приити</rec>
          </w>
          <w>
             <pldr>никто,</pldr>
-            <rec>никто,</rec>
+            <rec>никъто,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
          </w>
          <w>
             <pldr>бяху</pldr>
-            <rec>бяхꙋ</rec>
+            <rec>бꙗхꙋ</rec>
+            <note>ipf 3pl <os>быти, бꙋдꙋть</os>
+               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>мнози</pldr>
-            <rec>мнози</rec>
+            <rec>мънога</rec>
          </w>
          <w>
             <pldr>чюдеса:</pldr>
@@ -1574,11 +1735,11 @@
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>воде</pldr>
-            <rec>воде</rec>
+            <rec>водѣ</rec>
          </w>
          <w>
             <pldr>той</pldr>
@@ -1594,7 +1755,9 @@
          </w>
          <w>
             <pldr>живяше.</pldr>
-            <rec>живяше.</rec>
+            <rec>живꙗше(ть).</rec>
+            <note>ipf 3sg <os>жити, живꙋть</os>
+               <gloss>live</gloss></note>
          </w>
       </p>
    </body>
