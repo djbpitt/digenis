@@ -554,6 +554,7 @@
          <w>
             <pldr>обороною</pldr>
             <rec>обороною</rec>
+            <!-- TODO: should be обраною? -->
          </w>
          <w>
             <pldr>итти</pldr>
@@ -977,7 +978,7 @@
             <pldr>поскочиста</pldr>
             <rec>поскочиста</rec>
             <note>aor 3du <os>поскочити</os>
-               <gloss>jump</gloss></note>
+               <gloss>leap</gloss></note>
             <!-- djb: I changed the gloss from ‘rush’ in the original word list -->
          </w>
          <w>
@@ -1175,13 +1176,9 @@
          </w>
          <w>
             <pldr>вели</pldr>
-            <rec>вели</rec>
+            <rec>велии</rec>
             <note>adj nAdu <os>велии</os>
                <gloss>big</gloss></note>
-            <!--
-               djb: This was marked as "sh" in the word list, but I don't think
-               this adj distinguishes lg and sh
-            -->
          </w>
          <w>
             <pldr>гораздны.</pldr>
@@ -1189,6 +1186,7 @@
          </w>
          <!--
                Reading above matches G better (ὀμμάτια μεγάλα), but вельми гораздьна perhaps more char. of Tx?
+               djb: okay
             -->
          <w>
             <pldr>На</pldr>
