@@ -940,11 +940,12 @@
          </w>
          <w>
             <pldr>бысть</pldr>
-            <rec>бысть</rec>
+            <rec>бы(ст)ь</rec>
          </w>
          <!-- 
             rr: should we correct this to perfect auxiliary ѥсть for pedagogical reasons?
             djb: probably not; if we think aor + pt pass ppl is possible, we don't need to emend
+            rr: it is possible, but according to Vlasto the meaning is "had been cut apart"
          -->
          <w>
             <pldr>левъ,</pldr>
@@ -1200,7 +1201,7 @@
          </w>
          <w>
             <pldr>зрети</pldr>
-            <rec>зрѣти</rec>
+            <rec>зьрѣти</rec>
          </w>
          <w>
             <pldr>—</pldr>
@@ -1381,7 +1382,7 @@
          </w>
          <w>
             <pldr>бысть.</pldr>
-            <rec>бысть».</rec>
+            <rec>бы(сть)».</rec>
          </w>
          <w>
             <pldr>Всяки</pldr>

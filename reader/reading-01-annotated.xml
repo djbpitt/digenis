@@ -738,8 +738,9 @@
          </w>
          <w>
             <pldr>бысть.</pldr>
-            <rec>бѣсте.</rec>
-         </w>
+            <rec>бѣшѧ.</rec>
+            <note>3pl imperfective aorist of <os>быти</os>
+               <gloss>be</gloss></note>         </w>
          <w>
             <pldr>И</pldr>
             <rec>И</rec>
@@ -930,8 +931,9 @@
          </w>
          <w>
             <pldr>бысть</pldr>
-            <rec>бысть</rec>
-         </w>
+            <rec>бы(сть)</rec>
+            <note>3sg aorist of <os>быти</os>
+               <gloss>be</gloss></note>         </w>
          <w>
             <pldr>в</pldr>
             <rec>въ</rec>
@@ -1053,8 +1055,9 @@
          </w>
          <w>
             <pldr>бысть</pldr>
-            <rec>бысть</rec>
-         </w>
+            <rec>бы(сть)</rec>
+            <note>3sg aorist of <os>быти</os>
+               <gloss>be</gloss></note>         </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
