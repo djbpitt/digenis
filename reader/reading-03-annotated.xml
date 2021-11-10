@@ -11,7 +11,7 @@
          </w>
          <w>
             <pldr>пришедши</pldr>
-            <rec>пришедши</rec>
+            <rec>пришьдъшемъ</rec>
          </w>
          <w>
             <pldr>имъ</pldr>
@@ -19,11 +19,11 @@
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>источнику,</pldr>
-            <rec>источникꙋ,</rec>
+            <rec>источьникꙋ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -31,7 +31,7 @@
          </w>
          <w>
             <pldr>седоша</pldr>
-            <rec>седоша</rec>
+            <rec>сѣдоша</rec>
          </w>
          <w>
             <pldr>около</pldr>
@@ -39,7 +39,7 @@
          </w>
          <w>
             <pldr>Девгения,</pldr>
-            <rec>Девгения,</rec>
+            <rec>Девгениꙗ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -47,7 +47,7 @@
          </w>
          <w>
             <pldr>начаша</pldr>
-            <rec>начаша</rec>
+            <rec>начѧшѧ</rec>
          </w>
          <w>
             <pldr>мыти</pldr>
@@ -67,7 +67,7 @@
          </w>
          <w>
             <pldr>руце.</pldr>
-            <rec>рꙋце.</rec>
+            <rec>рꙋцѣ.</rec>
          </w>
          <w>
             <pldr>Онъ</pldr>
@@ -83,7 +83,7 @@
          </w>
          <w>
             <pldr>«Руце</pldr>
-            <rec>«Рꙋце</rec>
+            <rec>«Рꙋцѣ</rec>
          </w>
          <w>
             <pldr>мои</pldr>
@@ -103,13 +103,16 @@
          </w>
          <w>
             <pldr>имъ</pldr>
-            <rec>имъ</rec>
+            <rec>има</rec>
          </w>
          <w>
-            <pldr>калатися».</pldr>
-            <rec>калатися».</rec>
+            <pldr>калати</pldr>
+            <rec>калати.</rec>
          </w>
          <w>
+            <pldr>ся».</pldr>
+            <rec>сѧ».</rec>
+         </w>         <w>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
@@ -119,11 +122,11 @@
          </w>
          <w>
             <pldr>слова</pldr>
-            <rec>слова</rec>
+            <rec>словесе</rec>
          </w>
          <w>
             <pldr>юноша</pldr>
-            <rec>юноша</rec>
+            <rec>оуноша</rec>
          </w>
          <w>
             <pldr>не</pldr>
@@ -131,7 +134,7 @@
          </w>
          <w>
             <pldr>скончавъ,</pldr>
-            <rec>скончавъ,</rec>
+            <rec>съконьчавъ,</rec>
          </w>
          <w>
             <pldr>абие</pldr>
@@ -139,7 +142,7 @@
          </w>
          <w>
             <pldr>змей</pldr>
-            <rec>змеи</rec>
+            <rec>змии</rec>
          </w>
          <w>
             <pldr>великъ</pldr>
@@ -147,31 +150,34 @@
          </w>
          <w>
             <pldr>прилете</pldr>
-            <rec>прилете</rec>
+            <rec>прилетѣ</rec>
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>источнику,</pldr>
-            <rec>источникꙋ,</rec>
+            <rec>источьникꙋ,</rec>
          </w>
          <w>
             <pldr>яко</pldr>
-            <rec>яко</rec>
+            <rec>ꙗко</rec>
          </w>
          <w>
             <pldr>человѣкъ</pldr>
             <rec>человѣкъ</rec>
          </w>
          <w>
-            <pldr>явись</pldr>
-            <rec>явись</rec>
+            <pldr>яви</pldr>
+            <rec>ꙗви</rec>
          </w>
          <w>
+            <pldr>сь</pldr>
+            <rec>сѧ</rec>
+         </w>         <w>
             <pldr>троеглавой,</pldr>
-            <rec>троѥглавои,</rec>
+            <rec>троѥглавыи,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -179,15 +185,15 @@
          </w>
          <w>
             <pldr>хотяше</pldr>
-            <rec>хотяше</rec>
+            <rec>хотꙗше</rec>
          </w>
          <w>
             <pldr>людей</pldr>
-            <rec>людеи</rec>
+            <rec>людии</rec>
          </w>
          <w>
             <pldr>пожрети.</pldr>
-            <rec>пожрети.</rec>
+            <rec>пожьрѣти.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -195,7 +201,7 @@
          </w>
          <w>
             <pldr>узре</pldr>
-            <rec>оузре</rec>
+            <rec>оузьрѣ</rec>
          </w>
          <w>
             <pldr>Девгений,</pldr>
@@ -207,7 +213,7 @@
          </w>
          <w>
             <pldr>вборзе</pldr>
-            <rec>вборзе</rec>
+            <rec>въбързѣ</rec>
          </w>
          <w>
             <pldr>мечь</pldr>
@@ -227,11 +233,11 @@
          </w>
          <w>
             <pldr>противо</pldr>
-            <rec>противо</rec>
+            <rec>противъ</rec>
          </w>
          <w>
             <pldr>змия</pldr>
-            <rec>змия</rec>
+            <rec>змиꙗ</rec>
          </w>
          <w>
             <pldr>поиде,</pldr>
@@ -243,7 +249,7 @@
          </w>
          <w>
             <pldr>3</pldr>
-            <rec>3</rec>
+            <rec>·г҃·</rec>
          </w>
          <w>
             <pldr>главы</pldr>
@@ -251,11 +257,11 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>отсече,</pldr>
-            <rec>отсече,</rec>
+            <rec>отъсѣче,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -263,11 +269,11 @@
          </w>
          <w>
             <pldr>начатъ</pldr>
-            <rec>начатъ</rec>
+            <rec>нача(тъ)</rec>
          </w>
          <w>
             <pldr>руки</pldr>
-            <rec>рꙋки</rec>
+            <rec>рꙋкы</rec>
          </w>
          <w>
             <pldr>умывати.</pldr>
@@ -279,23 +285,26 @@
          </w>
          <w>
             <pldr>вси</pldr>
-            <rec>вси</rec>
+            <rec>вьси</rec>
          </w>
          <w>
             <pldr>предстоящи</pldr>
-            <rec>предстоящи</rec>
+            <rec>предъстоѩщии</rec>
          </w>
          <w>
-            <pldr>почюдишася</pldr>
-            <rec>почꙋдишася</rec>
-         </w>
+            <pldr>почюдиша</pldr>
+            <rec>почꙋдишѧ</rec>
+            <!--governs dative in Sreznevskii-->         </w>
          <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
+         </w>         <w>
             <pldr>такой</pldr>
             <rec>такои</rec>
          </w>
          <w>
             <pldr>дерзости,</pldr>
-            <rec>дерзости,</rec>
+            <rec>дьрзости,</rec>
          </w>
          <w>
             <pldr>юже</pldr>
@@ -303,7 +312,7 @@
          </w>
          <w>
             <pldr>юноша</pldr>
-            <rec>юноша</rec>
+            <rec>оуноша</rec>
          </w>
          <w>
             <pldr>показа</pldr>
@@ -315,11 +324,11 @@
          </w>
          <w>
             <pldr>лютомъ</pldr>
-            <rec>лютомъ</rec>
+            <rec>лютомь</rec>
          </w>
          <w>
             <pldr>звери,</pldr>
-            <rec>звери,</rec>
+            <rec>звѣри,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -327,19 +336,19 @@
          </w>
          <w>
             <pldr>начаша</pldr>
-            <rec>начаша</rec>
+            <rec>начѧшѧ</rec>
          </w>
          <w>
             <pldr>хвалу</pldr>
-            <rec>хвалу</rec>
+            <rec>хвалꙋ</rec>
          </w>
          <w>
             <pldr>Богу</pldr>
-            <rec>Богу</rec>
+            <rec>Богꙋ</rec>
          </w>
          <w>
             <pldr>воздавати:</pldr>
-            <rec>воздавати:</rec>
+            <rec>въздавати:</rec>
          </w>
          <w>
             <pldr>«О</pldr>
@@ -359,7 +368,7 @@
          </w>
          <w>
             <pldr>вседержителю</pldr>
-            <rec>вседержителю</rec>
+            <rec>вьседержителю</rec>
          </w>
          <w>
             <pldr>Владыко,</pldr>
@@ -367,7 +376,7 @@
          </w>
          <w>
             <pldr>создавы</pldr>
-            <rec>создавы</rec>
+            <rec>съзьдавыи</rec>
          </w>
          <w>
             <pldr>человѣка</pldr>
@@ -379,11 +388,11 @@
          </w>
          <w>
             <pldr>велику</pldr>
-            <rec>велику</rec>
+            <rec>великꙋ</rec>
          </w>
          <w>
             <pldr>силу</pldr>
-            <rec>силу</rec>
+            <rec>силꙋ</rec>
          </w>
          <w>
             <pldr>давъ</pldr>
@@ -391,19 +400,19 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>надо</pldr>
-            <rec>надо</rec>
+            <rec>надъ</rec>
          </w>
          <w>
             <pldr>всеми</pldr>
-            <rec>всеми</rec>
+            <rec>вьсѣми</rec>
          </w>
          <w>
             <pldr>силными</pldr>
-            <rec>силными</rec>
+            <rec>сильными</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -411,7 +420,7 @@
          </w>
          <w>
             <pldr>дивно</pldr>
-            <rec>дивно</rec>
+            <rec>дивьно</rec>
          </w>
          <w>
             <pldr>храбрыми,</pldr>
@@ -441,19 +450,19 @@
          </w>
          <w>
             <pldr>начаша</pldr>
-            <rec>начаша</rec>
+            <rec>начѧшѧ</rec>
          </w>
          <w>
             <pldr>юношу</pldr>
-            <rec>юношу</rec>
+            <rec>оуношꙋ</rec>
          </w>
          <w>
             <pldr>прилежно</pldr>
-            <rec>прилежно</rec>
+            <rec>прилежьно</rec>
          </w>
          <w>
             <pldr>целовати</pldr>
-            <rec>целовати</rec>
+            <rec>цѣловати</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -465,27 +474,27 @@
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>него</pldr>
-            <rec>него</rec>
+            <rec>нѥго</rec>
          </w>
          <w>
             <pldr>совлекоша.</pldr>
-            <rec>совлекоша.</rec>
+            <rec>съвлѣкошѧ.</rec>
          </w>
          <w>
             <pldr>Исподни</pldr>
-            <rec>Исподни</rec>
+            <rec>Исподьнꙗ</rec>
          </w>
          <w>
             <pldr>жъ</pldr>
-            <rec>жь</rec>
+            <rec>же</rec>
          </w>
          <w>
             <pldr>быша</pldr>
-            <rec>быша</rec>
+            <rec>бышѧ</rec>
          </w>
          <w>
             <pldr>хлада</pldr>
@@ -501,28 +510,31 @@
          </w>
          <w>
             <pldr>верхни</pldr>
-            <rec>верхни</rec>
+            <rec>вьрхънꙗ</rec>
          </w>
          <w>
             <pldr>бяху</pldr>
-            <rec>бяху</rec>
+            <rec>бꙗхꙋ</rec>
          </w>
          <w>
             <pldr>червлены,</pldr>
-            <rec>червлены,</rec>
+            <rec>чьрвлены,</rec>
          </w>
          <w>
             <pldr>сухимъ</pldr>
-            <rec>сꙋхимъ</rec>
+            <rec>сꙋхымь</rec>
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златомъ</rec>
+            <rec>златъ`мь</rec>
          </w>
          <w>
             <pldr>тканы,</pldr>
-            <rec>тканы,</rec>
+            <rec>тъканы,</rec>
          </w>
+         <!--
+              finished to here
+            -->
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
