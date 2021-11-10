@@ -107,12 +107,13 @@
          </w>
          <w>
             <pldr>калати</pldr>
-            <rec>калати.</rec>
+            <rec>калати</rec>
          </w>
          <w>
             <pldr>ся».</pldr>
             <rec>сѧ».</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
@@ -175,7 +176,8 @@
          <w>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>троеглавой,</pldr>
             <rec>троѥглавыи,</rec>
          </w>
@@ -294,11 +296,13 @@
          <w>
             <pldr>почюдиша</pldr>
             <rec>почꙋдишѧ</rec>
-            <!--governs dative in Sreznevskii-->         </w>
+            <!--governs dative in Sreznevskii-->
+         </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
-         </w>         <w>
+         </w>
+         <w>
             <pldr>такой</pldr>
             <rec>такои</rec>
          </w>
@@ -431,6 +435,10 @@
             <rec>показалъ</rec>
          </w>
          <w>
+            <pldr>&#xa0;</pldr>
+         </w>
+         <rec>ѥси</rec>
+         <w>
             <pldr>человѣки</pldr>
             <rec>человѣки</rec>
          </w>
@@ -526,14 +534,14 @@
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златъ`мь</rec>
+            <rec>златъмь</rec>
          </w>
          <w>
             <pldr>тканы,</pldr>
             <rec>тъканы,</rec>
          </w>
          <!--
-              finished to here
+              finished to 132 
             -->
          <w>
             <pldr>и</pldr>
