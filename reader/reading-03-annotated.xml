@@ -271,7 +271,7 @@
          </w>
          <w>
             <pldr>начатъ</pldr>
-            <rec>нача(тъ)</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <pldr>руки</pldr>
@@ -296,7 +296,7 @@
          <w>
             <pldr>почюдиша</pldr>
             <rec>почꙋдишѧ</rec>
-            <!--governs dative in Sreznevskii-->
+            <!--чꙋдити сѧ governs dative in Sreznevskii-->
          </w>
          <w>
             <pldr>ся</pldr>
@@ -372,7 +372,7 @@
          </w>
          <w>
             <pldr>вседержителю</pldr>
-            <rec>вьседержителю</rec>
+            <rec>вьседьржителю</rec>
          </w>
          <w>
             <pldr>Владыко,</pldr>
@@ -440,11 +440,11 @@
          </w>
          <w>
             <pldr>человѣки</pldr>
-            <rec>человѣки</rec>
+            <rec>человѣкы</rec>
          </w>
          <w>
             <pldr>сильнее</pldr>
-            <rec>сильнеѥ</rec>
+            <rec>сильнѣише</rec>
          </w>
          <w>
             <pldr>ихъ».</pldr>
@@ -540,28 +540,26 @@
             <pldr>тканы,</pldr>
             <rec>тъканы,</rec>
          </w>
-         <!--
-              finished to 132 
-            -->
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
             <pldr>предрукавие</pldr>
-            <rec>предрꙋкавиѥ</rec>
-         </w>
+            <rec>предърꙋкавиꙗ</rec>
+            <!-- Not in SDRJa XI-XIV; leave pl. by analogy to сапогъ, below -->   
+                </w>
          <w>
             <pldr>драгимъ</pldr>
-            <rec>драгимъ</rec>
+            <rec>драгымь</rec>
          </w>
          <w>
             <pldr>жемчюгомъ</pldr>
-            <rec>жемчꙋгомъ</rec>
+            <rec>жьньчꙋгъмь</rec>
          </w>
          <w>
             <pldr>сажены,</pldr>
-            <rec>сажены,</rec>
+            <rec>сажена,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -569,7 +567,8 @@
          </w>
          <w>
             <pldr>наколенники</pldr>
-            <rec>наколенники</rec>
+            <rec>наколѣньници</rec>
+            <!-- Not in SDRJa XI-XIV; leave pl. by analogy to сапогъ, below -->   
          </w>
          <w>
             <pldr>его</pldr>
@@ -577,11 +576,11 @@
          </w>
          <w>
             <pldr>бяху</pldr>
-            <rec>бяху</rec>
+            <rec>бꙗхꙋ</rec>
          </w>
          <w>
             <pldr>драгая</pldr>
-            <rec>драгая</rec>
+            <rec>драгаꙗ</rec>
          </w>
          <w>
             <pldr>паволока,</pldr>
@@ -593,7 +592,9 @@
          </w>
          <w>
             <pldr>сапоги</pldr>
-            <rec>сапоги</rec>
+            <rec>сапози</rec>
+            <!-- In SDRJa XI-XIV s.v. сапогъ, "usually pl."; no clear dual in ехх.; 
+               once и дасть ... сапозѣ (sic) на нозѣ, apparently by attraction -->
          </w>
          <w>
             <pldr>его</pldr>
@@ -601,23 +602,23 @@
          </w>
          <w>
             <pldr>вси</pldr>
-            <rec>вси</rec>
+            <rec>вьси</rec>
          </w>
          <w>
             <pldr>златы,</pldr>
-            <rec>златы,</rec>
+            <rec>злати,</rec>
          </w>
          <w>
             <pldr>сажены</pldr>
-            <rec>сажены</rec>
+            <rec>сажени</rec>
          </w>
          <w>
             <pldr>драгимъ</pldr>
-            <rec>драгимъ</rec>
+            <rec>драгымь</rec>
          </w>
          <w>
             <pldr>жемчюгомъ</pldr>
-            <rec>жемчꙋгомъ</rec>
+            <rec>жьньчꙋгъмь</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -625,11 +626,11 @@
          </w>
          <w>
             <pldr>камениемъ</pldr>
-            <rec>камениѥмъ</rec>
+            <rec>камениѥмь</rec>
          </w>
          <w>
             <pldr>магнитомъ.</pldr>
-            <rec>магнитомъ.</rec>
+            <rec>лигнитаръмь.</rec>
          </w>
          <w>
             <pldr>Острози</pldr>
@@ -641,25 +642,26 @@
          </w>
          <w>
             <pldr>виты</pldr>
-            <rec>виты</rec>
+            <rec>вити</rec>
          </w>
          <w>
             <pldr>златомъ</pldr>
-            <rec>златомъ</rec>
+            <rec>златъмь</rec>
          </w>
          <w>
             <pldr>со</pldr>
-            <rec>со</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>измарагдом</pldr>
-            <rec>измарагдом</rec>
+            <rec>измарагдъмь</rec>
          </w>
          <w>
             <pldr>камениемъ.</pldr>
-            <rec>камениѥмъ.</rec>
+            <rec>камениѥмь.</rec>
          </w>
       </p>
+      <!-- retroverted to 162 -->
       <p>
          <w>
             <pldr>И</pldr>
