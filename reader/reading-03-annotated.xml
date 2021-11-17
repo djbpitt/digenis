@@ -1252,11 +1252,11 @@
          </w>
          <w>
             <pldr>СВАДЬБЕ</pldr>
-            <rec>СВАДЬБЕ</rec>
+            <rec>СВАТЬБѢ</rec>
          </w>
          <w>
             <pldr>ДЕВГЕЕВЕ</pldr>
-            <rec>ДЕВГЕЕВЕ</rec>
+            <rec>ДЕВГЕНИѤВѢ</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1268,64 +1268,53 @@
          </w>
          <w>
             <pldr>ВСЪХЫЩЕНИИ</pldr>
-            <rec>ВСЪХЫЩЕНИИ</rec>
+            <rec>ВЪСХЫЩЕНИИ</rec>
          </w>
          <w>
             <pldr>СТРАТИГОВНЫ</pldr>
-            <rec>СТРАТИГОВНЫ</rec>
+            <rec>СТРАТИГОВЬНЫ</rec>
          </w>
       </p>
       <p>
          <w>
-            <pldr>Преславьныи</pldr>
+            <pldr>Преславны</pldr>
             <rec>Преславьныи</rec>
          </w>
          <w>
-            <pldr>Девгении</pldr>
+            <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
             <pldr>нача</pldr>
-            <rec>нача</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
-            <pldr>вьсьгда</pldr>
+            <pldr>всегда</pldr>
             <rec>вьсьгда</rec>
          </w>
          <w>
-            <pldr>помышлѧти</pldr>
-            <rec>помышлѧти</rec>
+            <pldr>помышляти</pldr>
+            <rec>помышлꙗти</rec>
          </w>
          <w>
             <pldr>о</pldr>
             <rec>о</rec>
          </w>
          <w>
-            <pldr>стратиговьнѣ</pldr>
-            <rec>стратиговьнѣ</rec>
+            <pldr>Стратиговне,</pldr>
+            <rec>Стратиговьнѣ,</rec>
          </w>
+
          <w>
-            <pldr>и</pldr>
-            <rec>и</rec>
-         </w>
-         <w>
-            <pldr>безъпрестани</pldr>
-            <rec>безъпрестани</rec>
-         </w>
-         <w>
-            <pldr>оумолѧти</pldr>
-            <rec>оꙋмолѧти</rec>
-         </w>
-         <w>
-            <pldr>оу</pldr>
+            <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
-            <pldr>отьцѧ</pldr>
-            <rec>отьцѧ</rec>
+            <pldr>отца</pldr>
+            <rec>отьца</rec>
          </w>
          <w>
-            <pldr>своѥго</pldr>
+            <pldr>своего</pldr>
             <rec>своѥго</rec>
          </w>
          <w>
@@ -1333,71 +1322,80 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>оу</pldr>
+            <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
-            <pldr>матере,</pldr>
+            <pldr>матери</pldr>
             <rec>матере,</rec>
          </w>
+         <w>
+            <pldr>безпрестани</pldr>
+            <rec>беспрестани</rec>
+         </w>
+         <w>
+            <pldr>умоляти</pldr>
+            <rec>оумолꙗти</rec>
+         </w>
+
          <w>
             <pldr>како</pldr>
             <rec>како</rec>
          </w>
          <w>
             <pldr>бы</pldr>
-            <rec>бы</rec>
+            <rec>бы(сть)</rec>
          </w>
          <w>
-            <pldr>видѣти</pldr>
+            <pldr>видеть</pldr>
             <rec>видѣти</rec>
          </w>
          <w>
-            <pldr>стратига</pldr>
-            <rec>стратига</rec>
+            <pldr>Стратига</pldr>
+            <rec>Стратига</rec>
          </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
-            <pldr>дѣтии</pldr>
+            <pldr>детей</pldr>
             <rec>дѣтии</rec>
          </w>
          <w>
-            <pldr>ѥго</pldr>
-            <rec>ѥго</rec>
+            <pldr>его,</pldr>
+            <rec>ѥго,</rec>
          </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
-            <pldr>вьсе</pldr>
+            <pldr>все</pldr>
             <rec>вьсе</rec>
          </w>
          <w>
-            <pldr>воиньство</pldr>
+            <pldr>воинсво</pldr>
             <rec>воиньство</rec>
          </w>
          <w>
-            <pldr>ѥго</pldr>
-            <rec>ѥго</rec>
+            <pldr>его,</pldr>
+            <rec>ѥго,</rec>
          </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
-            <pldr>прекрасьнꙋю</pldr>
+            <pldr>прекрасьную</pldr>
             <rec>прекрасьнꙋю</rec>
          </w>
          <w>
-            <pldr>стратиговьнꙋ.</pldr>
-            <rec>стратиговьнꙋ.</rec>
+            <pldr>Стратиговну.</pldr>
+            <rec>Стратиговьнꙋ.</rec>
          </w>
          <w>
-            <pldr>Отьць</pldr>
+            <pldr>Отец</pldr>
             <rec>Отьць</rec>
          </w>
          <w>
@@ -1405,7 +1403,7 @@
             <rec>же</rec>
          </w>
          <w>
-            <pldr>ѥго</pldr>
+            <pldr>его</pldr>
             <rec>ѥго</rec>
          </w>
          <w>
@@ -1417,27 +1415,27 @@
             <rec>мати</rec>
          </w>
          <w>
-            <pldr>начаста</pldr>
-            <rec>начаста</rec>
+            <pldr>нача</pldr>
+            <rec>начѧста</rec>
          </w>
          <w>
-            <pldr>оунимати:</pldr>
-            <rec>оꙋнимати:</rec>
+            <pldr>унимати:</pldr>
+            <rec>оунимати:</rec>
          </w>
          <w>
             <pldr>«Чадо,</pldr>
-            <rec>«Чадо,</rec>
+            <rec>«Чѧдо,</rec>
          </w>
          <w>
-            <pldr>оуими</pldr>
-            <rec>оꙋими</rec>
+            <pldr>уими</pldr>
+            <rec>оуими</rec>
          </w>
          <w>
-            <pldr>сѧ</pldr>
+            <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
-            <pldr>отъ</pldr>
+            <pldr>от</pldr>
             <rec>отъ</rec>
          </w>
          <w>
@@ -1449,24 +1447,24 @@
             <rec>помысла.</rec>
          </w>
          <w>
-            <pldr>Мънозии</pldr>
+            <pldr>Многие</pldr>
             <rec>Мънозии</rec>
          </w>
          <w>
-            <pldr>помышлѧхꙋ</pldr>
-            <rec>помышлѧхꙋ</rec>
+            <pldr>помышляше</pldr>
+            <rec>помышлꙗхꙋ(ть)</rec>
          </w>
          <w>
             <pldr>о</pldr>
             <rec>о</rec>
          </w>
          <w>
-            <pldr>самомь</pldr>
+            <pldr>самом</pldr>
             <rec>самомь</rec>
          </w>
          <w>
-            <pldr>стратизѣ</pldr>
-            <rec>стратизѣ</rec>
+            <pldr>Стратиге</pldr>
+            <rec>Стратизѣ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1477,27 +1475,27 @@
             <rec>о</rec>
          </w>
          <w>
-            <pldr>стратиговьнѣ,</pldr>
-            <rec>стратиговьнѣ,</rec>
+            <pldr>Стратиговне,</pldr>
+            <rec>Стратиговьнѣ,</rec>
          </w>
          <w>
-            <pldr>како</pldr>
+            <pldr>как</pldr>
             <rec>како</rec>
          </w>
          <w>
             <pldr>бы</pldr>
-            <rec>бы</rec>
+            <rec>бы(сть)</rec>
          </w>
          <w>
-            <pldr>имъ</pldr>
+            <pldr>им</pldr>
             <rec>имъ</rec>
          </w>
          <w>
-            <pldr>видѣти</pldr>
+            <pldr>видети</pldr>
             <rec>видѣти</rec>
          </w>
          <w>
-            <pldr>ѥꙗ,</pldr>
+            <pldr>ея,</pldr>
             <rec>ѥꙗ,</rec>
          </w>
          <w>
@@ -1505,19 +1503,20 @@
             <rec>да</rec>
          </w>
          <w>
-            <pldr>нѣсть</pldr>
-            <rec>нѣсть</rec>
+            <pldr>не</pldr>
+            <rec>не</rec>
          </w>
+         <!-- Should 369 remain не or be expanded to нѣсть? Do negated 3sg "elliptical" perfects exist in early language? -->
          <w>
-            <pldr>събыло</pldr>
+            <pldr>збыло</pldr>
             <rec>събыло</rec>
          </w>
          <w>
-            <pldr>сѧ</pldr>
+            <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
-            <pldr>имъ».</pldr>
+            <pldr>им».</pldr>
             <rec>имъ».</rec>
          </w>
       </p>
