@@ -33,7 +33,7 @@
          </w>
          <w>
             <pldr>седоша</pldr>
-            <rec>сѣдоша</rec>
+            <rec>сѣдошѧ</rec>
          </w>
          <w>
             <pldr>около</pldr>
@@ -279,7 +279,7 @@
          <w>
             <pldr>отсече,</pldr>
             <rec>отъсѣче,</rec>
-            <note>3sg aor <os>отъсѣчи</os>
+            <note>aor 3sg <os>отъсѣчи</os>
                <gloss>cut off</gloss></note>
          </w>
          <w>
@@ -405,7 +405,7 @@
          <w>
             <pldr>создавы</pldr>
             <rec>съзьдавыи</rec>
-            <note>ppl pt a mNsg <os>съзьдати</os>
+            <note>ppl pt act mNsg <os>съзьдати</os>
                <gloss>create</gloss></note>
          </w>
          <w>
@@ -427,7 +427,7 @@
          <w>
             <pldr>давъ</pldr>
             <rec>давъ</rec>
-            <note>ppl pt a mNsg <os>дати</os>
+            <note>ppl pt act mNsg <os>дати</os>
                <gloss>give</gloss></note>
          </w>
          <w>
@@ -529,7 +529,7 @@
          <w>
             <pldr>совлекоша.</pldr>
             <rec>съвлѣкошѧ.</rec>
-            <note>aor 3pl <os>съвлѣчи</os>
+            <note>aor 3pl <os>съвлѣщи</os>
                <gloss>pull off</gloss></note>
          </w>
          <w>
@@ -587,7 +587,7 @@
          <w>
             <pldr>тканы,</pldr>
             <rec>тъканы,</rec>
-            <note>ppl pt p fNpl <os>тъкати</os>
+            <note>ppl pt pass fNpl <os>тъкати</os>
                <gloss>weave</gloss></note>
          </w>
          <w>
@@ -614,7 +614,7 @@
          <w>
             <pldr>сажены,</pldr>
             <rec>сажена,</rec>
-            <note>ppl pt p nNpl <os>садити</os>
+            <note>ppl pt pass nNpl <os>садити</os>
                <gloss>sow</gloss> (here: <gloss>adorned</gloss>)</note>
          </w>
          <w>
@@ -693,7 +693,7 @@
             <pldr>магнитомъ.</pldr>
             <rec>лигнитаръмь.</rec>
             <note>mIsg <os>лигнитаръ</os>
-               <gloss>garnet</gloss> (Gk <gk>λυχνιτάριον</gk>)</note>
+               <gloss>garnet</gloss> (cf. Gk <gk>λυχνιτάριον</gk>)</note>
          </w>
          <w>
             <pldr>Острози</pldr>
@@ -708,7 +708,7 @@
          <w>
             <pldr>виты</pldr>
             <rec>вити</rec>
-            <note>ppl pt p mNpl <os>вити</os>
+            <note>ppl pt pass mNpl <os>вити</os>
                <gloss>twist</gloss></note>
          </w>
          <w>
@@ -723,7 +723,7 @@
             <pldr>измарагдом</pldr>
             <rec>измарагдъмь</rec>
             <note>mIsg <os>измарагдъ</os>
-               <gloss>emerald</gloss> (Gk <gk>σμάραγδος</gk>)</note>
+               <gloss>emerald</gloss> (cf. Gk <gk>σμάραγδος</gk>)</note>
          </w>
          <w>
             <pldr>камениемъ.</pldr>
@@ -793,7 +793,7 @@
          </w>
          <w>
             <pldr>приидоша</pldr>
-            <rec>приидоша</rec>
+            <rec>приидошѧ</rec>
          </w>
          <w>
             <pldr>в</pldr>
@@ -950,7 +950,7 @@
          <w>
             <pldr>плетена</pldr>
             <rec>плетена</rec>
-            <note>ppl pt p gNsg <os>плести</os>
+            <note>ppl pt pass gNsg <os>плести</os>
                <gloss>braid</gloss></note>
          </w>
          <!-- djb: RESUME HERE -->
@@ -977,6 +977,8 @@
          <w>
             <pldr>звонцы</pldr>
             <rec>звоньци</rec>
+            <note>mNpl <os>звоньць</os>
+               <gloss>bell</gloss></note>
          </w>
          <w>
             <pldr>златы.</pldr>
@@ -1017,6 +1019,7 @@
          <w>
             <pldr>велелюбезны</pldr>
             <rec>вельлюбьзныи</rec>
+            <note>adj lg mNsg <gloss>most pleasant</gloss></note>
          </w>
          <w>
             <pldr>гласъ</pldr>
@@ -1049,6 +1052,9 @@
          <w>
             <pldr>коневых</pldr>
             <rec>коневыхъ</rec>
+            <note>adj pos <os>коневыи</os>
+               <gloss>horse’s</gloss> fGsg &lt; <os>конь</os>
+            </note>
          </w>
          <w>
             <pldr>драгою</pldr>
@@ -1061,10 +1067,14 @@
          <w>
             <pldr>покрыто</pldr>
             <rec>покрыто</rec>
+            <note>ppl pt pass nNsg <os>покрыти</os>
+               <gloss>cover</gloss></note>
          </w>
          <w>
             <pldr>летняго</pldr>
             <rec>лѣтьнꙗго</rec>
+            <note>adj lg mGsg <os>лѣтьнии</os>
+               <gloss>summer</gloss></note>
          </w>
          <w>
             <pldr>ради</pldr>
@@ -1097,6 +1107,8 @@
          <w>
             <pldr>кована</pldr>
             <rec>кована</rec>
+            <note>ppl pt pass fNsg <os>ковати</os>
+               <gloss>forge</gloss></note>
          </w>
          <w>
             <pldr>со</pldr>
@@ -1193,6 +1205,8 @@
          <w>
             <pldr>видя,</pldr>
             <rec>видѧ,</rec>
+            <note>ppl pr a mNsg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
          <w>
             <pldr>чюдиша</pldr>
@@ -1249,6 +1263,8 @@
          <w>
             <pldr>сѣдяще</pldr>
             <rec>сѣдꙗше(ть)</rec>
+            <note>ipf 3sg <os>сѣдѣти</os>
+               <gloss>sit</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1323,6 +1339,7 @@
          <w>
             <pldr>Аминь.</pldr>
             <rec>Аминь.</rec>
+            <note><gloss>amen; let it be so</gloss> (cf. Gk <gk>ἀμήν</gk>)</note>
          </w>
       </p>
       <p>
@@ -1333,6 +1350,8 @@
          <w>
             <pldr>СВАДЬБЕ</pldr>
             <rec>СВАТЬБѢ</rec>
+            <note>flsg <os>сватьба</os>
+               <gloss>wedding</gloss></note>
          </w>
          <w>
             <pldr>ДЕВГЕЕВЕ</pldr>
@@ -1353,6 +1372,8 @@
          <w>
             <pldr>СТРАТИГОВНЫ</pldr>
             <rec>СТРАТИГОВЬНЫ</rec>
+            <note>adj sh fGsg <os>стратиговьныи</os>
+               <gloss>the general’s</gloss> (here: <gloss>daughter</gloss>)</note>
          </w>
       </p>
       <p>
@@ -1412,6 +1433,7 @@
          <w>
             <pldr>безпрестани</pldr>
             <rec>беспрестани</rec>
+            <note>adv <gloss>ceaselessly</gloss></note>
          </w>
          <w>
             <pldr>умоляти</pldr>
@@ -1433,6 +1455,8 @@
          <w>
             <pldr>Стратига</pldr>
             <rec>Стратига</rec>
+            <note>mAsg <os>стратигъ</os>
+               <os>general</os> (cf Gk <gk>στρατηγός</gk>)</note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1501,6 +1525,7 @@
          <w>
             <pldr>унимати:</pldr>
             <rec>оунимати:</rec>
+            <note>inf <gloss>warn (off)</gloss></note>
          </w>
          <w>
             <pldr>«Чадо,</pldr>
@@ -1509,10 +1534,12 @@
          <w>
             <pldr>уими</pldr>
             <rec>оуими</rec>
+            <note>2sg imv <os>оуѩти сѧ</os> (here) <gloss>refrain from, desist</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>2sg imv <os>оуѩти сѧ</os> (here) <gloss>refrain from, desist</gloss></note>
          </w>
          <w>
             <pldr>от</pldr>
@@ -1533,6 +1560,7 @@
          <w>
             <pldr>помышляше</pldr>
             <rec>помышлꙗхꙋ(ть)</rec>
+            <note>ipf 3pl помышлѧти (they) thought</note>
          </w>
          <w>
             <pldr>о</pldr>
@@ -1586,14 +1614,23 @@
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
-         <!-- Should 369 remain не or be expanded to нѣсть? Do negated 3sg "elliptical" perfects exist in early language? -->
+         <!-- 
+            Should 369 remain не or be expanded to нѣсть? 
+            Do negated 3sg "elliptical" perfects exist in early language?
+            We decided to keep не since for 3rd person we include or
+               omit the copula according to what we find in the ms
+         -->
          <w>
             <pldr>збыло</pldr>
             <rec>събыло</rec>
+            <note>neg pf 3sg n <os>събыти сѧ</os> + D <gloss>it did not come to pass</gloss> (for
+               someone)</note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>neg pf 3sg n <os>събыти сѧ</os> + D <gloss>it did not come to pass</gloss> (for
+               someone)</note>
          </w>
          <w>
             <pldr>им».</pldr>
