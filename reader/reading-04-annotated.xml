@@ -7,7 +7,7 @@
       <p>
          <w>
             <pldr>Преславны</pldr>
-            <rec>Преславны</rec>
+            <rec>Преславьныи</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -15,15 +15,15 @@
          </w>
          <w>
             <pldr>Девгени</pldr>
-            <rec>Девгени</rec>
+            <rec>Девгении</rec>
          </w>
          <w>
             <pldr>взя</pldr>
-            <rec>взя</rec>
+            <rec>възѧ</rec>
          </w>
          <w>
             <pldr>молитву</pldr>
-            <rec>молитву</rec>
+            <rec>молитвꙋ</rec>
          </w>
          <w>
             <pldr>у</pldr>
@@ -31,7 +31,7 @@
          </w>
          <w>
             <pldr>отца</pldr>
-            <rec>отца</rec>
+            <rec>отьца</rec>
          </w>
          <w>
             <pldr>своего</pldr>
@@ -47,11 +47,11 @@
          </w>
          <w>
             <pldr>матери</pldr>
-            <rec>матери</rec>
+            <rec>матере</rec>
          </w>
          <w>
             <pldr>своей,</pldr>
-            <rec>своѥи,</rec>
+            <rec>своѥѩ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -59,15 +59,17 @@
          </w>
          <w>
             <pldr>совокупи</pldr>
-            <rec>совокꙋпи</rec>
+            <rec>съвъкꙋпи</rec>
          </w>
          <w>
             <pldr>воя</pldr>
-            <rec>воя</rec>
+            <rec>вои</rec>
+            <!-- Changed to Gpl following usual Tx много/мало вои (NB this passage from Tт) -->
          </w>
          <w>
             <pldr>немного,</pldr>
-            <rec>немного,</rec>
+            <rec>немъного,</rec>
+            <!-- Retained adv.; in Tx lg. adj. only used with Ipl, с многими вои своими vel sim. -->
          </w>
          <w>
             <pldr>и</pldr>
@@ -75,11 +77,11 @@
          </w>
          <w>
             <pldr>взя</pldr>
-            <rec>взя</rec>
+            <rec>възя</rec>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>собою</pldr>
@@ -87,16 +89,17 @@
          </w>
          <w>
             <pldr>драгоценые</pldr>
-            <rec>драгоценыѥ</rec>
+            <rec>драгоцѣньныѩ</rec>
          </w>
          <w>
             <pldr>порты</pldr>
-            <rec>порты</rec>
+            <rec>пърты</rec>
          </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
+         <!-- Continue from here -->
          <w>
             <pldr>звончатые</pldr>
             <rec>звончатыѥ</rec>
