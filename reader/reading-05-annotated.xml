@@ -12,6 +12,8 @@
          <w>
             <pldr>слышавши</pldr>
             <rec>слышавъши</rec>
+            <note>ppl pt aac fNsg <os>слышати</os>
+               <gloss>hear</gloss> (NB: imperfective aspect)</note>
          </w>
          <w>
             <pldr>того</pldr>
@@ -44,6 +46,8 @@
          <w>
             <pldr>ужасна</pldr>
             <rec>оужасьна</rec>
+            <note>adj sh fNsg <os>ужасьныи</os>
+               <gloss>fearful</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -52,6 +56,8 @@
          <w>
             <pldr>трепетна,</pldr>
             <rec>трепетьна,</rec>
+            <note>adj sh fNsg <os>трепетьныи</os>
+               <gloss>anxious</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -60,6 +66,8 @@
          <w>
             <pldr>оконъцу</pldr>
             <rec>окъньцꙋ</rec>
+            <note>nDsg <os>окъньце</os>
+               <gloss>small window</gloss></note>
          </w>
          <w>
             <pldr>приниче</pldr>
@@ -96,6 +104,8 @@
          <w>
             <pldr>едуща.</pldr>
             <rec>ѣдꙋща.</rec>
+            <note>ppl pr act mAsg <os>ѣхати</os>
+               <gloss>ride</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -184,6 +194,8 @@
          <w>
             <pldr>исхити!</pldr>
             <rec>исхыти!</rec>
+            <note>aor 3sg <os>исхытити</os>
+               <gloss>capture; abduct</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -240,6 +252,8 @@
          <w>
             <pldr>предварити».</pldr>
             <rec>предъварити».</rec>
+            <note>inf <os>прѣдъварити</os>
+               <gloss>forestall</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -320,6 +334,7 @@
          <w>
             <pldr>орудие</pldr>
             <rec>орꙋдиѥ</rec>
+            <note><os>орудие</os> + D <os>къ</os> + D <gloss>(X’s) affair (re Y)</gloss></note>
          </w>
          <w>
             <pldr>к</pldr>
@@ -375,7 +390,9 @@
          </w>
          <w>
             <pldr>госпожи</pldr>
-            <rec>госпожи</rec>
+            <rec>госпожѧ</rec>
+            <note>fGsg <os>госпожа</os>
+               <gloss>lady</gloss></note>
          </w>
          <w>
             <pldr>мнози</pldr>
@@ -464,6 +481,8 @@
          <w>
             <pldr>жалуючи</pldr>
             <rec>жалꙋющи</rec>
+            <note>ppl pr act fNsg <os>жаловати</os>
+               <gloss>pity</gloss></note>
          </w>
          <w>
             <pldr>юность</pldr>
@@ -524,6 +543,8 @@
          <w>
             <pldr>рек</pldr>
             <rec>рекъ</rec>
+            <note>ppl pt act mNsg <os>рещи</os>
+               <gloss>say</gloss></note>
          </w>
          <w>
             <pldr>Девгений</pldr>
@@ -652,6 +673,8 @@
          <w>
             <pldr>родители».</pldr>
             <rec>родители».</rec>
+            <note><os>родитель</os>
+               <gloss>kinsman</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -660,6 +683,8 @@
          <w>
             <pldr>услышавъ,</pldr>
             <rec>оуслышавъши,</rec>
+            <note>ppl pt act m(!)Nsg <os>услышати</os>
+               <gloss>hear</gloss> (perfective aspect)</note>
          </w>
          <w>
             <pldr>дѣвица</pldr>
@@ -684,6 +709,8 @@
          <w>
             <pldr>припаде</pldr>
             <rec>припаде</rec>
+            <note>aor 3sg <os>припасти</os>
+               <gloss>fall against</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -712,6 +739,8 @@
          <w>
             <pldr>светозарны,</pldr>
             <rec>свѣтозарьныи,</rec>
+            <note>adj lg mNsg <os>свѣтозарьныи</os>
+               <gloss>dawn-bright</gloss></note>
          </w>
          <w>
             <pldr>о</pldr>
@@ -728,6 +757,7 @@
          <w>
             <pldr>Жаль</pldr>
             <rec>Жаль</rec>
+            <note>adv + D, + G <gloss>(X) is sorry (for Y)</gloss></note>
          </w>
          <w>
             <pldr>ми</pldr>
@@ -764,10 +794,14 @@
          <w>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>inf <os>погꙋбити сѧ</os>
+               <gloss>destroy</gloss> (NB: <os>сѧ</os> precedes the verb)</note>
          </w>
          <w>
             <pldr>погубити,</pldr>
             <rec>погꙋбити,</rec>
+            <note>inf <os>погꙋбити сѧ</os>
+               <gloss>destroy</gloss> (NB: <os>сѧ</os> precedes the verb)</note>
          </w>
          <w>
             <pldr>зане</pldr>
@@ -812,6 +846,8 @@
          <w>
             <pldr>видевъ,</pldr>
             <rec>видѣвъ,</rec>
+            <note>ppl pt act mNsg <os>видѣти</os>
+               <gloss>see</gloss></note>
          </w>
          <w>
             <pldr>ни</pldr>
@@ -820,6 +856,8 @@
          <w>
             <pldr>глаголавъ</pldr>
             <rec>глаголавъ</rec>
+            <note>ppl pt act mNsg <os>глаголати</os>
+               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>со</pldr>
@@ -848,6 +886,8 @@
          <w>
             <pldr>показавъ</pldr>
             <rec>показавъ</rec>
+            <note>ppl pt act mNsg <os>показати</os>
+               <gloss>show</gloss></note>
          </w>
          <w>
             <pldr>велию</pldr>
@@ -880,6 +920,8 @@
          <w>
             <pldr>братия</pldr>
             <rec>братиꙗ</rec>
+            <note>noun ja-stem fNsg <os>братиꙗ</os>
+               <gloss>brethren</gloss> (collective)</note>
          </w>
          <w>
             <pldr>моя</pldr>
@@ -914,6 +956,8 @@
          <w>
             <pldr>мужие</pldr>
             <rec>мꙋжиѥ</rec>
+            <note>mNpl <os>мужь</os>
+               <gloss>(free) man</gloss></note>
          </w>
          <w>
             <pldr>—</pldr>
@@ -1075,15 +1119,21 @@
          <w>
             <pldr>слыти</pldr>
             <rec>слꙋти</rec>
+            <note>inf <os>слꙋти</os>
+               <gloss>be known as</gloss></note>
             <!-- слꙋти is far better attested; слыти has only one (c14) citation in 10-vol  -->
          </w>
          <w>
             <pldr>Девгениева</pldr>
             <rec>Девгениѥва</rec>
+            <note>adj pos fNsg &lt; <os>Девгении</os>
+               <gloss>Digenis’s</gloss></note>
          </w>
          <w>
             <pldr>Акрита</pldr>
             <rec>Акрита</rec>
+            <note>mGsg &lt; Gk <gk>Ἀκρίτης</gk>
+               <gloss>the Borderer’s</gloss></note>
          </w>
          <w>
             <pldr>жена</pldr>
@@ -1112,6 +1162,8 @@
          <w>
             <pldr>полоненна?»</pldr>
             <rec>пленена?»</rec>
+            <note>ppl pt pass fNsg <os>полонити</os>
+               <gloss>capture</gloss></note>
          </w>
       </p>
       <p>
@@ -1134,6 +1186,8 @@
          <w>
             <pldr>слезно</pldr>
             <rec>сльзьно</rec>
+            <note>adv <os>сльзьно</os>
+               <gloss>tearfully</gloss></note>
          </w>
          <w>
             <pldr>отвеща</pldr>
@@ -1235,6 +1289,8 @@
          <w>
             <pldr>чему</pldr>
             <rec>чемꙋ</rec>
+            <note>pron interrog D <os>чьто</os>
+               <gloss>why?</gloss> (here: <gloss>for what?</gloss>)</note>
          </w>
          <w>
             <pldr>ти</pldr>
@@ -1287,6 +1343,8 @@
          <w>
             <pldr>облецы</pldr>
             <rec>облѣци</rec>
+            <note>imp 2sg <os>облѣщи</os>
+               <gloss>clothe, cover</gloss>) (NB: second regressive palatalization)</note>
          </w>
          <w>
             <pldr>мя,</pldr>
@@ -1323,6 +1381,8 @@
          <w>
             <pldr>нагонятъ,</pldr>
             <rec>нагонѧть,</rec>
+            <note>fut 3sg <os>нагънати</os>
+               <gloss>overtake</gloss></note>
          </w>
          <w>
             <pldr>то</pldr>
