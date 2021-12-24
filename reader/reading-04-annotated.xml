@@ -77,7 +77,7 @@
          </w>
          <w>
             <pldr>взя</pldr>
-            <rec>възя</rec>
+            <rec>възѧ</rec>
          </w>
          <w>
             <pldr>с</pldr>
@@ -99,10 +99,14 @@
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
-         <!-- Continue from here! -->
          <w>
             <pldr>звончатые</pldr>
-            <rec>звончатыѥ</rec>
+            <rec>звьнѧщѧѩ</rec>
+            <note>MS Тт's form <os>звончатый</os>
+               <gloss>sonorous</gloss> is not attested before the 16th c. (see Словарь русского
+               языка XI-XVII вв., s.v.). We have replaced it with the ppl pr act of <os>звьнѣти</os>
+               <gloss>to sound</gloss>, attested in OCS and EESl, in particular in 1 Cor 13.1,
+                  <os>бꙑхъ ꙗко мѣдь звьнѧщи</os> (Gk χαλκὸς ἠχῶν).</note>
          </w>
          <w>
             <pldr>гусли,</pldr>
@@ -114,7 +118,7 @@
          </w>
          <w>
             <pldr>всяде</pldr>
-            <rec>всяде</rec>
+            <rec>въсѣде</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -126,11 +130,11 @@
          </w>
          <w>
             <pldr>свой</pldr>
-            <rec>свои</rec>
+            <rec>свои,</rec>
          </w>
          <w>
             <pldr>борзы</pldr>
-            <rec>борзы</rec>
+            <rec>бързыи</rec>
          </w>
          <w>
             <pldr>фарь,</pldr>
@@ -145,7 +149,7 @@
             <rec>поиде</rec>
          </w>
          <w>
-            <pldr>ко</pldr>
+            <pldr>къ</pldr>
             <rec>ко</rec>
          </w>
          <w>
@@ -164,7 +168,7 @@
          </w>
          <w>
             <pldr>сумежия</pldr>
-            <rec>сꙋмежия</rec>
+            <rec>сꙋмежиꙗ</rec>
          </w>
          <w>
             <pldr>Стратиговы</pldr>
@@ -172,7 +176,7 @@
          </w>
          <w>
             <pldr>земли.</pldr>
-            <rec>земли.</rec>
+            <rec>землѣ.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -200,11 +204,11 @@
          </w>
          <w>
             <pldr>пять</pldr>
-            <rec>пять</rec>
+            <rec>пѧть</rec>
          </w>
          <w>
             <pldr>поприщ,</pldr>
-            <rec>поприщ,</rec>
+            <rec>поприщь,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -228,11 +232,11 @@
          </w>
          <w>
             <pldr>повеле</pldr>
-            <rec>повеле</rec>
+            <rec>повелѣ</rec>
          </w>
          <w>
             <pldr>им</pldr>
-            <rec>им</rec>
+            <rec>имъ</rec>
          </w>
          <w>
             <pldr>около</pldr>
@@ -240,11 +244,11 @@
          </w>
          <w>
             <pldr>себя</pldr>
-            <rec>себя</rec>
+            <rec>себе</rec>
          </w>
          <w>
             <pldr>стражу</pldr>
-            <rec>стражу</rec>
+            <rec>стражꙋ</rec>
          </w>
          <w>
             <pldr>поставити</pldr>
@@ -256,11 +260,11 @@
          </w>
          <w>
             <pldr>крепко</pldr>
-            <rec>крепко</rec>
+            <rec>крѣпъко</rec>
          </w>
          <w>
             <pldr>имети,</pldr>
-            <rec>имети,</rec>
+            <rec>имѣти,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -268,19 +272,21 @@
          </w>
          <w>
             <pldr>сам</pldr>
-            <rec>сам</rec>
+            <rec>самъ</rec>
          </w>
          <w>
             <pldr>поеде</pldr>
-            <rec>поѥде</rec>
+            <rec>поиде</rec>
+            <!-- Here and below, my practice is to correct this aorist in Tт to поиде unless there is
+            an explicit reference to riding; elsewhere, поеде in Tт corresponds to поиде in Tx -->
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>граду</pldr>
-            <rec>граду</rec>
+            <rec>градꙋ</rec>
          </w>
          <w>
             <pldr>Стратигову.</pldr>
@@ -292,19 +298,20 @@
          </w>
          <w>
             <pldr>приеде</pldr>
-            <rec>приѥде</rec>
+            <rec>прииде</rec>
+            <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>грат,</pldr>
-            <rec>грат,</rec>
+            <rec>градъ,</rec>
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>врата</pldr>
@@ -324,11 +331,16 @@
          </w>
          <w>
             <pldr>встрете</pldr>
-            <rec>встрете</rec>
+            <rec>въсърѣте</rec>
+            <!-- Here modern встретить has replaced either perfective сърѣщи or въсърѣщи, 
+               as can be seen from the class I aorist ending; note also that elsewhere in Tт (i.e., in 
+               "The Lay of the Emir," which we are not retroverting), only unprefixed сърѣщи is 
+               found; should we take this into consideration and reconstruct сърѣте, or stay closer 
+               to the MS at this place (as we generally do) and reconstruct въсърѣте? -->
          </w>
          <w>
             <pldr>юношу</pldr>
-            <rec>юношу</rec>
+            <rec>оуношꙋ</rec>
          </w>
          <w>
             <pldr>Стратигова</pldr>
@@ -344,7 +356,7 @@
          </w>
          <w>
             <pldr>вопроша</pldr>
-            <rec>вопроша</rec>
+            <rec>въпраша</rec>
          </w>
          <w>
             <pldr>его</pldr>
@@ -356,7 +368,7 @@
          </w>
          <w>
             <pldr>Стратиге</pldr>
-            <rec>Стратиге</rec>
+            <rec>Стратизѣ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -368,7 +380,7 @@
          </w>
          <w>
             <pldr>сынех</pldr>
-            <rec>сынех</rec>
+            <rec>сынъхъ</rec>
          </w>
          <w>
             <pldr>его</pldr>
@@ -384,13 +396,14 @@
          </w>
          <w>
             <pldr>Стратиговне.</pldr>
-            <rec>Стратиговьне.</rec>
+            <rec>Стратиговьнѣ.</rec>
          </w>
       </p>
       <p>
          <w>
             <pldr>Отвещав</pldr>
-            <rec>Отвещав</rec>
+            <rec>Отъвѣща</rec>
+            <!-- Corrected ppl pt act to aorist, but must still double-check MS -->
          </w>
          <w>
             <pldr>же</pldr>
@@ -398,15 +411,15 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>юноша:</pldr>
-            <rec>юноша:</rec>
+            <rec>оуноша:</rec>
          </w>
          <w>
             <pldr>«Нет</pldr>
-            <rec>«Нет</rec>
+            <rec>«Нѣтꙋ(ть)</rec>
          </w>
          <w>
             <pldr>господина</pldr>
@@ -426,19 +439,19 @@
          </w>
          <w>
             <pldr>но</pldr>
-            <rec>но</rec>
+            <rec>нъ</rec>
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>ыной</pldr>
-            <rec>ынои</rec>
+            <rec>инои</rec>
          </w>
          <w>
             <pldr>стране</pldr>
-            <rec>стране</rec>
+            <rec>странѣ</rec>
          </w>
          <w>
             <pldr>ловы</pldr>
@@ -446,7 +459,7 @@
          </w>
          <w>
             <pldr>деюща</pldr>
-            <rec>деюща</rec>
+            <rec>дѣюща</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -454,15 +467,18 @@
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>четырми</pldr>
-            <rec>четырми</rec>
+            <rec>·д҃҃·</rec>
+            <note><os>четырьми</os></note>
+            <!-- Let's decide whether to make all numerals Gr-Sl with glosses, or only those 
+               already Gr-Sl in the MS; and add this to our list of retroversion principles -->
          </w>
          <w>
             <pldr>сыны</pldr>
-            <rec>сыны</rec>
+            <rec>сынъми</rec>
          </w>
          <w>
             <pldr>своими.</pldr>
@@ -478,11 +494,11 @@
          </w>
          <w>
             <pldr>Стратиговне</pldr>
-            <rec>Стратиговьне</rec>
+            <rec>Стратиговьнѣ</rec>
          </w>
          <w>
             <pldr>вопрошаеши,</pldr>
-            <rec>вопрошаѥши,</rec>
+            <rec>въпрашаѥши,</rec>
          </w>
          <w>
             <pldr>ино,</pldr>
@@ -494,15 +510,15 @@
          </w>
          <w>
             <pldr>несть</pldr>
-            <rec>несть</rec>
+            <rec>нѣсть</rec>
          </w>
          <w>
             <pldr>таковыя</pldr>
-            <rec>таковыя</rec>
+            <rec>таковыѩ</rec>
          </w>
          <w>
             <pldr>прекрасныя</pldr>
-            <rec>прекрасныя</rec>
+            <rec>прекрасьныѩ</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -510,15 +526,15 @@
          </w>
          <w>
             <pldr>свете</pldr>
-            <rec>свете</rec>
+            <rec>светѣ</rec>
          </w>
          <w>
             <pldr>сем.</pldr>
-            <rec>сем.</rec>
+            <rec>семь.</rec>
          </w>
          <w>
             <pldr>Мнози</pldr>
-            <rec>Мнози</rec>
+            <rec>Мънози</rec>
          </w>
          <w>
             <pldr>суть</pldr>
@@ -526,7 +542,7 @@
          </w>
          <w>
             <pldr>приежали,</pldr>
-            <rec>приѥжали,</rec>
+            <rec>приѣздили,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -534,11 +550,11 @@
          </w>
          <w>
             <pldr>никто</pldr>
-            <rec>никто</rec>
+            <rec>никъто</rec>
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>очи</pldr>
@@ -546,7 +562,7 @@
          </w>
          <w>
             <pldr>ея</pldr>
-            <rec>ѥя</rec>
+            <rec>ѥꙗ</rec>
          </w>
          <w>
             <pldr>не</pldr>
@@ -554,7 +570,7 @@
          </w>
          <w>
             <pldr>видал,</pldr>
-            <rec>видал,</rec>
+            <rec>видалъ,</rec>
          </w>
          <w>
             <pldr>занеже</pldr>
@@ -562,11 +578,11 @@
          </w>
          <w>
             <pldr>Стратиг</pldr>
-            <rec>Стратиг</rec>
+            <rec>Стратигъ</rec>
          </w>
          <w>
             <pldr>храбер</pldr>
-            <rec>храбер</rec>
+            <rec>храбръ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -574,7 +590,7 @@
          </w>
          <w>
             <pldr>силен,</pldr>
-            <rec>силен,</rec>
+            <rec>сильнъ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -590,7 +606,7 @@
          </w>
          <w>
             <pldr>прочие</pldr>
-            <rec>прочиѥ</rec>
+            <rec>прочеѥ</rec>
          </w>
          <w>
             <pldr>войско</pldr>
@@ -598,11 +614,11 @@
          </w>
          <w>
             <pldr>ево,</pldr>
-            <rec>ѥво,</rec>
+            <rec>ѥго,</rec>
          </w>
          <w>
             <pldr>один</pldr>
-            <rec>один</rec>
+            <rec>одинъ</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -610,11 +626,11 @@
          </w>
          <w>
             <pldr>сто</pldr>
-            <rec>сто</rec>
+            <rec>съто</rec>
          </w>
          <w>
             <pldr>наидет,</pldr>
-            <rec>наидет,</rec>
+            <rec>наидеть,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -630,35 +646,35 @@
          </w>
          <w>
             <pldr>мужескую</pldr>
-            <rec>мꙋжескꙋю</rec>
+            <rec>мꙋжьскꙋю</rec>
          </w>
          <w>
             <pldr>дерзость</pldr>
-            <rec>дерзость</rec>
+            <rec>дьрзость</rec>
          </w>
          <w>
             <pldr>имеет,</pldr>
-            <rec>имеѥт,</rec>
+            <rec>имѣѥть,</rec>
          </w>
          <w>
             <pldr>иному</pldr>
-            <rec>иному</rec>
+            <rec>иномꙋ</rec>
          </w>
          <w>
             <pldr>некому</pldr>
-            <rec>некому</rec>
+            <rec>никомꙋ</rec>
          </w>
          <w>
             <pldr>подобна</pldr>
-            <rec>подобна</rec>
+            <rec>подобьна</rec>
          </w>
          <w>
             <pldr>суть,</pldr>
-            <rec>сꙋть,</rec>
+            <rec>ѥсть,</rec>
          </w>
          <w>
             <pldr>разве</pldr>
-            <rec>разве</rec>
+            <rec>развѣ</rec>
          </w>
          <w>
             <pldr>тебе».</pldr>
@@ -668,7 +684,7 @@
       <p>
          <w>
             <pldr>Слышав</pldr>
-            <rec>Слышав</rec>
+            <rec>Слышавъ</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -676,11 +692,11 @@
          </w>
          <w>
             <pldr>Девгени</pldr>
-            <rec>Девгени</rec>
+            <rec>Девгении</rec>
          </w>
          <w>
             <pldr>радостен</pldr>
-            <rec>радостен</rec>
+            <rec>радостьнъ</rec>
          </w>
          <w>
             <pldr>бысть,</pldr>
@@ -689,6 +705,8 @@
          <w>
             <pldr>занеже</pldr>
             <rec>занеже</rec>
+            <!-- 10-vol. dictionary only has an entry for зане; however, both поне and понеже are
+               found there in separate entries -->
          </w>
          <w>
             <pldr>суть</pldr>
@@ -700,7 +718,7 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -711,12 +729,16 @@
             <rec>написано:</rec>
          </w>
          <w>
-            <pldr>прикоснется</pldr>
-            <rec>прикоснется</rec>
+            <pldr>прикоснет</pldr>
+            <rec>прикоснеть</rec>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>Стратиговне</pldr>
-            <rec>Стратиговьне</rec>
+            <rec>Стратиговьнѣ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -724,7 +746,7 @@
          </w>
          <w>
             <pldr>жития</pldr>
-            <rec>жития</rec>
+            <rec>житиꙗ</rec>
          </w>
          <w>
             <pldr>сего</pldr>
@@ -732,11 +754,14 @@
          </w>
          <w>
             <pldr>36</pldr>
-            <rec>36</rec>
+            <rec>·лѕ҃·</rec>
+            <note><os>триѥ десѧте и шесть</os></note>
+            <!-- Let's decide whether to make all numerals Gr-Sl with glosses, or only those 
+               already Gr-Sl in the MS; and add this to our list of retroversion principles -->
          </w>
          <w>
             <pldr>лет.</pldr>
-            <rec>лет.</rec>
+            <rec>лѣтъ.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -744,7 +769,8 @@
          </w>
          <w>
             <pldr>поеде</pldr>
-            <rec>поѥде</rec>
+            <rec>поиде</rec>
+            <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
             <pldr>же</pldr>
@@ -756,11 +782,11 @@
          </w>
          <w>
             <pldr>градом</pldr>
-            <rec>градом</rec>
+            <rec>градъмь</rec>
          </w>
          <w>
             <pldr>Стратиговым</pldr>
-            <rec>Стратиговым</rec>
+            <rec>Стратиговымь</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -768,15 +794,16 @@
          </w>
          <w>
             <pldr>приеде</pldr>
-            <rec>приѥде</rec>
+            <rec>прииде</rec>
+            <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>твору</pldr>
-            <rec>твору</rec>
+            <rec>дворꙋ</rec>
          </w>
          <w>
             <pldr>Стратигову,</pldr>
@@ -788,11 +815,11 @@
          </w>
          <w>
             <pldr>нача</pldr>
-            <rec>нача</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <pldr>взирати</pldr>
-            <rec>взирати</rec>
+            <rec>възирати</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -800,17 +827,17 @@
          </w>
          <w>
             <pldr>твор</pldr>
-            <rec>твор</rec>
+            <rec>дворъ</rec>
          </w>
          <w>
             <pldr>Стратигов.</pldr>
-            <rec>Стратигов.</rec>
+            <rec>Стратиговъ.</rec>
          </w>
       </p>
       <p>
          <w>
             <pldr>Видев</pldr>
-            <rec>Видев</rec>
+            <rec>Видѣвъши</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -821,6 +848,7 @@
             <rec>Стратиговьна</rec>
          </w>
          <w>
+            <!-- From this word we're back to Tx, and thank goodness -->
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
@@ -830,11 +858,11 @@
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>окну,</pldr>
-            <rec>окнꙋ,</rec>
+            <rec>окънꙋ,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -849,12 +877,16 @@
             <rec>не</rec>
          </w>
          <w>
-            <pldr>показася,</pldr>
-            <rec>показася,</rec>
+            <pldr>показа</pldr>
+            <rec>показа</rec>
+         </w>
+         <w>
+            <pldr>ся,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>Девгени</pldr>
-            <rec>Девгени</rec>
+            <rec>Девгении</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -866,15 +898,24 @@
          </w>
          <w>
             <pldr>вспять</pldr>
-            <rec>вспять</rec>
+            <rec>въспѧть</rec>
          </w>
          <w>
-            <pldr>возвратяся,</pldr>
-            <rec>возвратяся,</rec>
+            <pldr>возвратя</pldr>
+            <rec>възврати</rec>
+         </w>
+         <w>
+            <pldr>ся,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>взирающе</pldr>
-            <rec>взирающе</rec>
+            <rec>възираꙗ</rec>
+            <!-- Apologies for returning to the question of Vaillant's "ChSl gerund," but without 
+            it, how do we account for such a form in the MS? Innovative gerunds in this text are 
+            approaching CSR, i.e., becoming invariable short masculine forms; if възираꙗ or 
+            възираꙗи were in the protograph, why would it be changed to neuter възирающе 
+            (not even feminine, as in Ukr.!)? -->
          </w>
          <w>
             <pldr>на</pldr>
@@ -890,29 +931,34 @@
          </w>
          <w>
             <pldr>тогда</pldr>
-            <rec>тогда</rec>
+            <rec>тъгда</rec>
          </w>
          <w>
             <pldr>девая</pldr>
-            <rec>девая</rec>
+            <rec>дѣваꙗ</rec>
          </w>
          <w>
             <pldr>видевше</pldr>
-            <rec>видевше</rec>
+            <rec>видѣвъши</rec>
+            <!-- This gender change is easier to understand as an error. -->
          </w>
          <w>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
-            <pldr>подивися.</pldr>
-            <rec>подивися.</rec>
+            <pldr>подиви</pldr>
+            <rec>подиви</rec>
+         </w>
+         <w>
+            <pldr>ся.</pldr>
+            <rec>сѧ.</rec>
          </w>
       </p>
       <p>
          <w>
             <pldr>Бе</pldr>
-            <rec>Бе</rec>
+            <rec>Бѣ</rec>
          </w>
          <w>
             <pldr>бо</pldr>
@@ -920,7 +966,7 @@
          </w>
          <w>
             <pldr>время</pldr>
-            <rec>время</rec>
+            <rec>времѧ</rec>
          </w>
          <w>
             <pldr>преминуло</pldr>
@@ -940,7 +986,7 @@
          </w>
          <w>
             <pldr>Девгени</pldr>
-            <rec>Девгени</rec>
+            <rec>Девгении</rec>
          </w>
          <w>
             <pldr>поиде</pldr>
@@ -948,11 +994,11 @@
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>своя</pldr>
-            <rec>своя</rec>
+            <rec>своѩ</rec>
          </w>
          <w>
             <pldr>шатры,</pldr>
@@ -960,11 +1006,11 @@
          </w>
          <w>
             <pldr>взя</pldr>
-            <rec>взя</rec>
+            <rec>възѧ</rec>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>собою</pldr>
@@ -972,7 +1018,7 @@
          </w>
          <w>
             <pldr>юношу</pldr>
-            <rec>юношу</rec>
+            <rec>оуношꙋ</rec>
          </w>
          <w>
             <pldr>того,</pldr>
@@ -980,11 +1026,11 @@
          </w>
          <w>
             <pldr>любовь</pldr>
-            <rec>любовь</rec>
+            <rec>любъвь</rec>
          </w>
          <w>
             <pldr>велику</pldr>
-            <rec>велику</rec>
+            <rec>великꙋ</rec>
          </w>
          <w>
             <pldr>до</pldr>
@@ -992,35 +1038,36 @@
          </w>
          <w>
             <pldr>него</pldr>
-            <rec>него</rec>
+            <rec>нѥго</rec>
          </w>
          <w>
             <pldr>имея,</pldr>
-            <rec>имея,</rec>
+            <rec>имѣѩ,</rec>
          </w>
          <w>
             <pldr>совлѣщи</pldr>
-            <rec>совлѣщи</rec>
+            <rec>съвлещи</rec>
+            <!-- We write artificial tret here, yes? (for влѣк = волок) -->
          </w>
          <w>
             <pldr>повеле</pldr>
-            <rec>повеле</rec>
+            <rec>повелѣ</rec>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>него</pldr>
-            <rec>него</rec>
+            <rec>нѥго</rec>
          </w>
          <w>
             <pldr>порты</pldr>
-            <rec>порты</rec>
+            <rec>пърты</rec>
          </w>
          <w>
             <pldr>худыя</pldr>
-            <rec>хꙋдыя</rec>
+            <rec>хꙋдыѩ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1029,14 +1076,15 @@
          <w>
             <pldr>облещи</pldr>
             <rec>облещи</rec>
+            <!-- We write artificial tret here, yes? (for влѣк = волок) -->
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>драгия,</pldr>
-            <rec>драгия,</rec>
+            <rec>драгыѩ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1044,23 +1092,24 @@
          </w>
          <w>
             <pldr>сотвори</pldr>
-            <rec>сотвори</rec>
+            <rec>сътвори</rec>
          </w>
          <w>
             <pldr>радость</pldr>
             <rec>радость</rec>
+            <!-- Note this is Tvorogov's (< Speranskij's) correction from хꙋдость -->
          </w>
          <w>
             <pldr>велику</pldr>
-            <rec>велику</rec>
+            <rec>великꙋ</rec>
          </w>
          <w>
             <pldr>в</pldr>
-            <rec>в</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>ту</pldr>
-            <rec>ту</rec>
+            <rec>тꙋ</rec>
          </w>
          <w>
             <pldr>нощь</pldr>
@@ -1068,7 +1117,7 @@
          </w>
          <w>
             <pldr>со</pldr>
-            <rec>со</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>своими</pldr>
@@ -1076,7 +1125,7 @@
          </w>
          <w>
             <pldr>милостивники.</pldr>
-            <rec>милостивники.</rec>
+            <rec>милостивьникы.</rec>
          </w>
          <w>
             <pldr>А</pldr>
@@ -1088,7 +1137,7 @@
          </w>
          <w>
             <pldr>воста</pldr>
-            <rec>воста</rec>
+            <rec>въста</rec>
          </w>
          <w>
             <pldr>рано</pldr>
@@ -1100,7 +1149,7 @@
          </w>
          <w>
             <pldr>повеле</pldr>
-            <rec>повеле</rec>
+            <rec>повелѣ</rec>
          </w>
          <w>
             <pldr>своей</pldr>
@@ -1108,11 +1157,11 @@
          </w>
          <w>
             <pldr>дружине</pldr>
-            <rec>дрꙋжине</rec>
+            <rec>дрꙋжинѣ</rec>
          </w>
          <w>
             <pldr>имети</pldr>
-            <rec>имети</rec>
+            <rec>имѣти</rec>
          </w>
          <w>
             <pldr>у</pldr>
@@ -1120,11 +1169,11 @@
          </w>
          <w>
             <pldr>себѣ</pldr>
-            <rec>себѣ</rec>
+            <rec>себе</rec>
          </w>
          <w>
             <pldr>сторожу</pldr>
-            <rec>сторожу</rec>
+            <rec>стражꙋ</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1139,8 +1188,12 @@
             <rec>имъ:</rec>
          </w>
          <w>
-            <pldr>«Разделитеся</pldr>
-            <rec>«Разделитеся</rec>
+            <pldr>«Разделите</pldr>
+            <rec>«Раздѣлите</rec>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>на</pldr>
@@ -1148,7 +1201,7 @@
          </w>
          <w>
             <pldr>многия</pldr>
-            <rec>многия</rec>
+            <rec>мъногыѩ</rec>
          </w>
          <w>
             <pldr>пути</pldr>
@@ -1168,7 +1221,8 @@
          </w>
          <w>
             <pldr>стерегите.</pldr>
-            <rec>стерегите.</rec>
+            <rec>стрезите.</rec>
+            <!-- We write artificial tret here, yes? (for стрѣг = сторог) -->
          </w>
          <w>
             <pldr>Аще</pldr>
@@ -1176,7 +1230,7 @@
          </w>
          <w>
             <pldr>к</pldr>
-            <rec>к</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>вамъ</pldr>
@@ -1184,7 +1238,7 @@
          </w>
          <w>
             <pldr>приидетъ</pldr>
-            <rec>приидетъ</rec>
+            <rec>приидеть</rec>
          </w>
          <w>
             <pldr>Стратигъ,</pldr>
@@ -1192,7 +1246,7 @@
          </w>
          <w>
             <pldr>азъ</pldr>
-            <rec>азъ</rec>
+            <rec>ꙗзъ</rec>
          </w>
          <w>
             <pldr>же</pldr>
@@ -1203,8 +1257,12 @@
             <rec>не</rec>
          </w>
          <w>
-            <pldr>приготовлюсь,</pldr>
-            <rec>приготовлюсь,</rec>
+            <pldr>приготовлю</pldr>
+            <rec>приготовлю</rec>
+         </w>
+         <w>
+            <pldr>сь,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1212,7 +1270,7 @@
          </w>
          <w>
             <pldr>начнетъ</pldr>
-            <rec>начнетъ</rec>
+            <rec>начьнеть</rec>
          </w>
          <w>
             <pldr>вамъ</pldr>
@@ -1228,11 +1286,11 @@
          </w>
          <w>
             <pldr>со</pldr>
-            <rec>со</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>многих</pldr>
-            <rec>многих</rec>
+            <rec>мъногыхъ</rec>
          </w>
          <w>
             <pldr>странъ,</pldr>
@@ -1243,16 +1301,20 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>бѣйтеся</pldr>
-            <rec>бѣитеся</rec>
+            <pldr>бѣйте</pldr>
+            <rec>биите</rec>
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>с</pldr>
-            <rec>с</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>нимъ</pldr>
-            <rec>нимъ</rec>
+            <rec>нимь</rec>
          </w>
          <w>
             <pldr>не</pldr>
@@ -1260,15 +1322,17 @@
          </w>
          <w>
             <pldr>ужасно,</pldr>
-            <rec>оужасно,</rec>
+            <rec>оужасьно,</rec>
          </w>
          <w>
             <pldr>донележе</pldr>
-            <rec>донележе</rec>
+            <rec>донелѣже</rec>
+            <!-- Treat this form (and similar ones, e.g., доньдеже at 7.311) as one word (as does 
+            Tvorogov) or two (as does 10-vol. dictionary)? -->
          </w>
          <w>
             <pldr>азъ</pldr>
-            <rec>азъ</rec>
+            <rec>ꙗзъ</rec>
          </w>
          <w>
             <pldr>не</pldr>
@@ -1276,7 +1340,7 @@
          </w>
          <w>
             <pldr>приспею».</pldr>
-            <rec>приспею».</rec>
+            <rec>приспѣю».</rec>
          </w>
       </p>
       <p>
@@ -1297,16 +1361,21 @@
             <rec>и</rec>
          </w>
          <w>
-            <pldr>облечеся</pldr>
-            <rec>облечеся</rec>
+            <pldr>облече</pldr>
+            <rec>облече</rec>
+            <!-- We write artificial tret here, yes? (for влѣк = волок) -->
+         </w>
+         <w>
+            <pldr>ся</pldr>
+            <rec>сѧ</rec>
          </w>
          <w>
             <pldr>во</pldr>
-            <rec>во</rec>
+            <rec>въ</rec>
          </w>
          <w>
             <pldr>многоценныя</pldr>
-            <rec>многоценныя</rec>
+            <rec>мъногоценьныѩ</rec>
          </w>
          <w>
             <pldr>ризы,</pldr>
@@ -1318,11 +1387,11 @@
          </w>
          <w>
             <pldr>повеле</pldr>
-            <rec>повеле</rec>
+            <rec>повелѣ</rec>
          </w>
          <w>
             <pldr>взяти</pldr>
-            <rec>взяти</rec>
+            <rec>възѧти</rec>
          </w>
          <w>
             <pldr>гусли</pldr>
@@ -1330,7 +1399,7 @@
          </w>
          <w>
             <pldr>со</pldr>
-            <rec>со</rec>
+            <rec>съ</rec>
          </w>
          <w>
             <pldr>златыми</pldr>
@@ -1346,19 +1415,19 @@
          </w>
          <w>
             <pldr>повеле</pldr>
-            <rec>повеле</rec>
+            <rec>повелѣ</rec>
          </w>
          <w>
             <pldr>приняти</pldr>
-            <rec>приняти</rec>
+            <rec>принѧти</rec>
          </w>
          <w>
             <pldr>юношу</pldr>
-            <rec>юношу</rec>
+            <rec>оуношꙋ</rec>
          </w>
          <w>
             <pldr>новоприятаго,</pldr>
-            <rec>новоприятаго,</rec>
+            <rec>новоприѩтаго,</rec>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1366,7 +1435,9 @@
          </w>
          <w>
             <pldr>поехал</pldr>
-            <rec>поѥхал</rec>
+            <rec>поѣхалъ</rec>
+            <!-- Should this instead be corrected to aorist поѣха? Not a pefect context; but
+            elsewhere we have followed MS conservatively at some cost to meaning -->
          </w>
          <w>
             <pldr>самъ</pldr>
@@ -1374,15 +1445,15 @@
          </w>
          <w>
             <pldr>четвертъ</pldr>
-            <rec>четвертъ</rec>
+            <rec>четвьртъ</rec>
          </w>
          <w>
             <pldr>ко</pldr>
-            <rec>ко</rec>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>двору</pldr>
-            <rec>двору</rec>
+            <rec>дворꙋ</rec>
          </w>
          <w>
             <pldr>Стратигову,</pldr>
@@ -1394,7 +1465,7 @@
          </w>
          <w>
             <pldr>взя</pldr>
-            <rec>взя</rec>
+            <rec>възѧ</rec>
          </w>
          <w>
             <pldr>гусли,</pldr>
@@ -1402,7 +1473,7 @@
          </w>
          <w>
             <pldr>начатъ</pldr>
-            <rec>начатъ</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <pldr>играти</pldr>
@@ -1414,11 +1485,13 @@
          </w>
          <w>
             <pldr>пети,</pldr>
-            <rec>пети,</rec>
+            <rec>пѣти,</rec>
          </w>
          <w>
             <pldr>понеже</pldr>
             <rec>понеже</rec>
+            <!-- 10-vol. dictionary treats this form as a single word, listed after поне; but занеже is
+            not so treated, only an entry for зане is found there -->
          </w>
          <w>
             <pldr>дана</pldr>
@@ -1426,11 +1499,11 @@
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
             <pldr>Божия</pldr>
-            <rec>Божия</rec>
+            <rec>Божиꙗ</rec>
          </w>
          <w>
             <pldr>помощь,</pldr>
@@ -1438,35 +1511,41 @@
          </w>
          <w>
             <pldr>иже</pldr>
-            <rec>иже</rec>
+            <rec>ꙗже</rec>
          </w>
          <w>
             <pldr>имеетъ</pldr>
-            <rec>имеѥтъ</rec>
+            <rec>имѣѥть</rec>
          </w>
          <w>
             <pldr>всегда</pldr>
-            <rec>всегда</rec>
+            <rec>вьсьгда</rec>
          </w>
          <w>
             <pldr>на</pldr>
-            <rec>на</rec>
+            <rec>наити.</rec>
+            <!-- MS is defective here, but parts of ит are visible in HQ photo -->
          </w>
          <w>
             <pldr>себе.</pldr>
-            <rec>себе.</rec>
+            <rec>&#xa0;</rec>
+            <!-- This conjecture (Speranskij? Kuz′mina?) should be abandoned -->
          </w>
          <w>
             <pldr>Всегда</pldr>
-            <rec>Всегда</rec>
+            <rec>Вьсьгда</rec>
          </w>
          <w>
             <pldr>ему</pldr>
-            <rec>ѥму</rec>
+            <rec>ѥмꙋ</rec>
          </w>
          <w>
-            <pldr>доспеется,</pldr>
-            <rec>доспеѥтся,</rec>
+            <pldr>доспеет</pldr>
+            <rec>доспѣѥть</rec>
+         </w>
+         <w>
+            <pldr>ся,</pldr>
+            <rec>сѧ,</rec>
          </w>
          <w>
             <pldr>а</pldr>
@@ -1474,19 +1553,19 @@
          </w>
          <w>
             <pldr>прекрасной</pldr>
-            <rec>прекраснои</rec>
+            <rec>прекрасьнои</rec>
          </w>
          <w>
             <pldr>дѣвице</pldr>
-            <rec>дѣвице</rec>
+            <rec>дѣвици</rec>
          </w>
          <w>
             <pldr>Стратиговне</pldr>
-            <rec>Стратиговьне</rec>
+            <rec>Стратиговьнѣ</rec>
          </w>
          <w>
             <pldr>исхищенной</pldr>
-            <rec>исхищеннои</rec>
+            <rec>исхыщенои</rec>
          </w>
          <w>
             <pldr>быти</pldr>
@@ -1494,23 +1573,23 @@
          </w>
          <w>
             <pldr>от</pldr>
-            <rec>от</rec>
+            <rec>отъ</rec>
          </w>
          <w>
             <pldr>Девгения,</pldr>
-            <rec>Девгения,</rec>
+            <rec>Девгениꙗ,</rec>
          </w>
          <w>
             <pldr>сына</pldr>
-            <rec>сына</rec>
+            <rec>сынꙋ</rec>
          </w>
          <w>
             <pldr>Амиро</pldr>
-            <rec>Амиро</rec>
+            <rec>Амирова</rec>
          </w>
          <w>
             <pldr>царя.</pldr>
-            <rec>царя.</rec>
+            <rec>цьсарꙗ.</rec>
          </w>
       </p>
    </body>
