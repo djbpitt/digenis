@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="adjectives.rnc" type="application/relax-ng-compact-syntax"?>
 <adjectives>
-  <adjective lemma="божии" poss="yes"/>
-  <adjective lemma="великыи"/>
-  <adjective lemma="девгениѥвъ" poss="yes"/>
-  <adjective lemma="младыи"/>
-  <adjective lemma="мъногъ"/>
-  <adjective lemma="преславьныи"/>
-  <adjective lemma="радъ"/>
+  <adjective lemma="божии" poss="yes" gloss="divine"/>
+  <adjective lemma="великыи" gloss="great"/>
+  <adjective lemma="девгениѥвъ" poss="yes" gloss="Digenis’s"/>
+  <adjective lemma="младыи" gloss="young"/>
+  <adjective lemma="мъногъ" gloss="many"/>
+  <adjective lemma="преславьныи" gloss="most glorious"/>
+  <adjective lemma="радъ" gloss="glad; happy"/>
 </adjectives>

@@ -1,5 +1,6 @@
 start = adjectives
 adjectives = element adjectives { adjective+ }
-adjective = element adjective { lemma, poss?, empty }
+adjective = element adjective { lemma, poss?, gloss, empty }
 lemma = attribute lemma { text }
 poss = attribute poss { "yes" }
+gloss = attribute gloss { text }

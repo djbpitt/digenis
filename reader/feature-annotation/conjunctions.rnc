@@ -1,4 +1,5 @@
 start = conjunctions
 conjunctions = element conjunctions { conjunction+ }
-conjunction = element conjunction { lemma, empty }
+conjunction = element conjunction { lemma, gloss, empty }
 lemma = attribute lemma { text }
+gloss = attribute gloss { text }

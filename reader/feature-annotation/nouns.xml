@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="nouns.rnc" type="application/relax-ng-compact-syntax"?>
 <nouns>
-  <noun lemma="богъ" paradigm="o" gender="m"/>
-  <noun lemma="воинъ" paradigm="o" gender="m"/>
-  <noun lemma="градъ" paradigm="o" gender="m"/>
-  <noun lemma="девгении" paradigm="jo" gender="m"/>
-  <noun lemma="дьрзость" paradigm="ĭ" gender="f"/>
-  <noun lemma="дѣти" paradigm="ĭ" gender="f"/>
-  <noun lemma="жаль" paradigm="ĭ" gender="f"/>
-  <noun lemma="житиѥ" paradigm="jo" gender="n"/>
-  <noun lemma="заꙗць" paradigm="jo" gender="m"/>
-  <noun lemma="звѣрь" paradigm="ĭ" gender="m"/>
-  <noun lemma="конь" paradigm="jo" gender="m"/>
-  <noun lemma="копиѥ" paradigm="jo" gender="n"/>
-  <noun lemma="лисица" paradigm="jā" gender="f"/>
-  <noun lemma="ловъ" paradigm="o" gender="m"/>
-  <noun lemma="лѣто" paradigm="o" gender="n"/>
-  <noun lemma="медвѣдица" paradigm="jā" gender="f"/>
-  <noun lemma="медвѣдь" paradigm="ĭ" gender="m"/>
-  <noun lemma="мечь" paradigm="ĭ" gender="m"/>
-  <noun lemma="нꙋда" paradigm="ā" gender="f"/>
-  <noun lemma="отьць" paradigm="jo" gender="m"/>
-  <noun lemma="пꙋстыни" paradigm="jā" gender="f"/>
-  <noun lemma="сила" paradigm="ā" gender="f"/>
-  <noun lemma="слово" paradigm="s" gender="n"/>
-  <noun lemma="соколъ" paradigm="o" gender="m"/>
-  <noun lemma="стрыи" paradigm="jo" gender="m"/>
-  <noun lemma="сынъ" paradigm="ŭ" gender="m"/>
-  <noun lemma="трьстиѥ" paradigm="jo" gender="n"/>
-  <noun lemma="оуноша" paradigm="jā" gender="m"/>
-  <noun lemma="оупъваниѥ" paradigm="jo" gender="n"/>
-  <noun lemma="оутѣшениѥ" paradigm="jo" gender="n"/>
+  <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
+  <noun lemma="воинъ" paradigm="o" gender="m" gloss="soldier"/>
+  <noun lemma="градъ" paradigm="o" gender="m" gloss="city"/>
+  <noun lemma="девгении" paradigm="jo" gender="m" gloss="Digenis"/>
+  <noun lemma="дьрзость" paradigm="ĭ" gender="f" gloss="courage; daring"/>
+  <noun lemma="дѣти" paradigm="ĭ" gender="f" gloss="children"/>
+  <noun lemma="жаль" paradigm="ĭ" gender="f" gloss="pity"/>
+  <noun lemma="житиѥ" paradigm="jo" gender="n" gloss="life"/>
+  <noun lemma="заꙗць" paradigm="jo" gender="m" gloss="hare"/>
+  <noun lemma="звѣрь" paradigm="ĭ" gender="m" gloss="beast"/>
+  <noun lemma="конь" paradigm="jo" gender="m" gloss="steed"/>
+  <noun lemma="копиѥ" paradigm="jo" gender="n" gloss="spear; lance"/>
+  <noun lemma="лисица" paradigm="jā" gender="f" gloss="vixen"/>
+  <noun lemma="ловъ" paradigm="o" gender="m" gloss="hunt"/>
+  <noun lemma="лѣто" paradigm="o" gender="n" gloss="year"/>
+  <noun lemma="медвѣдица" paradigm="jā" gender="f" gloss="she-bear"/>
+  <noun lemma="медвѣдь" paradigm="ĭ" gender="m" gloss="bear"/>
+  <noun lemma="мечь" paradigm="ĭ" gender="m" gloss="sword"/>
+  <noun lemma="нꙋда" paradigm="ā" gender="f" gloss="need"/>
+  <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
+  <noun lemma="пꙋстыни" paradigm="jā" gender="f" gloss="desert"/>
+  <noun lemma="сила" paradigm="ā" gender="f" gloss="strength"/>
+  <noun lemma="слово" paradigm="s" gender="n" gloss="word; speec"/>
+  <noun lemma="соколъ" paradigm="o" gender="m" gloss="falcon"/>
+  <noun lemma="стрыи" paradigm="jo" gender="m" gloss="(paternal) uncle"/>
+  <noun lemma="сынъ" paradigm="ŭ" gender="m" gloss="son"/>
+  <noun lemma="трьстиѥ" paradigm="jo" gender="n" gloss="thicket"/>
+  <noun lemma="оуноша" paradigm="jā" gender="m" gloss="youth"/>
+  <noun lemma="оупъваниѥ" paradigm="jo" gender="n" gloss="hope"/>
+  <noun lemma="оутѣшениѥ" paradigm="jo" gender="n" gloss="comfort; solace"/>
 </nouns>

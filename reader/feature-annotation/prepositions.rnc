@@ -1,4 +1,5 @@
 start = prepositions
 prepositions = element prepositions { preposition+ }
-preposition = element preposition { lemma, empty }
+preposition = element preposition { lemma, gloss, empty }
 lemma = attribute lemma { text }
+gloss = attribute gloss { text }

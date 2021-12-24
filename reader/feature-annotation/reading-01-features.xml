@@ -1162,19 +1162,25 @@
          </w>
          <w>
             <pldr>Юноша</pldr>
-            <rec>Оуноша</rec>
+            <rec>
+               <noun lemma="оуноша" case="N" number="sg">Оуноша</noun>
+            </rec>
          </w>
          <w>
             <pldr>же</pldr>
-            <rec>же</rec>
+            <rec>
+               <particle lemma="же">же</particle>
+            </rec>
          </w>
          <w>
             <pldr>еще</pldr>
-            <rec>ѥще</rec>
+            <rec>
+               <adv lemma="ѥще">ѥще</adv>
+            </rec>
          </w>
          <w>
             <pldr>не</pldr>
-            <rec>не</rec>
+            <rec><particle lemma="не">не</particle></rec>
          </w>
          <w>
             <pldr>ученъ,</pldr>

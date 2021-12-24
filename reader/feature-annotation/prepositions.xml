@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prepositions.rnc" type="application/relax-ng-compact-syntax"?>
 <prepositions>
-  <preposition lemma="въ"/>
-  <preposition lemma="за"/>
-  <preposition lemma="из"/>
-  <preposition lemma="къ"/>
-  <preposition lemma="на"/>
-  <preposition lemma="о"/>
-  <preposition lemma="противъ"/>
-  <preposition lemma="съ"/>
+  <preposition lemma="въ" gloss="in"/>
+  <preposition lemma="за" gloss="for; behind"/>
+  <preposition lemma="из" gloss="from"/>
+  <preposition lemma="къ" gloss="toward"/>
+  <preposition lemma="на" gloss="on; to"/>
+  <preposition lemma="о" gloss="about; around"/>
+  <preposition lemma="противъ" gloss="toward"/>
+  <preposition lemma="съ" gloss="with"/>
 </prepositions>

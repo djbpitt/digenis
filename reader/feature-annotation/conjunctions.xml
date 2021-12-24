@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="conjunctions.rnc" type="application/relax-ng-compact-syntax"?>
 <conjunctions>
-  <conjunction lemma="а"/>
-  <conjunction lemma="занѥ"/>
-  <conjunction lemma="и"/>
-  <conjunction lemma="нъ"/>
-  <conjunction lemma="понѥже"/>
-  <conjunction lemma="ꙗко"/>
+  <conjunction lemma="а" gloss="and; but"/>
+  <conjunction lemma="занѥ" gloss="because"/>
+  <conjunction lemma="и" gloss="and"/>
+  <conjunction lemma="нъ" gloss="but"/>
+  <conjunction lemma="понѥже" gloss="because; since"/>
+  <conjunction lemma="ꙗко" gloss="that"/>
 </conjunctions>

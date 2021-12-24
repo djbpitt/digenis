@@ -1,7 +1,8 @@
 start = verbs
 verbs = element verbs { verb+ }
-verb = element verb { inf, pl3, class, irreg? }
+verb = element verb { inf, pl3, class, gloss, irreg? }
 inf = attribute inf { text }
 pl3 = attribute pl3 { text }
 class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
 irreg = attribute irreg { "yes" }
+gloss = attribute gloss { text }
