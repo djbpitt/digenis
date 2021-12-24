@@ -149,8 +149,8 @@
             <rec>поиде</rec>
          </w>
          <w>
-            <pldr>къ</pldr>
-            <rec>ко</rec>
+            <pldr>ко</pldr>
+            <rec>къ</rec>
          </w>
          <w>
             <pldr>Стратигу.</pldr>
@@ -526,7 +526,7 @@
          </w>
          <w>
             <pldr>свете</pldr>
-            <rec>светѣ</rec>
+            <rec>свѣтѣ</rec>
          </w>
          <w>
             <pldr>сем.</pldr>
@@ -574,7 +574,7 @@
          </w>
          <w>
             <pldr>занеже</pldr>
-            <rec>занеже</rec>
+            <rec>занѥже</rec>
          </w>
          <w>
             <pldr>Стратиг</pldr>
@@ -704,7 +704,7 @@
          </w>
          <w>
             <pldr>занеже</pldr>
-            <rec>занеже</rec>
+            <rec>занѥже</rec>
             <!-- 10-vol. dictionary only has an entry for зане; however, both поне and понеже are
                found there in separate entries -->
          </w>
@@ -1375,7 +1375,7 @@
          </w>
          <w>
             <pldr>многоценныя</pldr>
-            <rec>мъногоценьныѩ</rec>
+            <rec>мъногоцѣньныѩ</rec>
          </w>
          <w>
             <pldr>ризы,</pldr>
@@ -1489,7 +1489,7 @@
          </w>
          <w>
             <pldr>понеже</pldr>
-            <rec>понеже</rec>
+            <rec>понѥже</rec>
             <!-- 10-vol. dictionary treats this form as a single word, listed after поне; but занеже is
             not so treated, only an entry for зане is found there -->
          </w>
