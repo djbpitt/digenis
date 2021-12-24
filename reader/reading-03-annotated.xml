@@ -206,7 +206,7 @@
          </w>
          <w>
             <pldr>пожрети.</pldr>
-            <rec>пожьрѣти.</rec>
+            <rec>пожрети.</rec>
          </w>
          <w>
             <pldr>И</pldr>
@@ -528,8 +528,8 @@
          </w>
          <w>
             <pldr>совлекоша.</pldr>
-            <rec>съвлѣкошѧ.</rec>
-            <note>aor 3pl <os>съвлѣщи</os>
+            <rec>съвлекошѧ.</rec>
+            <note>aor 3pl <os>съвлещи</os>
                <gloss>pull off</gloss></note>
          </w>
          <w>
@@ -805,7 +805,7 @@
          </w>
          <w>
             <pldr>своя</pldr>
-            <rec>своꙗ</rec>
+            <rec>своѩ</rec>
          </w>
          <w>
             <pldr>вси</pldr>
@@ -867,7 +867,7 @@
          </w>
          <w>
             <pldr>занеже</pldr>
-            <rec>занеже</rec>
+            <rec>занѥже</rec>
          </w>
          <w>
             <pldr>породи</pldr>
@@ -875,7 +875,8 @@
          </w>
          <w>
             <pldr>сына</pldr>
-            <rec>сына</rec>
+            <rec>сынꙋ</rec>
+            <!-- Is it grotesque to restore the short u-stem to this syncretized genitive-accusative? -->
          </w>
          <w>
             <pldr>славнаго</pldr>
@@ -1204,7 +1205,7 @@
          </w>
          <w>
             <pldr>видя,</pldr>
-            <rec>видѧ,</rec>
+            <rec>видѧще,</rec>
             <note>ppl pr a mNsg <os>видѣти</os>
                <gloss>see</gloss></note>
          </w>
@@ -1555,7 +1556,9 @@
          </w>
          <w>
             <pldr>Многие</pldr>
-            <rec>Мънозии</rec>
+            <rec>Мънози</rec>
+            <!-- shortened long adjective, as such instances in Tx use мънози
+            (also for meaning: these "many" are first introduced here) -->
          </w>
          <w>
             <pldr>помышляше</pldr>
