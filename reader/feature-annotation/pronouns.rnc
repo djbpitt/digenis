@@ -1,0 +1,5 @@
+start = pronouns
+pronouns = element pronouns { pronoun+ }
+pronoun = element pronoun { lemma, type }
+lemma = attribute lemma { text }
+type = attribute type { "pers" | "poss" | "interrog" | "rel" | "all" | "indef" }

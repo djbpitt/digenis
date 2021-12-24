@@ -1,0 +1,103 @@
+start = section
+# 
+# Linguistic annotation
+# 
+# <ppl> is its own part of speech
+pos = noun | pron | verb | adj | adv | conj | prep | int | particle | ppl | num
+noun = element noun { lemma, case, number, text }
+# 1st and 2nd person personal pronouns and reflexive do not have gender
+#   may be short or long in G, D, A
+# 3rd person personal pronouns have gender
+# non-personal pronouns have gender
+# 3rd person possessives ѥго, etc. have no number or case or gender
+# all pronouns have lemma, number, case
+pron =
+  element pron {
+    ((lemma,
+      attribute type { "pers" },
+      attribute person { "1" | "2" | "reflex" },
+      attribute case { "G" | "A" | "D" },
+      attribute length { "sh" | "lg" })
+     | (lemma,
+        attribute type { "pers" },
+        attribute person { "3" },
+        gender,
+        case)
+     | (lemma,
+        attribute type { "pers" },
+        attribute person { "1" | "2" | "refex" },
+        attribute case { "N" | "I" | "L" })
+     | (attribute type { "poss" },
+        attribute lemma { "ѥго" | "ѥѩ" | "ѥю" | "ихъ" },
+        attribute person { "3" })
+     | (lemma, pron-type, gender, case)),
+    number,
+    text
+  }
+# person and number only if tense is not inf
+# 3sg pres of быти  (only) is optionally negated
+verb =
+  element verb {
+    ((lemma,
+      ((person, number, tense)
+       | attribute tense { "inf" }))
+     | (attribute lemma { "быти" },
+        attribute tense { "pr" },
+        attribute person { "3" },
+        attribute number { "sg" },
+        negated?)),
+    text
+  }
+adj = element adj { lemma, length, gender, case, number, text }
+adv = element adv { lemma, text }
+conj = element conj { lemma, text }
+prep = element prep { lemma, text }
+int = element interg { lemma, text }
+particle = element particle { lemma, text }
+ppl = element ppl { lemma, tense, voice, length, gender, case, number, text }
+num = element num { lemma, num-type, gender, case, number, text }
+person = attribute person { "1" | "2" | "3" }
+gender = attribute gender { "m" | "f" | "n" }
+case = attribute case { "N" | "A" | "G" | "D" | "I" | "L" | "V" }
+number = attribute number { "sg" | "du" | "pl" }
+noun-paradigm =
+  attribute paradigm { "o" | "jo" | "ā" | "jā" | "ĭ" | "ŭ" | "r" | "n" | "s" | "nt" | "ū" }
+# @tense include mood (imv, cond); omit inf and handle separately because inf excludes person and number
+# "pf neg" is its own tense
+class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
+tense =
+  attribute tense {
+    "pr" | "pt" | "fut" | "aor" | "pf" | "pf neg" | "ipf" | "impf aor" | "imv" | "cond"
+  }
+voice = attribute voice { "act" | "pass" }
+# omit pers and handle separately because pers require person
+pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
+length = attribute length { "sh" | "lg" }
+num-type = attribute type { "card" | "ord" | "coll" }
+degree = attribute degree { "comp" | "sup" }
+syntax = attribute syntax { "dat+inf" | "dat abs" }
+lemma = attribute lemma { text }
+negated = attribute negated { "yes" }
+# 
+# main
+#
+section = element section { title, body }
+title = element title { text }
+body = element body { p+ }
+p = element p { w+ }
+w = element w { pldr, rec, note? }
+pldr = element pldr { text }
+rec = element rec { pos }
+note =
+  element note {
+    mixed { (os | gloss | link | title | q | em)* & pos* }
+  }
+em = element em { text }
+gloss = element gloss { text }
+os = element os { text }
+link = element link { xsd:anyURI }
+q =
+  element q {
+    mixed { em* }
+  }
+gk = element gk { text }

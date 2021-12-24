@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="conjunctions.rnc" type="application/relax-ng-compact-syntax"?>
+<conjunctions>
+  <conjunction lemma="а"/>
+  <conjunction lemma="занѥ"/>
+  <conjunction lemma="и"/>
+  <conjunction lemma="нъ"/>
+  <conjunction lemma="понѥже"/>
+  <conjunction lemma="ꙗко"/>
+</conjunctions>

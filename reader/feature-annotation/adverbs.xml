@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="adverbs.rnc" type="application/relax-ng-compact-syntax"?>
+<adverbs>
+  <adverb lemma="ѥще"/>
+  <adverb lemma="прилежьно"/>
+  <adverb lemma="тако"/>
+</adverbs>

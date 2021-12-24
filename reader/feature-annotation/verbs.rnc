@@ -1,0 +1,7 @@
+start = verbs
+verbs = element verbs { verb+ }
+verb = element verb { inf, pl3, class, irreg? }
+inf = attribute inf { text }
+pl3 = attribute pl3 { text }
+class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
+irreg = attribute irreg { "yes" }

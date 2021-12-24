@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="verbs.rnc" type="application/relax-ng-compact-syntax"?>
+<verbs>
+  <verb inf="быти" pl3="сꙋть" class="I" irreg="yes"/>
+  <verb inf="вънити" pl3="вънидꙋть" class="I"/>
+  <verb inf="выити" pl3="выидꙋть" class="I"/>
+  <verb inf="глаголати" pl3="глаголють" class="III"/>
+  <verb inf="играти" pl3="играють" class="III"/>
+  <verb inf="имѣти" pl3="имꙋть, имѣють" class="V"/>
+  <verb inf="ити" pl3="идꙋть" class="I"/>
+  <verb inf="ловити" pl3="ловѧть" class="IVA"/>
+  <verb inf="мълвити" pl3="мълвѧть" class="IVA"/>
+  <verb inf="надѣꙗти сѧ" pl3="надѣють сѧ" class="III"/>
+  <verb inf="начѧти" pl3="начьнꙋть" class="I"/>
+  <verb inf="нꙋдити" pl3="нꙋдѧть" class="IVA"/>
+  <verb inf="очꙋтити" pl3="очꙋтѧть" class="IVA"/>
+  <verb inf="побѣдити" pl3="побѣдѧть" class="IVA"/>
+  <verb inf="пожрѣти" pl3="пожьрꙋть" class="I"/>
+  <verb inf="поити" pl3="поидꙋть" class="I" irreg="yes"/>
+  <verb inf="покꙋшати сѧ" pl3="покушають сѧ" class="III"/>
+  <verb inf="поскочити" pl3="поскочѧть" class="IVA"/>
+  <verb inf="пꙋдити" pl3="пꙋдѧть" class="IVA"/>
+  <verb inf="рещи" pl3="рекꙋть" class="I"/>
+  <verb inf="слышати" pl3="слышѧть" class="IVB"/>
+  <verb inf="смиꙗти сѧ" pl3="смѣють сѧ" class="III"/>
+  <verb inf="съвъкꙋпити" pl3="съвъкꙋпѧть" class="IVA"/>
+  <verb inf="сънити" pl3="сънидꙋть" class="I"/>
+  <verb inf="сътворити" pl3="сътворѧть" class="IVA"/>
+  <verb inf="ходити" pl3="ходѧть" class="IVA"/>
+  <!-- 
+    Vlasto 137.2 (p. 185): inf either хотѣти or хътѣти;
+    We lemmatize as хотѣти and assign to class III noting that it’s irreg
+  -->
+  <verb inf="хотѣти" pl3="хотѧть" class="III" irreg="yes"/>
+  <verb inf="ѣхати" pl3="едꙋть" class="I"/>
+</verbs>

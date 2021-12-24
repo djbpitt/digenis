@@ -1,0 +1,4 @@
+start = particles
+particles = element particles { particle+ }
+particle = element particle { lemma, empty }
+lemma = attribute lemma { text }

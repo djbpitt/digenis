@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prepositions.rnc" type="application/relax-ng-compact-syntax"?>
+<prepositions>
+  <preposition lemma="въ"/>
+  <preposition lemma="за"/>
+  <preposition lemma="из"/>
+  <preposition lemma="къ"/>
+  <preposition lemma="на"/>
+  <preposition lemma="о"/>
+  <preposition lemma="противъ"/>
+  <preposition lemma="съ"/>
+</prepositions>

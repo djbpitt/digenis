@@ -1,0 +1,4 @@
+start = adverbs
+adverbs = element adverbs { adverb+ }
+adverb = element adverb { lemma, empty }
+lemma = attribute lemma { text }

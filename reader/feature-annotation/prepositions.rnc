@@ -1,0 +1,4 @@
+start = prepositions
+prepositions = element prepositions { preposition+ }
+preposition = element preposition { lemma, empty }
+lemma = attribute lemma { text }
