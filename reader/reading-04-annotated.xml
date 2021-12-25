@@ -690,11 +690,21 @@
             <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
+            <note>The accusative MS form <os>въ очи</os>
+               <gloss>in sight of, in the presence of</gloss> (cf. Sreznevskij s.v., 2.643) is
+               clearly incorrect here. We have emended to locative <os>въ очию</os>
+               <gloss>[to see] with one's own eyes</gloss>, attested in EESl (cf. Словарь
+               древнерусского языка XI-XIV вв. s.v., 6.109: <os>въ ѡчью … видитисѧ</os>).</note>
          </w>
          <w>
             <ms>очи</ms>
             <pldr>очи</pldr>
-            <rec>очи</rec>
+            <rec>очию</rec>
+            <note>The accusative MS form <os>въ очи</os>
+               <gloss>in sight of, in the presence of</gloss> (cf. Sreznevskij s.v., 2.643) is
+               clearly incorrect here. We have emended to locative <os>въ очию</os>
+               <gloss>[to see] with one's own eyes</gloss>, attested in EESl (cf. Словарь
+               древнерусского языка XI-XIV вв. s.v., 6.109: <os>въ ѡчью … видитисѧ</os>).</note>
          </w>
          <w>
             <ms>ея</ms>
@@ -1133,7 +1143,7 @@
          <w>
             <ms>взирающе</ms>
             <pldr>взирающе</pldr>
-            <rec>възираꙗ</rec>
+            <rec>възираѩ</rec>
             <!-- Apologies for returning to the question of Vaillant's "ChSl gerund," but without 
             it, how do we account for such a form in the MS? Innovative gerunds in this text are 
             approaching CSR, i.e., becoming invariable short masculine forms; if възираꙗ or 
@@ -1364,7 +1374,8 @@
             <ms>радость</ms>
             <pldr>радость</pldr>
             <rec>радость</rec>
-            <!-- Note this is Tvorogov's (< Speranskij's) correction from хꙋдость -->
+            <!-- Note this is Tvorogov's (< Speranskij's) correction from хꙋдость;
+            include note (other instances in Tx of this cliche -->
          </w>
          <w>
             <ms>велику</ms>
@@ -1785,8 +1796,8 @@
          <w>
             <ms>поехал</ms>
             <pldr>поехал</pldr>
-            <rec>поѣхалъ</rec>
-            <!-- Should this instead be corrected to aorist поѣха? Not a pefect context; but
+            <rec>поѣха</rec>
+            <!--  corrected to aorist поѣха. Not a pefect context; however, nb
             elsewhere we have followed MS conservatively at some cost to meaning -->
          </w>
          <w>
