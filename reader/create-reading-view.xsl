@@ -66,7 +66,7 @@
             <span class="n">
                 <xsl:value-of select="count(preceding::w) + 1"/>
             </span>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="* except ms"/>
         </div>
     </xsl:template>
     <xsl:template match="pldr">
