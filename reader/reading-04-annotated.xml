@@ -6,100 +6,124 @@
    <body>
       <p>
          <w>
+            <ms>Преславны</ms>
             <pldr>Преславны</pldr>
             <rec>Преславьныи</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>взя</ms>
             <pldr>взя</pldr>
             <rec>възѧ</rec>
          </w>
          <w>
+            <ms>молитву</ms>
             <pldr>молитву</pldr>
             <rec>молитвꙋ</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>отца</ms>
             <pldr>отца</pldr>
             <rec>отьца</rec>
          </w>
          <w>
+            <ms>своего</ms>
             <pldr>своего</pldr>
             <rec>своѥго</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>матери</ms>
             <pldr>матери</pldr>
             <rec>матере</rec>
          </w>
          <w>
+            <ms>своей,</ms>
             <pldr>своей,</pldr>
             <rec>своѥѩ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>совокупи</ms>
             <pldr>совокупи</pldr>
             <rec>съвъкꙋпи</rec>
          </w>
          <w>
+            <ms>воя</ms>
             <pldr>воя</pldr>
             <rec>вои</rec>
             <!-- Changed to Gpl following usual Tx много/мало вои (NB this passage from Tт) -->
          </w>
          <w>
+            <ms>немного,</ms>
             <pldr>немного,</pldr>
             <rec>немъного,</rec>
             <!-- Retained adv.; in Tx lg. adj. only used with Ipl, с многими вои своими vel sim. -->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>взя</ms>
             <pldr>взя</pldr>
             <rec>възѧ</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>собою</ms>
             <pldr>собою</pldr>
             <rec>собою</rec>
          </w>
          <w>
+            <ms>драгоценые</ms>
             <pldr>драгоценые</pldr>
             <rec>драгоцѣньныѩ</rec>
          </w>
          <w>
+            <ms>порты</ms>
             <pldr>порты</pldr>
             <rec>пърты</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>звончатые</ms>
             <pldr>звончатые</pldr>
             <rec>звьнѧщѧѩ</rec>
             <note>MS Тт's form <os>звончатый</os>
@@ -109,227 +133,282 @@
                   <os>бꙑхъ ꙗко мѣдь звьнѧщи</os> (Gk χαλκὸς ἠχῶν).</note>
          </w>
          <w>
+            <ms>гусли,</ms>
             <pldr>гусли,</pldr>
             <rec>гꙋсли,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>всяде</ms>
             <pldr>всяде</pldr>
             <rec>въсѣде</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>конь</ms>
             <pldr>конь</pldr>
             <rec>конь</rec>
          </w>
          <w>
+            <ms>свой</ms>
             <pldr>свой</pldr>
             <rec>свои,</rec>
          </w>
          <w>
+            <ms>борзы</ms>
             <pldr>борзы</pldr>
             <rec>бързыи</rec>
          </w>
          <w>
+            <ms>фарь,</ms>
             <pldr>фарь,</pldr>
             <rec>фарь,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поиде</ms>
             <pldr>поиде</pldr>
             <rec>поиде</rec>
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>Стратигу.</ms>
             <pldr>Стратигу.</pldr>
             <rec>Стратигꙋ.</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>доиде</ms>
             <pldr>доиде</pldr>
             <rec>доиде</rec>
          </w>
          <w>
+            <ms>сумежия</ms>
             <pldr>сумежия</pldr>
             <rec>сꙋмежиꙗ</rec>
          </w>
          <w>
+            <ms>Стратиговы</ms>
             <pldr>Стратиговы</pldr>
             <rec>Стратиговы</rec>
          </w>
          <w>
+            <ms>земли.</ms>
             <pldr>земли.</pldr>
             <rec>землѣ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>доиде</ms>
             <pldr>доиде</pldr>
             <rec>доиде</rec>
          </w>
          <w>
+            <ms>до</ms>
             <pldr>до</pldr>
             <rec>до</rec>
          </w>
          <w>
+            <ms>града</ms>
             <pldr>града</pldr>
             <rec>града</rec>
          </w>
          <w>
+            <ms>за</ms>
             <pldr>за</pldr>
             <rec>за</rec>
          </w>
          <w>
+            <ms>пять</ms>
             <pldr>пять</pldr>
             <rec>пѧть</rec>
          </w>
          <w>
+            <ms>поприщ,</ms>
             <pldr>поприщ,</pldr>
             <rec>поприщь,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>устави</ms>
             <pldr>устави</pldr>
             <rec>оустави</rec>
          </w>
          <w>
+            <ms>войско</ms>
             <pldr>войско</pldr>
             <rec>воиско</rec>
          </w>
          <w>
+            <ms>свое,</ms>
             <pldr>свое,</pldr>
             <rec>своѥ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>им</ms>
             <pldr>им</pldr>
             <rec>имъ</rec>
          </w>
          <w>
+            <ms>около</ms>
             <pldr>около</pldr>
             <rec>около</rec>
          </w>
          <w>
+            <ms>себя</ms>
             <pldr>себя</pldr>
             <rec>себе</rec>
          </w>
          <w>
+            <ms>стражу</ms>
             <pldr>стражу</pldr>
             <rec>стражꙋ</rec>
          </w>
          <w>
+            <ms>поставити</ms>
             <pldr>поставити</pldr>
             <rec>поставити</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>крепко</ms>
             <pldr>крепко</pldr>
             <rec>крѣпъко</rec>
          </w>
          <w>
+            <ms>имети,</ms>
             <pldr>имети,</pldr>
             <rec>имѣти,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>сам</ms>
             <pldr>сам</pldr>
             <rec>самъ</rec>
          </w>
          <w>
+            <ms>поеде</ms>
             <pldr>поеде</pldr>
             <rec>поиде</rec>
             <!-- Here and below, my practice is to correct this aorist in Tт to поиде unless there is
             an explicit reference to riding; elsewhere, поеде in Tт corresponds to поиде in Tx -->
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>граду</ms>
             <pldr>граду</pldr>
             <rec>градꙋ</rec>
          </w>
          <w>
+            <ms>Стратигову.</ms>
             <pldr>Стратигову.</pldr>
             <rec>Стратиговꙋ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>приеде</ms>
             <pldr>приеде</pldr>
             <rec>прииде</rec>
             <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>грат,</ms>
             <pldr>грат,</pldr>
             <rec>градъ,</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>врата</ms>
             <pldr>врата</pldr>
             <rec>врата</rec>
          </w>
          <w>
+            <ms>града</ms>
             <pldr>града</pldr>
             <rec>града</rec>
          </w>
          <w>
+            <ms>Стратигова,</ms>
             <pldr>Стратигова,</pldr>
             <rec>Стратигова,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>встрете</ms>
             <pldr>встрете</pldr>
             <rec>въсърѣте</rec>
             <!-- Here modern встретить has replaced either perfective сърѣсти or въс(ъ)рѣсти, 
@@ -340,576 +419,719 @@
             v. 2, p. 224 in xi–xiv -->
          </w>
          <w>
+            <ms>юношу</ms>
             <pldr>юношу</pldr>
             <rec>оуношꙋ</rec>
          </w>
          <w>
+            <ms>Стратигова</ms>
             <pldr>Стратигова</pldr>
             <rec>Стратигова</rec>
          </w>
          <w>
+            <ms>двора,</ms>
             <pldr>двора,</pldr>
             <rec>двора,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>вопроша</ms>
             <pldr>вопроша</pldr>
             <rec>въпраша</rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>ѥго</rec>
          </w>
          <w>
+            <ms>о</ms>
             <pldr>о</pldr>
             <rec>о</rec>
          </w>
          <w>
+            <ms>Стратиге</ms>
             <pldr>Стратиге</pldr>
             <rec>Стратизѣ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>о</ms>
             <pldr>о</pldr>
             <rec>о</rec>
          </w>
          <w>
+            <ms>сынех</ms>
             <pldr>сынех</pldr>
             <rec>сынъхъ</rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>ѥго</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>самой</ms>
             <pldr>самой</pldr>
             <rec>самои</rec>
          </w>
          <w>
+            <ms>Стратиговне.</ms>
             <pldr>Стратиговне.</pldr>
             <rec>Стратиговьнѣ.</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Отвещав</ms>
             <pldr>Отвещав</pldr>
             <rec>Отъвѣща</rec>
             <!-- Corrected ppl pt act to aorist, but must still double-check MS -->
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
          </w>
          <w>
+            <ms>юноша:</ms>
             <pldr>юноша:</pldr>
             <rec>оуноша:</rec>
          </w>
          <w>
+            <ms>«Нет</ms>
             <pldr>«Нет</pldr>
             <rec>«Нѣтꙋ(ть)</rec>
          </w>
          <w>
+            <ms>господина</ms>
             <pldr>господина</pldr>
             <rec>господина</rec>
          </w>
          <w>
+            <ms>Стратига</ms>
             <pldr>Стратига</pldr>
             <rec>Стратига</rec>
          </w>
          <w>
+            <ms>нашего</ms>
             <pldr>нашего</pldr>
             <rec>нашего</rec>
          </w>
          <w>
+            <ms>дома,</ms>
             <pldr>дома,</pldr>
             <rec>дома,</rec>
          </w>
          <w>
+            <ms>но</ms>
             <pldr>но</pldr>
             <rec>нъ</rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>ыной</ms>
             <pldr>ыной</pldr>
             <rec>инои</rec>
          </w>
          <w>
+            <ms>стране</ms>
             <pldr>стране</pldr>
             <rec>странѣ</rec>
          </w>
          <w>
+            <ms>ловы</ms>
             <pldr>ловы</pldr>
             <rec>ловы</rec>
          </w>
          <w>
+            <ms>деюща</ms>
             <pldr>деюща</pldr>
             <rec>дѣюща</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>четырми</ms>
             <pldr>четырми</pldr>
             <rec>·д҃҃·</rec>
-            <note><os>четырьми</os></note>
+            <note>
+               <os>четырьми</os>
+            </note>
             <!-- Let's decide whether to make all numerals Gr-Sl with glosses, or only those 
                already Gr-Sl in the MS; and add this to our list of retroversion principles -->
          </w>
          <w>
+            <ms>сыны</ms>
             <pldr>сыны</pldr>
             <rec>сынъми</rec>
          </w>
          <w>
+            <ms>своими.</ms>
             <pldr>своими.</pldr>
             <rec>своими.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>о</ms>
             <pldr>о</pldr>
             <rec>о</rec>
          </w>
          <w>
+            <ms>Стратиговне</ms>
             <pldr>Стратиговне</pldr>
             <rec>Стратиговьнѣ</rec>
          </w>
          <w>
+            <ms>вопрошаеши,</ms>
             <pldr>вопрошаеши,</pldr>
             <rec>въпрашаѥши,</rec>
          </w>
          <w>
+            <ms>ино,</ms>
             <pldr>ино,</pldr>
             <rec>ино,</rec>
          </w>
          <w>
+            <ms>господине,</ms>
             <pldr>господине,</pldr>
             <rec>господине,</rec>
          </w>
          <w>
+            <ms>несть</ms>
             <pldr>несть</pldr>
             <rec>нѣсть</rec>
          </w>
          <w>
+            <ms>таковыя</ms>
             <pldr>таковыя</pldr>
             <rec>таковыѩ</rec>
          </w>
          <w>
+            <ms>прекрасныя</ms>
             <pldr>прекрасныя</pldr>
             <rec>прекрасьныѩ</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>свете</ms>
             <pldr>свете</pldr>
             <rec>свѣтѣ</rec>
          </w>
          <w>
+            <ms>сем.</ms>
             <pldr>сем.</pldr>
             <rec>семь.</rec>
          </w>
          <w>
+            <ms>Мнози</ms>
             <pldr>Мнози</pldr>
             <rec>Мънози</rec>
          </w>
          <w>
+            <ms>суть</ms>
             <pldr>суть</pldr>
             <rec>сꙋть</rec>
          </w>
          <w>
+            <ms>приежали,</ms>
             <pldr>приежали,</pldr>
             <rec>приѣздили,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>никто</ms>
             <pldr>никто</pldr>
             <rec>никъто</rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>очи</ms>
             <pldr>очи</pldr>
             <rec>очи</rec>
          </w>
          <w>
+            <ms>ея</ms>
             <pldr>ея</pldr>
             <rec>ѥꙗ</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>видал,</ms>
             <pldr>видал,</pldr>
             <rec>видалъ,</rec>
          </w>
          <w>
+            <ms>занеже</ms>
             <pldr>занеже</pldr>
             <rec>занѥже</rec>
          </w>
          <w>
+            <ms>Стратиг</ms>
             <pldr>Стратиг</pldr>
             <rec>Стратигъ</rec>
          </w>
          <w>
+            <ms>храбер</ms>
             <pldr>храбер</pldr>
             <rec>храбръ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>силен,</ms>
             <pldr>силен,</pldr>
             <rec>сильнъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>сынове</ms>
             <pldr>сынове</pldr>
             <rec>сынове</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>прочие</ms>
             <pldr>прочие</pldr>
             <rec>прочеѥ</rec>
          </w>
          <w>
+            <ms>войско</ms>
             <pldr>войско</pldr>
             <rec>воиско</rec>
          </w>
          <w>
+            <ms>ево,</ms>
             <pldr>ево,</pldr>
             <rec>ѥго,</rec>
          </w>
          <w>
+            <ms>один</ms>
             <pldr>один</pldr>
             <rec>одинъ</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>сто</ms>
             <pldr>сто</pldr>
             <rec>съто</rec>
          </w>
          <w>
+            <ms>наидет,</ms>
             <pldr>наидет,</pldr>
             <rec>наидеть,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>сама</ms>
             <pldr>сама</pldr>
             <rec>сама</rec>
          </w>
          <w>
+            <ms>Стратиговна</ms>
             <pldr>Стратиговна</pldr>
             <rec>Стратиговьна</rec>
          </w>
          <w>
+            <ms>мужескую</ms>
             <pldr>мужескую</pldr>
             <rec>мꙋжьскꙋю</rec>
          </w>
          <w>
+            <ms>дерзость</ms>
             <pldr>дерзость</pldr>
             <rec>дьрзость</rec>
          </w>
          <w>
+            <ms>имеет,</ms>
             <pldr>имеет,</pldr>
             <rec>имѣѥть,</rec>
          </w>
          <w>
+            <ms>иному</ms>
             <pldr>иному</pldr>
             <rec>иномꙋ</rec>
          </w>
          <w>
+            <ms>некому</ms>
             <pldr>некому</pldr>
             <rec>никомꙋ</rec>
          </w>
          <w>
+            <ms>подобна</ms>
             <pldr>подобна</pldr>
             <rec>подобьна</rec>
          </w>
          <w>
+            <ms>суть,</ms>
             <pldr>суть,</pldr>
             <rec>ѥсть,</rec>
          </w>
          <w>
+            <ms>разве</ms>
             <pldr>разве</pldr>
             <rec>развѣ</rec>
          </w>
          <w>
+            <ms>тебе».</ms>
             <pldr>тебе».</pldr>
             <rec>тебе».</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Слышав</ms>
             <pldr>Слышав</pldr>
             <rec>Слышавъ</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>радостен</ms>
             <pldr>радостен</pldr>
             <rec>радостьнъ</rec>
          </w>
          <w>
+            <ms>бысть,</ms>
             <pldr>бысть,</pldr>
             <rec>бысть,</rec>
          </w>
          <w>
+            <ms>занеже</ms>
             <pldr>занеже</pldr>
             <rec>занѥже</rec>
             <!-- 10-vol. dictionary only has an entry for зане; however, both поне and понеже are
                found there in separate entries -->
          </w>
          <w>
+            <ms>суть</ms>
             <pldr>суть</pldr>
             <rec>сꙋть</rec>
          </w>
          <w>
+            <ms>указана</ms>
             <pldr>указана</pldr>
             <rec>оуказана</rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>написано:</ms>
             <pldr>написано:</pldr>
             <rec>написано:</rec>
          </w>
          <w>
+            <ms>прикоснет</ms>
             <pldr>прикоснет</pldr>
             <rec>прикоснеть</rec>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>Стратиговне</ms>
             <pldr>Стратиговне</pldr>
             <rec>Стратиговьнѣ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>жития</ms>
             <pldr>жития</pldr>
             <rec>житиꙗ</rec>
          </w>
          <w>
+            <ms>сего</ms>
             <pldr>сего</pldr>
             <rec>сего</rec>
          </w>
          <w>
+            <ms>36</ms>
             <pldr>36</pldr>
             <rec>·лѕ҃·</rec>
-            <note><os>триѥ десѧте и шесть</os></note>
+            <note>
+               <os>триѥ десѧте и шесть</os>
+            </note>
             <!-- Let's decide whether to make all numerals Gr-Sl with glosses, or only those 
                already Gr-Sl in the MS; and add this to our list of retroversion principles -->
          </w>
          <w>
+            <ms>лет.</ms>
             <pldr>лет.</pldr>
             <rec>лѣтъ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>поеде</ms>
             <pldr>поеде</pldr>
             <rec>поиде</rec>
             <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>градом</ms>
             <pldr>градом</pldr>
             <rec>градъмь</rec>
          </w>
          <w>
+            <ms>Стратиговым</ms>
             <pldr>Стратиговым</pldr>
             <rec>Стратиговымь</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>приеде</ms>
             <pldr>приеде</pldr>
             <rec>прииде</rec>
             <!-- See above on поеде in Tт corresponding to поиде in Tx -->
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>твору</ms>
             <pldr>твору</pldr>
             <rec>дворꙋ</rec>
          </w>
          <w>
+            <ms>Стратигову,</ms>
             <pldr>Стратигову,</pldr>
             <rec>Стратиговꙋ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>нача</ms>
             <pldr>нача</pldr>
             <rec>начѧ(тъ)</rec>
          </w>
          <w>
+            <ms>взирати</ms>
             <pldr>взирати</pldr>
             <rec>възирати</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>твор</ms>
             <pldr>твор</pldr>
             <rec>дворъ</rec>
          </w>
          <w>
+            <ms>Стратигов.</ms>
             <pldr>Стратигов.</pldr>
             <rec>Стратиговъ.</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Видев</ms>
             <pldr>Видев</pldr>
             <rec>Видѣвъши</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>Стратиговна</ms>
             <pldr>Стратиговна</pldr>
             <rec>Стратиговьна</rec>
          </w>
          <w>
             <!-- From this word we're back to Tx, and thank goodness -->
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>приниче</ms>
             <pldr>приниче</pldr>
             <rec>приниче</rec>
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>окну,</ms>
             <pldr>окну,</pldr>
             <rec>окънꙋ,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>сама</ms>
             <pldr>сама</pldr>
             <rec>сама</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>показа</ms>
             <pldr>показа</pldr>
             <rec>показа</rec>
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>вспять</ms>
             <pldr>вспять</pldr>
             <rec>въспѧть</rec>
          </w>
          <w>
+            <ms>возвратя</ms>
             <pldr>возвратя</pldr>
             <rec>възврати</rec>
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
          <w>
+            <ms>взирающе</ms>
             <pldr>взирающе</pldr>
             <rec>възираꙗ</rec>
             <!-- Apologies for returning to the question of Vaillant's "ChSl gerund," but without 
@@ -919,676 +1141,840 @@
             (not even feminine, as in Ukr.!)? -->
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>дворъ.</ms>
             <pldr>дворъ.</pldr>
             <rec>дворъ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>тогда</ms>
             <pldr>тогда</pldr>
             <rec>тъгда</rec>
          </w>
          <w>
+            <ms>девая</ms>
             <pldr>девая</pldr>
             <rec>дѣваꙗ</rec>
          </w>
          <w>
+            <ms>видевше</ms>
             <pldr>видевше</pldr>
             <rec>видѣвъши</rec>
             <!-- This gender change is easier to understand as an error. -->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>подиви</ms>
             <pldr>подиви</pldr>
             <rec>подиви</rec>
          </w>
          <w>
+            <ms>ся.</ms>
             <pldr>ся.</pldr>
             <rec>сѧ.</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Бе</ms>
             <pldr>Бе</pldr>
             <rec>Бѣ</rec>
          </w>
          <w>
+            <ms>бо</ms>
             <pldr>бо</pldr>
             <rec>бо</rec>
          </w>
          <w>
+            <ms>время</ms>
             <pldr>время</pldr>
             <rec>времѧ</rec>
          </w>
          <w>
+            <ms>преминуло</ms>
             <pldr>преминуло</pldr>
             <rec>преминꙋло</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>нощъ,</ms>
             <pldr>нощъ,</pldr>
             <rec>нощь,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>поиде</ms>
             <pldr>поиде</pldr>
             <rec>поиде</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>своя</ms>
             <pldr>своя</pldr>
             <rec>своѩ</rec>
          </w>
          <w>
+            <ms>шатры,</ms>
             <pldr>шатры,</pldr>
             <rec>шатры,</rec>
          </w>
          <w>
+            <ms>взя</ms>
             <pldr>взя</pldr>
             <rec>възѧ</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>собою</ms>
             <pldr>собою</pldr>
             <rec>собою</rec>
          </w>
          <w>
+            <ms>юношу</ms>
             <pldr>юношу</pldr>
             <rec>оуношꙋ</rec>
          </w>
          <w>
+            <ms>того,</ms>
             <pldr>того,</pldr>
             <rec>того,</rec>
          </w>
          <w>
+            <ms>любовь</ms>
             <pldr>любовь</pldr>
             <rec>любъвь</rec>
          </w>
          <w>
+            <ms>велику</ms>
             <pldr>велику</pldr>
             <rec>великꙋ</rec>
          </w>
          <w>
+            <ms>до</ms>
             <pldr>до</pldr>
             <rec>до</rec>
          </w>
          <w>
+            <ms>него</ms>
             <pldr>него</pldr>
             <rec>нѥго</rec>
          </w>
          <w>
+            <ms>имея,</ms>
             <pldr>имея,</pldr>
             <rec>имѣѩ,</rec>
          </w>
          <w>
+            <ms>совлѣщи</ms>
             <pldr>совлѣщи</pldr>
             <rec>съвлещи</rec>
             <!-- We write artificial tret here, yes? (for влѣк = волок) -->
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>него</ms>
             <pldr>него</pldr>
             <rec>нѥго</rec>
          </w>
          <w>
+            <ms>порты</ms>
             <pldr>порты</pldr>
             <rec>пърты</rec>
          </w>
          <w>
+            <ms>худыя</ms>
             <pldr>худыя</pldr>
             <rec>хꙋдыѩ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>облещи</ms>
             <pldr>облещи</pldr>
             <rec>облещи</rec>
             <!-- We write artificial tret here, yes? (for влѣк = волок) -->
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>драгия,</ms>
             <pldr>драгия,</pldr>
             <rec>драгыѩ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>сотвори</ms>
             <pldr>сотвори</pldr>
             <rec>сътвори</rec>
          </w>
          <w>
+            <ms>радость</ms>
             <pldr>радость</pldr>
             <rec>радость</rec>
             <!-- Note this is Tvorogov's (< Speranskij's) correction from хꙋдость -->
          </w>
          <w>
+            <ms>велику</ms>
             <pldr>велику</pldr>
             <rec>великꙋ</rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>ту</ms>
             <pldr>ту</pldr>
             <rec>тꙋ</rec>
          </w>
          <w>
+            <ms>нощь</ms>
             <pldr>нощь</pldr>
             <rec>нощь</rec>
          </w>
          <w>
+            <ms>со</ms>
             <pldr>со</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>своими</ms>
             <pldr>своими</pldr>
             <rec>своими</rec>
          </w>
          <w>
+            <ms>милостивники.</ms>
             <pldr>милостивники.</pldr>
             <rec>милостивьникы.</rec>
          </w>
          <w>
+            <ms>А</ms>
             <pldr>А</pldr>
             <rec>А</rec>
          </w>
          <w>
+            <ms>заутра</ms>
             <pldr>заутра</pldr>
             <rec>заꙋтра</rec>
          </w>
          <w>
+            <ms>воста</ms>
             <pldr>воста</pldr>
             <rec>въста</rec>
          </w>
          <w>
+            <ms>рано</ms>
             <pldr>рано</pldr>
             <rec>рано</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>своей</ms>
             <pldr>своей</pldr>
             <rec>своѥи</rec>
          </w>
          <w>
+            <ms>дружине</ms>
             <pldr>дружине</pldr>
             <rec>дрꙋжинѣ</rec>
          </w>
          <w>
+            <ms>имети</ms>
             <pldr>имети</pldr>
             <rec>имѣти</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>себѣ</ms>
             <pldr>себѣ</pldr>
             <rec>себе</rec>
          </w>
          <w>
+            <ms>сторожу</ms>
             <pldr>сторожу</pldr>
             <rec>стражꙋ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>рече</rec>
          </w>
          <w>
+            <ms>имъ:</ms>
             <pldr>имъ:</pldr>
             <rec>имъ:</rec>
          </w>
          <w>
+            <ms>«Разделите</ms>
             <pldr>«Разделите</pldr>
             <rec>«Раздѣлите</rec>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>многия</ms>
             <pldr>многия</pldr>
             <rec>мъногыѩ</rec>
          </w>
          <w>
+            <ms>пути</ms>
             <pldr>пути</pldr>
             <rec>пꙋти</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>другъ</ms>
             <pldr>другъ</pldr>
             <rec>дрꙋгъ</rec>
          </w>
          <w>
+            <ms>друга</ms>
             <pldr>друга</pldr>
             <rec>дрꙋга</rec>
          </w>
          <w>
+            <ms>стерегите.</ms>
             <pldr>стерегите.</pldr>
             <rec>стрезите.</rec>
             <!-- We write artificial tret here, yes? (for стрѣг = сторог) -->
          </w>
          <w>
+            <ms>Аще</ms>
             <pldr>Аще</pldr>
             <rec>Аще</rec>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>вамъ</ms>
             <pldr>вамъ</pldr>
             <rec>вамъ</rec>
          </w>
          <w>
+            <ms>приидетъ</ms>
             <pldr>приидетъ</pldr>
             <rec>приидеть</rec>
          </w>
          <w>
+            <ms>Стратигъ,</ms>
             <pldr>Стратигъ,</pldr>
             <rec>Стратигъ,</rec>
          </w>
          <w>
+            <ms>азъ</ms>
             <pldr>азъ</pldr>
             <rec>ꙗзъ</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>приготовлю</ms>
             <pldr>приготовлю</pldr>
             <rec>приготовлю</rec>
          </w>
          <w>
+            <ms>сь,</ms>
             <pldr>сь,</pldr>
             <rec>сѧ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>начнетъ</ms>
             <pldr>начнетъ</pldr>
             <rec>начьнеть</rec>
          </w>
          <w>
+            <ms>вамъ</ms>
             <pldr>вамъ</pldr>
             <rec>вамъ</rec>
          </w>
          <w>
+            <ms>пакости</ms>
             <pldr>пакости</pldr>
             <rec>пакости</rec>
          </w>
          <w>
+            <ms>творити</ms>
             <pldr>творити</pldr>
             <rec>творити</rec>
          </w>
          <w>
+            <ms>со</ms>
             <pldr>со</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>многих</ms>
             <pldr>многих</pldr>
             <rec>мъногыхъ</rec>
          </w>
          <w>
+            <ms>странъ,</ms>
             <pldr>странъ,</pldr>
             <rec>странъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>бѣйте</ms>
             <pldr>бѣйте</pldr>
             <rec>биите</rec>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>нимъ</ms>
             <pldr>нимъ</pldr>
             <rec>нимь</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>ужасно,</ms>
             <pldr>ужасно,</pldr>
             <rec>оужасьно,</rec>
          </w>
          <w>
+            <ms>донележе</ms>
             <pldr>донележе</pldr>
             <rec>донелѣже</rec>
             <!-- Treat this form (and similar ones, e.g., доньдеже at 7.311) as one word (as does 
             Tvorogov) or two (as does 10-vol. dictionary)? -->
          </w>
          <w>
+            <ms>азъ</ms>
             <pldr>азъ</pldr>
             <rec>ꙗзъ</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>приспею».</ms>
             <pldr>приспею».</pldr>
             <rec>приспѣю».</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>То</ms>
             <pldr>То</pldr>
             <rec>То</rec>
          </w>
          <w>
+            <ms>слово</ms>
             <pldr>слово</pldr>
             <rec>слово</rec>
          </w>
          <w>
+            <ms>изрекъ,</ms>
             <pldr>изрекъ,</pldr>
             <rec>изрекъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>облече</ms>
             <pldr>облече</pldr>
             <rec>облече</rec>
             <!-- We write artificial tret here, yes? (for влѣк = волок) -->
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>многоценныя</ms>
             <pldr>многоценныя</pldr>
             <rec>мъногоцѣньныѩ</rec>
          </w>
          <w>
+            <ms>ризы,</ms>
             <pldr>ризы,</pldr>
             <rec>ризы,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>взяти</ms>
             <pldr>взяти</pldr>
             <rec>възѧти</rec>
          </w>
          <w>
+            <ms>гусли</ms>
             <pldr>гусли</pldr>
             <rec>гꙋсли</rec>
          </w>
          <w>
+            <ms>со</ms>
             <pldr>со</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>златыми</ms>
             <pldr>златыми</pldr>
             <rec>златыми</rec>
          </w>
          <w>
+            <ms>струнами,</ms>
             <pldr>струнами,</pldr>
             <rec>стрꙋнами,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>приняти</ms>
             <pldr>приняти</pldr>
             <rec>принѧти</rec>
          </w>
          <w>
+            <ms>юношу</ms>
             <pldr>юношу</pldr>
             <rec>оуношꙋ</rec>
          </w>
          <w>
+            <ms>новоприятаго,</ms>
             <pldr>новоприятаго,</pldr>
             <rec>новоприѩтаго,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поехал</ms>
             <pldr>поехал</pldr>
             <rec>поѣхалъ</rec>
             <!-- Should this instead be corrected to aorist поѣха? Not a pefect context; but
             elsewhere we have followed MS conservatively at some cost to meaning -->
          </w>
          <w>
+            <ms>самъ</ms>
             <pldr>самъ</pldr>
             <rec>самъ</rec>
          </w>
          <w>
+            <ms>четвертъ</ms>
             <pldr>четвертъ</pldr>
             <rec>четвьртъ</rec>
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>двору</ms>
             <pldr>двору</pldr>
             <rec>дворꙋ</rec>
          </w>
          <w>
+            <ms>Стратигову,</ms>
             <pldr>Стратигову,</pldr>
             <rec>Стратиговꙋ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>взя</ms>
             <pldr>взя</pldr>
             <rec>възѧ</rec>
          </w>
          <w>
+            <ms>гусли,</ms>
             <pldr>гусли,</pldr>
             <rec>гꙋсли,</rec>
          </w>
          <w>
+            <ms>начатъ</ms>
             <pldr>начатъ</pldr>
             <rec>начѧ(тъ)</rec>
          </w>
          <w>
+            <ms>играти</ms>
             <pldr>играти</pldr>
             <rec>играти</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>пети,</ms>
             <pldr>пети,</pldr>
             <rec>пѣти,</rec>
          </w>
          <w>
+            <ms>понеже</ms>
             <pldr>понеже</pldr>
             <rec>понѥже</rec>
             <!-- 10-vol. dictionary treats this form as a single word, listed after поне; but занеже is
             not so treated, only an entry for зане is found there -->
          </w>
          <w>
+            <ms>дана</ms>
             <pldr>дана</pldr>
             <rec>дана</rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
          </w>
          <w>
+            <ms>Божия</ms>
             <pldr>Божия</pldr>
             <rec>Божиꙗ</rec>
          </w>
          <w>
+            <ms>помощь,</ms>
             <pldr>помощь,</pldr>
             <rec>помощь,</rec>
          </w>
          <w>
+            <ms>иже</ms>
             <pldr>иже</pldr>
             <rec>ꙗже</rec>
          </w>
          <w>
+            <ms>имеетъ</ms>
             <pldr>имеетъ</pldr>
             <rec>имѣѥть</rec>
          </w>
          <w>
+            <ms>всегда</ms>
             <pldr>всегда</pldr>
             <rec>вьсьгда</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>наити.</rec>
             <!-- MS is defective here, but parts of ит are visible in HQ photo -->
          </w>
          <w>
+            <ms>себе.</ms>
             <pldr>себе.</pldr>
-            <rec>&#xa0;</rec>
+            <rec> </rec>
             <!-- This conjecture (Speranskij? Kuz′mina?) should be abandoned -->
          </w>
          <w>
+            <ms>Всегда</ms>
             <pldr>Всегда</pldr>
             <rec>Вьсьгда</rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
          </w>
          <w>
+            <ms>доспеет</ms>
             <pldr>доспеет</pldr>
             <rec>доспѣѥть</rec>
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>прекрасной</ms>
             <pldr>прекрасной</pldr>
             <rec>прекрасьнои</rec>
          </w>
          <w>
+            <ms>дѣвице</ms>
             <pldr>дѣвице</pldr>
             <rec>дѣвици</rec>
          </w>
          <w>
+            <ms>Стратиговне</ms>
             <pldr>Стратиговне</pldr>
             <rec>Стратиговьнѣ</rec>
          </w>
          <w>
+            <ms>исхищенной</ms>
             <pldr>исхищенной</pldr>
             <rec>исхыщенои</rec>
          </w>
          <w>
+            <ms>быти</ms>
             <pldr>быти</pldr>
             <rec>быти</rec>
          </w>
          <w>
+            <ms>от</ms>
             <pldr>от</pldr>
             <rec>отъ</rec>
          </w>
          <w>
+            <ms>Девгения,</ms>
             <pldr>Девгения,</pldr>
             <rec>Девгениꙗ,</rec>
          </w>
          <w>
+            <ms>сына</ms>
             <pldr>сына</pldr>
             <rec>сынꙋ</rec>
          </w>
          <w>
+            <ms>Амиро</ms>
             <pldr>Амиро</pldr>
             <rec>Амирова</rec>
          </w>
          <w>
+            <ms>царя.</ms>
             <pldr>царя.</pldr>
             <rec>цьсарꙗ.</rec>
          </w>

@@ -6,125 +6,159 @@
    <body>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>дѣвице</ms>
             <pldr>дѣвице</pldr>
             <rec>дѣвици</rec>
          </w>
          <w>
+            <ms>преклонити</ms>
             <pldr>преклонити</pldr>
             <rec>преклонити</rec>
-            <note>Class IVA <os>преклонити сѧ</os>; here: <gloss>hurry</gloss></note>
+            <note>Class IVA <os>преклонити сѧ</os>; here: <gloss>hurry</gloss>
+            </note>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
-            <note>Class IVA <os>преклонити сѧ</os>; here: <gloss>hurry</gloss></note>
+            <note>Class IVA <os>преклонити сѧ</os>; here: <gloss>hurry</gloss>
+            </note>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>себѣ,</ms>
             <pldr>себѣ,</pldr>
             <rec>себѣ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>ꙗко</rec>
          </w>
          <w>
+            <ms>орелъ</ms>
             <pldr>орелъ</pldr>
             <rec>орьлъ</rec>
          </w>
          <w>
+            <ms>исхити</ms>
             <pldr>исхити</pldr>
             <rec>исхыти</rec>
          </w>
          <w>
+            <ms>прекрасную</ms>
             <pldr>прекрасную</pldr>
             <rec>прекрасьнꙋю</rec>
          </w>
          <w>
+            <ms>Стратиговну,</ms>
             <pldr>Стратиговну,</pldr>
             <rec>Стратиговьнꙋ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>посади</ms>
             <pldr>посади</pldr>
             <rec>посади</rec>
          </w>
          <w>
+            <ms>ю</ms>
             <pldr>ю</pldr>
             <rec>ю</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>гриве</ms>
             <pldr>гриве</pldr>
             <rec>гривѣ</rec>
-            <note>ā-stem Lsg <os>грива</os><gloss>mane</gloss></note>
+            <note>ā-stem Lsg <os>грива</os>
+               <gloss>mane</gloss>
+            </note>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>борзаго</ms>
             <pldr>борзаго</pldr>
             <rec>бързаго</rec>
          </w>
          <w>
+            <ms>своего</ms>
             <pldr>своего</pldr>
             <rec>своѥго</rec>
          </w>
          <w>
+            <ms>фара,</ms>
             <pldr>фара,</pldr>
             <rec>фарꙗ,</rec>
             <note>jo-stem <os>фарь</os>
                <gloss>horse</gloss> has hard (o-stem) endings consistently in this text</note>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>рече</rec>
          </w>
          <w>
+            <ms>Стратигу:</ms>
             <pldr>Стратигу:</pldr>
             <rec>Стратигꙋ:</rec>
          </w>
          <w>
+            <ms>«Выеде</ms>
             <pldr>«Выеде</pldr>
             <rec>«Выѣди</rec>
-            <note>NB: corrected; 2sg imv irreg Class I <os>выѣхати (выѣдꙋть)</os></note>
+            <note>NB: corrected; 2sg imv irreg Class I <os>выѣхати (выѣдꙋть)</os>
+            </note>
             <!-- Mc actually reads выедѧ here; I'd correct to Tт's выиди, it makes more sense in context-->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>отъими</ms>
             <pldr>отъими</pldr>
             <rec>отъими</rec>
             <note>2sg imv <os>отъѧти (отъимꙋть)</os>
@@ -134,103 +168,131 @@
                and also with Class III forms (e.g., <os>имѣють</os>)).</note>
          </w>
          <w>
+            <ms>дщерь</ms>
             <pldr>дщерь</pldr>
             <rec>дъщерь</rec>
-            <note>r-stem Asg <os>дъщи</os></note>
+            <note>r-stem Asg <os>дъщи</os>
+            </note>
          </w>
          <w>
+            <ms>свою</ms>
             <pldr>свою</pldr>
             <rec>свою</rec>
          </w>
          <w>
+            <ms>прекрасную</ms>
             <pldr>прекрасную</pldr>
             <rec>прекрасьнꙋю</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>Девгения,</ms>
             <pldr>Девгения,</pldr>
             <rec>Девгениꙗ,</rec>
          </w>
          <w>
+            <ms>да</ms>
             <pldr>да</pldr>
             <rec>да</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>молвиши</ms>
             <pldr>молвиши</pldr>
             <rec>мълвиши</rec>
          </w>
          <w>
+            <ms>тако,</ms>
             <pldr>тако,</pldr>
             <rec>тако,</rec>
          </w>
          <w>
+            <ms>что</ms>
             <pldr>что</pldr>
             <rec>чьто</rec>
          </w>
          <w>
+            <ms>пришедъ</ms>
             <pldr>пришедъ</pldr>
             <rec>пришьдъ</rec>
-            <note>ppl pt a mNsg Class I <os>приити (приидꙋть)</os></note>
+            <note>ppl pt a mNsg Class I <os>приити (приидꙋть)</os>
+            </note>
          </w>
          <w>
+            <ms>татьбою</ms>
             <pldr>татьбою</pldr>
             <rec>татьбою</rec>
          </w>
          <w>
+            <ms>украде».</ms>
             <pldr>украде».</pldr>
             <rec>оукраде».</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>то</ms>
             <pldr>то</pldr>
             <rec>то</rec>
          </w>
          <w>
+            <ms>слово</ms>
             <pldr>слово</pldr>
             <rec>слово</rec>
          </w>
          <w>
+            <ms>изрекъ,</ms>
             <pldr>изрекъ,</pldr>
             <rec>изрекъ,</rec>
-            <note>ppl pt a mNsg Class I <os>изрещи (изрекꙋть)</os></note>
+            <note>ppl pt a mNsg Class I <os>изрещи (изрекꙋть)</os>
+            </note>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поехавъ</ms>
             <pldr>поехавъ</pldr>
             <rec>поѣхавъ</rec>
-            <note>ppl pt a mNsg irreg Class I <os>поѣхати (поѣдꙋть)</os></note>
+            <note>ppl pt a mNsg irreg Class I <os>поѣхати (поѣдꙋть)</os>
+            </note>
             <!--RR: NB Tт has aor. поеде here, so I'd recommend we emend Тх reading to поѣха-->
          </w>
          <w>
+            <ms>з</ms>
             <pldr>з</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>двора,</ms>
             <pldr>двора,</pldr>
             <rec>двора,</rec>
          </w>
          <w>
+            <ms>сладкую</ms>
             <pldr>сладкую</pldr>
             <rec>сладъкꙋю</rec>
          </w>
          <w>
+            <ms>пѣснь</ms>
             <pldr>пѣснь</pldr>
             <rec>пѣснь</rec>
          </w>
          <w>
+            <ms>пояху</ms>
             <pldr>пояху</pldr>
             <rec>поꙗхꙋ(ть)</rec>
             <note>3pl imperfect irreg Class I <os>пѣти, поють</os>
@@ -238,847 +300,1063 @@
             <!--RR: Probably an error for ppl pr a поѩ, see next ppl pr a below-->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>Бога</ms>
             <pldr>Бога</pldr>
             <rec>Бога</rec>
          </w>
          <w>
+            <ms>хваля.</ms>
             <pldr>хваля.</pldr>
             <rec>хвалѩ.</rec>
             <note>ppl pr a mNsg Class IVA <os>хвалити</os>
-               <gloss>praise</gloss></note>
+               <gloss>praise</gloss>
+            </note>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>ту</ms>
             <pldr>ту</pldr>
             <rec>тꙋ</rec>
          </w>
          <w>
+            <ms>песнь</ms>
             <pldr>песнь</pldr>
             <rec>песнь</rec>
          </w>
          <w>
+            <ms>сконча,</ms>
             <pldr>сконча,</pldr>
             <rec>съконьчѧ,</rec>
             <!--RR: emended ending to front nasal, following our principles-->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>пред</ms>
             <pldr>пред</pldr>
             <rec>предъ</rec>
-            <note>prep + A; = <os>прѣзъ</os>, <gloss>через; through</gloss></note>
+            <note>prep + A; = <os>прѣзъ</os>, <gloss>через; through</gloss>
+            </note>
          </w>
          <w>
+            <ms>градъ</ms>
             <pldr>градъ</pldr>
             <rec>градъ</rec>
          </w>
          <w>
+            <ms>выеде</ms>
             <pldr>выеде</pldr>
             <rec>выѣха</rec>
             <!--RR: emended aorist to correct form-->
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>милостивникомъ</ms>
             <pldr>милостивникомъ</pldr>
             <rec>милостивьникомъ</rec>
          </w>
          <w>
+            <ms>своимъ,</ms>
             <pldr>своимъ,</pldr>
             <rec>своимъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>посади</ms>
             <pldr>посади</pldr>
             <rec>посади</rec>
          </w>
          <w>
+            <ms>дѣвицу</ms>
             <pldr>дѣвицу</pldr>
             <rec>дѣвицꙋ</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>коне</ms>
             <pldr>коне</pldr>
             <rec>кони</rec>
          </w>
          <w>
+            <ms>иноходомъ,</ms>
             <pldr>иноходомъ,</pldr>
             <rec>иноходомъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поиде</ms>
             <pldr>поиде</pldr>
             <rec>поиде</rec>
             <!--RR: this is probably an error for поидошѧ, but there are no other witnesses here-->
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>шатромъ</ms>
             <pldr>шатромъ</pldr>
             <rec>шатромъ</rec>
          </w>
          <w>
+            <ms>своимъ.</ms>
             <pldr>своимъ.</pldr>
             <rec>своимъ.</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>шедъ</ms>
             <pldr>шедъ</pldr>
             <rec>шьдъ</rec>
-            <note>ppl pt a mNsg irreg Class I<os>идти, (идꙋть)</os></note>
+            <note>ppl pt a mNsg irreg Class I<os>идти, (идꙋть)</os>
+            </note>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>гору</ms>
             <pldr>гору</pldr>
             <rec>горꙋ</rec>
          </w>
          <w>
+            <ms>борзе</ms>
             <pldr>борзе</pldr>
             <rec>бързѣ</rec>
             <note>Adv (historically a short nLsg adjective; cf. Vlasto §3.68, p. 134)</note>
             <!--RR: see below-->
          </w>
          <w>
+            <ms>обозрев</ms>
             <pldr>обозрев</pldr>
             <rec>объзьрѣвъ</rec>
             <note>ppl pt a mNsg Class IVB <os>объзьрѣти сѧ</os>
-               <gloss>having surveyed</gloss></note>
+               <gloss>having surveyed</gloss>
+            </note>
             <!--RR: Tvorogov inserts обозревся (not in Mc) from Tт; in fact, борзе above (in Mc) is probably
                a corruption of aor. обозреся; if I'm right, Tvorogov gives us a form as well as its ghost-->
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
             <note>ppl pt a mNsg Class IVB <os>объзьрѣти сѧ</os>
-               <gloss>having surveyed</gloss></note>
+               <gloss>having surveyed</gloss>
+            </note>
             <!--RR: see above, this is an insertion (but a necessary one)-->
          </w>
          <w>
+            <ms>ест</ms>
             <pldr>ест</pldr>
             <rec>ѥсть</rec>
-            <note>3sg present Class V <os>быти</os></note>
+            <note>3sg present Class V <os>быти</os>
+            </note>
          </w>
          <w>
+            <ms>ли</ms>
             <pldr>ли</pldr>
             <rec>ли</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>немъ</ms>
             <pldr>немъ</pldr>
             <rec>нѥмь</rec>
          </w>
          <w>
+            <ms>погоня.</ms>
             <pldr>погоня.</pldr>
             <rec>погонꙗ.</rec>
-            <note>jā-stem Nsg <gloss>pursuit</gloss></note>
+            <note>jā-stem Nsg <gloss>pursuit</gloss>
+            </note>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>рече</rec>
          </w>
          <w>
+            <ms>дѣвице:</ms>
             <pldr>дѣвице:</pldr>
             <rec>дѣвици:</rec>
          </w>
          <w>
+            <ms>«Велика</ms>
             <pldr>«Велика</pldr>
             <rec>«Велика</rec>
          </w>
          <w>
+            <ms>есмь</ms>
             <pldr>есмь</pldr>
             <rec>ѥсмь</rec>
          </w>
          <w>
+            <ms>срама</ms>
             <pldr>срама</pldr>
             <rec>срама</rec>
-            <note>o-stem Gsg <os>срамъ</os></note>
+            <note>o-stem Gsg <os>срамъ</os>
+            </note>
          </w>
          <w>
+            <ms>добылъ,</ms>
             <pldr>добылъ,</pldr>
             <rec>добылъ,</rec>
          </w>
          <w>
+            <ms>аще</ms>
             <pldr>аще</pldr>
             <rec>аще</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>будетъ</ms>
             <pldr>будетъ</pldr>
             <rec>бꙋдеть</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>мнѣ</ms>
             <pldr>мнѣ</pldr>
             <rec>мьнѣ</rec>
          </w>
          <w>
+            <ms>погони,</ms>
             <pldr>погони,</pldr>
             <rec>погонѧ,</rec>
          </w>
          <w>
+            <ms>хощу</ms>
             <pldr>хощу</pldr>
             <rec>хощꙋ</rec>
             <!--RR: Tvorogov emends accorting to Tт, form missing in Тх (see below)-->
          </w>
          <w>
+            <ms>возвратити</ms>
             <pldr>возвратити</pldr>
             <rec>възвратити</rec>
          </w>
          <!--RR: Tvorogov emends accorting to Tт, aor возврати in Тх-->
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поносъ</ms>
             <pldr>поносъ</pldr>
             <rec>поносъ</rec>
             <note>o-stem Asg <os>поносъ</os>
-               <gloss>affront; insult</gloss></note>
+               <gloss>affront; insult</gloss>
+            </note>
          </w>
          <w>
+            <ms>имъ</ms>
             <pldr>имъ</pldr>
             <rec>имъ</rec>
          </w>
          <w>
+            <ms>сотворити».</ms>
             <pldr>сотворити».</pldr>
             <rec>сътворити».</rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>Девгении</rec>
             <!--RR: form added by Tvorogov, who ignores material in Tт here-->
          </w>
          <w>
+            <ms>милостивники</ms>
             <pldr>милостивники</pldr>
             <rec>милостивьникы</rec>
          </w>
          <w>
+            <ms>нарядивъ</ms>
             <pldr>нарядивъ</pldr>
             <rec>нарѧдивъ</rec>
             <note>ppl pt a mNsg Class IVA <os>нарѧдити</os>
-               <gloss>having arranged</gloss></note>
+               <gloss>having arranged</gloss>
+            </note>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>повеле</ms>
             <pldr>повеле</pldr>
             <rec>повелѣ</rec>
          </w>
          <w>
+            <ms>воемъ</ms>
             <pldr>воемъ</pldr>
             <rec>воѥмъ</rec>
          </w>
          <w>
+            <ms>стрещи</ms>
             <pldr>стрещи</pldr>
             <rec>стрещи</rec>
             <note>inf Class I <os>стрещи (стрегꙋть)</os>
-               <gloss>guard</gloss></note>
+               <gloss>guard</gloss>
+            </note>
          </w>
          <w>
+            <ms>около</ms>
             <pldr>около</pldr>
             <rec>около</rec>
          </w>
          <w>
+            <ms>дѣвицы,</ms>
             <pldr>дѣвицы,</pldr>
             <rec>дѣвицѧ,</rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>самъ</ms>
             <pldr>самъ</pldr>
             <rec>самъ</rec>
          </w>
          <w>
+            <ms>поеде</ms>
             <pldr>поеде</pldr>
             <rec>поѣха</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>градъ</ms>
             <pldr>градъ</pldr>
             <rec>градъ</rec>
          </w>
          <w>
+            <ms>ко</ms>
             <pldr>ко</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>двору</ms>
             <pldr>двору</pldr>
             <rec>дворꙋ</rec>
          </w>
          <w>
+            <ms>Стратигову.</ms>
             <pldr>Стратигову.</pldr>
             <rec>Стратиговꙋ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>поеха</ms>
             <pldr>поеха</pldr>
             <rec>поѣха</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>дворъ</ms>
             <pldr>дворъ</pldr>
             <rec>дворъ</rec>
          </w>
          <w>
+            <ms>Стратиговъ,</ms>
             <pldr>Стратиговъ,</pldr>
             <rec>Стратиговъ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>удари</ms>
             <pldr>удари</pldr>
             <rec>оудари</rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>сени</ms>
             <pldr>сени</pldr>
             <rec>сѣни</rec>
          </w>
          <!--RR: written with jat'; see Vasmer s.v. сень, Miklosich s.v. сѣнь, etc.-->
          <w>
+            <ms>Стратиговы</ms>
             <pldr>Стратиговы</pldr>
             <rec>Стратиговы</rec>
          </w>
          <w>
+            <ms>копиемъ,</ms>
             <pldr>копиемъ,</pldr>
             <rec>копиѥмь,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>сени</ms>
             <pldr>сени</pldr>
             <rec>сѣни</rec>
             <!--RR: written with jat'; see Vasmer s.v. сень, Miklosich s.v. сѣнь, etc.-->
          </w>
          <w>
+            <ms>распадоша</ms>
             <pldr>распадоша</pldr>
             <rec>распадошѧ</rec>
             <note>3pl aorist Class I <os>распасти (распадꙋть)</os>
                <gloss>fall apart</gloss> (don’t confuse with Class III <os>распадати</os>)</note>
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
             <note>3pl aorist Class I <os>распасти (распадꙋть)</os>
                <gloss>fall apart</gloss> (not Class III <os>распадати</os>)</note>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>вси</ms>
             <pldr>вси</pldr>
             <rec>вьси</rec>
          </w>
          <w>
+            <ms>быша</ms>
             <pldr>быша</pldr>
             <rec>бышѧ</rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>ужасти</ms>
             <pldr>ужасти</pldr>
             <rec>оужасти</rec>
-            <note>f ĭ-stem <os>оужасть</os>; synonym of m o-stem <os>ужасъ</os></note>
+            <note>f ĭ-stem <os>оужасть</os>; synonym of m o-stem <os>ужасъ</os>
+            </note>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>въ</rec>
          </w>
          <w>
+            <ms>дворе.</ms>
             <pldr>дворе.</pldr>
             <rec>дворѣ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>начатъ</ms>
             <pldr>начатъ</pldr>
             <rec>начѧ(тъ)</rec>
          </w>
          <w>
+            <ms>велегласно</ms>
             <pldr>велегласно</pldr>
             <rec>велегласьно</rec>
          </w>
          <w>
+            <ms>кликать,</ms>
             <pldr>кликать,</pldr>
             <rec>кликати,</rec>
          </w>
          <w>
+            <ms>вонъ</ms>
             <pldr>вонъ</pldr>
             <rec>вънъ</rec>
          </w>
          <w>
+            <ms>зовы</ms>
             <pldr>зовы</pldr>
             <rec>зовы</rec>
             <note>ppl pr a mNsg irreg Class I <os>зъвати (зовуть)</os>
-               <gloss>calling</gloss></note>
+               <gloss>calling</gloss>
+            </note>
          </w>
          <w>
+            <ms>Стратига</ms>
             <pldr>Стратига</pldr>
             <rec>Стратига</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>рече:</ms>
             <pldr>рече:</pldr>
             <rec>рече:</rec>
          </w>
          <w>
+            <ms>«О</ms>
             <pldr>«О</pldr>
             <rec>«О</rec>
          </w>
          <w>
+            <ms>Стратиже</ms>
             <pldr>Стратиже</pldr>
             <rec>Стратиже</rec>
          </w>
          <w>
+            <ms>преславны,</ms>
             <pldr>преславны,</pldr>
             <rec>преславьныи,</rec>
          </w>
          <w>
+            <ms>кою</ms>
             <pldr>кою</pldr>
             <rec>кꙋю</rec>
          </w>
          <w>
+            <ms>дерзость</ms>
             <pldr>дерзость</pldr>
             <rec>дьрзость</rec>
          </w>
          <w>
+            <ms>имаши</ms>
             <pldr>имаши</pldr>
             <rec>имаши</rec>
          </w>
          <w>
+            <ms>или</ms>
             <pldr>или</pldr>
             <rec>или</rec>
          </w>
          <w>
+            <ms>сынове</ms>
             <pldr>сынове</pldr>
             <rec>сынове</rec>
          </w>
          <w>
+            <ms>твои,</ms>
             <pldr>твои,</pldr>
             <rec>твои,</rec>
          </w>
          <w>
+            <ms>иже</ms>
             <pldr>иже</pldr>
             <rec>иже</rec>
             <note>= <os>аже</os>
-               <gloss>if; that</gloss></note>
+               <gloss>if; that</gloss>
+            </note>
          </w>
          <w>
+            <ms>есмь</ms>
             <pldr>есмь</pldr>
             <rec>ѥсмь</rec>
          </w>
          <w>
+            <ms>исхитилъ</ms>
             <pldr>исхитилъ</pldr>
             <rec>исхытилъ</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>тѣбѣ</ms>
             <pldr>тѣбѣ</pldr>
             <rec>тебе</rec>
          </w>
          <w>
+            <ms>тщерь,</ms>
             <pldr>тщерь,</pldr>
             <rec>дъщерь,</rec>
             <note>r-stem Asg <os>дъщи</os> r-stem Asg <os>дъщи</os>, with regressive (de)voicing
                assimilation after jer loss</note>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>бысть</ms>
             <pldr>бысть</pldr>
             <rec>бысть</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>мнѣ</ms>
             <pldr>мнѣ</pldr>
             <rec>мьнѣ</rec>
          </w>
          <w>
+            <ms>погони</ms>
             <pldr>погони</pldr>
             <rec>погонѧ</rec>
          </w>
          <w>
+            <ms>от</ms>
             <pldr>от</pldr>
             <rec>отъ</rec>
          </w>
          <w>
+            <ms>тѣбѣ,</ms>
             <pldr>тѣбѣ,</pldr>
             <rec>тебе,</rec>
          </w>
          <w>
+            <ms>ни</ms>
             <pldr>ни</pldr>
             <rec>ни</rec>
          </w>
          <w>
+            <ms>от</ms>
             <pldr>от</pldr>
             <rec>отъ</rec>
          </w>
          <w>
+            <ms>сыновъ</ms>
             <pldr>сыновъ</pldr>
             <rec>сыновъ</rec>
          </w>
          <w>
+            <ms>твоихъ.</ms>
             <pldr>твоихъ.</pldr>
             <rec>твоихъ.</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>еще</ms>
             <pldr>еще</pldr>
             <rec>ѥще</rec>
          </w>
          <w>
+            <ms>возвратих</ms>
             <pldr>возвратих</pldr>
             <rec>възвратихъ</rec>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>понос</ms>
             <pldr>понос</pldr>
             <rec>поносъ</rec>
          </w>
          <w>
+            <ms>ти</ms>
             <pldr>ти</pldr>
             <rec>ти</rec>
          </w>
          <w>
+            <ms>великъ</ms>
             <pldr>великъ</pldr>
             <rec>великъ</rec>
          </w>
          <w>
+            <ms>сотворихъ,</ms>
             <pldr>сотворихъ,</pldr>
             <rec>сътворихъ,</rec>
          </w>
          <w>
+            <ms>да</ms>
             <pldr>да</pldr>
             <rec>да</rec>
             <note>conj <os>да</os>
-               <gloss>in order that</gloss></note>
+               <gloss>in order that</gloss>
+            </note>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>глаголеши</ms>
             <pldr>глаголеши</pldr>
             <rec>глаголѥши</rec>
          </w>
          <w>
+            <ms>последи,</ms>
             <pldr>последи,</pldr>
             <rec>послѣди,</rec>
             <note>adv <os>послѣди</os>
-               <gloss>subsequently, later</gloss></note>
+               <gloss>subsequently, later</gloss>
+            </note>
          </w>
          <w>
+            <ms>что</ms>
             <pldr>что</pldr>
             <rec>чьто</rec>
          </w>
          <w>
+            <ms>татьбою</ms>
             <pldr>татьбою</pldr>
             <rec>татьбою</rec>
          </w>
          <w>
+            <ms>пришедь,</ms>
             <pldr>пришедь,</pldr>
             <rec>пришьдъ,</rec>
          </w>
          <w>
+            <ms>исхити</ms>
             <pldr>исхити</pldr>
             <rec>исхыти</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>мене</ms>
             <pldr>мене</pldr>
             <rec>мене</rec>
          </w>
          <w>
+            <ms>тщерь.</ms>
             <pldr>тщерь.</pldr>
             <rec>дъщерь.</rec>
          </w>
          <w>
+            <ms>Аще</ms>
             <pldr>Аще</pldr>
             <rec>Аще</rec>
          </w>
          <w>
+            <ms>имееши</ms>
             <pldr>имееши</pldr>
             <rec>имѣѥши</rec>
          </w>
          <w>
+            <ms>мужескую</ms>
             <pldr>мужескую</pldr>
             <rec>мꙋжьскꙋю</rec>
          </w>
          <w>
+            <ms>дерзость</ms>
             <pldr>дерзость</pldr>
             <rec>дьрзость</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>себѣ,</ms>
             <pldr>себѣ,</pldr>
             <rec>себе,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>кметы</ms>
             <pldr>кметы</pldr>
             <rec>къмети</rec>
          </w>
          <w>
+            <ms>твои,</ms>
             <pldr>твои,</pldr>
             <rec>твои,</rec>
          </w>
          <w>
+            <ms>то</ms>
             <pldr>то</pldr>
             <rec>то</rec>
          </w>
          <w>
+            <ms>отъими</ms>
             <pldr>отъими</pldr>
             <rec>отъими</rec>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>мене</ms>
             <pldr>мене</pldr>
             <rec>мене</rec>
          </w>
          <w>
+            <ms>тщерь</ms>
             <pldr>тщерь</pldr>
             <rec>дъщерь</rec>
          </w>
          <w>
+            <ms>свою!»</ms>
             <pldr>свою!»</pldr>
             <rec>свою!»</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>то</ms>
             <pldr>то</pldr>
             <rec>то</rec>
          </w>
          <w>
+            <ms>слово</ms>
             <pldr>слово</pldr>
             <rec>слово</rec>
          </w>
          <w>
+            <ms>изрече,</ms>
             <pldr>изрече,</pldr>
             <rec>изрече,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>поеха</ms>
             <pldr>поеха</pldr>
             <rec>поѣха</rec>
          </w>
          <w>
+            <ms>з</ms>
             <pldr>з</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>двора,</ms>
             <pldr>двора,</pldr>
             <rec>двора,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>возврати</ms>
             <pldr>возврати</pldr>
             <rec>възврати</rec>
          </w>
          <w>
+            <ms>сь</ms>
             <pldr>сь</pldr>
             <rec>сѧ</rec>
          </w>
          <w>
+            <ms>вспять,</ms>
             <pldr>вспять,</pldr>
             <rec>въспѧть,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>кликну</ms>
             <pldr>кликну</pldr>
             <rec>кликнꙋ</rec>
          </w>
          <w>
+            <ms>велегласно:</ms>
             <pldr>велегласно:</pldr>
             <rec>велегласьно:</rec>
          </w>
          <w>
+            <ms>«Азъ</ms>
             <pldr>«Азъ</pldr>
             <rec>«Ꙗзъ</rec>
          </w>
          <w>
+            <ms>еду</ms>
             <pldr>еду</pldr>
             <rec>ѣдꙋ</rec>
          </w>
          <w>
+            <ms>из</ms>
             <pldr>из</pldr>
             <rec>из</rec>
          </w>
          <w>
+            <ms>града</ms>
             <pldr>града</pldr>
             <rec>града</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>пожду</ms>
             <pldr>пожду</pldr>
             <rec>пожьдꙋ</rec>
          </w>
          <w>
+            <ms>васъ</ms>
             <pldr>васъ</pldr>
             <rec>васъ</rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>на</rec>
          </w>
          <w>
+            <ms>поле,</ms>
             <pldr>поле,</pldr>
             <rec>поли,</rec>
          </w>
          <w>
+            <ms>да</ms>
             <pldr>да</pldr>
             <rec>да</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>молвите,</ms>
             <pldr>молвите,</pldr>
             <rec>мълвите,</rec>
          </w>
          <w>
+            <ms>что</ms>
             <pldr>что</pldr>
             <rec>чьто</rec>
          </w>
          <w>
+            <ms>пришедъ</ms>
             <pldr>пришедъ</pldr>
             <rec>пришьдъ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>обольстивъ,</ms>
             <pldr>обольстивъ,</pldr>
             <rec>объльстивъ,</rec>
             <note>ppl pt a mNsg Class IVA <os>объльстити</os>
-               <gloss>having deceived</gloss></note>
+               <gloss>having deceived</gloss>
+            </note>
          </w>
          <w>
+            <ms>побеже</ms>
             <pldr>побеже</pldr>
             <rec>побѣже</rec>
             <note>3sg aorist Class II <os>побѣгнꙋти</os>
@@ -1088,231 +1366,286 @@
                would be <os>бѣжа</os>.</note>
          </w>
          <w>
+            <ms>от</ms>
             <pldr>от</pldr>
             <rec>отъ</rec>
          </w>
          <w>
+            <ms>насъ».</ms>
             <pldr>насъ».</pldr>
             <rec>насъ».</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Услыша</ms>
             <pldr>Услыша</pldr>
             <rec>Оуслыша</rec>
          </w>
          <w>
+            <ms>Стратигь</ms>
             <pldr>Стратигь</pldr>
             <rec>Стратигъ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>зело</ms>
             <pldr>зело</pldr>
             <rec>зѣло</rec>
          </w>
          <w>
+            <ms>вострепета</ms>
             <pldr>вострепета</pldr>
             <rec>въстрепета</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>начат</ms>
             <pldr>начат</pldr>
             <rec>начѧ(тъ)</rec>
          </w>
          <w>
+            <ms>кликати</ms>
             <pldr>кликати</pldr>
             <rec>кликати</rec>
          </w>
          <w>
+            <ms>сыны</ms>
             <pldr>сыны</pldr>
             <rec>сыны</rec>
          </w>
          <w>
+            <ms>своя:</ms>
             <pldr>своя:</pldr>
             <rec>своѩ:</rec>
          </w>
          <w>
+            <ms>«Где</ms>
             <pldr>«Где</pldr>
             <rec>«Къде</rec>
          </w>
          <w>
+            <ms>сутъ</ms>
             <pldr>сутъ</pldr>
             <rec>сꙋть</rec>
          </w>
          <w>
+            <ms>мои</ms>
             <pldr>мои</pldr>
             <rec>мои</rec>
          </w>
          <w>
+            <ms>кметы,</ms>
             <pldr>кметы,</pldr>
             <rec>къмети,</rec>
          </w>
          <w>
+            <ms>иже</ms>
             <pldr>иже</pldr>
             <rec>иже</rec>
          </w>
          <w>
+            <ms>1000</ms>
             <pldr>1000</pldr>
             <rec>·҂а҃·</rec>
          </w>
          <w>
+            <ms>емлютъ,</ms>
             <pldr>емлютъ,</pldr>
             <rec>ѥмлють,</rec>
             <note>3pl pr irreg Class III <os>имати</os>
                <gloss>take</gloss> (cf. Vlasto §3.92.3(b))</note>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>ини</ms>
             <pldr>ини</pldr>
             <rec>ини</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>две</ms>
             <pldr>две</pldr>
             <rec>дъвѣ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>5000</ms>
             <pldr>5000</pldr>
             <rec>·҂е҃·</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>по</rec>
          </w>
          <w>
+            <ms>десяти</ms>
             <pldr>десяти</pldr>
             <rec>десѧти</rec>
          </w>
          <w>
+            <ms>тысящъ.</ms>
             <pldr>тысящъ.</pldr>
             <rec>тысѧщь?</rec>
             <!--RR: Punctuation corrected from PLDR-->
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>ныне</ms>
             <pldr>ныне</pldr>
             <rec>нынѣ</rec>
          </w>
          <w>
+            <ms>борзо</ms>
             <pldr>борзо</pldr>
             <rec>бързо</rec>
          </w>
          <w>
+            <ms>совокупите</ms>
             <pldr>совокупите</pldr>
             <rec>съвъкꙋпите</rec>
          </w>
          <w>
+            <ms>ихъ</ms>
             <pldr>ихъ</pldr>
             <rec>ихъ</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>протъчи</ms>
             <pldr>протъчи</pldr>
             <rec>прочѧѩ</rec>
             <note>contracted long-form mApl <os>прочии</os>, with the Npl form replacing the Apl
                (also for the following adj and noun)</note>
          </w>
          <w>
+            <ms>сильни</ms>
             <pldr>сильни</pldr>
             <rec>сильныѩ</rec>
          </w>
          <w>
+            <ms>вои!»</ms>
             <pldr>вои!»</pldr>
             <rec>воѩ!»</rec>
          </w>
       </p>
       <p>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>же</rec>
          </w>
          <w>
+            <ms>приде</ms>
             <pldr>приде</pldr>
             <rec>прииде</rec>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>къ</rec>
          </w>
          <w>
+            <ms>дѣвице</ms>
             <pldr>дѣвице</pldr>
             <rec>дѣвици</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>ссади</ms>
             <pldr>ссади</pldr>
             <rec>съсади</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>коня</ms>
             <pldr>коня</pldr>
             <rec>конꙗ</rec>
          </w>
          <w>
+            <ms>своего</ms>
             <pldr>своего</pldr>
             <rec>своѥго</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>рече</rec>
          </w>
          <w>
+            <ms>дѣвице:</ms>
             <pldr>дѣвице:</pldr>
             <rec>дѣвици:</rec>
          </w>
          <w>
+            <ms>«Сяди,</ms>
             <pldr>«Сяди,</pldr>
             <rec>«Сѧди,</rec>
          </w>
          <w>
+            <ms>обыщи</ms>
             <pldr>обыщи</pldr>
             <rec>объищи</rec>
             <note>2sg imv Class I <os>обыскати (обыщꙋть)</os>
@@ -1324,166 +1657,207 @@
             <!--RR: Changed spelling from обы- to объи-, as we have done elsewhere-->
          </w>
          <w>
+            <ms>мя,</ms>
             <pldr>мя,</pldr>
             <rec>мѧ,</rec>
          </w>
          <w>
+            <ms>главу</ms>
             <pldr>главу</pldr>
             <rec>главꙋ</rec>
          </w>
          <w>
+            <ms>мою,</ms>
             <pldr>мою,</pldr>
             <rec>мою,</rec>
          </w>
          <w>
+            <ms>дондеже</ms>
             <pldr>дондеже</pldr>
             <rec>доньдеже</rec>
          </w>
          <w>
+            <ms>отець</ms>
             <pldr>отець</pldr>
             <rec>отьць</rec>
          </w>
          <w>
+            <ms>твой</ms>
             <pldr>твой</pldr>
             <rec>твои</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>братия</ms>
             <pldr>братия</pldr>
             <rec>братиꙗ</rec>
          </w>
          <w>
+            <ms>твоя</ms>
             <pldr>твоя</pldr>
             <rec>твоꙗ</rec>
          </w>
          <w>
+            <ms>приидутъ</ms>
             <pldr>приидутъ</pldr>
             <rec>приидꙋть</rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>съ</rec>
          </w>
          <w>
+            <ms>вои</ms>
             <pldr>вои</pldr>
             <rec>вои</rec>
          </w>
          <w>
+            <ms>своими.</ms>
             <pldr>своими.</pldr>
             <rec>своими.</rec>
          </w>
          <w>
+            <ms>Аще</ms>
             <pldr>Аще</pldr>
             <rec>Аще</rec>
          </w>
          <w>
+            <ms>азъ</ms>
             <pldr>азъ</pldr>
             <rec>ꙗзъ</rec>
          </w>
          <w>
+            <ms>усну,</ms>
             <pldr>усну,</pldr>
             <rec>оусънꙋ,</rec>
          </w>
          <w>
+            <ms>то</ms>
             <pldr>то</pldr>
             <rec>то</rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>не</rec>
          </w>
          <w>
+            <ms>мози</ms>
             <pldr>мози</pldr>
             <rec>мози</rec>
             <note>2sg imv Class I <os>мощи (могꙋть)</os>, <gloss>don't dare</gloss>, cf. Vlasto
                §3.113.5</note>
          </w>
          <w>
+            <ms>будити</ms>
             <pldr>будити</pldr>
             <rec>бꙋдити</rec>
          </w>
          <w>
+            <ms>мя</ms>
             <pldr>мя</pldr>
             <rec>мѧ</rec>
          </w>
          <w>
+            <ms>ужасно,</ms>
             <pldr>ужасно,</pldr>
             <rec>оужасьно,</rec>
          </w>
          <w>
+            <ms>но</ms>
             <pldr>но</pldr>
             <rec>нъ</rec>
          </w>
          <w>
+            <ms>возбуди</ms>
             <pldr>возбуди</pldr>
             <rec>възбꙋди</rec>
          </w>
          <w>
+            <ms>мя</ms>
             <pldr>мя</pldr>
             <rec>мѧ</rec>
          </w>
          <w>
+            <ms>тихо».</ms>
             <pldr>тихо».</pldr>
             <rec>тихо».</rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>И</rec>
          </w>
          <w>
+            <ms>сяде</ms>
             <pldr>сяде</pldr>
             <rec>сѣде</rec>
             <note>3sg aorist Class I <os>сѣсти (сѧдꙋть)</os>
                <gloss>sit down; assume a sitting position</gloss>. Don’t confuse this with
                   <os>сѣдѣти</os>
-               <gloss>be in a sitting position</gloss></note>
+               <gloss>be in a sitting position</gloss>
+            </note>
          </w>
          <w>
+            <ms>дѣвица,</ms>
             <pldr>дѣвица,</pldr>
             <rec>дѣвица,</rec>
          </w>
          <w>
+            <ms>начатъ</ms>
             <pldr>начатъ</pldr>
             <rec>начѧ(тъ)</rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
          </w>
          <w>
+            <ms>искати</ms>
             <pldr>искати</pldr>
             <rec>искати</rec>
          </w>
          <w>
+            <ms>главу,</ms>
             <pldr>главу,</pldr>
             <rec>главꙋ,</rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
          </w>
          <w>
+            <ms>Дивгений</ms>
             <pldr>Дивгений</pldr>
             <rec>Девгении</rec>
          </w>
          <w>
+            <ms>усне,</ms>
             <pldr>усне,</pldr>
             <rec>оусъне,</rec>
             <note>3sg aorist Class II <os>оусънꙋти</os>
-               <gloss>fall asleep</gloss></note>
+               <gloss>fall asleep</gloss>
+            </note>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>а</rec>
          </w>
          <w>
+            <ms>дѣвица</ms>
             <pldr>дѣвица</pldr>
             <rec>дѣвица</rec>
          </w>
          <w>
+            <ms>имея</ms>
             <pldr>имея</pldr>
             <rec>имѣѩ</rec>
             <note>ppl pr a mNsg (!) Originally Class V <os>имѣти (имꙋть)</os>
@@ -1491,14 +1865,17 @@
                   <os>имѣють</os>)</note>
          </w>
          <w>
+            <ms>у</ms>
             <pldr>у</pldr>
             <rec>оу</rec>
          </w>
          <w>
+            <ms>себѣ</ms>
             <pldr>себѣ</pldr>
             <rec>себе</rec>
          </w>
          <w>
+            <ms>стражу.</ms>
             <pldr>стражу.</pldr>
             <rec>стражꙋ.</rec>
          </w>
