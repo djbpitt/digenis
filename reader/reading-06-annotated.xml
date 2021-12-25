@@ -36,7 +36,7 @@
          <w>
             <ms>бысть</ms>
             <pldr>бысть</pldr>
-            <rec>бысть</rec>
+            <rec>бы(сть)</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -252,7 +252,7 @@
          <w>
             <ms>Когда</ms>
             <pldr>Когда</pldr>
-            <rec>Когда</rec>
+            <rec>Къгда</rec>
          </w>
          <w>
             <ms>приидетъ</ms>
@@ -777,7 +777,7 @@
          <w>
             <ms>вестью</ms>
             <pldr>вестью</pldr>
-            <rec>вѣстью</rec>
+            <rec>вѣстию</rec>
          </w>
          <w>
             <ms>быти,</ms>
@@ -906,7 +906,7 @@
          <w>
             <ms>лову</ms>
             <pldr>лову</pldr>
-            <rec>ловꙋ</rec>
+            <rec>лова</rec>
             <note>noun o-stem(!) g sg m <os>ловъ</os>
                <gloss>hunt</gloss>
             </note>
@@ -944,7 +944,7 @@
          <w>
             <ms>вестью</ms>
             <pldr>вестью</pldr>
-            <rec>вѣстью</rec>
+            <rec>вѣстию</rec>
          </w>
          <w>
             <ms>приспе,</ms>
@@ -1519,7 +1519,7 @@
          <w>
             <ms>копиемъ,</ms>
             <pldr>копиемъ,</pldr>
-            <rec>копиѥмь,</rec>
+            <rec>копиимь,</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -1810,7 +1810,7 @@
          <w>
             <ms>«Зде</ms>
             <pldr>«Зде</pldr>
-            <rec>«Съдѣ</rec>
+            <rec>«Сьде</rec>
          </w>
          <w>
             <ms>в</ms>
@@ -1840,7 +1840,7 @@
          <w>
             <ms>смеетъ</ms>
             <pldr>смеетъ</pldr>
-            <rec>съмѣетъ</rec>
+            <rec>съмѣѥтъ</rec>
          </w>
          <w>
             <ms>влететь,</ms>
@@ -1993,11 +1993,12 @@
          <w>
             <ms>смея</ms>
             <pldr>смея</pldr>
-            <rec>съмѣꙗ</rec>
+            <rec>съмѣꙗхꙋ</rec>
             <note>ppl pr a n sg(!) m <os>съмѣти</os>
                <gloss>daring</gloss>
             </note>
-            <!--RR: in my reconstruction I emend to съмѣꙗхꙋ, based on Tt's singular ipf смеяше-->
+            <!--RR: This clause needs a finite verb; I emend to съмѣꙗхꙋ, 
+               based on Tt's singular ipf смеяше-->
          </w>
          <w>
             <ms>ничтоже</ms>
