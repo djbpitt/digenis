@@ -1,0 +1,173 @@
+/* https://www.princexml.com/forum/topic/1341/how-do-i-number-lines-of-a-paragraph */
+/* https://geon.github.io/programming/2016/02/24/flexbox-full-page-web-app-layout */
+/* 
+ * To scroll middle (main):
+ * 
+ * Set height of html and body to 100%
+ * Set body to position:relative and overflow:hidden
+ * Set main (child of body) to position:relative and overflow: scroll
+ * Create wrapper <div id="scrollable"> child of <main>; set position:relative and overflow:hidden
+ * Set <div id="labels"> to:
+ *    margin-top: 0;
+ *    position: absolute;
+ *    top: 0;
+ *    width: 40px;
+ *    color: gray;
+ *    border-right: 1px lightgray solid;
+ *    margin-right: 1em;
+ * 
+ */
+@font-face {
+  font-family: 'romancyrillic_stdregular';
+  src: url('fonts/romancyrillic_std-webfont.woff2') format('woff2'), 
+url('fonts/romancyrillic_std-webfont.woff') format('woff'), 
+url('fonts/romancyrillic_std-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Monomakh Unicode Web';
+  src: url('fonts/MonomakhUnicode.eot');
+  src: url('fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'), 
+url('fonts/MonomakhUnicode.woff2') format('woff2'), 
+url('fonts/MonomakhUnicode.woff') format('woff'), 
+url('fonts/MonomakhUnicode.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bukyvede_lightregular';
+  src: url('fonts/bukyvede_light-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede_light-webfont.woff') format('woff'), 
+url('fonts/bukyvede_light-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bukyvedebold';
+  src: url('fonts/bukyvede-bold-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-bold-webfont.woff') format('woff'), 
+url('fonts/bukyvede-bold-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bukyvedeitalic';
+  src: url('fonts/bukyvede-italic-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-italic-webfont.woff') format('woff'), 
+url('fonts/bukyvede-italic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bukyvederegular';
+  src: url('fonts/bukyvede-regular-webfont.woff2') format('woff2'), 
+url('fonts/bukyvede-regular-webfont.woff') format('woff'), 
+url('fonts/bukyvede-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+main {
+  position: relative;
+  overflow: scroll;
+}
+#scrollable {
+  position: relative;
+  overflow: hidden;
+}
+div.p {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 40px;
+}
+div.w {
+  display: flex;
+  flex-direction: column;
+}
+span.rec,
+span.pldr,
+span.n {
+  padding: 0.3em;
+}
+span.rec {
+  font-family: "romancyrillic_stdregular", "RomanCyrillic Std";
+  /*margin-bottom: 0.5em;*/
+  border-bottom: lightgray 1px solid
+}
+span.pldr,
+.os {
+  /*font-family: "bukyvederegular", "Bukyvede";*/
+  font-family: "Monomakh Unicode Web", "Monomakh Unicode";
+  /*font-size: 110%;*/
+  /*letter-spacing: 0.05em;*/
+}
+div.label_group > span {
+  font-family: serif;
+}
+span.n {
+  text-align: center;
+  border-top: lightgray 1px solid;
+  color: gray;
+  font-size: smaller;
+}
+footer {
+  border-top: 1px gray solid;
+  margin-left: 0.5em;
+}
+#grammar {
+  margin-top: .5em;
+}
+.note {
+  background-color: pink;
+  font-size: initial; /* Global stylesheet reduces size of notes */
+}
+.diff {
+  background-color: lightblue;
+}
+.annotation {
+  visibility: hidden;
+  background-color: yellow;
+  padding: 0.5em;
+  margin-left: -2em;
+  max-width: 30%;
+  position: absolute;
+  border: 1px gray solid;
+  z-index: 1;
+}
+div#labels {
+  margin-top: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  color: gray;
+  border-right: 1px lightgray solid;
+  margin-right: 1em;
+}
+div.label_group {
+  display: flex;
+  flex-direction: column;
+}
+span.gloss::before {
+  content: "‘";
+}
+span.gloss::after {
+  content: "’"
+}
+.outline {
+  border: 1px red solid;
+  border-radius: 10px;
+}
+gk {
+  font-style: italic;
+}
