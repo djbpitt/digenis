@@ -3,6 +3,12 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:djb="http://www.obdurodon.org" xmlns:math="http://www.w3.org/2005/xpath-functions/math"
   exclude-result-prefixes="xs math" version="3.0">
+  <!-- ================================================================== -->
+  <!-- Public (final):                                                    -->
+  <!--                                                                    -->
+  <!-- sort-os : remaps Cyrillic for use in sort key                      -->
+  <!-- ================================================================== -->
+  
   <xsl:variable name="os-norm" as="map(xs:string, xs:integer)" visibility="private">
     <xsl:map>
       <!-- оу is initial only; у never appears except in оу -->
