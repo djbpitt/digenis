@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml"
-  xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
-  version="3.0">
+  xmlns:djb="http://www.obdurodon.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+  exclude-result-prefixes="#all" version="3.0">
   <!-- ================================================================== -->
   <!-- Create frequency list of all lexemes                               -->
   <!-- Report lemma, frequency, part of speech, gloss                     -->
+  <!-- Run from command line with EE and -config:ee-package-config.xml    -->
   <!-- ================================================================== -->
+
+  <!-- ================================================================== -->
+  <!-- Housekeeping                                                       -->
+  <!-- ================================================================== -->
+  <xsl:use-package name="http://www.obdurodon.org/digenis-functions" version="1.0"/>
+  <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
+    indent="yes"/>
 
   <!-- ================================================================== -->
   <!-- Stylesheet variables                                               -->
@@ -61,10 +69,10 @@
                 name()" composite="yes">
             <!-- ======================================================== -->
             <!-- Descending frequency, then subsort alphabetically        -->
-            <!-- TODO: May need to fix early Cyrillic sort order          -->
+            <!-- TODO: Fix early Cyrillic sort order                      -->
             <!-- ======================================================== -->
             <xsl:sort select="count(current-group())" order="descending"/>
-            <xsl:sort select="current-grouping-key()[1]"/>
+            <xsl:sort select="current-grouping-key()[1] ! djb:sort-os(.)"/>
             <tr>
               <td>
                 <xsl:value-of select="current-grouping-key()[1]"/>

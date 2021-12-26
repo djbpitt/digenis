@@ -112,8 +112,7 @@
          <w>
             <pldr>14</pldr>
             <rec>
-               <number lemma="четвьртыи на десѧте" gender="n" case="A" number="sg"
-                  >·дꙇ҃·</number>
+               <number lemma="четвьртыи на десѧте" gender="n" case="A" number="sg">·дꙇ҃·</number>
             </rec>
             <note><os>четвьртоѥ на десѧте</os></note>
          </w>
@@ -253,7 +252,8 @@
          <w>
             <pldr>ему</pldr>
             <rec>
-               <pronoun type="pers" person="3" number="sg" lemma="и" case="D" gender="m">ѥмꙋ</pronoun>
+               <pronoun type="pers" person="3" number="sg" lemma="и" case="D" gender="m"
+                  >ѥмꙋ</pronoun>
             </rec>
          </w>
          <w>
@@ -289,7 +289,8 @@
          <w>
             <pldr>младъ,</pldr>
             <rec>
-               <adjective lemma="младыи" length="sh" gender="m" case="N" number="sg">младъ,</adjective>
+               <adjective lemma="младыи" length="sh" gender="m" case="N" number="sg"
+                  >младъ,</adjective>
             </rec>
          </w>
          <w>
@@ -331,19 +332,22 @@
          <w>
             <pldr>ми</pldr>
             <rec>
-               <pronoun lemma="ꙗзъ" type="pers" person="1" number="sg" length="sh" case="D">ми</pronoun>
+               <pronoun lemma="ꙗзъ" type="pers" person="1" number="sg" length="sh" case="D"
+                  >ми</pronoun>
             </rec>
          </w>
          <w>
             <pldr>тебѣ,</pldr>
             <rec>
-               <pronoun type="pers" lemma="ты" person="2" case="A" length="lg" number="sg">тебе,</pronoun>
+               <pronoun type="pers" lemma="ты" person="2" case="A" length="lg" number="sg"
+                  >тебе,</pronoun>
             </rec>
          </w>
          <w>
             <pldr>млада,</pldr>
             <rec>
-               <adjective lemma="младыи" length="sh" gender="m" case="A" number="sg">млада,</adjective>
+               <adjective lemma="младыи" length="sh" gender="m" case="A" number="sg"
+                  >млада,</adjective>
             </rec>
          </w>
          <w>
@@ -471,7 +475,8 @@
          <w>
             <pldr>ми</pldr>
             <rec>
-               <pronoun lemma="ты" type="pers" person="2" number="sg" case="D" length="sh">ми</pronoun>
+               <pronoun lemma="ты" type="pers" person="2" number="sg" case="D" length="sh"
+                  >ми</pronoun>
             </rec>
          </w>
          <w>
@@ -501,7 +506,8 @@
          <w>
             <pldr>великое</pldr>
             <rec>
-               <adjective lemma="великыи" length="lg" number="sg" case="N" gender="n">великоѥ</adjective>
+               <adjective lemma="великыи" length="lg" number="sg" case="N" gender="n"
+                  >великоѥ</adjective>
             </rec>
          </w>
          <w>
@@ -653,7 +659,8 @@
          <w>
             <pldr>нимъ</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" person="3" number="sg" case="I" gender="m">нимь</pronoun>
+               <pronoun lemma="и" type="pers" person="3" number="sg" case="I" gender="m"
+                  >нимь</pronoun>
             </rec>
          </w>
          <w>
@@ -683,7 +690,8 @@
          <w>
             <pldr>мнози</pldr>
             <rec>
-               <adjective lemma="мъногыи" length="sh" gender="m" case="N" number="pl">мънози</adjective>
+               <adjective lemma="мъногыи" length="sh" gender="m" case="N" number="pl"
+                  >мънози</adjective>
             </rec>
             <note>mNpl short adjective <os>мъногъ</os>
                <gloss>many</gloss></note>
@@ -735,7 +743,8 @@
          <w>
             <pldr>нимъ,</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" person="3" case="I" number="sg" gender="m">нимь,</pronoun>
+               <pronoun lemma="и" type="pers" person="3" case="I" number="sg" gender="m"
+                  >нимь,</pronoun>
             </rec>
          </w>
          <w>
@@ -755,7 +764,8 @@
          <w>
             <pldr>Девгениеву</pldr>
             <rec>
-               <adjective lemma="девгениѥвъ" number="sg" case="A" gender="f" length="sh">Девгениѥвꙋ</adjective>
+               <adjective lemma="девгениѥвъ" number="sg" case="A" gender="f" length="sh"
+                  >Девгениѥвꙋ</adjective>
             </rec>
          </w>
          <w>
@@ -773,8 +783,8 @@
          <w>
             <pldr>вышедше</pldr>
             <rec>
-               <participle lemma="выити" tense="pt" voice="act" gender="m" case="N" number="pl" length="sh"
-                  >вышьдъше</participle>
+               <participle lemma="выити" tense="pt" voice="act" gender="m" case="N" number="pl"
+                  length="sh">вышьдъше</participle>
             </rec>
             <note>mNpl short past active participle of <os>выити</os>
                <gloss>go</gloss></note>
@@ -880,7 +890,8 @@
          <w>
             <pldr>имъ</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" person="3" case="D" number="pl" gender="m">имъ</pronoun>
+               <pronoun lemma="и" type="pers" person="3" case="D" number="pl" gender="m"
+                  >имъ</pronoun>
             </rec>
          </w>
          <w>
@@ -966,7 +977,8 @@
          <w>
             <pldr>млады,</pldr>
             <rec>
-               <adjective lemma="младыи" length="lg" gender="m" number="sg" case="N">младыи,</adjective>
+               <adjective lemma="младыи" length="lg" gender="m" number="sg" case="N"
+                  >младыи,</adjective>
             </rec>
             <note>mNsg long adjective <os>младъ</os>
                <gloss>young</gloss></note>
@@ -980,7 +992,8 @@
          <w>
             <pldr>Божию</pldr>
             <rec>
-               <adjective lemma="божии" case="A" number="sg" gender="f" length="sh">Божию</adjective>
+               <adjective lemma="божии" case="A" number="sg" gender="f" length="sh"
+                  >Божию</adjective>
             </rec>
             <note>fAsg adjective <os>божии</os>
                <gloss>God’s</gloss></note>
@@ -1063,7 +1076,8 @@
          <w>
             <pldr>ними</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" number="du" case="I" person="3" gender="m">нима</pronoun>
+               <pronoun lemma="и" type="pers" number="du" case="I" person="3" gender="m"
+                  >нима</pronoun>
             </rec>
          </w>
          <w>
@@ -1121,7 +1135,8 @@
          <w>
             <pldr>ему</pldr>
             <rec>
-               <pronoun type="pers" person="3" number="sg" case="D" lemma="и" gender="m">ѥмꙋ</pronoun>
+               <pronoun type="pers" person="3" number="sg" case="D" lemma="и" gender="m"
+                  >ѥмꙋ</pronoun>
             </rec>
          </w>
          <w>
@@ -1149,7 +1164,8 @@
          <w>
             <pldr>его</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m">ѥго</pronoun>
+               <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m"
+                  >ѥго</pronoun>
             </rec>
          </w>
          <w>
@@ -1238,7 +1254,8 @@
          <w>
             <pldr>ея,</pldr>
             <rec>
-               <pronoun lemma="и" gender="f" case="G" number="sg" person="3" type="pers">ѥѩ,</pronoun>
+               <pronoun lemma="и" gender="f" case="G" number="sg" person="3" type="pers"
+                  >ѥѩ,</pronoun>
             </rec>
          </w>
          <w>
@@ -1266,7 +1283,8 @@
          <w>
             <pldr>ея</pldr>
             <rec>
-               <pronoun lemma="и" number="sg" person="3" type="pers" case="A" gender="f">ѥѩ</pronoun>
+               <pronoun lemma="и" number="sg" person="3" type="pers" case="A" gender="f"
+                  >ѥѩ</pronoun>
             </rec>
          </w>
          <w>
@@ -1342,7 +1360,8 @@
          <w>
             <pldr>нея,</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" person="3" number="sg" gender="f" case="G">нѥѩ,</pronoun>
+               <pronoun lemma="и" type="pers" person="3" number="sg" gender="f" case="G"
+                  >нѥѩ,</pronoun>
             </rec>
          </w>
          <w>
@@ -1354,7 +1373,8 @@
          <w>
             <pldr>мертва</pldr>
             <rec>
-               <adjective lemma="мьртвыи" gender="f" case="N" number="sg" length="sh">мьртва</adjective>
+               <adjective lemma="мьртвыи" gender="f" case="N" number="sg" length="sh"
+                  >мьртва</adjective>
             </rec>
          </w>
          <w>
@@ -1380,7 +1400,8 @@
          <w>
             <pldr>Други</pldr>
             <rec>
-               <adjective lemma="дрꙋгыи" case="N" number="sg" length="lg" gender="m">Дрꙋгыи</adjective>
+               <adjective lemma="дрꙋгыи" case="N" number="sg" length="lg" gender="m"
+                  >Дрꙋгыи</adjective>
             </rec>
          </w>
          <w>
@@ -1458,7 +1479,8 @@
          <w>
             <pldr>нему:</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" gender="m" case="D" number="sg" person="3">нѥмꙋ:</pronoun>
+               <pronoun type="pers" lemma="и" gender="m" case="D" number="sg" person="3"
+                  >нѥмꙋ:</pronoun>
             </rec>
          </w>
          <w>
@@ -1511,7 +1533,8 @@
          <w>
             <pldr>тебѣ</pldr>
             <rec>
-               <pronoun type="pers" person="2" number="sg" lemma="ты" case="A" length="lg">тебе</pronoun>
+               <pronoun type="pers" person="2" number="sg" lemma="ты" case="A" length="lg"
+                  >тебе</pronoun>
             </rec>
          </w>
          <w>
@@ -1535,7 +1558,8 @@
          <w>
             <pldr>радостенъ</pldr>
             <rec>
-               <adjective lemma="радостьныи" gender="m" case="N" number="sg" length="sh">радостьнъ</adjective>
+               <adjective lemma="радостьныи" gender="m" case="N" number="sg" length="sh"
+                  >радостьнъ</adjective>
             </rec>
          </w>
          <w>
@@ -1615,7 +1639,8 @@
          <w>
             <pldr>скоры</pldr>
             <rec>
-               <adjective lemma="скорыи" gender="m" case="N" number="sg" length="lg">скорыи</adjective>
+               <adjective lemma="скорыи" gender="m" case="N" number="sg" length="lg"
+                  >скорыи</adjective>
             </rec>
          </w>
          <w>
@@ -1673,7 +1698,8 @@
          <w>
             <pldr>нему</pldr>
             <rec>
-               <pronoun lemma="и" type="pers" person="3" case="D" number="sg" gender="m">нѥмꙋ</pronoun>
+               <pronoun lemma="и" type="pers" person="3" case="D" number="sg" gender="m"
+                  >нѥмꙋ</pronoun>
             </rec>
          </w>
          <w>
@@ -1726,7 +1752,8 @@
          <w>
             <pldr>его</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" person="3" case="A" number="sg" gender="m">ѥго</pronoun>
+               <pronoun type="pers" lemma="и" person="3" case="A" number="sg" gender="m"
+                  >ѥго</pronoun>
             </rec>
          </w>
          <w>
@@ -1776,7 +1803,8 @@
          <w>
             <pldr>его</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m">ѥго</pronoun>
+               <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m"
+                  >ѥго</pronoun>
             </rec>
          </w>
          <w>
@@ -1808,7 +1836,8 @@
          <w>
             <pldr>ему</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" case="D" number="sg" gender="m" person="3">ѥмꙋ</pronoun>
+               <pronoun type="pers" lemma="и" case="D" number="sg" gender="m" person="3"
+                  >ѥмꙋ</pronoun>
             </rec>
          </w>
          <w>
@@ -1918,7 +1947,8 @@
          <w>
             <pldr>великъ</pldr>
             <rec>
-               <adjective lemma="великыи" number="sg" case="N" gender="f" length="sh">велика</adjective>
+               <adjective lemma="великыи" number="sg" case="N" gender="f" length="sh"
+                  >велика</adjective>
             </rec>
          </w>
          <w>
@@ -2025,13 +2055,15 @@
          <w>
             <pldr>великъ,</pldr>
             <rec>
-               <adjective lemma="великыи" number="sg" case="N" gender="m" length="sh">великъ,</adjective>
+               <adjective lemma="великыи" number="sg" case="N" gender="m" length="sh"
+                  >великъ,</adjective>
             </rec>
          </w>
          <w>
             <pldr>тебе</pldr>
             <rec>
-               <pronoun type="pers" case="D" number="sg" length="lg" lemma="ты" person="2">тебѣ</pronoun>
+               <pronoun type="pers" case="D" number="sg" length="lg" lemma="ты" person="2"
+                  >тебѣ</pronoun>
             </rec>
          </w>
          <w>
@@ -2125,7 +2157,8 @@
          <w>
             <pldr>его</pldr>
             <rec>
-               <pronoun type="pers" lemma="и" number="sg" person="3" case="A" gender="m">ѥго</pronoun>
+               <pronoun type="pers" lemma="и" number="sg" person="3" case="A" gender="m"
+                  >ѥго</pronoun>
             </rec>
          </w>
          <w>
@@ -2137,7 +2170,8 @@
          <w>
             <pldr>задние</pldr>
             <rec>
-               <adjective lemma="задьнии" gender="f" case="A" number="du" length="lg">задьнѩѩ</adjective>
+               <adjective lemma="задьнии" gender="f" case="A" number="du" length="lg"
+                  >задьнѩѩ</adjective>
             </rec>
          </w>
          <w>

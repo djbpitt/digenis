@@ -2,8 +2,8 @@
 <?xml-model href="verbs.rnc" type="application/relax-ng-compact-syntax"?>
 <verbs>
   <verb lemma="бити" pl3="биють" class="I" gloss="beat; fight"/>
-  <verb lemma="бѣжати" pl3="бѣжѧть" class="I" gloss="run"/>
-  <verb lemma="быти" pl3="сꙋть" class="V" gloss="be" irreg="yes"/>
+  <verb lemma="бѣжати" pl3="бѣжѧть" class="IVB" gloss="run"/>
+  <verb lemma="быти" pl3="сꙋть" class="V" gloss="be"/>
   <verb lemma="възвратити сѧ" pl3="възвратѧть сѧ" class="IVA" gloss="return"/>
   <verb lemma="вънити" pl3="вънидꙋть" gloss="enter" class="I"/>
   <verb lemma="выити" pl3="выидꙋть" gloss="go out" class="I"/>
@@ -51,6 +51,6 @@
     Vlasto 137.2 (p. 185): inf either хотѣти or хътѣти;
     We lemmatize as хотѣти and assign to class III noting that it’s irreg
   -->
-  <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="yes"/>
+  <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="IVB" irreg="yes"/>
   <verb lemma="ѣхати" pl3="едꙋть" gloss="ride" class="I"/>
 </verbs>
