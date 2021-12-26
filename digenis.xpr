@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project>
     <meta>
         <filters directoryPatterns="" filePatterns="\Qdigenis.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
+            <serialized xml:space="preserve">
                 <serializableOrderedMap>
-                    <entry>
-                        <String>editor.font</String>
-                        <String>RomanCyrillic Std,0,18</String>
-                    </entry>
                     <entry>
                         <String>font.for.author.v12</String>
                         <String>RomanCyrillic Std,0,16</String>

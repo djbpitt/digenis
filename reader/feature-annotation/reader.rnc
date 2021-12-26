@@ -3,16 +3,33 @@ start = section
 # Linguistic annotation
 # 
 # <ppl> is its own part of speech
-pos = noun | pron | verb | adj | adv | conj | prep | int | particle | ppl | num
-noun = element noun { lemma, case, number, text }
+pos =
+  noun
+  | pronoun
+  | verb
+  | adjective
+  | adverb
+  | conjunction
+  | preposition
+  | interjection
+  | particle
+  | participle
+  | number
+noun =
+  element noun {
+    lemma,
+    case,
+    number-category,
+    xsd:string { pattern = ".+" }
+  }
 # 1st and 2nd person personal pronouns and reflexive do not have gender
 #   may be short or long in G, D, A
 # 3rd person personal pronouns have gender
 # non-personal pronouns have gender
 # 3rd person possessives ѥго, etc. have no number or case or gender
 # all pronouns have lemma, number, case
-pron =
-  element pron {
+pronoun =
+  element pronoun {
     ((lemma,
       attribute type { "pers" },
       attribute person { "1" | "2" | "reflex" },
@@ -31,35 +48,80 @@ pron =
         attribute lemma { "ѥго" | "ѥѩ" | "ѥю" | "ихъ" },
         attribute person { "3" })
      | (lemma, pron-type, gender, case)),
-    number,
-    text
+    number-category,
+    xsd:string { pattern = ".+" }
   }
 # person and number only if tense is not inf
 # 3sg pres of быти  (only) is optionally negated
 verb =
   element verb {
     ((lemma,
-      ((person, number, tense)
+      ((person, number-category, tense)
        | attribute tense { "inf" }))
      | (attribute lemma { "быти" },
         attribute tense { "pr" },
         attribute person { "3" },
         attribute number { "sg" },
         negated?)),
-    text
+    xsd:string { pattern = ".+" }
   }
-adj = element adj { lemma, length, gender, case, number, text }
-adv = element adv { lemma, text }
-conj = element conj { lemma, text }
-prep = element prep { lemma, text }
-int = element interg { lemma, text }
-particle = element particle { lemma, text }
-ppl = element ppl { lemma, tense, voice, length, gender, case, number, text }
-num = element num { lemma, num-type, gender, case, number, text }
+adjective =
+  element adjective {
+    lemma,
+    length,
+    gender,
+    case,
+    number-category,
+    xsd:string { pattern = ".+" }
+  }
+adverb =
+  element adverb {
+    lemma,
+    xsd:string { pattern = ".+" }
+  }
+conjunction =
+  element conjunction {
+    lemma,
+    xsd:string { pattern = ".+" }
+  }
+preposition =
+  element preposition {
+    lemma,
+    xsd:string { pattern = ".+" }
+  }
+interjection =
+  element interjection {
+    lemma,
+    xsd:string { pattern = ".+" }
+  }
+particle =
+  element particle {
+    lemma,
+    xsd:string { pattern = ".+" }
+  }
+participle =
+  element participle {
+    lemma,
+    tense,
+    voice,
+    length,
+    gender,
+    case,
+    number-category,
+    xsd:string { pattern = ".+" }
+  }
+number =
+  element number {
+    lemma,
+    gender,
+    case,
+    number-category,
+    xsd:string { pattern = ".+" }
+  }
 person = attribute person { "1" | "2" | "3" }
 gender = attribute gender { "m" | "f" | "n" }
 case = attribute case { "N" | "A" | "G" | "D" | "I" | "L" | "V" }
-number = attribute number { "sg" | "du" | "pl" }
+number-category = attribute number { "sg" | "du" | "pl" }
 noun-paradigm =
   attribute paradigm { "o" | "jo" | "ā" | "jā" | "ĭ" | "ŭ" | "r" | "n" | "s" | "nt" | "ū" }
 # @tense include mood (imv, cond); omit inf and handle separately because inf excludes person and number
@@ -71,33 +133,53 @@ tense =
   }
 voice = attribute voice { "act" | "pass" }
 # omit pers and handle separately because pers require person
-pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
+pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" | "ana" }
 length = attribute length { "sh" | "lg" }
-num-type = attribute type { "card" | "ord" | "coll" }
 degree = attribute degree { "comp" | "sup" }
 syntax = attribute syntax { "dat+inf" | "dat abs" }
-lemma = attribute lemma { text }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
 negated = attribute negated { "yes" }
 # 
 # main
 #
 section = element section { title, body }
-title = element title { text }
+title =
+  element title {
+    xsd:string { pattern = ".+" }
+  }
 body = element body { p+ }
 p = element p { w+ }
 w = element w { pldr, rec, note? }
-pldr = element pldr { text }
+pldr =
+  element pldr {
+    xsd:string { pattern = ".+" }
+  }
 rec = element rec { pos }
 note =
   element note {
     mixed { (os | gloss | link | title | q | em)* & pos* }
   }
-em = element em { text }
-gloss = element gloss { text }
-os = element os { text }
+em =
+  element em {
+    xsd:string { pattern = ".+" }
+  }
+gloss =
+  element gloss {
+    xsd:string { pattern = "(.|\n)+" }
+  }
+os =
+  element os {
+    xsd:string { pattern = ".+" }
+  }
 link = element link { xsd:anyURI }
 q =
   element q {
     mixed { em* }
   }
-gk = element gk { text }
+gk =
+  element gk {
+    xsd:string { pattern = ".+" }
+  }

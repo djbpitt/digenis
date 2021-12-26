@@ -1,0 +1,11 @@
+start = adverbs
+adverbs = element adverbs { adverb+ }
+adverb = element adverb { lemma, gloss, empty }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = ".+" }
+  }

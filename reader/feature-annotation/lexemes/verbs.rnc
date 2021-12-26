@@ -1,0 +1,17 @@
+start = verbs
+verbs = element verbs { verb+ }
+verb = element verb { lemma, pl3, class, gloss, irreg? }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = "(.|\n)+" }
+  }
+pl3 =
+  attribute pl3 {
+    xsd:string { pattern = "(.|\n)+" }
+  }
+class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
+irreg = attribute irreg { "yes" }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = "(.|\n)+" }
+  }

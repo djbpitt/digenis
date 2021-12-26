@@ -1,6 +1,0 @@
-start = pronouns
-pronouns = element pronouns { pronoun+ }
-pronoun = element pronoun { lemma, type, gloss }
-lemma = attribute lemma { text }
-type = attribute type { "pers" | "poss" | "interrog" | "rel" | "all" | "indef" }
-gloss = attribute gloss { text }

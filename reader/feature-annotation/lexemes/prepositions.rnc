@@ -1,5 +1,8 @@
 start = prepositions
 prepositions = element prepositions { preposition+ }
 preposition = element preposition { lemma, gloss, empty }
-lemma = attribute lemma { text }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
 gloss = attribute gloss { text }

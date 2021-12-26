@@ -1,5 +1,0 @@
-start = particles
-particles = element particles { particle+ }
-particle = element particle { lemma, gloss, empty }
-lemma = attribute lemma { text }
-gloss = attribute gloss { text }

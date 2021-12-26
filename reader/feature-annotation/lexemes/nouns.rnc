@@ -1,0 +1,14 @@
+start = nouns
+nouns = element nouns { noun+ }
+noun = element noun { lemma, paradigm, gender, gloss }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
+paradigm =
+  attribute paradigm { "o" | "jo" | "ā" | "jā" | "ĭ" | "ŭ" | "r" | "n" | "s" | "t" | "nt" | "ū" }
+gender = attribute gender { "m" | "f" | "n" }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = ".+" }
+  }

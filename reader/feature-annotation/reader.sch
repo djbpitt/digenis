@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sch:schema xmlns:sch="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
-    <sch:let name="verbs" value="doc('verbs.xml')"/>
-    <sch:let name="nouns" value="doc('nouns.xml')"/>
-    <sch:let name="particles" value="doc('particles.xml')"/>
-    <sch:let name="pronouns" value="doc('pronouns.xml')"/>
-    <sch:let name="adverbs" value="doc('adverbs.xml')"/>
-    <sch:let name="adjectives" value="doc('adjectives.xml')"/>
-    <sch:let name="conjunctions" value="doc('conjunctions.xml')"/>
-    <sch:let name="prepositions" value="doc('prepositions.xml')"/>
+    <sch:let name="verbs" value="doc('lexemes/verbs.xml')"/>
+    <sch:let name="nouns" value="doc('lexemes/nouns.xml')"/>
+    <sch:let name="particles" value="doc('lexemes/particles.xml')"/>
+    <sch:let name="pronouns" value="doc('lexemes/pronouns.xml')"/>
+    <sch:let name="adverbs" value="doc('lexemes/adverbs.xml')"/>
+    <sch:let name="adjectives" value="doc('lexemes/adjectives.xml')"/>
+    <sch:let name="conjunctions" value="doc('lexemes/conjunctions.xml')"/>
+    <sch:let name="prepositions" value="doc('lexemes/prepositions.xml')"/>
+    <sch:let name="numbers" value="doc('lexemes/numbers.xml')"/>
     <sch:pattern>
-        <sch:rule context="verb | ppl">
-            <sch:assert test="@lemma = $verbs//@inf">Verb <sch:value-of select="@lemma"/> is not in
+        <sch:rule context="verb | participle">
+            <sch:assert test="@lemma = $verbs//@lemma">Verb <sch:value-of select="@lemma"/> is not in
                 master verb list</sch:assert>
         </sch:rule>
         <sch:rule context="noun">
@@ -23,24 +24,28 @@
                 is not in master list of particles</sch:assert>
         </sch:rule>
         <sch:rule context="pronoun">
-            <sch:assert test="@lemma = $pronouns[@lemma]">Pronoun <sch:value-of select="@lemma"/> is
+            <sch:assert test="@lemma = $pronouns//@lemma">Pronoun <sch:value-of select="@lemma"/> is
                 not in master list of pronouns</sch:assert>
         </sch:rule>
-        <sch:rule context="adv">
+        <sch:rule context="adverb">
             <sch:assert test="@lemma = $adverbs//@lemma">Adverb <sch:value-of select="@lemma"/> is
                 not in master list of adverbs</sch:assert>
         </sch:rule>
-        <sch:rule context="conj">
+        <sch:rule context="conjunction">
             <sch:assert test="@lemma = $conjunctions//@lemma">Conjunction <sch:value-of
                     select="@lemma"/> is not in master list of conjunctions</sch:assert>
         </sch:rule>
-        <sch:rule context="prep">
+        <sch:rule context="preposition">
             <sch:assert test="@lemma = $prepositions//@lemma">Preposition <sch:value-of
                     select="@lemma"/> is not in master list of prepositions</sch:assert>
         </sch:rule>
-        <sch:rule context="adj">
+        <sch:rule context="adjective">
             <sch:assert test="@lemma = $adjectives//@lemma">Adjective <sch:value-of select="@lemma"
                 /> is not in master list of adjectives</sch:assert>
+        </sch:rule>
+        <sch:rule context="number">
+            <sch:assert test="@lemma = $numbers//@lemma">Number <sch:value-of select="@lemma"/> is
+                not in master list of numbers</sch:assert>
         </sch:rule>
         <sch:rule context="note[preceding-sibling::reg eq 'сѧ']">
             <sch:assert test=". eq parent::w/preceding-sibling::w/note">Notes on сѧ verbs must be
@@ -59,7 +64,7 @@
                 е after a vowel letter (replace with ѥ).</sch:report>
             <sch:report test="matches(., '^[уꙋ]')">The reconstructed form must not contain initial у
                 or ꙋ (replace with оу or ю).</sch:report>
-            <sch:report test="matches(., '.[^о]у')">The reconstructed form must not contain the
+            <sch:report test="matches(., '.[^оО]у')">The reconstructed form must not contain the
                 letterform у internally (write ꙋ or ю).</sch:report>
             <sch:report test="matches(., '[шжчщц][ꙗ]')">The reconstructed form must not contain the
                 letterform ꙗ after palatals (write а instead).</sch:report>

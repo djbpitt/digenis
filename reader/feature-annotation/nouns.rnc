@@ -1,7 +1,0 @@
-start = nouns
-nouns = element nouns { noun+ }
-noun = element noun { lemma, paradigm, gender, gloss }
-lemma = attribute lemma { text }
-paradigm = attribute paradigm { "o" | "jo" | "ā" | "jā" | "ĭ" | "ŭ" | "r" | "n" | "s" | "nt" | "ū" }
-gender = attribute gender { "m" | "f" | "n" }
-gloss = attribute gloss { text }

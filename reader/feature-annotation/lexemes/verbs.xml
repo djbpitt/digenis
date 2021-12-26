@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="verbs.rnc" type="application/relax-ng-compact-syntax"?>
+<verbs>
+  <verb lemma="бити" pl3="биють" class="I" gloss="beat; fight"/>
+  <verb lemma="бѣжати" pl3="бѣжѧть" class="I" gloss="run"/>
+  <verb lemma="быти" pl3="сꙋть" class="V" gloss="be" irreg="yes"/>
+  <verb lemma="възвратити сѧ" pl3="възвратѧть сѧ" class="IVA" gloss="return"/>
+  <verb lemma="вънити" pl3="вънидꙋть" gloss="enter" class="I"/>
+  <verb lemma="выити" pl3="выидꙋть" gloss="go out" class="I"/>
+  <verb lemma="глаголати" pl3="глаголють" gloss="speak; say" class="III"/>
+  <verb lemma="догънати" pl3="доженꙋть" class="I" gloss="catch (up to)"/>
+  <verb lemma="играти" pl3="играють" gloss="play" class="III"/>
+  <verb lemma="имѣти" pl3="имꙋть, имѣють" gloss="have" class="V"/>
+  <verb lemma="ити" pl3="идꙋть" gloss="go" class="I"/>
+  <verb lemma="кликнꙋти" pl3="кликнꙋть" class="II" gloss="call"/>
+  <verb lemma="ловити" pl3="ловѧть" gloss="hunt; catch" class="IVA"/>
+  <verb lemma="мълвити" pl3="мълвѧть" gloss="speak" class="IVA"/>
+  <verb lemma="надѣꙗти сѧ" pl3="надѣють сѧ" gloss="hope" class="III"/>
+  <verb lemma="наскочити" pl3="наскочѧть" class="IVA" gloss="attack; seize"/>
+  <verb lemma="начѧти" pl3="начьнꙋть" gloss="begin" class="I"/>
+  <verb lemma="нꙋдити" pl3="нꙋдѧть" gloss="plead (with); insist (to)" class="IVA"/>
+  <verb lemma="отъръвати" pl3="отъръвꙋть" class="III" gloss="tear off"/>
+  <verb lemma="очꙋтити" pl3="очꙋтѧть" gloss="feel; sense" class="IVA"/>
+  <verb lemma="побѣдити" pl3="побѣдѧть" gloss="conquer" class="IVA"/>
+  <verb lemma="побѣгнꙋти" pl3="побѣгнꙋть" class="II" gloss="set off running"/>
+  <verb lemma="поврещи" pl3="повьргꙋть" class="I" gloss="turn; cast down"/>
+  <verb lemma="пожрети" pl3="пожьрꙋть" gloss="eat (up)" class="I"/>
+  <verb lemma="поити" pl3="поидꙋть" gloss="go" class="I" irreg="yes"/>
+  <verb lemma="покꙋшати сѧ" pl3="покушають сѧ" gloss="екн" class="III"/>
+  <verb lemma="поскочити" pl3="поскочѧть" gloss="leap (out)" class="IVA"/>
+  <verb lemma="похватити" pl3="похватѧть" class="IVA" gloss="seize"/>
+  <verb lemma="пꙋдити" pl3="пꙋдѧть" gloss="frighten" class="IVA"/>
+  <verb lemma="разврести" pl3="развьрзꙋть" class="I" gloss="open"/>
+  <verb lemma="раздьрати" pl3="раздерꙋть" class="I" gloss="tear apart"/>
+  <verb lemma="рещи" pl3="рекꙋть" gloss="say" class="I"/>
+  <verb lemma="скочити" pl3="скочѧть" class="IVA" gloss="jump"/>
+  <verb lemma="слышати" pl3="слышѧть" gloss="hear" class="IVB"/>
+  <verb lemma="смиꙗти сѧ" pl3="смѣють сѧ" gloss="laugh (at)" class="III"/>
+  <verb lemma="стоꙗти" pl3="стоѩть" class="IVB" gloss="stand"/>
+  <verb lemma="стрещи сѧ" pl3="стрегꙋть сѧ" class="I" gloss="beware"/>
+  <verb lemma="съвъкꙋпити" pl3="съвъкꙋпѧть" gloss="gather; amass" class="IVA"/>
+  <verb lemma="съгънꙋти" pl3="съгънꙋть" class="II" gloss="fold; press"/>
+  <verb lemma="сънити" pl3="сънидꙋть" gloss="descend" class="I"/>
+  <verb lemma="сътворити" pl3="сътворѧть" gloss="do; complete" class="IVA"/>
+  <verb lemma="оукрыти сѧ" pl3="оукроють сѧ" class="I" gloss="hide"/>
+  <verb lemma="оумрети" pl3="оумьрꙋть" class="I" gloss="die"/>
+  <verb lemma="оухватити" pl3="оухватѧть" class="IVA" gloss="seize"/>
+  <verb lemma="оучити" pl3="оучѧть" class="IVA" gloss="teach"/>
+  <verb lemma="ходити" pl3="ходѧть" gloss="go; walk" class="IVA"/>
+  <!-- 
+    Vlasto 137.2 (p. 185): inf either хотѣти or хътѣти;
+    We lemmatize as хотѣти and assign to class III noting that it’s irreg
+  -->
+  <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="yes"/>
+  <verb lemma="ѣхати" pl3="едꙋть" gloss="ride" class="I"/>
+</verbs>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="numbers.rnc" type="application/relax-ng-compact-syntax"?>
+<numbers>
+  <number lemma="въторыи на десѧте" gloss="twelfth" type="ordinal"/>
+  <number lemma="дъва" gloss="two" type="cardinal"/>
+  <number lemma="третии на десѧте" gloss="thirteenth" type="ordinal"/>
+  <number lemma="четвьртыи на десѧте" gloss="fourteenth" type="ordinal"/>
+</numbers>

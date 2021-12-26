@@ -1,0 +1,12 @@
+start = numbers
+numbers = element numbers { number+ }
+number = element number { lemma, gloss, type, empty }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = "(.|\n)+" }
+  }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = "(.|\n)+" }
+  }
+type = attribute type { "cardinal" | "ordinal" | "collective" }

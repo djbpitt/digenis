@@ -1,6 +1,12 @@
 start = adjectives
 adjectives = element adjectives { adjective+ }
 adjective = element adjective { lemma, poss?, gloss, empty }
-lemma = attribute lemma { text }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
 poss = attribute poss { "yes" }
-gloss = attribute gloss { text }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = ".+" }
+  }

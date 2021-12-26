@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="adverbs.rnc" type="application/relax-ng-compact-syntax"?>
+<adverbs>
+  <adverb lemma="бързо" gloss="quickly"/>
+  <adverb lemma="вельми" gloss="very"/>
+  <adverb lemma="въбързѣ" gloss="quickly"/>
+  <adverb lemma="доколѣ" gloss="before; until"/>
+  <adverb lemma="како" gloss="how"/>
+  <adverb lemma="къгда" gloss="when"/>
+  <adverb lemma="надъвоѥ" gloss="in two (parts)"/>
+  <adverb lemma="нѣкъде" gloss="somewhere"/>
+  <adverb lemma="прилежьно" gloss="diligently; assiduously"/>
+  <adverb lemma="тако" gloss="thus"/>
+  <adverb lemma="тъгда" gloss="then"/>
+  <adverb lemma="ѥще" gloss="still"/>
+</adverbs>
