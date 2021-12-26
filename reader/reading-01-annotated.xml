@@ -6,14 +6,29 @@
    <body>
       <p>
          <w>
-            <ms>ЖИТИЕ</ms>
+            <ms>Дѣянїе</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>ДѢꙖНИѤ</rec>
+         </w>
+         <w>
+            <ms>и</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>И</rec>
+         </w>
+         <w>
+            <ms>житїе</ms>
             <pldr>ЖИТИЕ</pldr>
             <rec>ЖИТИѤ</rec>
          </w>
          <w>
-            <ms>ДЕВГЕНИЯ</ms>
-            <pldr>ДЕВГЕНИЯ</pldr>
-            <rec>ДЕВГЕНИꙖ</rec>
+            <ms>Девгенїево</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>ДЕВГЕНИѤВО</rec>
+         </w>
+         <w>
+            <ms>Акрита</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>АКРИТА</rec>
          </w>
       </p>
       <p>
