@@ -211,6 +211,7 @@
             </xsl:non-matching-substring>
         </xsl:analyze-string>
     </xsl:template>
+
     <!-- ================================================================ -->
     <!-- Mode: grammar                                                    -->
     <!-- Retroversion with regular grammatical information and gloss      -->
@@ -253,42 +254,67 @@
     </xsl:template>
     <xsl:template match="adjective" mode="grammar">
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <!-- ============================================================ -->
         <!-- adj | sh mGsg | младъ young-->
-        <xsl:value-of
-            select="$local-categories/@length, concat($local-categories/@gender, $local-categories/@case, $local-categories/@number)"
+        <!-- Attributes must be specified with parent to maintain order== -->
+        <!-- ============================================================ -->
+        <xsl:value-of select="
+                $local-categories/@length,
+                concat($local-categories/@gender, $local-categories/@case, $local-categories/@number)"
         />
     </xsl:template>
     <xsl:template match="noun" mode="grammar">
+        <!-- ============================================================ -->
         <!-- noun s-stem nAsg слово word -->
+        <!-- Attributes must be specified with parent to maintain order== -->
+        <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:value-of select="
                 concat(@paradigm, '-stem'),
-                concat(@gender, $local-categories/@case, $local-categories/@number)"/>
+                concat(@gender,
+                $local-categories/@case,
+                $local-categories/@number)"/>
     </xsl:template>
     <xsl:template match="number" mode="grammar">
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:value-of select="$abbreviate(@type)"/>
     </xsl:template>
     <xsl:template match="pronoun" mode="grammar">
+        <!-- ============================================================ -->
         <!-- pronoun | mApl | вьсь all -->
         <!-- add type after part of speech except for 'all' -->
+        <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:if test="@type ne 'all'">
             <xsl:value-of select="$abbreviate(@type)"/>
         </xsl:if>
     </xsl:template>
     <xsl:template match="verb" mode="grammar">
+        <!-- ============================================================ -->
+        <!-- Both <verb> and <participle>                                 -->
+        <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:choose>
             <xsl:when test="$local-categories/self::participle">
+                <!-- ============================================================ -->
                 <!-- ppl } mNpl sh pt act | выити go -->
+                <!-- Attributes must be specified with parent to maintain order== -->
+                <!-- ============================================================ -->
                 <xsl:value-of select="
-                        concat($local-categories/@gender, $local-categories/@case, $local-categories/@number),
-                        $local-categories/@length, $local-categories/@tense, $local-categories/@voice
+                        concat(
+                        $local-categories/@gender,
+                        $local-categories/@case,
+                        $local-categories/@number),
+                        $local-categories/@length,
+                        $local-categories/@tense,
+                        $local-categories/@voice
                         "/>
             </xsl:when>
             <xsl:otherwise>
+                <!-- ============================================================ -->
                 <!-- verb | 3sg aorist | начѧти begin -->
+                <!-- Attributes must be specified with parent to maintain order== -->
+                <!-- ============================================================ -->
                 <xsl:value-of
                     select="concat($local-categories/@person, $local-categories/@number), $local-categories/@tense"
                 />
