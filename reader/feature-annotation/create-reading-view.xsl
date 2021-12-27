@@ -97,6 +97,11 @@
     </xsl:template>
     <xsl:template match="note">
         <div class="annotation">
+            <span class="os">
+                <xsl:value-of select="exactly-one(preceding-sibling::rec) ! replace(., '\P{L}', '')"
+                />
+            </span>
+            <xsl:text>: </xsl:text>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
