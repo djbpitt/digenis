@@ -18,7 +18,7 @@
     <xsl:use-package name="http://www.obdurodon.org/digenis-functions" version="1.0"/>
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
-    <xsl:strip-space elements="p w s"/>
+    <xsl:strip-space elements="p w s rec"/>
 
     <!-- ================================================================== -->
     <!-- Stylesheet variables                                               -->
@@ -140,9 +140,12 @@
         </span>
     </xsl:template>
     <xsl:template match="rec">
+        <!-- ================================================================ -->
+        <!-- Add 'diff' to @class if different after normalization        -->
+        <!-- ================================================================ -->
         <span>
             <xsl:attribute name="class" select="
-                    concat('rec', if (. ne preceding-sibling::pldr) then
+                    concat('rec', if (not(djb:norm-diff(., preceding-sibling::pldr))) then
                         ' diff'
                     else
                         ())"/>

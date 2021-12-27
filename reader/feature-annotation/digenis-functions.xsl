@@ -6,9 +6,11 @@
   <!-- ================================================================== -->
   <!-- Public (final):                                                    -->
   <!--                                                                    -->
+  <!-- norm-for-diff: helper function, normalizes for diff                -->
+  <!-- norm-diff : compares Cyrillic stricts with normalization           -->
   <!-- sort-os : remaps Cyrillic for use in sort key                      -->
   <!-- ================================================================== -->
-  
+
   <xsl:variable name="os-norm" as="map(xs:string, xs:integer)" visibility="private">
     <xsl:map>
       <!-- оу is initial only; у never appears except in оу -->
@@ -52,6 +54,25 @@
       <xsl:map-entry key="'ѩ'" select="36"/>
     </xsl:map>
   </xsl:variable>
+  <xsl:function name="djb:norm-for-diff" as="xs:string" visibility="private">
+    <!-- ================================================================ -->
+    <!-- Normalize pldr and rec for diff                                  -->
+    <!-- я ѧ ꙗ, е ѥ, й и, у оу  ꙋ, final ъ                                -->
+    <!-- ================================================================ -->
+    <xsl:param name="input" as="xs:string"/>
+    <xsl:sequence select="replace($input, 'оу', 'ꙋ') ! 
+      translate(., 'ѧꙗѥйу', 'яяеиꙋ') ! 
+      replace(., 'ъ$', '')"/>
+  </xsl:function>
+  <xsl:function name="djb:norm-diff" as="xs:boolean" visibility="final">
+    <!-- ================================================================ -->
+    <!-- Compare normalized pldr and rec after normalization              -->
+    <!-- Uses djb:norm-for-diff() to normalize                            -->
+    <!-- ================================================================ -->
+    <xsl:param name="pldr" as="xs:string"/>
+    <xsl:param name="rec" as="xs:string"/>
+    <xsl:sequence select="djb:norm-for-diff($pldr) eq djb:norm-for-diff($rec)"/>
+  </xsl:function>
   <xsl:function name="djb:sort-os" as="xs:string" visibility="final">
     <!-- ================================================================ -->
     <!-- Remap early Cyrillic input to sort correctly                     -->
