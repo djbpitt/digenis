@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
-    version="3.0">
-    <!-- 
-        Creates reading view of section of Digenis reader
-        input is reading-xx-annotated.xml, output is reading-xx.xhtml
-        TODO: Browser tab title assumes filename digenis-\d+-features.xml
-    -->
+    xmlns:djb="http://www.obdurodon.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    exclude-result-prefixes="#all" version="3.0">
+    <!-- ================================================================ -->
+    <!-- Creates reading view of section of Digenis reader                -->
+    <!-- Run with EE and -config:ee-package-config.xml                    -->
+    <!-- Input: reading-xx-annotated.xml                                  -->
+    <!-- Output: reading-xx.xhtml                                         -->
+    <!--                                                                  -->
+    <!-- TODO: Tab title assumes filename digenis-\d+-features.xml        -->
+    <!-- ================================================================ -->
+
+    <!-- ================================================================== -->
+    <!-- Housekeeping                                                       -->
+    <!-- ================================================================== -->
+    <xsl:use-package name="http://www.obdurodon.org/digenis-functions" version="1.0"/>
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
     <xsl:strip-space elements="p w s"/>
+
+    <!-- ================================================================== -->
+    <!-- Stylesheet variables                                               -->
+    <!-- ================================================================== -->
     <xsl:variable name="part-number" as="xs:string"
         select="base-uri() ! tokenize(., '/')[last()] => substring-before('-features') => substring-after('-') => replace('^0+', '')"/>
+    <xsl:variable name="all-words" as="document-node()">
+        <xsl:document>
+            <!-- ============================================================== -->
+            <!-- Merge into one document for key                                -->
+            <!-- ============================================================== -->
+            <xsl:sequence select="collection('lexemes?select=*.xml')"/>
+        </xsl:document>
+    </xsl:variable>
+    <xsl:variable name="abbreviate" as="map(xs:string, xs:string)">
+        <!-- ============================================================ -->
+        <!-- Part of speech, number type, pronoun type                    -->
+        <!-- ============================================================ -->
+        <xsl:sequence select="
+                map {
+                    'adjective': 'adj',
+                    'adverb': 'adv',
+                    'conjunction': 'conj',
+                    'noun': 'noun',
+                    'number': 'num',
+                    'participle': 'ppl',
+                    'particle': 'part',
+                    'preposition': 'prep',
+                    'pronoun': 'pron',
+                    'verb': 'verb',
+                    'cardinal': 'card',
+                    'ordinal': 'ord',
+                    'collective': 'coll',
+                    'personal': 'pers',
+                    'possessive': 'poss',
+                    'relative': 'rel',
+                    'demonstrative': 'dem'
+                }"/>
+    </xsl:variable>
+
+    <!-- ================================================================== -->
+    <!-- Keys                                                               -->
+    <!-- ================================================================== -->
+    <xsl:key name="lexemeByLemmaAndName" match="*" use="@lemma, name()" composite="yes"/>
+
+    <!-- ================================================================== -->
+    <!-- Main                                                               -->
+    <!-- ================================================================== -->
     <xsl:template match="/">
         <html>
             <head>
@@ -97,6 +151,9 @@
     </xsl:template>
     <xsl:template match="note">
         <div class="annotation">
+            <!--  ======================================================= -->
+            <!-- Repeat reading, since otherwise popup might hide it       -->
+            <!--  ======================================================= -->
             <span class="os">
                 <xsl:value-of select="exactly-one(preceding-sibling::rec) ! replace(., '\P{L}', '')"
                 />
@@ -156,12 +213,86 @@
     </xsl:template>
     <!-- ================================================================ -->
     <!-- Mode: grammar                                                    -->
+    <!-- Retroversion with regular grammatical information and gloss      -->
     <!-- ================================================================ -->
     <xsl:template match="rec" mode="grammar">
+        <xsl:variable name="adjusted-name" as="xs:string" select="
+                if (participle) then
+                    'verb'
+                else
+                    */name()"/>
         <span id="grammar-{position()}" class="grammar" style="display: none;">
-            <span class="os">
-                <xsl:value-of select="*/@lemma"/>
-            </span>
+            <xsl:apply-templates
+                select="key('lexemeByLemmaAndName', (*/@lemma, $adjusted-name), $all-words)"
+                mode="grammar">
+                <xsl:with-param name="local-categories" as="element()" select="*" tunnel="yes"/>
+            </xsl:apply-templates>
         </span>
+    </xsl:template>
+    <xsl:template match="* except rec" mode="grammar" priority="10">
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <!-- ============================================================ -->
+        <!-- Match first for all parts of speech                          -->
+        <!-- ============================================================ -->
+        <xsl:value-of select="$abbreviate($local-categories/name())"/>
+        <xsl:text> </xsl:text>
+        <xsl:next-match>
+            <!-- ======================================================== -->
+            <!-- Insert specific information between cite and lemma/gloss -->
+            <!-- None for adv, conj, part, prep; ppl included in verb     -->
+            <!-- ======================================================== -->
+        </xsl:next-match>
+        <xsl:text> </xsl:text>
+        <span class="os">
+            <xsl:value-of select="@lemma"/>
+        </span>
+        <xsl:text> </xsl:text>
+        <span class="gloss">
+            <xsl:value-of select="@gloss"/>
+        </span>
+    </xsl:template>
+    <xsl:template match="adjective" mode="grammar">
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <!-- adj | sh mGsg | младъ young-->
+        <xsl:value-of
+            select="$local-categories/@length, concat($local-categories/@gender, $local-categories/@case, $local-categories/@number)"
+        />
+    </xsl:template>
+    <xsl:template match="noun" mode="grammar">
+        <!-- noun s-stem nAsg слово word -->
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <xsl:value-of select="
+                concat(@paradigm, '-stem'),
+                concat(@gender, $local-categories/@case, $local-categories/@number)"/>
+    </xsl:template>
+    <xsl:template match="number" mode="grammar">
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <xsl:value-of select="$abbreviate(@type)"/>
+    </xsl:template>
+    <xsl:template match="pronoun" mode="grammar">
+        <!-- pronoun | mApl | вьсь all -->
+        <!-- add type after part of speech except for 'all' -->
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <xsl:if test="@type ne 'all'">
+            <xsl:value-of select="$abbreviate(@type)"/>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="verb" mode="grammar">
+        <xsl:param name="local-categories" required="yes" tunnel="yes"/>
+        <xsl:choose>
+            <xsl:when test="$local-categories/self::participle">
+                <!-- ppl } mNpl sh pt act | выити go -->
+                <xsl:value-of select="
+                        concat($local-categories/@gender, $local-categories/@case, $local-categories/@number),
+                        $local-categories/@length, $local-categories/@tense, $local-categories/@voice
+                        "/>
+            </xsl:when>
+            <xsl:otherwise>
+                <!-- verb | 3sg aorist | начѧти begin -->
+                <xsl:value-of
+                    select="concat($local-categories/@person, $local-categories/@number), $local-categories/@tense"
+                />
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>

@@ -11,7 +11,7 @@ type =
     | "possessive"
     | "interrogative"
     | "relative"
-    | "'all'"
+    | "all"
     | "indefinite"
     | "demonstrative"
   }

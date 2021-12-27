@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="pronouns.rnc" type="application/relax-ng-compact-syntax"?>
 <pronouns>
-  <pronoun lemma="вьсь" type="'all'" gloss="all"/>
+  <pronoun lemma="вьсь" type="all" gloss="all"/>
   <pronoun lemma="ѥго" type="possessive" gloss="his"/>
   <pronoun lemma="ѥю" type="possessive" gloss="their"/>
   <pronoun lemma="ѥѩ" type="possessive" gloss="her"/>
