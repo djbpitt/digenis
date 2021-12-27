@@ -77,6 +77,12 @@ body {
   flex-direction: column;
   overflow: hidden;
 }
+h1 {
+  /* All three properties are needed to truncate with ellipsis in narrow window */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 main {
   position: relative;
   overflow: scroll;

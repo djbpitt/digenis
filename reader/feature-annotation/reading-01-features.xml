@@ -44,7 +44,6 @@
             <rec>
                <number lemma="въторыи на десѧте" gender="n" case="A" number="sg">·вꙇ҃·</number>
             </rec>
-            <note><os>вътороѥ на десѧте</os></note>
          </w>
          <w>
             <pldr>лѣто</pldr>
@@ -63,8 +62,6 @@
             <rec>
                <verb lemma="играти" person="3" number="sg" tense="ipf">играше(ть),</verb>
             </rec>
-            <note>3sg imperfect of <os>играти</os>
-               <gloss>play</gloss></note>
          </w>
          <w>
             <pldr>а</pldr>
@@ -83,7 +80,6 @@
             <rec>
                <number lemma="третии на десѧте" gender="n" case="A" number="sg">·гꙇ҃·</number>
             </rec>
-            <note><os>третиѥ на десѧте</os></note>
          </w>
          <w>
             <pldr>лѣто</pldr>
@@ -114,7 +110,6 @@
             <rec>
                <number lemma="четвьртыи на десѧте" gender="n" case="A" number="sg">·дꙇ҃·</number>
             </rec>
-            <note><os>четвьртоѥ на десѧте</os></note>
          </w>
          <w>
             <pldr>лето</pldr>
@@ -127,16 +122,12 @@
             <rec>
                <verb lemma="покꙋшати сѧ" person="3" number="sg" tense="ipf">покꙋшаше(ть)</verb>
             </rec>
-            <note>3sg imperfect of <os>покꙋшати сѧ</os>
-               <gloss>try</gloss></note>
          </w>
          <w>
             <pldr>ся</pldr>
             <rec>
                <particle lemma="сѧ">сѧ</particle>
             </rec>
-            <note>3sg imperfect of <os>покꙋшати сѧ</os>
-               <gloss>try</gloss></note>
          </w>
          <w>
             <pldr>вся</pldr>
@@ -167,8 +158,6 @@
             <rec>
                <verb lemma="начѧти" tense="aor" person="3" number="sg">начѧ(тъ)</verb>
             </rec>
-            <note>3sg aorist of <os>начѧти</os>
-               <gloss>begin</gloss></note>
          </w>
          <w>
             <pldr>прилежно</pldr>
@@ -247,7 +236,6 @@
             <rec>
                <verb lemma="рещи" tense="aor" person="3" number="sg">рече</verb>
             </rec>
-            <note>3sg aorist of <os>решти</os> (<os>рекꙋть</os>) <gloss>say</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -409,8 +397,6 @@
             <rec>
                <verb lemma="пꙋдити" tense="imv" person="2" number="sg">пꙋди</verb>
             </rec>
-            <note>2sg imperative of <os>пудити</os>
-               <gloss>drive (away)</gloss></note>
          </w>
          <w>
             <pldr>менѣ,</pldr>
@@ -430,8 +416,6 @@
             <rec>
                <verb lemma="имѣти" tense="pr" person="1" number="sg">имамь</verb>
             </rec>
-            <note>1sg present of <os>имѣти</os> (<os>имꙋть</os> or <os>имѣють</os>)
-               <os>have</os></note>
          </w>
          <w>
             <pldr>упование</pldr>
@@ -451,8 +435,6 @@
                <participle lemma="сътворити" tense="pt" voice="act" length="lg" gender="m" case="A"
                   number="sg">сътворьшаго</participle>
             </rec>
-            <note>mAsg long past active participle of <os>слышати</os>
-               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>Бога,</pldr>
@@ -535,8 +517,6 @@
             <rec>
                <noun lemma="слово" case="A" number="sg">слово</noun>
             </rec>
-            <note>noun s-stem nAsg <os>слово</os>
-               <gloss>word</gloss></note>
          </w>
          <w>
             <pldr>слышавъ</pldr>
@@ -575,8 +555,6 @@
             <rec>
                <verb lemma="глаголати" tense="pr" person="3" number="sg">глаголѥть</verb>
             </rec>
-            <note>3sg present of <os>глаголати</os>
-               <gloss>speak</gloss></note>
          </w>
          <w>
             <pldr>юноша,</pldr>
@@ -595,16 +573,12 @@
             <rec>
                <verb lemma="съвъкꙋпити" tense="aor" person="3" number="sg">съвъкꙋпи</verb>
             </rec>
-            <note>3sg aorist of <os>съвъкꙋпити</os>
-               <gloss>gather</gloss></note>
          </w>
          <w>
             <pldr>вся</pldr>
             <rec>
                <pronoun lemma="вьсь" type="all" gender="m" case="A" number="pl">вьсѧ</pronoun>
             </rec>
-            <note>mApl pronoun <os>вьсь</os>
-               <gloss>all</gloss></note>
          </w>
          <w>
             <pldr>вои</pldr>
@@ -647,8 +621,6 @@
             <rec>
                <verb lemma="быти" tense="aor" person="3" number="sg">бы(сть)</verb>
             </rec>
-            <note>3sg aorist of <os>быти</os>
-               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
@@ -693,16 +665,12 @@
                <adjective lemma="мъногыи" length="sh" gender="m" case="N" number="pl"
                   >мънози</adjective>
             </rec>
-            <note>mNpl short adjective <os>мъногъ</os>
-               <gloss>many</gloss></note>
          </w>
          <w>
             <pldr>идяху</pldr>
             <rec>
                <verb lemma="ити" tense="ipf" person="3" number="pl">идꙗхꙋ(ть)</verb>
             </rec>
-            <note>3pl imperfect of <os>ити</os>
-               <gloss>go</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -758,8 +726,6 @@
             <rec>
                <verb lemma="слышати" tense="ipf" person="3" number="pl">слышахꙋ(ть)</verb>
             </rec>
-            <note>3pl imperfect of <os>слышати</os>
-               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>Девгениеву</pldr>
@@ -786,8 +752,6 @@
                <participle lemma="выити" tense="pt" voice="act" gender="m" case="N" number="pl"
                   length="sh">вышьдъше</participle>
             </rec>
-            <note>mNpl short past active participle of <os>выити</os>
-               <gloss>go</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -830,8 +794,6 @@
             <rec>
                <verb lemma="ловити" person="3" number="sg" tense="pr">ловить</verb>
             </rec>
-            <note>3sg present of <os>ловити</os>
-               <gloss>hunt</gloss></note>
          </w>
          <w>
             <pldr>зайцы</pldr>
@@ -899,16 +861,12 @@
             <rec>
                <verb lemma="смиꙗти сѧ" number="sg" person="3" tense="ipf">смѣꙗше(ть)</verb>
             </rec>
-            <note>3sg imperfect of <os>смиꙗти сѧ</os>
-               <gloss>laugh</gloss></note>
          </w>
          <w>
             <pldr>ся,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
-            <note>3sg imperfect of <os>смиꙗти сѧ</os>
-               <gloss>laugh</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -933,8 +891,6 @@
             <rec>
                <verb lemma="вънити" tense="aor" person="3" number="sg">въниде,</verb>
             </rec>
-            <note>3sg aorist of <os>вънити</os>
-               <gloss>enter</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -947,8 +903,6 @@
             <rec>
                <verb lemma="сънити" tense="aor" person="3" number="sg">съниде</verb>
             </rec>
-            <note>3sg aorist of <os>сънити</os>
-               <gloss>come down</gloss></note>
          </w>
          <w>
             <pldr>с</pldr>
@@ -980,8 +934,6 @@
                <adjective lemma="младыи" length="lg" gender="m" number="sg" case="N"
                   >младыи,</adjective>
             </rec>
-            <note>mNsg long adjective <os>младъ</os>
-               <gloss>young</gloss></note>
          </w>
          <w>
             <pldr>на</pldr>
@@ -995,8 +947,6 @@
                <adjective lemma="божии" case="A" number="sg" gender="f" length="sh"
                   >Божию</adjective>
             </rec>
-            <note>fAsg adjective <os>божии</os>
-               <gloss>God’s</gloss></note>
          </w>
          <w>
             <pldr>силу</pldr>
@@ -1010,16 +960,12 @@
                <participle lemma="надѣꙗти сѧ" gender="m" case="N" number="sg" length="sh" tense="pr"
                   voice="act">надѣѩ</participle>
             </rec>
-            <note>mNsg short present active participle of <os>надѣꙗти сѧ</os>
-               <gloss>hope</gloss></note>
          </w>
          <w>
             <pldr>сь.</pldr>
             <rec>
                <particle lemma="сѧ">сѧ.</particle>
             </rec>
-            <note>mNsg short present active participle of <os>надѣꙗти сѧ</os>
-               <gloss>hope</gloss></note>
          </w>
       </p>
       <p>
@@ -1058,8 +1004,6 @@
             <rec>
                <verb lemma="ходити" tense="ipf" person="3" number="du">хожашета,</verb>
             </rec>
-            <note>3du imperfect of <os>ходити</os>
-               <gloss>walk</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1097,8 +1041,6 @@
             <rec>
                <verb lemma="быти" person="3" number="pl" tense="impf aor">бѣшѧ.</verb>
             </rec>
-            <note>3pl imperfective aorist of <os>быти</os>
-               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>И</pldr>
@@ -1111,8 +1053,6 @@
             <rec>
                <verb lemma="очꙋтити" tense="aor" number="sg" person="3">очꙋти</verb>
             </rec>
-            <note>3sg aorist of <os>очꙋтити</os>
-               <gloss>hear</gloss></note>
          </w>
          <w>
             <pldr>медведица</pldr>
@@ -1144,8 +1084,6 @@
             <rec>
                <verb lemma="поскочити" tense="aor" number="sg" person="3">поскочи</verb>
             </rec>
-            <note>3sg aorist of <os>(по)скочити</os>
-               <gloss>rush</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1158,8 +1096,6 @@
             <rec>
                <verb lemma="хотѣти" number="sg" person="3" tense="ipf">хотꙗше(ть)</verb>
             </rec>
-            <note>3sg imperfect of <os>хотѣти</os>
-               <gloss>wish</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1173,8 +1109,6 @@
             <rec>
                <verb lemma="пожрети" tense="inf">пожрети.</verb>
             </rec>
-            <note>infinitive of <os>пожьрѣти</os>
-               <gloss>eat up</gloss></note>
          </w>
          <w>
             <pldr>Юноша</pldr>
@@ -1206,8 +1140,6 @@
                <participle lemma="оучити" gender="m" case="N" number="sg" length="sh" tense="pt"
                   voice="act">оученъ,</participle>
             </rec>
-            <note>mNsg short past passive participate of <os>оучити</os>
-               <gloss>teach</gloss></note>
          </w>
          <w>
             <pldr>како</pldr>
@@ -1263,8 +1195,6 @@
             <rec>
                <verb lemma="похватити" person="3" number="sg" tense="aor">похвати</verb>
             </rec>
-            <note>3sg aorist of <os>похватити</os>
-               <gloss>seize</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1277,8 +1207,6 @@
             <rec>
                <verb lemma="съгънꙋти" tense="aor" person="3" number="sg">съгънꙋ</verb>
             </rec>
-            <note>3sg aorist of <os>съгънꙋти</os>
-               <gloss>fold, press</gloss></note>
          </w>
          <w>
             <pldr>ея</pldr>
@@ -1292,8 +1220,6 @@
             <rec>
                <noun lemma="локъть" case="I" number="pl">локътьми,</noun>
             </rec>
-            <note>noun t-stem mIpl <os>локъть</os>
-               <gloss>elbow</gloss></note>
             <!--
                NB only form in лок- attested for 'elbow' in SDRJa11-14, & never in du (even w/ du рꙋцѣ). 
                Cf. Lunt 8b (add 8a, 8b to phonology)
@@ -1322,8 +1248,6 @@
             <rec>
                <verb lemma="быти" tense="impf aor" person="3" number="sg">бѣ</verb>
             </rec>
-            <note>3sg <q>imperfective aorist</q> of <os>быти</os>
-               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>во</pldr>
@@ -1348,8 +1272,6 @@
             <rec>
                <verb lemma="выити" tense="aor" person="3" number="sg">выиде</verb>
             </rec>
-            <note>3sg aorist of <os>выити</os>
-               <gloss>come out</gloss></note>
          </w>
          <w>
             <pldr>из</pldr>
@@ -1382,8 +1304,6 @@
             <rec>
                <verb lemma="быти" person="3" number="sg" tense="aor">бы(сть)</verb>
             </rec>
-            <note>3sg aorist of <os>быти</os>
-               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1415,8 +1335,6 @@
             <rec>
                <verb lemma="бѣжати" tense="ipf" person="3" number="sg">бѣжаше(ть)</verb>
             </rec>
-            <note>3sg imperfect of <os>бѣжати</os>
-               <gloss>run</gloss></note>
          </w>
          <w>
             <pldr>во</pldr>
@@ -1455,8 +1373,6 @@
             <rec>
                <verb lemma="кликнꙋти" tense="aor" person="3" number="sg">кликнꙋ</verb>
             </rec>
-            <note>3sg aorist of <os>кликнꙋти</os>
-               <gloss>call</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1494,23 +1410,18 @@
             <rec>
                <verb lemma="стрещи сѧ" person="2" number="sg" tense="imv">стрези</verb>
             </rec>
-            <note>2sg imperative of <os>стрещи сѧ</os> (<os>стрегꙋть</os>)
-               <gloss>beware</gloss></note>
          </w>
          <w>
             <pldr>сь,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
-            <note>2sg imperative of <os>стрещи сѧ</os> (<os>стрегꙋть</os>)
-               <gloss>beware</gloss></note>
          </w>
          <w>
             <pldr>доколе</pldr>
             <rec>
                <adverb lemma="доколѣ">доколѣ</adverb>
             </rec>
-            <note>adverb <gloss>before</gloss>; <gloss>until</gloss></note>
          </w>
          <w>
             <pldr>не</pldr>
@@ -1567,8 +1478,6 @@
             <rec>
                <verb lemma="быти" tense="aor" person="3" number="sg">бы(сть)</verb>
             </rec>
-            <note>3sg aorist of <os>быти</os>
-               <gloss>be</gloss></note>
          </w>
          <w>
             <pldr>и</pldr>
@@ -1581,8 +1490,6 @@
             <rec>
                <verb lemma="поврещи" tense="aor" number="sg" person="3">повьрже</verb>
             </rec>
-            <note>3sg aorist of <os>поврещи</os> (<os>повьргꙋть</os>) <gloss>turn</gloss>;
-                  <gloss>cast down</gloss> (here)</note>
          </w>
          <w>
             <pldr>свою</pldr>
@@ -1619,16 +1526,12 @@
             <rec>
                <pronoun lemma="иже" type="rel" case="N" number="sg" gender="n">нѥмьже</pronoun>
             </rec>
-            <note>nLsg relative pronoun <os>иже</os>
-               <gloss>(at) which</gloss></note>
          </w>
          <w>
             <pldr>стояше,</pldr>
             <rec>
                <verb lemma="стоꙗти" tense="ipf" person="3" number="sg">стоꙗше(ть),</verb>
             </rec>
-            <note>3sg imperfect of <os>стоꙗти</os>
-               <gloss>stand</gloss></note>
          </w>
          <w>
             <pldr>яко</pldr>
@@ -1660,11 +1563,10 @@
             <rec>
                <verb lemma="наскочити" tense="aor" person="3" number="sg">наскочи.</verb>
             </rec>
-            <note>3sg aorist of <os>наскочити</os>
-               <gloss>attack; seize</gloss>, here: <gloss>rush upon</gloss>. The preposition
-                  <os>на</os> is normal with this verb in Slavic; the omission of the preposition
-               here follows Greek syntax (the Gk manuscripts diverge at this moment), where the
-               omission of a preposition is common after prefixed verbs.</note>
+            <note>Here: <gloss>rush upon</gloss>. The preposition <os>на</os> is normal with this
+               verb in Slavic; the omission of the preposition here follows Greek syntax (the Gk
+               manuscripts diverge at this moment), where the omission of a preposition is common
+               after prefixed verbs.</note>
             <!-- 
                The omission of на is suspicious. It was normal with Gk prefixed verbs, but
                we find absolutely no evidence in Slavic for this verb without an overt preposition на
@@ -1707,16 +1609,12 @@
             <rec>
                <verb lemma="възвратити сѧ" tense="aor" person="3" number="sg">възврати</verb>
             </rec>
-            <note>3sg aorist of <os>възвратити сѧ</os>
-               <gloss>turn</gloss></note>
          </w>
          <w>
             <pldr>сь,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
-            <note>3sg aorist of <os>възвратити сѧ</os>
-               <gloss>turn</gloss></note>
          </w>
          <w>
             <pldr>разверзь</pldr>
@@ -1724,8 +1622,6 @@
                <participle lemma="разврести" gender="m" case="N" number="sg" length="sh" tense="pt"
                   voice="act">развьрзъ</participle>
             </rec>
-            <note>mNsg short past active participle of <os>разврести</os> (<os>развьрзꙋть</os>)
-                  <gloss>open</gloss></note>
          </w>
          <w>
             <pldr>уды</pldr>
@@ -1746,8 +1642,6 @@
                <participle lemma="хотѣти" gender="m" case="N" number="sg" length="sh" tense="pr"
                   voice="act">хотѧ</participle>
             </rec>
-            <note>mNsg short present active participle of <os>хотѣти</os>
-               <gloss>want</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1797,8 +1691,6 @@
             <rec>
                <verb lemma="оухватити" tense="aor" person="3" number="sg">оухвати</verb>
             </rec>
-            <note>3sg aorist of <os>оухватити</os>
-               <gloss>seize</gloss></note>
          </w>
          <w>
             <pldr>его</pldr>
@@ -1830,8 +1722,6 @@
             <rec>
                <verb lemma="отъръвати" tense="aor" person="3" number="sg">отърва</verb>
             </rec>
-            <note>3sg aorist of <os>отъръвати</os>
-               <gloss>tear off</gloss></note>
          </w>
          <w>
             <pldr>ему</pldr>
@@ -1863,7 +1753,6 @@
             <rec>
                <verb lemma="оумрети" tense="aor" number="sg" person="3">оумре(тъ)</verb>
             </rec>
-            <note>3sg aorist of <os>оумрети</os> (<os>оумьрꙋть</os>) <gloss>die</gloss></note>
          </w>
          <w>
             <pldr>в</pldr>
@@ -1957,8 +1846,6 @@
                <verb number="sg" lemma="побѣгнꙋти" person="3" tense="aor">побѣже.</verb>
             </rec>
             <!--  Aorist of побежати (poběžati < *poběžěti) would be побѣжа -->
-            <note>3sg aorist of <os>побѣгнꙋти</os>
-               <gloss>set off running (away)</gloss></note>
          </w>
       </p>
       <p>
@@ -2139,8 +2026,6 @@
                <participle lemma="догънати" gender="m" case="N" number="sg" tense="pt" voice="act"
                   length="sh">догънавъ</participle>
             </rec>
-            <note>mNsg short past active participle of <os>догънати</os> (<os>доженꙋть</os>)
-                  <gloss>catch (up to)</gloss></note>
          </w>
          <w>
             <pldr>лося,</pldr>
@@ -2192,8 +2077,6 @@
             <rec>
                <verb lemma="раздьрати" tense="aor" number="sg" person="3">раздьра.</verb>
             </rec>
-            <note>3sg aorist of <os>раздьрати</os> (<os>раздерꙋть</os>) <gloss>tear
-               apart</gloss></note>
          </w>
       </p>
    </body>

@@ -6,12 +6,13 @@
     <!-- 
         Creates reading view of section of Digenis reader
         input is reading-xx-annotated.xml, output is reading-xx.xhtml
+        TODO: Browser tab title assumes filename digenis-\d+-features.xml
     -->
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
     <xsl:strip-space elements="p w s"/>
     <xsl:variable name="part-number" as="xs:string"
-        select="base-uri() ! tokenize(., '/')[last()] => substring-before('-annotated') => substring-after('-') => replace('^0+', '')"/>
+        select="base-uri() ! tokenize(., '/')[last()] => substring-before('-features') => substring-after('-') => replace('^0+', '')"/>
     <xsl:template match="/">
         <html>
             <head>
@@ -52,7 +53,10 @@
             </div>
         </main>
         <footer>
-            <p id="grammar">Placeholder</p>
+            <p id="grammar">
+                <span id="grammar-initial" class="grammar">Grammatical information</span>
+                <xsl:apply-templates select="//rec" mode="grammar"/>
+            </p>
             <!-- Running out of space; can we omit this? -->
             <!--<p class="note">Reconstruction and annotations by Robert Romanchuk and David J.
                 Birnbaum.</p>-->
@@ -144,5 +148,15 @@
                 <xsl:value-of select="."/>
             </xsl:non-matching-substring>
         </xsl:analyze-string>
+    </xsl:template>
+    <!-- ================================================================ -->
+    <!-- Mode: grammar                                                    -->
+    <!-- ================================================================ -->
+    <xsl:template match="rec" mode="grammar">
+        <span id="grammar-{position()}" class="grammar" style="display: none;">
+            <span class="os">
+                <xsl:value-of select="*/@lemma"/>
+            </span>
+        </span>
     </xsl:template>
 </xsl:stylesheet>
