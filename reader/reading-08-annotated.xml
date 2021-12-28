@@ -350,7 +350,7 @@
          <w>
             <ms>Какъ</ms>
             <pldr>Какъ</pldr>
-            <rec>Какъ</rec>
+            <rec>Како</rec>
             <note>Here: <gloss>why</gloss>
             </note>
          </w>
@@ -549,7 +549,7 @@
          <w>
             <ms>дѣвицы</ms>
             <pldr>дѣвицы</pldr>
-            <rec>дѣвици</rec>
+            <rec>дѣвицѧ</rec>
          </w>
          <w>
             <ms>вопрошати:</ms>
@@ -903,7 +903,7 @@
          <w>
             <ms>камениемъ</ms>
             <pldr>камениемъ</pldr>
-            <rec>камениѥмь</rec>
+            <rec>камениимь</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -982,7 +982,7 @@
          <w>
             <ms>сребряных</ms>
             <pldr>сребряных</pldr>
-            <rec>сьребрѧныхъ</rec>
+            <rec>сьребрьныхъ</rec>
          </w>
          <w>
             <ms>бронех,</ms>
@@ -1073,8 +1073,8 @@
          <w>
             <ms>поцеловавъ</ms>
             <pldr>поцеловавъ</pldr>
-            <rec>поцѣловавъ</rec>
-            <!--RR: NB Tт has aor. поцелова here, so I'd recommend we emend Тх reading to поцѣлова-->
+            <rec>поцѣлова</rec>
+            <!--RR: NB Tт has aor. поцелова here, so I emend Тх reading to поцѣлова-->
          </w>
          <w>
             <ms>ю,</ms>
@@ -1253,7 +1253,8 @@
          <w>
             <ms>20000;</ms>
             <pldr>20000;</pldr>
-            <rec>·҂к҃·,</rec>
+            <rec> в⃝;</rec>
+            <note><os>дъва десѧти тысѧщь</os></note>
          </w>
          <w>
             <ms>третии</ms>
