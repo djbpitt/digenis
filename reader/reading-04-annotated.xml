@@ -919,11 +919,13 @@
             <ms>прикоснет</ms>
             <pldr>прикоснет</pldr>
             <rec>прикоснеть</rec>
+            <note>here: <gloss>court</gloss></note>
          </w>
          <w>
             <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>сѧ</rec>
+            <note>here: <gloss>court</gloss></note>
          </w>
          <w>
             <ms>Стратиговне</ms>
@@ -1804,11 +1806,15 @@
             <ms>самъ</ms>
             <pldr>самъ</pldr>
             <rec>самъ</rec>
+            <note><os>самъ четвертъ</os>
+               <gloss>with three others</gloss></note>
          </w>
          <w>
             <ms>четвертъ</ms>
             <pldr>четвертъ</pldr>
             <rec>четвьртъ</rec>
+            <note><os>самъ четверт</os>
+               <gloss>with three others</gloss></note>
          </w>
          <w>
             <ms>ко</ms>
@@ -1923,16 +1929,19 @@
             <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>ѥмꙋ</rec>
+            <note>dat+inf <gloss>it is for him to succeed</gloss></note>
          </w>
          <w>
             <ms>доспеет</ms>
             <pldr>доспеет</pldr>
             <rec>доспѣѥть</rec>
+            <note>dat+inf <gloss>it is for him to succeed</gloss></note>
          </w>
          <w>
             <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>сѧ,</rec>
+            <note>dat+inf <gloss>it is for him to succeed</gloss></note>
          </w>
          <w>
             <ms>а</ms>
@@ -1943,26 +1952,31 @@
             <ms>прекрасной</ms>
             <pldr>прекрасной</pldr>
             <rec>прекрасьнои</rec>
+            <note>dat+inf <gloss>it is for … to be abducted</gloss></note>
          </w>
          <w>
             <ms>дѣвице</ms>
             <pldr>дѣвице</pldr>
             <rec>дѣвици</rec>
+            <note>dat+inf <gloss>it is for … to be abducted</gloss></note>
          </w>
          <w>
             <ms>Стратиговне</ms>
             <pldr>Стратиговне</pldr>
             <rec>Стратиговьнѣ</rec>
+            <note>dat+inf <gloss>it is for … to be abducted</gloss></note>
          </w>
          <w>
             <ms>исхищенной</ms>
             <pldr>исхищенной</pldr>
             <rec>исхыщенои</rec>
+            <note>dat+inf <gloss>it is for … to be abducted</gloss></note>
          </w>
          <w>
             <ms>быти</ms>
             <pldr>быти</pldr>
             <rec>быти</rec>
+            <note>dat+inf <gloss>it is for … to be abducted</gloss></note>
          </w>
          <w>
             <ms>от</ms>
