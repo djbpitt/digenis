@@ -87,6 +87,110 @@
             <h1 class="os">
                 <xsl:apply-templates/>
             </h1>
+            <div id="controls">
+                <p>Menu</p>
+                <div>
+                    <h2>Highlight forms</h2>
+                    <ul>
+                        <li>
+                            <label><input type="radio" id="Adjectives" name="highlight"/>Adjectives,
+                                all</label>
+                            <ul>
+                                <li>
+                                    <label><input type="radio" id="Possessives" name="highlight"
+                                        />Adjectives, possessive</label>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="Nouns" name="highlight"/>Nouns,
+                                all</label>
+                            <ul>
+                                <li>
+                                    <label><input type="radio" id="jo-and" name="highlight"/>Nouns,
+                                        jo- and jā-stem</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="minor" name="highlight"/>Nouns:
+                                        ĭ-, ŭ-, and consonant-stem</label>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="Verbs" name="highlight"/>Verbs,
+                                all</label>
+                            <ul>
+                                <li>
+                                    <label><input type="radio" id="Simple" name="highlight"/>Verbs,
+                                        simple past</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Perfect+subjunctive"
+                                            name="highlight"/>Verbs, Perfect and subjunctive</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Class1" name="highlight"/>Verbs,
+                                        Class 1</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Class4" name="highlight"/>Verbs,
+                                        Class 4</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Class5" name="highlight"/>Verbs,
+                                        Class 5</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Participles" name="highlight"
+                                        />Verbs, Participles</label>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="Pronouns" name="highlight"/>Pronouns,
+                                all</label>
+                            <ul>
+                                <li>
+                                    <label><input type="radio" id="Personal" name="highlight"
+                                        />Pronouns, personal</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Possessive" name="highlight"
+                                        />Pronouns, possessive</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Demonstrative" name="highlight"
+                                        />Pronouns, demonstrative</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Interrogative" name="highlight"
+                                        />Pronouns, interrogative</label>
+                                </li>
+                                <li>
+                                    <label><input type="radio" id="Relative" name="highlight"
+                                        />Pronouns, relative</label>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="Adverbs" name="highlight"/>Adverbs,
+                                all</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="Numerals" name="highlight"/>Numerals,
+                                all</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="duals" name="highlight"/>Duals,
+                                all</label>
+                        </li>
+                        <li>
+                            <label><input type="radio" id="none" name="highlight" checked="checked"
+                                />None</label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
             <!--<p><span class="note">Pink</span> = mouse over for annotation; <span class="diff"
                     >blue</span> = reconstruction differs from manuscript</p>-->
         </header>
@@ -111,9 +215,6 @@
                 <span id="grammar-initial" class="grammar">Grammatical information</span>
                 <xsl:apply-templates select="//rec" mode="grammar"/>
             </p>
-            <!-- Running out of space; can we omit this? -->
-            <!--<p class="note">Reconstruction and annotations by Robert Romanchuk and David J.
-                Birnbaum.</p>-->
         </footer>
     </xsl:template>
     <xsl:template match="p">
@@ -259,17 +360,14 @@
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <!-- ============================================================= -->
         <!-- adj | sh mGsg | младъ young                                   -->
-        <!-- Attributes must be specified with parent to maintain order==  -->
         <!-- ============================================================= -->
         <xsl:value-of select="
                 $local-categories/@length,
-                concat($local-categories/@gender, $local-categories/@case, $local-categories/@number)"
-        />
+                $local-categories ! concat(@gender, @case, @number)"/>
     </xsl:template>
     <xsl:template match="noun" mode="grammar">
         <!-- ============================================================ -->
         <!-- noun s-stem nAsg слово word -->
-        <!-- Attributes must be specified with parent to maintain order== -->
         <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:value-of select="
@@ -301,28 +399,24 @@
             <xsl:when test="$local-categories/self::participle">
                 <!-- ===================================================== -->
                 <!-- ppl } mNpl sh pt act | выити go                       -->
-                <!-- Attributes with parent to maintain order              -->
                 <!-- ===================================================== -->
                 <xsl:value-of select="
-                        concat(
-                        $local-categories/@gender,
-                        $local-categories/@case,
-                        $local-categories/@number),
-                        $local-categories/@length,
-                        $local-categories/@tense,
-                        $local-categories/@voice
-                        "/>
+                        $local-categories ! (
+                        concat(@gender, @case, @number),
+                        @length,
+                        @tense,
+                        @voice
+                        )"/>
             </xsl:when>
             <xsl:otherwise>
                 <!-- ===================================================== -->
                 <!-- ppl } mNpl sh pt act | выити go                       -->
-                <!-- Attributes with parent to maintain order              -->
                 <!-- ===================================================== -->
-                <xsl:value-of
-                select="concat($local-categories/@person, 
-                $local-categories/@number), 
-                $local-categories/@tense"
-                />
+                <xsl:value-of select="
+                        $local-categories ! (
+                        concat(@person, @number),
+                        @tense
+                        )"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
