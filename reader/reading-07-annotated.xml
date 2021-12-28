@@ -127,7 +127,7 @@
             <pldr>фара,</pldr>
             <rec>фарꙗ,</rec>
             <note>jo-stem <os>фарь</os>
-               <gloss>horse</gloss> has hard (o-stem) endings consistently in this text</note>
+               <gloss>horse</gloss> has hard (o-stem) endings consistently in the MS</note>
          </w>
          <w>
             <ms>и</ms>
@@ -266,10 +266,10 @@
          <w>
             <ms>поехавъ</ms>
             <pldr>поехавъ</pldr>
-            <rec>поѣхавъ</rec>
+            <rec>поѣха</rec>
             <note>ppl pt a mNsg irreg Class I <os>поѣхати (поѣдꙋть)</os>
             </note>
-            <!--RR: NB Tт has aor. поеде here, so I'd recommend we emend Тх reading to поѣха-->
+            <!--RR: NB Tт has aor. поеде here, so Тх reading emended to поѣха-->
          </w>
          <w>
             <ms>з</ms>
@@ -294,10 +294,10 @@
          <w>
             <ms>пояху</ms>
             <pldr>пояху</pldr>
-            <rec>поꙗхꙋ(ть)</rec>
+            <rec>поѩ</rec>
             <note>3pl imperfect irreg Class I <os>пѣти, поють</os>
                <gloss>sing</gloss>, apparently pl to include Digenis and his retinue.</note>
-            <!--RR: Probably an error for ppl pr a поѩ, see next ppl pr a below-->
+            <!--RR: emended to ppl pr a поѩ, see next ppl pr a below-->
          </w>
          <w>
             <ms>и</ms>
@@ -330,13 +330,12 @@
          <w>
             <ms>песнь</ms>
             <pldr>песнь</pldr>
-            <rec>песнь</rec>
+            <rec>пѣснь</rec>
          </w>
          <w>
             <ms>сконча,</ms>
             <pldr>сконча,</pldr>
-            <rec>съконьчѧ,</rec>
-            <!--RR: emended ending to front nasal, following our principles-->
+            <rec>съконьча,</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -860,6 +859,7 @@
             <note>ppl pr a mNsg irreg Class I <os>зъвати (зовуть)</os>
                <gloss>calling</gloss>
             </note>
+            <!-- This form attested in 10-vol dictionary, s.v. (406), Chud. N. XII -->
          </w>
          <w>
             <ms>Стратига</ms>
@@ -1456,6 +1456,7 @@
             <ms>1000</ms>
             <pldr>1000</pldr>
             <rec>·҂а҃·</rec>
+            <note><os>тысѧщю</os></note>
          </w>
          <w>
             <ms>емлютъ,</ms>
@@ -1487,7 +1488,8 @@
          <w>
             <ms>две</ms>
             <pldr>две</pldr>
-            <rec>дъвѣ</rec>
+            <rec>·҂в҃·</rec>
+            <note><os>дъвѣ тысѧщи</os></note>
          </w>
          <w>
             <ms>и</ms>
@@ -1503,6 +1505,7 @@
             <ms>5000</ms>
             <pldr>5000</pldr>
             <rec>·҂е҃·</rec>
+            <note><os>пѧть тысѧщь</os></note>
          </w>
          <w>
             <ms>и</ms>
@@ -1515,14 +1518,10 @@
             <rec>по</rec>
          </w>
          <w>
-            <ms>десяти</ms>
-            <pldr>десяти</pldr>
-            <rec>десѧти</rec>
-         </w>
-         <w>
-            <ms>тысящъ.</ms>
-            <pldr>тысящъ.</pldr>
-            <rec>тысѧщь?</rec>
+            <ms>десяти тысящъ.</ms>
+            <pldr>десяти тысящъ.</pldr>
+            <rec> а⃝?</rec>
+            <note><os>десѧти тысѧщь</os></note>
             <!--RR: Punctuation corrected from PLDR-->
          </w>
          <w>
