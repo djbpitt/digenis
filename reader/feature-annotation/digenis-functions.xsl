@@ -61,7 +61,8 @@
     <!-- ================================================================ -->
     <xsl:param name="input" as="xs:string"/>
     <xsl:sequence select="replace($input, 'оу', 'ꙋ') ! 
-      translate(., 'ѧꙗѥйу', 'яяеиꙋ') ! 
+      translate(., 'ѧꙗѩѥйу', 'яяяеиꙋ') ! 
+      replace(.,'\P{L}','') !
       replace(., 'ъ$', '')"/>
   </xsl:function>
   <xsl:function name="djb:norm-diff" as="xs:boolean" visibility="final">

@@ -87,8 +87,8 @@
             <h1 class="os">
                 <xsl:apply-templates/>
             </h1>
-            <p><span class="note">Pink</span> = mouse over for annotation; <span class="diff"
-                    >blue</span> = reconstruction differs from manuscript</p>
+            <!--<p><span class="note">Pink</span> = mouse over for annotation; <span class="diff"
+                    >blue</span> = reconstruction differs from manuscript</p>-->
         </header>
     </xsl:template>
     <xsl:template match="body">

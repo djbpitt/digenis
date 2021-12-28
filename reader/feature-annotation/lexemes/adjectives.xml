@@ -9,6 +9,11 @@
   <adjective lemma="младыи" gloss="young"/>
   <adjective lemma="мьртвыи" gloss="dead"/>
   <adjective lemma="мъногыи" gloss="many"/>
+  <!-- Rationale for lemmatizing as охочь (short only):  
+    охвочь and охвотивъ are only short in xi–xiv 6.320, but
+    the в is a northern dialect feature (Vasmer 3.175); 
+  Sreznevskij's 2.838 long is only a fixed phrase '(military) volunteer'-->
+  <adjective lemma="охочь" gloss="eager; desirous"/>
   <adjective lemma="преславьныи" gloss="most glorious"/>
   <adjective lemma="радостьныи" gloss="glad; happy"/>
   <adjective lemma="радъ" gloss="glad; happy"/>
