@@ -3,40 +3,40 @@
     xmlns:djb="http://www.obdurodon.org" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="#all" version="3.0">
-    <!-- ================================================================ -->
-    <!-- Creates reading view of section of Digenis reader                -->
-    <!-- Run with EE and -config:ee-package-config.xml                    -->
-    <!-- Input: reading-xx-annotated.xml                                  -->
-    <!-- Output: reading-xx.xhtml                                         -->
-    <!--                                                                  -->
-    <!-- TODO: Tab title assumes filename digenis-\d+-features.xml        -->
-    <!-- ================================================================ -->
+    <!-- ================================================================= -->
+    <!-- Creates reading view of section of Digenis reader                 -->
+    <!-- Run with EE and -config:ee-package-config.xml                     -->
+    <!-- Input: reading-xx-annotated.xml                                   -->
+    <!-- Output: reading-xx.xhtml                                          -->
+    <!--                                                                   -->
+    <!-- TODO: Tab title assumes filename digenis-\d+-features.xml         -->
+    <!-- ================================================================= -->
 
-    <!-- ================================================================== -->
-    <!-- Housekeeping                                                       -->
-    <!-- ================================================================== -->
+    <!-- ================================================================= -->
+    <!-- Housekeeping                                                      -->
+    <!-- ================================================================= -->
     <xsl:use-package name="http://www.obdurodon.org/digenis-functions" version="1.0"/>
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
     <xsl:strip-space elements="p w s rec"/>
 
-    <!-- ================================================================== -->
-    <!-- Stylesheet variables                                               -->
-    <!-- ================================================================== -->
+    <!-- ================================================================= -->
+    <!-- Stylesheet variables                                              -->
+    <!-- ================================================================= -->
     <xsl:variable name="part-number" as="xs:string"
         select="base-uri() ! tokenize(., '/')[last()] => substring-before('-features') => substring-after('-') => replace('^0+', '')"/>
     <xsl:variable name="all-words" as="document-node()">
         <xsl:document>
-            <!-- ============================================================== -->
-            <!-- Merge into one document for key                                -->
-            <!-- ============================================================== -->
+            <!-- ========================================================= -->
+            <!-- Merge into one document for key                           -->
+            <!-- ========================================================= -->
             <xsl:sequence select="collection('lexemes?select=*.xml')"/>
         </xsl:document>
     </xsl:variable>
     <xsl:variable name="abbreviate" as="map(xs:string, xs:string)">
-        <!-- ============================================================ -->
-        <!-- Part of speech, number type, pronoun type                    -->
-        <!-- ============================================================ -->
+        <!-- ============================================================= -->
+        <!-- Part of speech, number type, pronoun type                     -->
+        <!-- ============================================================= -->
         <xsl:sequence select="
                 map {
                     'adjective': 'adj',
@@ -59,14 +59,14 @@
                 }"/>
     </xsl:variable>
 
-    <!-- ================================================================== -->
-    <!-- Keys                                                               -->
-    <!-- ================================================================== -->
+    <!-- ================================================================= -->
+    <!-- Keys                                                              -->
+    <!-- ================================================================= -->
     <xsl:key name="lexemeByLemmaAndName" match="*" use="@lemma, name()" composite="yes"/>
 
-    <!-- ================================================================== -->
-    <!-- Main                                                               -->
-    <!-- ================================================================== -->
+    <!-- ================================================================= -->
+    <!-- Main                                                              -->
+    <!-- ================================================================= -->
     <xsl:template match="/">
         <html>
             <head>
@@ -140,9 +140,9 @@
         </span>
     </xsl:template>
     <xsl:template match="rec">
-        <!-- ================================================================ -->
-        <!-- Add 'diff' to @class if different after normalization        -->
-        <!-- ================================================================ -->
+        <!-- ============================================================= -->
+        <!-- Add 'diff' to @class if different after normalization         -->
+        <!-- ============================================================= -->
         <span>
             <xsl:attribute name="class" select="
                     concat('rec', if (not(djb:norm-diff(., preceding-sibling::pldr))) then
@@ -154,9 +154,9 @@
     </xsl:template>
     <xsl:template match="note">
         <div class="annotation">
-            <!--  ======================================================= -->
+            <!--  ======================================================== -->
             <!-- Repeat reading, since otherwise popup might hide it       -->
-            <!--  ======================================================= -->
+            <!--  ======================================================== -->
             <span class="os">
                 <xsl:value-of select="exactly-one(preceding-sibling::rec) ! replace(., '\P{L}', '')"
                 />
@@ -215,10 +215,10 @@
         </xsl:analyze-string>
     </xsl:template>
 
-    <!-- ================================================================ -->
-    <!-- Mode: grammar                                                    -->
-    <!-- Retroversion with regular grammatical information and gloss      -->
-    <!-- ================================================================ -->
+    <!-- ================================================================= -->
+    <!-- Mode: grammar                                                     -->
+    <!-- Retroversion with regular grammatical information and gloss       -->
+    <!-- ================================================================= -->
     <xsl:template match="rec" mode="grammar">
         <xsl:variable name="adjusted-name" as="xs:string" select="
                 if (participle) then
@@ -235,16 +235,16 @@
     </xsl:template>
     <xsl:template match="* except rec" mode="grammar" priority="10">
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
-        <!-- ============================================================ -->
-        <!-- Match first for all parts of speech                          -->
-        <!-- ============================================================ -->
+        <!-- ============================================================= -->
+        <!-- Match first for all parts of speech                           -->
+        <!-- ============================================================= -->
         <xsl:value-of select="$abbreviate($local-categories/name())"/>
         <xsl:text> </xsl:text>
         <xsl:next-match>
-            <!-- ======================================================== -->
-            <!-- Insert specific information between cite and lemma/gloss -->
-            <!-- None for adv, conj, part, prep; ppl included in verb     -->
-            <!-- ======================================================== -->
+            <!-- ========================================================= -->
+            <!-- Insert specific information between cite and lemma/gloss  -->
+            <!-- None for adv, conj, part, prep; ppl included in verb      -->
+            <!-- ========================================================= -->
         </xsl:next-match>
         <xsl:text> </xsl:text>
         <span class="os">
@@ -257,10 +257,10 @@
     </xsl:template>
     <xsl:template match="adjective" mode="grammar">
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
-        <!-- ============================================================ -->
-        <!-- adj | sh mGsg | младъ young-->
-        <!-- Attributes must be specified with parent to maintain order== -->
-        <!-- ============================================================ -->
+        <!-- ============================================================= -->
+        <!-- adj | sh mGsg | младъ young                                   -->
+        <!-- Attributes must be specified with parent to maintain order==  -->
+        <!-- ============================================================= -->
         <xsl:value-of select="
                 $local-categories/@length,
                 concat($local-categories/@gender, $local-categories/@case, $local-categories/@number)"
@@ -299,10 +299,10 @@
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:choose>
             <xsl:when test="$local-categories/self::participle">
-                <!-- ============================================================ -->
-                <!-- ppl } mNpl sh pt act | выити go -->
-                <!-- Attributes must be specified with parent to maintain order== -->
-                <!-- ============================================================ -->
+                <!-- ===================================================== -->
+                <!-- ppl } mNpl sh pt act | выити go                       -->
+                <!-- Attributes with parent to maintain order              -->
+                <!-- ===================================================== -->
                 <xsl:value-of select="
                         concat(
                         $local-categories/@gender,
@@ -314,12 +314,14 @@
                         "/>
             </xsl:when>
             <xsl:otherwise>
-                <!-- ============================================================ -->
-                <!-- verb | 3sg aorist | начѧти begin -->
-                <!-- Attributes must be specified with parent to maintain order== -->
-                <!-- ============================================================ -->
+                <!-- ===================================================== -->
+                <!-- ppl } mNpl sh pt act | выити go                       -->
+                <!-- Attributes with parent to maintain order              -->
+                <!-- ===================================================== -->
                 <xsl:value-of
-                    select="concat($local-categories/@person, $local-categories/@number), $local-categories/@tense"
+                select="concat($local-categories/@person, 
+                $local-categories/@number), 
+                $local-categories/@tense"
                 />
             </xsl:otherwise>
         </xsl:choose>
