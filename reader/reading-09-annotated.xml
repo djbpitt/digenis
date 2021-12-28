@@ -829,7 +829,7 @@
          <w>
             <ms>камениемъ</ms>
             <pldr>камениемъ</pldr>
-            <rec>камениѥмь</rec>
+            <rec>камениимь</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -912,7 +912,7 @@
          <w>
             <ms>начатъ</ms>
             <pldr>начатъ</pldr>
-            <rec>начтѧ(тъ)</rec>
+            <rec>начѧ(тъ)</rec>
          </w>
          <w>
             <ms>ихъ</ms>
@@ -1123,6 +1123,8 @@
             <ms>и</ms>
             <pldr>и</pldr>
             <rec>и</rec>
+            <note>This is in the wrong place in the manuscript; it should read <os>и чѧдъ моихъ и
+               дъщери бꙋдꙋщѧ ѥдинои оу матере</os>.</note>
             <!--
                This lexeme and the following should be moved after моихъ above, following Tт
                djb: Do you want to move it in our materials or just add a note that it’s in the wrong
@@ -1782,7 +1784,7 @@
          <w>
             <ms>молитвою —</ms>
             <pldr>молитвою —</pldr>
-            <rec>молитвою</rec>
+            <rec>молитвою,</rec>
             <!--
                Again, I'd strike this and punctuate as above
                djb: Agreed and done
