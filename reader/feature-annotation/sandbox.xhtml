@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>stuff</title>
+        <style type="text/css">
+            #controls {
+              display: block;
+              float: right;
+              position: absolute;
+              right: 0;
+              top: .8em;
+              padding: 0 0.5em;
+              border: 1px solid black;
+              margin: 0.5em;
+              z-index: 10;
+              background-color: #f4eee2;
+              opacity: .985;
+            }
+            #controls > p {
+              color: #A00000;
+              text-align: right;
+              margin: 0.25em;
+            }
+            #controls > div {
+              display: none;
+            }
+            #controls > div > p {
+              display: flex;
+              flex-direction: column;
+              margin: 0.25em;
+            }
+            #controls ul { /* shared and inner ul */
+              list-style-type: none;
+              padding: 0 0 0 1em;
+              margin: 0;
+            }
+            #controls > div > ul { /* outermost ul */
+              padding-left: 0;
+              margin: .5em 0;
+            }
+            #controls h2 {
+              font-size: medium;
+              margin: 0;
+            }
+            #controls:hover * {
+              display: block;
+            }</style>
+    </head>
+    <body>
+        <h1>Sandbox</h1>
+        <div id="controls">
+            <p>Menu</p>
+            <div>
+                <h2>Highlight forms</h2>
+                <ul>
+                    <li><label><input type="radio" id="Adjectives" name="highlight" />Adjectives,
+                            all</label><ul>
+                            <li><label><input type="radio" id="Possessives" name="highlight"
+                                     />Adjectives, possessive</label></li>
+                        </ul>
+                    </li>
+                    <li><label><input type="radio" id="Nouns" name="highlight" />Nouns, all</label><ul>
+                            <li><label><input type="radio" id="jo-and" name="highlight" />Nouns, jo-
+                                    and jā-stem</label></li>
+                            <li><label><input type="radio" id="minor" name="highlight" />Nouns: ĭ-,
+                                    ŭ-, and consonant-stem</label></li>
+                        </ul>
+                    </li>
+                    <li><label><input type="radio" id="Verbs" name="highlight" />Verbs, all</label><ul>
+                            <li><label><input type="radio" id="Simple" name="highlight" />Verbs,
+                                    simple past</label></li>
+                            <li><label><input type="radio" id="Perfect+subjunctive" name="highlight"
+                                     />Verbs, Perfect and subjunctive</label></li>
+                            <li><label><input type="radio" id="Class1" name="highlight" />Verbs,
+                                    Class 1</label></li>
+                            <li><label><input type="radio" id="Class4" name="highlight" />Verbs,
+                                    Class 4</label></li>
+                            <li><label><input type="radio" id="Class5" name="highlight" />Verbs,
+                                    Class 5</label></li>
+                            <li><label><input type="radio" id="Participles" name="highlight"
+                                     />Verbs, Participles</label></li>
+                        </ul>
+                    </li>
+                    <li><label><input type="radio" id="Pronouns" name="highlight" />Pronouns,
+                            all</label><ul>
+                            <li><label><input type="radio" id="Personal" name="highlight"
+                                     />Pronouns, personal</label></li>
+                            <li><label><input type="radio" id="Possessive" name="highlight"
+                                     />Pronouns, possessive</label></li>
+                            <li><label><input type="radio" id="Demonstrative" name="highlight"
+                                     />Pronouns, demonstrative</label></li>
+                            <li><label><input type="radio" id="Interrogative" name="highlight"
+                                     />Pronouns, interrogative</label></li>
+                            <li><label><input type="radio" id="Relative" name="highlight"
+                                     />Pronouns, relative</label></li>
+                        </ul>
+                    </li>
+                    <li><label><input type="radio" id="Adverbs" name="highlight" />Adverbs,
+                            all</label></li>
+                    <li><label><input type="radio" id="Numerals" name="highlight" />Numerals,
+                            all</label></li>
+                    <li><label><input type="radio" id="duals" name="highlight" />Duals,
+                        all</label></li>
+                    <li><label><input type="radio" id="none" name="highlight" checked="checked"
+                             />None</label></li>
+                </ul>
+            </div>
+        </div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat suscipit
+            mi, sed congue turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+            sed ex pulvinar, cursus ipsum congue, ultrices enim. Nullam eget diam congue nisl
+            aliquam iaculis quis nec eros. Praesent ornare tellus in elit ultrices tincidunt. Etiam
+            dictum semper dui, non ultricies massa viverra quis. Cras nec dui enim. Praesent non
+            nibh ultricies, pellentesque ante ut, venenatis lectus. Vivamus nec nibh convallis,
+            luctus nisi eu, hendrerit mi. Aliquam iaculis, ex sed consequat varius, augue nisi
+            tempus sapien, hendrerit tempor arcu felis vitae mi. Etiam laoreet massa euismod lacus
+            porta, a consequat velit placerat. Ut rutrum sapien sit amet scelerisque aliquam.
+            Praesent vel facilisis urna. </p>
+        <p>Duis eget finibus elit, eget lacinia lorem. Ut rutrum, nulla a laoreet posuere, magna
+            nisl vehicula libero, sed vestibulum dolor nisl sit amet ante. Pellentesque habitant
+            morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent mi
+            odio, condimentum non dui eu, commodo ullamcorper nisi. Cras lacus odio, dignissim
+            ultrices faucibus sit amet, eleifend dictum velit. Phasellus gravida congue elit,
+            convallis fringilla turpis molestie a. Duis eleifend tincidunt mauris id egestas. Cras
+            mollis dolor vel eros dapibus, bibendum vehicula dui ornare. Nam ultricies, nisl vel
+            viverra efficitur, sem odio tincidunt metus, vitae imperdiet nibh dui eu sem. Phasellus
+            facilisis sit amet nisi in varius. Proin elementum, est ut tincidunt gravida, diam ante
+            ultrices urna, a venenatis lorem nulla eget lacus. Quisque mollis tellus sit amet
+            elementum condimentum. Nullam iaculis neque ut tempus mollis. </p>
+        <p>In non consequat ligula, quis tincidunt nisi. Sed imperdiet viverra sem aliquam
+            tincidunt. Nunc quis elementum erat, sed condimentum augue. Proin a iaculis orci.
+            Vestibulum quis odio ipsum. Sed vitae ex nisi. Pellentesque vulputate porttitor risus at
+            mattis. </p>
+        <p>Nam metus turpis, mattis in ipsum sit amet, viverra tristique justo. Suspendisse ut
+            fringilla velit. Donec eu ipsum eu mi sodales dignissim non eu dui. Aenean porta
+            ullamcorper nulla, euismod accumsan nisi placerat vel. Vestibulum ac nulla tellus.
+            Suspendisse sed convallis libero, in posuere dolor. Ut nec suscipit ligula. Sed id est
+            sem. </p>
+        <p> Sed elit sem, accumsan vel sollicitudin et, laoreet et sem. Curabitur tempor odio in
+            quam mattis, id bibendum libero consectetur. Curabitur vitae nulla lectus. Morbi non
+            maximus magna. Suspendisse id finibus lorem. Pellentesque habitant morbi tristique
+            senectus et netus et malesuada fames ac turpis egestas. Proin nec magna vitae libero
+            rutrum rutrum. Curabitur pretium pretium eros, in luctus nibh molestie eu. Vestibulum
+            lobortis volutpat dictum. Fusce eget odio iaculis, varius mi at, dignissim elit. Sed
+            auctor nibh ut neque bibendum eleifend. Ut at tincidunt lacus. Nunc condimentum
+            hendrerit velit non euismod.</p>
+    </body>
+</html>
