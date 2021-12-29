@@ -1490,6 +1490,17 @@
             <pldr>две</pldr>
             <rec>·҂в҃·</rec>
             <note><os>дъвѣ тысѧщи</os></note>
+            <!-- ‘two’, ‘three’, [and ‘four’] prefer the accusative, see Krys’ko ed. v. 4 pp. 106-107:
+а на дольнихъ по двѣ [свѣщи] 279;
+·а оу дольнихъ иконъ по три свѣщи 279.
+и по три въземлють чяшкы ...
+·а оу дольнихъ иконъ по три свѣщи 279.
+Krys’ko ed. v. 4 tells us that distributive constructions with по can take either dative or accusative. 
+Generally, see Krys’ko ed. v. 4 p. 130, n. 85: 
+Исходя из ДП по десяти, форму по дъвадесяти из того же контекста следовало бы интерпретировать 
+как ДП композита дъвадесять, хотя известно, что в распределительных конструкциях с предлогом 
+по допускался также ВП.
+ -->
          </w>
          <w>
             <ms>и</ms>
@@ -1505,7 +1516,13 @@
             <ms>5000</ms>
             <pldr>5000</pldr>
             <rec>·҂е҃·</rec>
-            <note><os>пѧть тысѧщь</os></note>
+            <note><os>пѧти тысѧщь</os></note>
+            <!-- b. ‘five’, ‘ten’, and ‘twenty’ prefer the dative, see Krys’ko ed. v. 4 p. 107:
+и по пяти смокъвъ 207 об.-208;
+see also (as above) p. 130:
+оуставляють(с) на коиждо пѣ(с) ·по [деся]ти стихо(в) · 
+на четвьртѣи же· и на .з. по дъвадеся(т) стихо(в) УСт к. ХП, 37
+ -->
          </w>
          <w>
             <ms>и</ms>
@@ -1522,6 +1539,12 @@
             <pldr>десяти тысящъ.</pldr>
             <rec> а⃝?</rec>
             <note><os>десѧти тысѧщь</os></note>
+            <!-- b. ‘five’, ‘ten’, and ‘twenty’ prefer the dative, see Krys’ko ed. v. 4 p. 107:
+и по пяти смокъвъ 207 об.-208;
+see also (as above) p. 130:
+оуставляють(с) на коиждо пѣ(с) ·по [деся]ти стихо(в) · 
+на четвьртѣи же· и на .з. по дъвадеся(т) стихо(в) УСт к. ХП, 37
+ -->
             <!--RR: Punctuation corrected from PLDR-->
          </w>
          <w>
