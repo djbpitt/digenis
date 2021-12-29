@@ -153,7 +153,7 @@ footer {
   background-color: yellow;
   padding: 0.5em;
   margin-left: -2em;
-  max-width: 30%;
+  width: 15vw;
   position: absolute;
   border: 1px gray solid;
   z-index: 1;
@@ -224,6 +224,24 @@ li > label > input {
   font-size: medium;
   margin: 0;
 }
-#controls:hover * {
+#controls:hover * { /* show/hide menu with pure css */
   display: block;
+}
+div.note:hover div.annotation { /* show/hide popup notes with pure css */
+  visibility: visible
+}
+.w {
+  position: relative;
+}
+.w.highlight:after { /* toggle .highlight class value */
+  /* https://stackoverflow.com/questions/5394116/outline-radius (pseudo-element solution) */
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 5px;
+  border: 2px solid salmon;
 }
