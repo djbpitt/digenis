@@ -2,7 +2,7 @@
 <?xml-model href="reader.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="reader.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section>
-   <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·вꙇ҃·</title>
+   <title>ДѢꙖНИѤ ПРЕЖЬНИХЪ ВРЕМЕНЪ ХРАБРЫХЪ ЧЕЛОВѢКЪ ·вꙇ҃·</title>
    <!--
       I've written the possessive of Цѣсарь as Цѣсарѥвъ, with jotated ѥ, because
       1) it's etymologically correct, 2) it's in Cejtlin, and 3) it's consistent with our
