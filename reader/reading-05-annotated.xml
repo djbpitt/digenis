@@ -773,9 +773,14 @@
             <rec>чего</rec>
          </w>
          <w>
-            <ms>ради...</ms>
-            <pldr>ради...</pldr>
-            <rec>ради...</rec>
+            <ms>ради</ms>
+            <pldr>ради</pldr>
+            <rec>ради</rec>
+         </w>
+         <w>
+            <ms>…</ms>
+            <pldr>…</pldr>
+            <rec>…</rec>
          </w>
          <w>
             <ms>Аще</ms>
