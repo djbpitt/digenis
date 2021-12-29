@@ -223,6 +223,31 @@
         </div>
     </xsl:template>
     <xsl:template match="w">
+        <!-- TODO: 
+        Add @class values for highlight topics:
+            (Map lookups for nonexistent keys do not return an error)
+        Adjectives, all
+        Adjectives, possessive
+        Nouns, all
+        Nouns, jo- and jā-stem
+        Nouns: ĭ-, ŭ-, and consonant-stem
+        Verbs, all
+        Verbs, simple past
+        Verbs, Perfect and subjunctive
+        Verbs, Class 1
+        Verbs, Class 4
+        Verbs, Class 5
+        Verbs, Participles
+        Pronouns, all
+        Pronouns, personal
+        Pronouns, possessive
+        Pronouns, demonstrative
+        Pronouns, interrogative
+        Pronouns, relative
+        Adverbs, all
+        Numerals, all
+        Duals, all
+        -->
         <div>
             <xsl:attribute name="class" select="
                     concat('w', if (note) then
