@@ -5,7 +5,7 @@ lemma =
   attribute lemma {
     xsd:string { pattern = ".+" }
   }
-poss = attribute poss { "yes" }
+poss = attribute poss { "poss" }
 gloss =
   attribute gloss {
     xsd:string { pattern = ".+" }

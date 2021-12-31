@@ -133,7 +133,7 @@ tense =
   }
 voice = attribute voice { "act" | "pass" }
 # omit pers and handle separately because pers require person
-pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" | "ana" }
+pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
 length = attribute length { "sh" | "lg" }
 degree = attribute degree { "comp" | "sup" }
 syntax = attribute syntax { "dat+inf" | "dat abs" }

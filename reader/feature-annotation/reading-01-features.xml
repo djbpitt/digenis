@@ -1240,7 +1240,7 @@
          <w>
             <pldr>еже</pldr>
             <rec>
-               <pronoun lemma="иже" type="ana" case="N" gender="n" number="sg">ѥже</pronoun>
+               <pronoun lemma="иже" type="rel" case="N" gender="n" number="sg">ѥже</pronoun>
             </rec>
          </w>
          <w>

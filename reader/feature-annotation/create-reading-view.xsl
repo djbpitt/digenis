@@ -55,7 +55,19 @@
                     'personal': 'pers',
                     'possessive': 'poss',
                     'relative': 'rel',
-                    'demonstrative': 'dem'
+                    'demonstrative': 'dem',
+                    'a': 'a',
+                    'ja': 'jā',
+                    'o': 'o',
+                    'jo': 'jo',
+                    'i': 'ĭ',
+                    'u': 'ŭ',
+                    's': 's',
+                    'r': 'r',
+                    'n': 'n',
+                    'nt': 'nt',
+                    't': 't',
+                    'u-long': 'ū'
                 }"/>
     </xsl:variable>
 
@@ -93,21 +105,21 @@
                     <h2>Highlight forms</h2>
                     <ul>
                         <li>
-                            <label><input type="radio" id="Adjectives" name="highlight"/>Adjectives,
+                            <label><input type="radio" id="adjective" name="highlight"/>Adjectives,
                                 all</label>
                             <ul>
                                 <li>
-                                    <label><input type="radio" id="Possessives" name="highlight"
+                                    <label><input type="radio" id="poss_adj" name="highlight"
                                         />Adjectives, possessive</label>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <label><input type="radio" id="Nouns" name="highlight"/>Nouns,
+                            <label><input type="radio" id="noun" name="highlight"/>Nouns,
                                 all</label>
                             <ul>
                                 <li>
-                                    <label><input type="radio" id="jo-and" name="highlight"/>Nouns,
+                                    <label><input type="radio" id="jo-ja" name="highlight"/>Nouns,
                                         jo- and jā-stem</label>
                                 </li>
                                 <li>
@@ -117,71 +129,71 @@
                             </ul>
                         </li>
                         <li>
-                            <label><input type="radio" id="Verbs" name="highlight"/>Verbs,
+                            <label><input type="radio" id="verb" name="highlight"/>Verbs,
                                 all</label>
                             <ul>
                                 <li>
-                                    <label><input type="radio" id="Simple" name="highlight"/>Verbs,
+                                    <label><input type="radio" id="pt" name="highlight"/>Verbs,
                                         simple past</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Perfect+subjunctive"
-                                            name="highlight"/>Verbs, Perfect and subjunctive</label>
+                                    <label><input type="radio" id="pf" name="highlight"/>Verbs,
+                                        Perfect and subjunctive</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Class1" name="highlight"/>Verbs,
-                                        Class 1</label>
+                                    <label><input type="radio" id="I" name="highlight"/>Verbs, Class
+                                        1</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Class4" name="highlight"/>Verbs,
+                                    <label><input type="radio" id="IV" name="highlight"/>Verbs,
                                         Class 4</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Class5" name="highlight"/>Verbs,
-                                        Class 5</label>
+                                    <label><input type="radio" id="V" name="highlight"/>Verbs, Class
+                                        5</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Participles" name="highlight"
+                                    <label><input type="radio" id="participle" name="highlight"
                                         />Verbs, Participles</label>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <label><input type="radio" id="Pronouns" name="highlight"/>Pronouns,
+                            <label><input type="radio" id="pronoun" name="highlight"/>Pronouns,
                                 all</label>
                             <ul>
                                 <li>
-                                    <label><input type="radio" id="Personal" name="highlight"
-                                        />Pronouns, personal</label>
+                                    <label><input type="radio" id="pers" name="highlight"/>Pronouns,
+                                        personal</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Possessive" name="highlight"
+                                    <label><input type="radio" id="poss_pron" name="highlight"
                                         />Pronouns, possessive</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Demonstrative" name="highlight"
-                                        />Pronouns, demonstrative</label>
+                                    <label><input type="radio" id="dem" name="highlight"/>Pronouns,
+                                        demonstrative</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Interrogative" name="highlight"
+                                    <label><input type="radio" id="interrog" name="highlight"
                                         />Pronouns, interrogative</label>
                                 </li>
                                 <li>
-                                    <label><input type="radio" id="Relative" name="highlight"
-                                        />Pronouns, relative</label>
+                                    <label><input type="radio" id="rel" name="highlight"/>Pronouns,
+                                        relative</label>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <label><input type="radio" id="Adverbs" name="highlight"/>Adverbs,
+                            <label><input type="radio" id="adverb" name="highlight"/>Adverbs,
                                 all</label>
                         </li>
                         <li>
-                            <label><input type="radio" id="Numerals" name="highlight"/>Numerals,
+                            <label><input type="radio" id="number" name="highlight"/>Numerals,
                                 all</label>
                         </li>
                         <li>
-                            <label><input type="radio" id="duals" name="highlight"/>Duals,
+                            <label><input type="radio" id="dual" name="highlight"/>Duals,
                                 all</label>
                         </li>
                         <li>
@@ -223,37 +235,50 @@
         </div>
     </xsl:template>
     <xsl:template match="w">
-        <!-- TODO: 
-        Add @class values for highlight topics:
-            (Map lookups for nonexistent keys do not return an error)
-        Adjectives, all
-        Adjectives, possessive
-        Nouns, all
-        Nouns, jo- and jā-stem
-        Nouns: ĭ-, ŭ-, and consonant-stem
-        Verbs, all
-        Verbs, simple past
-        Verbs, Perfect and subjunctive
-        Verbs, Class 1
-        Verbs, Class 4
-        Verbs, Class 5
-        Verbs, Participles
-        Pronouns, all
-        Pronouns, personal
-        Pronouns, possessive
-        Pronouns, demonstrative
-        Pronouns, interrogative
-        Pronouns, relative
-        Adverbs, all
-        Numerals, all
-        Duals, all
+        <!-- Add class values for the following: 
+        adjective: Adjectives, all
+        poss and adjective: Adjectives, possessive
+        noun: Nouns, all
+        jo,jā: Nouns, jo- and jā-stem
+        ĭ, ŭ, s, r, n, t, nt, ū: Nouns: ĭ-, ŭ-, and consonant-stem
+        verb: Verbs, all
+        p: Verbs, simple past
+        pf, pf_neg, cond: Verbs, Perfect and subjunctive
+        I: Verbs, Class 1
+        IVA, IVB: Verbs, Class 4
+        V: Verbs, Class 5
+        participle: Verbs, Participles
+        pronoun: Pronouns, all
+        pers: Pronouns, personal
+        poss and pronoun: Pronouns, possessive
+        dem: Pronouns, demonstrative
+        interrog: Pronouns, interrogative
+        rel: Pronouns, relative
+        adverb: Adverbs, all
+        number: Numerals, all
+        du: Duals, all
         -->
         <div>
             <xsl:attribute name="class" select="
-                    concat('w', if (note) then
+                    string-join(('w',
+                    rec/* ! name(),
+                    (if (rec/*/@number eq 'du') then (: dual :)
+                        'du'
+                    else
+                        ()),
+                    rec/*[self::pronoun]/@type (: pronoun type :),
+                    key('lexemeByLemmaAndName', (rec/*/@lemma, rec/*/name()), $all-words)/@poss (: possessive adjective :),
+                    key('lexemeByLemmaAndName', (rec/*/@lemma, rec/*/name()), $all-words)/@paradigm (: noun paradigm :),
+                    key('lexemeByLemmaAndName', (rec/*/@lemma,
+                    if (rec/*[self::participle]) then
+                        'verb'
+                    else
+                        rec/*/name()), $all-words)/@class (: verb  (including participle)class :),
+                    rec/*/@tense ! translate(., ' ', '_') (: verb tense; fix space in 'pf neg', 'impf aor' :),
+                    (if (note) then (: is there an annotation for pop-up? :)
                         ' note'
                     else
-                        ())"/>
+                        ())), ' ')"/>
             <span class="n">
                 <xsl:value-of select="count(preceding::w) + 1"/>
             </span>
@@ -396,7 +421,7 @@
         <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:value-of select="
-                concat(@paradigm, '-stem'),
+                concat($abbreviate(@paradigm), '-stem'),
                 concat(@gender,
                 $local-categories/@case,
                 $local-categories/@number)"/>
@@ -411,9 +436,14 @@
         <!-- add type after part of speech except for 'all' -->
         <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
-        <xsl:if test="@type ne 'all'">
-            <xsl:value-of select="$abbreviate(@type)"/>
-        </xsl:if>
+        <xsl:choose>
+            <xsl:when test="@type eq 'poss'">
+                <xsl:value-of select="'poss-adj'"/>
+            </xsl:when>
+            <xsl:when test="@type ne 'all'">
+                <xsl:value-of select="$abbreviate(@type)"/>
+            </xsl:when>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="verb" mode="grammar">
         <!-- ============================================================ -->

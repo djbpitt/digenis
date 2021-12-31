@@ -6,7 +6,9 @@ lemma =
     xsd:string { pattern = ".+" }
   }
 paradigm =
-  attribute paradigm { "o" | "jo" | "ā" | "jā" | "ĭ" | "ŭ" | "r" | "n" | "s" | "t" | "nt" | "ū" }
+  attribute paradigm {
+    "o" | "jo" | "a" | "ja" | "i" | "u" | "r" | "n" | "s" | "t" | "nt" | "u-long"
+  }
 gender = attribute gender { "m" | "f" | "n" }
 gloss =
   attribute gloss {
