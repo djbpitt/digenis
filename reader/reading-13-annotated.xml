@@ -377,7 +377,7 @@
          <w>
             <ms>копиемъ,</ms>
             <pldr>копиемъ,</pldr>
-            <rec>копиѥмь,</rec>
+            <rec>копиимь,</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -1055,7 +1055,9 @@
          <w>
             <ms>единаго</ms>
             <pldr>единаго</pldr>
-            <rec>ѥдинаго</rec>
+            <rec>ѥдиного</rec>
+            <!-- "Compound forms" of jedin-/odin- (i.e., with long adj. endings) seem very rare in OCS and EESl, 
+               although Vlasto (mistakenly?) calls edinago "standard" in OCS, see 3.71, p. 138 -->
          </w>
          <w>
             <ms>посла</ms>
