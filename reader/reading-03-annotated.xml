@@ -13,9 +13,9 @@
          <w>
             <ms>пришедши</ms>
             <pldr>пришедши</pldr>
-            <rec>пришьдъшиимъ</rec>
-            <!-- Using uncontracted long Dpl adj here as closest to MS readings (i.e., haplography), 
-               rather than contracted long -имъ or short (nominal) -емъ -->
+            <rec>пришьдъшимъ</rec>
+            <!-- Text-criciallly, we should use uncontracted long Dpl adj here as closest to MS readings (i.e., haplography), 
+               rather than contracted long -имъ or short (nominal) -емъ; but normalized to contracted long, as elsewhere -->
             <note>dat abs mDpl <gloss>when they had arrived</gloss>
             </note>
          </w>
