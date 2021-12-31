@@ -824,7 +824,7 @@
          <w>
             <ms>прелестью</ms>
             <pldr>прелестью</pldr>
-            <rec>прельстью</rec>
+            <rec>прельстию</rec>
          </w>
          <w>
             <ms>сице</ms>
@@ -1569,7 +1569,7 @@
          <w>
             <ms>Девгениемъ,</ms>
             <pldr>Девгениемъ,</pldr>
-            <rec>Девгениѥмь,</rec>
+            <rec>Девгениимь,</rec>
          </w>
          <w>
             <ms>и</ms>
@@ -1584,7 +1584,7 @@
          <w>
             <ms>царь</ms>
             <pldr>царь</pldr>
-            <rec>Цѣсарь</rec>
+            <rec>цѣсарь</rec>
             <note>Not present in Тх; we accept Tvorogov’s emendation and insert it here.</note>
             <!-- 
                царь supplied by Tvorogov (or another) here, not in Тх
