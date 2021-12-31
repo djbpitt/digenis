@@ -32,7 +32,7 @@
             <ms>царевъ,</ms>
             <pldr>царевъ,</pldr>
             <rec>Цѣсарѥвъ,</rec>
-            <!-- capitalize Цѣсарь, jotated ѥ -->
+            <!-- capitalize Цѣсарь (here, as title with name), jotated ѥ -->
          </w>
          <w>
             <ms>глагола</ms>
@@ -52,7 +52,7 @@
          <w>
             <ms>царемъ,</ms>
             <pldr>царемъ,</pldr>
-            <rec>Цѣсарьмь,</rec>
+            <rec>цѣсарьмь,</rec>
             <!-- capitalize Цѣсарь -->
          </w>
          <w>
@@ -78,7 +78,7 @@
          <w>
             <ms>царю</ms>
             <pldr>царю</pldr>
-            <rec>Цѣсарю</rec>
+            <rec>цѣсарю</rec>
             <!-- capitalize Цѣсарь -->
          </w>
          <w>
@@ -383,7 +383,7 @@
          <w>
             <ms>царю,</ms>
             <pldr>царю,</pldr>
-            <rec>Цѣсарю,</rec>
+            <rec>цѣсарю,</rec>
             <!-- capitalize Цѣсарь -->
          </w>
          <w>
@@ -427,7 +427,7 @@
          <w>
             <ms>царь</ms>
             <pldr>царь</pldr>
-            <rec>Цѣсарь</rec>
+            <rec>цѣсарь</rec>
             <!-- capitalize Цѣсарь -->
          </w>
          <w>
@@ -568,7 +568,7 @@
          <w>
             <ms>царевъ</ms>
             <pldr>царевъ</pldr>
-            <rec>Цѣсарѥвъ</rec>
+            <rec>цѣсарѥвъ</rec>
             <!-- capitalize Цѣсарѥвъ, jotated ѥ -->
          </w>
          <w>
@@ -758,7 +758,7 @@
          <w>
             <ms>царь</ms>
             <pldr>царь</pldr>
-            <rec>Цѣсарь</rec>
+            <rec>цѣсарь</rec>
             <!-- Capitalize -->
          </w>
          <w>
@@ -889,7 +889,7 @@
          <w>
             <ms>царь</ms>
             <pldr>царь</pldr>
-            <rec>Цѣсарь</rec>
+            <rec>цѣсарь</rec>
             <!-- Capitalize -->
          </w>
          <w>
@@ -927,7 +927,7 @@
          <w>
             <ms>цареви,</ms>
             <pldr>цареви,</pldr>
-            <rec>Цѣсарю,</rec>
+            <rec>цѣсарю,</rec>
             <!-- Capitalize -->
          </w>
          <w>
@@ -963,7 +963,7 @@
          <w>
             <ms>царь</ms>
             <pldr>царь</pldr>
-            <rec>Цѣсарь</rec>
+            <rec>цѣсарь</rec>
             <!-- Capitalize -->
          </w>
          <w>
@@ -1101,9 +1101,9 @@
             <rec>събьралъ</rec>
          </w>
          <w>
-            <ms>мъного</ms>
-            <pldr>мъного</pldr>
-            <rec>много</rec>
+            <ms>много</ms>
+            <pldr>много</pldr>
+            <rec>мъного</rec>
          </w>
          <w>
             <ms>вой,</ms>
@@ -1184,7 +1184,7 @@
          <w>
             <ms>всей</ms>
             <pldr>всей</pldr>
-            <rec>всеи</rec>
+            <rec>вьсеи</rec>
          </w>
          <w>
             <ms>земли</ms>
@@ -1219,7 +1219,7 @@
          <w>
             <ms>какъ</ms>
             <pldr>какъ</pldr>
-            <rec>какъ</rec>
+            <rec>како</rec>
          </w>
          <w>
             <ms>намыслилъ</ms>
@@ -1266,7 +1266,7 @@
          <w>
             <ms>царь:</ms>
             <pldr>царь:</pldr>
-            <rec>Цѣсарь:</rec>
+            <rec>цѣсарь:</rec>
             <!-- Capitalize -->
          </w>
          <w>
@@ -1411,7 +1411,7 @@
          <w>
             <ms>царевъ</ms>
             <pldr>царевъ</pldr>
-            <rec>Цѣсарѥвъ</rec>
+            <rec>цѣсарѥвъ</rec>
             <!-- capitalize Цѣсарѥвъ, jotated ѥ -->
          </w>
          <w>
@@ -1442,7 +1442,7 @@
          <w>
             <ms>царем.</ms>
             <pldr>царем.</pldr>
-            <rec>Цѣсаремь.</rec>
+            <rec>цѣсарьмь.</rec>
          </w>
          <w>
             <ms>И</ms>
@@ -1467,7 +1467,7 @@
          <w>
             <ms>царю</ms>
             <pldr>царю</pldr>
-            <rec>Цѣсарю</rec>
+            <rec>цѣсарю</rec>
             <note>There is no indirect object in Тх; we follow Tvorogov in emending to insert a
                reference to the Emperor.</note>
             <!--RR: this is probably not Tvorogov's original emendation; we'll need to check later-->
@@ -1818,7 +1818,7 @@
          <w>
             <ms>царю.</ms>
             <pldr>царю.</pldr>
-            <rec>Цѣсарю.</rec>
+            <rec>цѣсарю.</rec>
             <!-- Capitalize -->
          </w>
       </p>
@@ -1932,7 +1932,7 @@
             <ms>царю,</ms>
             <pldr>царю,</pldr>
             <rec>Цѣсарю,</rec>
-            <!-- Capitalize -->
+            <!-- Capitalize (yes, as title) -->
          </w>
          <w>
             <ms>аще</ms>
@@ -2069,7 +2069,7 @@
          <w>
             <ms>царя.</ms>
             <pldr>царя.</pldr>
-            <rec>Цѣсарꙗ.</rec>
+            <rec>цѣсарꙗ.</rec>
             <!-- Capitalize -->
          </w>
       </p>
