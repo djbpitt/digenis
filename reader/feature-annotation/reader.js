@@ -36,7 +36,7 @@ function highlight() {
     targets = document.querySelectorAll('.noun');
     break;
     case 'jo-ja':
-    targets = document.querySelectorAll('.jo, ja');
+    targets = document.querySelectorAll('.jo, .ja');
     break;
     case 'minor':
     targets = document.querySelectorAll('.noun.i, .noun.u, .noun.s, .noun.t, .noun.n, .noun.r, .noun.nt, .noun.u-long');
