@@ -2,6 +2,7 @@
 <?xml-model href="nouns.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="nouns.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <nouns>
+  <noun lemma="акритъ" paradigm="o" gender="m" gloss="Akritis"/>
   <noun lemma="амира" paradigm="a" gender="m" gloss="Emir"/>
   <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
   <noun lemma="вои" paradigm="jo" gender="m" gloss="soldier"/>
