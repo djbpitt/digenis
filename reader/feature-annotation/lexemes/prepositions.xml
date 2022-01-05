@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prepositions.rnc" type="application/relax-ng-compact-syntax"?>
 <prepositions>
+  <preposition lemma="без" gloss="without"/>
   <preposition lemma="въ" gloss="in"/>
   <preposition lemma="за" gloss="for; behind"/>
   <preposition lemma="из" gloss="from"/>
   <preposition lemma="къ" gloss="toward"/>
+  <preposition lemma="межь" gloss="between"/>
   <preposition lemma="на" gloss="on; to"/>
   <preposition lemma="надъ" gloss="over; above"/>
   <preposition lemma="о" gloss="about; around"/>

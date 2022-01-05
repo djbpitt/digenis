@@ -32,7 +32,7 @@ pronoun =
   element pronoun {
     ((lemma,
       attribute type { "pers" },
-      attribute person { "1" | "2" | "reflex" },
+      attribute person { "1" | "2" | "R" },
       attribute case { "G" | "A" | "D" },
       attribute length { "sh" | "lg" })
      | (lemma,
@@ -42,13 +42,13 @@ pronoun =
         case)
      | (lemma,
         attribute type { "pers" },
-        attribute person { "1" | "2" | "refex" },
+        attribute person { "1" | "2" | "R" },
         attribute case { "N" | "I" | "L" })
      | (attribute type { "poss" },
         attribute lemma { "ѥго" | "ѥѩ" | "ѥю" | "ихъ" },
         attribute person { "3" })
      | (lemma, pron-type, gender, case)),
-    number-category,
+    number-category?,
     xsd:string { pattern = ".+" }
   }
 # person and number only if tense is not inf
@@ -120,7 +120,7 @@ number =
     number-category,
     xsd:string { pattern = ".+" }
   }
-person = attribute person { "1" | "2" | "3" }
+person = attribute person { "1" | "2" | "3" | "R" }
 gender = attribute gender { "m" | "f" | "n" }
 case = attribute case { "N" | "A" | "G" | "D" | "I" | "L" | "V" }
 number-category = attribute number { "sg" | "du" | "pl" }

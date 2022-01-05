@@ -9,6 +9,7 @@
   <pronoun lemma="къто" type="relative" gloss="who"/>
   <pronoun lemma="мои" type="possessive" gloss="my"/>
   <pronoun lemma="свои" type="possessive" gloss="one’s (own)"/>
+  <pronoun lemma="себе" type="personal" gloss="(one’s) self"/>
   <pronoun lemma="сь" type="demonstrative" gloss="this"/>
   <pronoun lemma="тъ" type="demonstrative" gloss="that"/>
   <pronoun lemma="ты" type="personal" gloss="you (sg)"/>

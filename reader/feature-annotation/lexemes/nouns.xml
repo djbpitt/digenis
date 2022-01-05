@@ -4,9 +4,11 @@
 <nouns>
   <noun lemma="акритъ" paradigm="o" gender="m" gloss="Akritis"/>
   <noun lemma="амира" paradigm="a" gender="m" gloss="Emir"/>
+  <noun lemma="блато" paradigm="o" gender="n" gloss="swamp"/>
   <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
   <noun lemma="вои" paradigm="jo" gender="m" gloss="soldier"/>
   <noun lemma="воинъ" paradigm="o" gender="m" gloss="soldier"/>
+  <noun lemma="възрасть" paradigm="o" gender="m" gloss="age"/>
   <noun lemma="глава" paradigm="a" gender="f" gloss="head"/>
   <noun lemma="гласъ" paradigm="o" gender="m" gloss="voice"/>
   <noun lemma="глꙋбина" paradigm="a" gender="f" gloss="depth"/>
@@ -29,12 +31,14 @@
   <noun lemma="лось" paradigm="i" gender="m" gloss="elk; moose"/>
   <noun lemma="львъ" paradigm="o" gender="m" gloss="lion"/>
   <noun lemma="лѣто" paradigm="o" gender="n" gloss="year"/>
+  <noun lemma="людиѥ" paradigm="i" gender="m" gloss="people"/>
   <noun lemma="медвѣдица" paradigm="ja" gender="f" gloss="she-bear"/>
   <noun lemma="медвѣдь" paradigm="i" gender="m" gloss="bear"/>
-  <noun lemma="мечь" paradigm="i" gender="m" gloss="sword"/>
+  <noun lemma="мечь" paradigm="jo" gender="m" gloss="sword"/>
   <noun lemma="мѣсто" paradigm="o" gender="n" gloss="place"/>
   <noun lemma="нога" paradigm="a" gender="f" gloss="leg; foot"/>
   <noun lemma="нꙋда" paradigm="a" gender="f" gloss="need"/>
+  <noun lemma="орꙋжиѥ" paradigm="jo" gender="n" gloss="weapons"/>
   <noun lemma="отрочѧ" paradigm="nt" gender="n" gloss="youth"/>
   <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
   <noun lemma="пꙋстыни" paradigm="ja" gender="f" gloss="desert"/>
