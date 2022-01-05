@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="nouns.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="nouns.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <nouns>
   <noun lemma="амира" paradigm="a" gender="m" gloss="Emir"/>
   <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
@@ -10,10 +11,11 @@
   <noun lemma="глꙋбина" paradigm="a" gender="f" gloss="depth"/>
   <noun lemma="градъ" paradigm="o" gender="m" gloss="city"/>
   <noun lemma="гълка" paradigm="a" gender="f" gloss="noise"/>
+  <noun lemma="дароваинѥ" paradigm="jo" gender="n" gloss="gift"/>
   <noun lemma="девгении" paradigm="jo" gender="m" gloss="Digenis"/>
-  <noun lemma="дѣꙗниѥ" paradigm="jo" gender="n" gloss="deeds"/>
   <noun lemma="дьрзость" paradigm="i" gender="f" gloss="courage; daring"/>
   <noun lemma="дѣти" paradigm="i" gender="f" gloss="children"/>
+  <noun lemma="дѣꙗниѥ" paradigm="jo" gender="n" gloss="deeds"/>
   <noun lemma="жаль" paradigm="i" gender="f" gloss="pity"/>
   <noun lemma="житиѥ" paradigm="jo" gender="n" gloss="life"/>
   <noun lemma="заꙗць" paradigm="jo" gender="m" gloss="hare"/>
@@ -32,6 +34,7 @@
   <noun lemma="мѣсто" paradigm="o" gender="n" gloss="place"/>
   <noun lemma="нога" paradigm="a" gender="f" gloss="leg; foot"/>
   <noun lemma="нꙋда" paradigm="a" gender="f" gloss="need"/>
+  <noun lemma="отрочѧ" paradigm="nt" gender="n" gloss="youth"/>
   <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
   <noun lemma="пꙋстыни" paradigm="ja" gender="f" gloss="desert"/>
   <noun lemma="рогъвица" paradigm="ja" gender="f" gloss="staff"/>
@@ -49,5 +52,6 @@
   <noun lemma="оутѣшениѥ" paradigm="jo" gender="n" gloss="comfort; solace"/>
   <noun lemma="цьсарь" paradigm="jo" gender="m" gloss="emperor"/>
   <noun lemma="чрево" paradigm="o" gender="n" gloss="belly"/>
+  <noun lemma="чꙋдо" paradigm="o" gender="n" gloss="marvel; miracle"/>
   <noun lemma="чѧдо" paradigm="o" gender="n" gloss="child"/>
 </nouns>

@@ -2,6 +2,7 @@
 <?xml-model href="adverbs.rnc" type="application/relax-ng-compact-syntax"?>
 <adverbs>
   <adverb lemma="бързо" gloss="quickly"/>
+  <adverb lemma="быстро" gloss="quickly"/>
   <adverb lemma="вельми" gloss="very"/>
   <adverb lemma="въбързѣ" gloss="quickly"/>
   <adverb lemma="доколѣ" gloss="before; until"/>

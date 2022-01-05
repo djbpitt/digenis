@@ -8,24 +8,13 @@
     <sch:let name="adverbs" value="doc('lexemes/adverbs.xml')"/>
     <sch:let name="adjectives" value="doc('lexemes/adjectives.xml')"/>
     <sch:let name="conjunctions" value="doc('lexemes/conjunctions.xml')"/>
+    <sch:let name="interjections" value="doc('lexemes/interjections.xml')"/>
     <sch:let name="prepositions" value="doc('lexemes/prepositions.xml')"/>
     <sch:let name="numbers" value="doc('lexemes/numbers.xml')"/>
     <sch:pattern>
-        <sch:rule context="verb | participle">
-            <sch:assert test="@lemma = $verbs//@lemma">Verb <sch:value-of select="@lemma"/> is not in
-                master verb list</sch:assert>
-        </sch:rule>
-        <sch:rule context="noun">
-            <sch:assert test="@lemma = $nouns//@lemma">Noun <sch:value-of select="@lemma"/> is not
-                in master noun list</sch:assert>
-        </sch:rule>
-        <sch:rule context="particle">
-            <sch:assert test="@lemma = $particles//@lemma">Particle <sch:value-of select="@lemma"/>
-                is not in master list of particles</sch:assert>
-        </sch:rule>
-        <sch:rule context="pronoun">
-            <sch:assert test="@lemma = $pronouns//@lemma">Pronoun <sch:value-of select="@lemma"/> is
-                not in master list of pronouns</sch:assert>
+        <sch:rule context="adjective">
+            <sch:assert test="@lemma = $adjectives//@lemma">Adjective <sch:value-of select="@lemma"
+                /> is not in master list of adjectives</sch:assert>
         </sch:rule>
         <sch:rule context="adverb">
             <sch:assert test="@lemma = $adverbs//@lemma">Adverb <sch:value-of select="@lemma"/> is
@@ -35,17 +24,33 @@
             <sch:assert test="@lemma = $conjunctions//@lemma">Conjunction <sch:value-of
                     select="@lemma"/> is not in master list of conjunctions</sch:assert>
         </sch:rule>
-        <sch:rule context="preposition">
-            <sch:assert test="@lemma = $prepositions//@lemma">Preposition <sch:value-of
-                    select="@lemma"/> is not in master list of prepositions</sch:assert>
+        <sch:rule context="interjection">
+            <sch:assert test="@lemma = $interjections//@lemma">Interjection <sch:value-of
+                    select="@lemma"/> is not in master list of interjections</sch:assert>
         </sch:rule>
-        <sch:rule context="adjective">
-            <sch:assert test="@lemma = $adjectives//@lemma">Adjective <sch:value-of select="@lemma"
-                /> is not in master list of adjectives</sch:assert>
+        <sch:rule context="noun">
+            <sch:assert test="@lemma = $nouns//@lemma">Noun <sch:value-of select="@lemma"/> is not
+                in master noun list</sch:assert>
         </sch:rule>
         <sch:rule context="number">
             <sch:assert test="@lemma = $numbers//@lemma">Number <sch:value-of select="@lemma"/> is
                 not in master list of numbers</sch:assert>
+        </sch:rule>
+        <sch:rule context="particle">
+            <sch:assert test="@lemma = $particles//@lemma">Particle <sch:value-of select="@lemma"/>
+                is not in master list of particles</sch:assert>
+        </sch:rule>
+        <sch:rule context="preposition">
+            <sch:assert test="@lemma = $prepositions//@lemma">Preposition <sch:value-of
+                    select="@lemma"/> is not in master list of prepositions</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun">
+            <sch:assert test="@lemma = $pronouns//@lemma">Pronoun <sch:value-of select="@lemma"/> is
+                not in master list of pronouns</sch:assert>
+        </sch:rule>
+        <sch:rule context="verb | participle">
+            <sch:assert test="@lemma = $verbs//@lemma">Verb <sch:value-of select="@lemma"/> is not
+                in master verb list</sch:assert>
         </sch:rule>
         <sch:rule context="note[preceding-sibling::reg eq 'сѧ']">
             <sch:assert test=". eq parent::w/preceding-sibling::w/note">Notes on сѧ verbs must be

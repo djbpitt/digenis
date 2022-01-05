@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="interjections.rnc" type="application/relax-ng-compact-syntax"?>
+<interjections>
+  <interjection lemma="о" gloss="oh!"/>
+</interjections>

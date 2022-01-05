@@ -77,8 +77,10 @@ adjective =
 adverb =
   element adverb {
     lemma,
+    grade?,
     xsd:string { pattern = ".+" }
   }
+grade = attribute grade { "comp" | "superl" }
 conjunction =
   element conjunction {
     lemma,

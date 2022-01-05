@@ -1,0 +1,11 @@
+start = interjections
+interjections = element interjections { interjection+ }
+interjection = element interjection { lemma, gloss, empty }
+lemma =
+  attribute lemma {
+    xsd:string { pattern = ".+" }
+  }
+gloss =
+  attribute gloss {
+    xsd:string { pattern = ".+" }
+  }

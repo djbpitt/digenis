@@ -8,6 +8,7 @@
   <verb lemma="вънити" pl3="вънидꙋть" gloss="enter" class="I"/>
   <verb lemma="выити" pl3="выидꙋть" gloss="go out" class="I"/>
   <verb lemma="глаголати" pl3="глаголють" gloss="speak; say" class="III"/>
+  <verb lemma="дивити сѧ" pl3="дивѧть сѧ" class="IVA" gloss="marvel; wonder"/>
   <verb lemma="догънати" pl3="доженꙋть" class="I" gloss="catch (up to)"/>
   <verb lemma="играти" pl3="играють" gloss="play" class="III"/>
   <verb lemma="имѣти" pl3="имꙋть, имѣють" gloss="have" class="V"/>
@@ -53,4 +54,5 @@
   -->
   <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="yes"/>
   <verb lemma="ѣхати" pl3="едꙋть" gloss="ride" class="I"/>
+  <verb lemma="ꙗвити сѧ" pl3="ꙗвѧть сѧ" class="IVA" gloss="appear; show forth"/>
 </verbs>
