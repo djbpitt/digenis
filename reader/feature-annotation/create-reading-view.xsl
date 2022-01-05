@@ -444,6 +444,10 @@
                 <xsl:value-of select="$abbreviate(@type)"/>
             </xsl:when>
         </xsl:choose>
+        <xsl:where-populated>
+            <xsl:value-of select="' ' || $local-categories/@length"/>
+        </xsl:where-populated>
+        <xsl:value-of select="' ' || $local-categories ! concat(@gender, @case, @number)"/>
     </xsl:template>
     <xsl:template match="verb" mode="grammar">
         <!-- ============================================================ -->
