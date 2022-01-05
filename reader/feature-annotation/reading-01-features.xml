@@ -6,12 +6,21 @@
    <body>
       <p>
          <w>
+            <ms>Дѣянїе</ms>
+            <pldr> </pldr>
+            <rec>
+               <noun lemma="дѣꙗниѥ" case="N" number="sg">ДѢꙖНИѤ</noun>
+            </rec>
+         </w>
+         <w>
+            <ms>ЖИТИЕ</ms>
             <pldr>ЖИТИЕ</pldr>
             <rec>
                <noun lemma="житиѥ" case="N" number="sg">ЖИТИЕ</noun>
             </rec>
          </w>
          <w>
+            <ms>ДЕВГЕНИЯ</ms>
             <pldr>ДЕВГЕНИЯ</pldr>
             <rec>
                <noun lemma="девгении" case="G" number="sg">ДЕВГЕНИЯ</noun>
@@ -20,6 +29,7 @@
       </p>
       <p>
          <w>
+            <ms>Преславный</ms>
             <pldr>Преславный</pldr>
             <rec>
                <adjective lemma="преславьныи" length="lg" gender="m" case="N" number="sg"
@@ -27,12 +37,14 @@
             </rec>
          </w>
          <w>
+            <ms>Дѣвгений</ms>
             <pldr>Дѣвгений</pldr>
             <rec>
                <noun lemma="девгении" case="N" number="sg">Девгении</noun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
@@ -40,204 +52,238 @@
             <!--Inserted from Tт, not in Тх-->
          </w>
          <w>
+            <ms>12</ms>
             <pldr>12</pldr>
             <rec>
                <number lemma="въторыи на десѧте" gender="n" case="A" number="sg">·вꙇ҃·</number>
             </rec>
          </w>
          <w>
+            <ms>лѣто</ms>
             <pldr>лѣто</pldr>
             <rec>
                <noun lemma="лѣто" case="A" number="sg">лѣто</noun>
             </rec>
          </w>
          <w>
+            <ms>мечемъ</ms>
             <pldr>мечемъ</pldr>
             <rec>
                <noun lemma="мечь" case="I" number="sg">мечьмь</noun>
             </rec>
          </w>
          <w>
+            <ms>играше,</ms>
             <pldr>играше,</pldr>
             <rec>
                <verb lemma="играти" person="3" number="sg" tense="ipf">играше(ть),</verb>
             </rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>
                <conjunction lemma="а">а</conjunction>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>13</ms>
             <pldr>13</pldr>
             <rec>
                <number lemma="третии на десѧте" gender="n" case="A" number="sg">·гꙇ҃·</number>
             </rec>
          </w>
          <w>
+            <ms>лѣто</ms>
             <pldr>лѣто</pldr>
             <rec>
                <noun lemma="лѣто" case="A" number="sg">лѣто</noun>
             </rec>
          </w>
          <w>
+            <ms>копиемь,</ms>
             <pldr>копиемь,</pldr>
             <rec>
                <noun lemma="копиѥ" case="I" number="sg">копиимь,</noun>
             </rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>
                <conjunction lemma="а">а</conjunction>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>14</ms>
             <pldr>14</pldr>
             <rec>
                <number lemma="четвьртыи на десѧте" gender="n" case="A" number="sg">·дꙇ҃·</number>
             </rec>
          </w>
          <w>
+            <ms>лето</ms>
             <pldr>лето</pldr>
             <rec>
                <noun lemma="лѣто" case="A" number="sg">лѣто</noun>
             </rec>
          </w>
          <w>
+            <ms>покушаше</ms>
             <pldr>покушаше</pldr>
             <rec>
                <verb lemma="покꙋшати сѧ" person="3" number="sg" tense="ipf">покꙋшаше(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>ся</ms>
             <pldr>ся</pldr>
             <rec>
                <particle lemma="сѧ">сѧ</particle>
             </rec>
          </w>
          <w>
+            <ms>вся</ms>
             <pldr>вся</pldr>
             <rec>
                <pronoun lemma="вьсь" type="all" gender="m" case="A" number="pl">вьсѧ</pronoun>
             </rec>
          </w>
          <w>
+            <ms>звѣри</ms>
             <pldr>звѣри</pldr>
             <rec>
                <noun lemma="звѣрь" case="A" number="pl">звѣри</noun>
             </rec>
          </w>
          <w>
+            <ms>побѣдити</ms>
             <pldr>побѣдити</pldr>
             <rec>
                <verb lemma="побѣдити" tense="inf">побѣдити</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>начатъ</ms>
             <pldr>начатъ</pldr>
             <rec>
                <verb lemma="начѧти" tense="aor" person="3" number="sg">начѧ(тъ)</verb>
             </rec>
          </w>
          <w>
+            <ms>прилежно</ms>
             <pldr>прилежно</pldr>
             <rec>
                <adverb lemma="прилежьно">прилежьно</adverb>
             </rec>
          </w>
          <w>
+            <ms>нудити</ms>
             <pldr>нудити</pldr>
             <rec>
                <verb lemma="нꙋдити" tense="inf">нꙋдити</verb>
             </rec>
          </w>
          <w>
+            <ms>отца</ms>
             <pldr>отца</pldr>
             <rec>
                <noun lemma="отьць" case="A" number="sg">отьца</noun>
             </rec>
          </w>
          <w>
+            <ms>своего</ms>
             <pldr>своего</pldr>
             <rec>
                <pronoun lemma="свои" type="poss" gender="m" case="A" number="sg">своѥго</pronoun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>стрыевъ:</ms>
             <pldr>стрыевъ:</pldr>
             <rec>
                <noun lemma="стрыи" case="A" number="pl">стрыи:</noun>
             </rec>
          </w>
          <w>
+            <ms>«Поидите</ms>
             <pldr>«Поидите</pldr>
             <rec>
                <verb lemma="поити" tense="imv" person="2" number="pl">«Поидѣте</verb>
             </rec>
          </w>
          <w>
+            <ms>со</ms>
             <pldr>со</pldr>
             <rec>
                <preposition lemma="съ">съ</preposition>
             </rec>
          </w>
          <w>
+            <ms>мною</ms>
             <pldr>мною</pldr>
             <rec>
                <pronoun lemma="ꙗзъ" type="pers" person="1" number="sg" case="I">мъною</pronoun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>ловы».</ms>
             <pldr>ловы».</pldr>
             <rec>
                <noun lemma="ловъ" case="A" number="pl">ловы».</noun>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>
                <verb lemma="рещи" tense="aor" person="3" number="sg">рече</verb>
             </rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>
                <pronoun type="pers" person="3" number="sg" lemma="и" case="D" gender="m"
@@ -245,36 +291,42 @@
             </rec>
          </w>
          <w>
+            <ms>отецъ:</ms>
             <pldr>отецъ:</pldr>
             <rec>
                <noun lemma="отьць" case="N" number="sg">отьць:</noun>
             </rec>
          </w>
          <w>
+            <ms>«Еще</ms>
             <pldr>«Еще</pldr>
             <rec>
                <adverb lemma="ѥще">«Ѥще</adverb>
             </rec>
          </w>
          <w>
+            <ms>еси,</ms>
             <pldr>еси,</pldr>
             <rec>
                <verb lemma="быти" tense="pr" person="2" number="sg">ѥси,</verb>
             </rec>
          </w>
          <w>
+            <ms>сыну</ms>
             <pldr>сыну</pldr>
             <rec>
                <noun lemma="сынъ" case="V" number="sg">сынꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>мой,</ms>
             <pldr>мой,</pldr>
             <rec>
                <pronoun lemma="мои" type="poss" gender="m" case="V" number="sg">мои,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>младъ,</ms>
             <pldr>младъ,</pldr>
             <rec>
                <adjective lemma="младыи" length="sh" gender="m" case="N" number="sg"
@@ -282,42 +334,49 @@
             </rec>
          </w>
          <w>
+            <ms>о</ms>
             <pldr>о</pldr>
             <rec>
                <preposition lemma="о">о</preposition>
             </rec>
          </w>
          <w>
+            <ms>ловехъ</ms>
             <pldr>ловехъ</pldr>
             <rec>
                <noun lemma="ловъ" case="L" number="pl">ловѣхъ</noun>
             </rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>
                <particle lemma="не">не</particle>
             </rec>
          </w>
          <w>
+            <ms>молви,</ms>
             <pldr>молви,</pldr>
             <rec>
                <verb lemma="мълвити" tense="imv" person="2" number="sg">мълви,</verb>
             </rec>
          </w>
          <w>
+            <ms>понеже</ms>
             <pldr>понеже</pldr>
             <rec>
                <conjunction lemma="понѥже">понѥже</conjunction>
             </rec>
          </w>
          <w>
+            <ms>жаль</ms>
             <pldr>жаль</pldr>
             <rec>
                <noun lemma="жаль" case="N" number="sg">жаль</noun>
             </rec>
          </w>
          <w>
+            <ms>ми</ms>
             <pldr>ми</pldr>
             <rec>
                <pronoun lemma="ꙗзъ" type="pers" person="1" number="sg" length="sh" case="D"
@@ -325,6 +384,7 @@
             </rec>
          </w>
          <w>
+            <ms>тебѣ,</ms>
             <pldr>тебѣ,</pldr>
             <rec>
                <pronoun type="pers" lemma="ты" person="2" case="A" length="lg" number="sg"
@@ -332,6 +392,7 @@
             </rec>
          </w>
          <w>
+            <ms>млада,</ms>
             <pldr>млада,</pldr>
             <rec>
                <adjective lemma="младыи" length="sh" gender="m" case="A" number="sg"
@@ -339,66 +400,77 @@
             </rec>
          </w>
          <w>
+            <ms>нудити».</ms>
             <pldr>нудити».</pldr>
             <rec>
                <verb lemma="нꙋдити" tense="inf">нꙋдити».</verb>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>рече</ms>
             <pldr>рече</pldr>
             <rec>
                <verb lemma="рещи" tense="aor" person="3" number="sg">рече</verb>
             </rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>
                <noun lemma="девгении" case="N" number="sg">Девгении</noun>
             </rec>
          </w>
          <w>
+            <ms>отцу</ms>
             <pldr>отцу</pldr>
             <rec>
                <noun lemma="отьць" case="D" number="sg">отьцꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>своему:</ms>
             <pldr>своему:</pldr>
             <rec>
                <pronoun lemma="свои" type="poss" gender="m" case="D" number="sg">своѥмꙋ:</pronoun>
             </rec>
          </w>
          <w>
+            <ms>«Тѣм,</ms>
             <pldr>«Тѣм,</pldr>
             <rec>
                <pronoun lemma="тъ" type="dem" gender="n" case="I" number="sg">«Тѣмь,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>отче,</ms>
             <pldr>отче,</pldr>
             <rec>
                <noun lemma="отьць" case="V" number="sg">отьче,</noun>
             </rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>
                <particle lemma="не">не</particle>
             </rec>
          </w>
          <w>
+            <ms>пуди</ms>
             <pldr>пуди</pldr>
             <rec>
                <verb lemma="пꙋдити" tense="imv" person="2" number="sg">пꙋди</verb>
             </rec>
          </w>
          <w>
+            <ms>менѣ,</ms>
             <pldr>менѣ,</pldr>
             <rec>
                <pronoun lemma="ꙗзъ" type="pers" person="1" number="sg" case="G" length="lg"
@@ -406,30 +478,35 @@
             </rec>
          </w>
          <w>
+            <ms>понеже</ms>
             <pldr>понеже</pldr>
             <rec>
                <conjunction lemma="понѥже">понѥже</conjunction>
             </rec>
          </w>
          <w>
+            <ms>имамъ</ms>
             <pldr>имамъ</pldr>
             <rec>
                <verb lemma="имѣти" tense="pr" person="1" number="sg">имамь</verb>
             </rec>
          </w>
          <w>
+            <ms>упование</ms>
             <pldr>упование</pldr>
             <rec>
                <noun lemma="оупъваниѥ" case="A" number="sg">оупъваниѥ</noun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>сотворшаго</ms>
             <pldr>сотворшаго</pldr>
             <rec>
                <participle lemma="сътворити" tense="pt" voice="act" length="lg" gender="m" case="A"
@@ -437,24 +514,28 @@
             </rec>
          </w>
          <w>
+            <ms>Бога,</ms>
             <pldr>Бога,</pldr>
             <rec>
                <noun lemma="богъ" case="A" number="sg">Бога,</noun>
             </rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>
                <conjunction lemma="ꙗко">ꙗко</conjunction>
             </rec>
          </w>
          <w>
+            <ms>нѣсть</ms>
             <pldr>нѣсть</pldr>
             <rec>
                <verb lemma="быти" tense="pr" person="3" number="sg" negated="yes">нѣсть</verb>
             </rec>
          </w>
          <w>
+            <ms>ми</ms>
             <pldr>ми</pldr>
             <rec>
                <pronoun lemma="ты" type="pers" person="2" number="sg" case="D" length="sh"
@@ -462,30 +543,35 @@
             </rec>
          </w>
          <w>
+            <ms>нуды</ms>
             <pldr>нуды</pldr>
             <rec>
                <noun lemma="нꙋда" case="G" number="sg">нꙋды</noun>
             </rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>томъ,</ms>
             <pldr>томъ,</pldr>
             <rec>
                <pronoun lemma="тъ" type="dem" gender="n" case="L" number="sg">томь,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>но</ms>
             <pldr>но</pldr>
             <rec>
                <conjunction lemma="нъ">нъ</conjunction>
             </rec>
          </w>
          <w>
+            <ms>великое</ms>
             <pldr>великое</pldr>
             <rec>
                <adjective lemma="великыи" length="lg" number="sg" case="N" gender="n"
@@ -493,6 +579,7 @@
             </rec>
          </w>
          <w>
+            <ms>утѣшение».</ms>
             <pldr>утѣшение».</pldr>
             <rec>
                <noun lemma="оутѣшениѥ" case="N" number="sg">оутѣшениѥ».</noun>
@@ -501,24 +588,28 @@
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>то</ms>
             <pldr>то</pldr>
             <rec>
                <pronoun type="dem" lemma="тъ" number="sg" case="A" gender="n">то</pronoun>
             </rec>
          </w>
          <w>
+            <ms>слово</ms>
             <pldr>слово</pldr>
             <rec>
                <noun lemma="слово" case="A" number="sg">слово</noun>
             </rec>
          </w>
          <w>
+            <ms>слышавъ</ms>
             <pldr>слышавъ</pldr>
             <rec>
                <participle lemma="слышати" tense="pt" voice="act" length="sh" number="sg" case="N"
@@ -526,24 +617,28 @@
             </rec>
          </w>
          <w>
+            <ms>отецъ</ms>
             <pldr>отецъ</pldr>
             <rec>
                <noun lemma="отьць" case="N" number="sg">отьць</noun>
             </rec>
          </w>
          <w>
+            <ms>юноши,</ms>
             <pldr>юноши,</pldr>
             <rec>
                <noun lemma="оуноша" case="G" number="sg">оуношѧ,</noun>
             </rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>
                <conjunction lemma="ꙗко">ꙗко</conjunction>
             </rec>
          </w>
          <w>
+            <ms>такъ</ms>
             <pldr>такъ</pldr>
             <!-- rr: Okay to change такъ to тако here?-->
             <rec>
@@ -551,84 +646,98 @@
             </rec>
          </w>
          <w>
+            <ms>глаголетъ</ms>
             <pldr>глаголетъ</pldr>
             <rec>
                <verb lemma="глаголати" tense="pr" person="3" number="sg">глаголѥть</verb>
             </rec>
          </w>
          <w>
+            <ms>юноша,</ms>
             <pldr>юноша,</pldr>
             <rec>
                <noun lemma="оуноша" case="N" number="sg">оуноша,</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>совокупи</ms>
             <pldr>совокупи</pldr>
             <rec>
                <verb lemma="съвъкꙋпити" tense="aor" person="3" number="sg">съвъкꙋпи</verb>
             </rec>
          </w>
          <w>
+            <ms>вся</ms>
             <pldr>вся</pldr>
             <rec>
                <pronoun lemma="вьсь" type="all" gender="m" case="A" number="pl">вьсѧ</pronoun>
             </rec>
          </w>
          <w>
+            <ms>вои</ms>
             <pldr>вои</pldr>
             <rec>
                <noun lemma="воинъ" case="A" number="pl">воѩ</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>град</ms>
             <pldr>град</pldr>
             <rec>
                <noun lemma="градъ" case="A" number="sg">градъ</noun>
             </rec>
          </w>
          <w>
+            <ms>весь</ms>
             <pldr>весь</pldr>
             <rec>
                <pronoun lemma="вьсь" type="all" gender="m" case="A" number="sg">вьсь</pronoun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>рад</ms>
             <pldr>рад</pldr>
             <rec>
                <adjective lemma="радъ" length="sh" number="sg" case="N" gender="m">радъ</adjective>
             </rec>
          </w>
          <w>
+            <ms>бысть</ms>
             <pldr>бысть</pldr>
             <rec>
                <verb lemma="быти" tense="aor" person="3" number="sg">бы(сть)</verb>
             </rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>
                <preposition lemma="съ">съ</preposition>
             </rec>
          </w>
          <w>
+            <ms>нимъ</ms>
             <pldr>нимъ</pldr>
             <rec>
                <pronoun lemma="и" type="pers" person="3" number="sg" case="I" gender="m"
@@ -636,30 +745,35 @@
             </rec>
          </w>
          <w>
+            <ms>ехать</ms>
             <pldr>ехать</pldr>
             <rec>
                <verb lemma="ѣхати" tense="inf">ѣхати</verb>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>ловъ.</ms>
             <pldr>ловъ.</pldr>
             <rec>
                <noun lemma="ловъ" case="A" number="sg">ловъ.</noun>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>мнози</ms>
             <pldr>мнози</pldr>
             <rec>
                <adjective lemma="мъногыи" length="sh" gender="m" case="N" number="pl"
@@ -667,48 +781,56 @@
             </rec>
          </w>
          <w>
+            <ms>идяху</ms>
             <pldr>идяху</pldr>
             <rec>
                <verb lemma="ити" tense="ipf" person="3" number="pl">идꙗхꙋ(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>из</ms>
             <pldr>из</pldr>
             <rec>
                <preposition lemma="из">из</preposition>
             </rec>
          </w>
          <w>
+            <ms>града</ms>
             <pldr>града</pldr>
             <rec>
                <noun lemma="градъ" case="G" number="sg">града</noun>
             </rec>
          </w>
          <w>
+            <ms>того</ms>
             <pldr>того</pldr>
             <rec>
                <pronoun lemma="тъ" type="dem" number="sg" case="G" gender="m">того</pronoun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>ловы</ms>
             <pldr>ловы</pldr>
             <rec>
                <noun lemma="ловъ" number="pl" case="A">ловы</noun>
             </rec>
          </w>
          <w>
+            <ms>за</ms>
             <pldr>за</pldr>
             <rec>
                <preposition lemma="за">за</preposition>
             </rec>
          </w>
          <w>
+            <ms>нимъ,</ms>
             <pldr>нимъ,</pldr>
             <rec>
                <pronoun lemma="и" type="pers" person="3" case="I" number="sg" gender="m"
@@ -716,18 +838,21 @@
             </rec>
          </w>
          <w>
+            <ms>зане</ms>
             <pldr>зане</pldr>
             <rec>
                <conjunction lemma="занѥ">занѥ</conjunction>
             </rec>
          </w>
          <w>
+            <ms>слышаху</ms>
             <pldr>слышаху</pldr>
             <rec>
                <verb lemma="слышати" tense="ipf" person="3" number="pl">слышахꙋ(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>Девгениеву</ms>
             <pldr>Девгениеву</pldr>
             <rec>
                <adjective lemma="девгениѥвъ" number="sg" case="A" gender="f" length="sh"
@@ -735,18 +860,21 @@
             </rec>
          </w>
          <w>
+            <ms>дерзность.</ms>
             <pldr>дерзность.</pldr>
             <rec>
                <noun lemma="дьрзость" case="A" number="sg">дьрзость.</noun>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>вышедше</ms>
             <pldr>вышедше</pldr>
             <rec>
                <participle lemma="выити" tense="pt" voice="act" gender="m" case="N" number="pl"
@@ -754,102 +882,119 @@
             </rec>
          </w>
          <w>
+            <ms>из</ms>
             <pldr>из</pldr>
             <rec>
                <preposition lemma="из">из</preposition>
             </rec>
          </w>
          <w>
+            <ms>града</ms>
             <pldr>града</pldr>
             <rec>
                <noun lemma="градъ" number="sg" case="G">града</noun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>ловы,</ms>
             <pldr>ловы,</pldr>
             <rec>
                <noun lemma="ловъ" case="A" number="pl">ловы,</noun>
             </rec>
          </w>
          <w>
+            <ms>отецъ</ms>
             <pldr>отецъ</pldr>
             <rec>
                <noun lemma="отьць" case="N" number="sg">отьць</noun>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun lemma="ѥго" type="poss" person="3" number="sg">ѥго</pronoun>
             </rec>
          </w>
          <w>
+            <ms>ловитъ</ms>
             <pldr>ловитъ</pldr>
             <rec>
                <verb lemma="ловити" person="3" number="sg" tense="pr">ловить</verb>
             </rec>
          </w>
          <w>
+            <ms>зайцы</ms>
             <pldr>зайцы</pldr>
             <rec>
                <noun lemma="заꙗць" case="A" number="pl">заꙗцѧ</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>лисицы,</ms>
             <pldr>лисицы,</pldr>
             <rec>
                <noun lemma="лисица" case="A" number="pl">лисицѧ,</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>стры</ms>
             <pldr>стры</pldr>
             <rec>
                <noun lemma="стрыи" number="pl" case="N">стрыи</noun>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="poss" person="3" number="sg" lemma="ѥго">ѥго</pronoun>
             </rec>
          </w>
          <w>
+            <ms>ловят,</ms>
             <pldr>ловят,</pldr>
             <rec>
                <verb lemma="ловити" number="pl" person="3" tense="pr">ловѧть,</verb>
             </rec>
          </w>
          <w>
+            <ms>а</ms>
             <pldr>а</pldr>
             <rec>
                <conjunction lemma="а">а</conjunction>
             </rec>
          </w>
          <w>
+            <ms>Девгени</ms>
             <pldr>Девгени</pldr>
             <rec>
                <noun lemma="девгении" number="sg" case="N">Девгении</noun>
             </rec>
          </w>
          <w>
+            <ms>имъ</ms>
             <pldr>имъ</pldr>
             <rec>
                <pronoun lemma="и" type="pers" person="3" case="D" number="pl" gender="m"
@@ -857,78 +1002,91 @@
             </rec>
          </w>
          <w>
+            <ms>смеяше</ms>
             <pldr>смеяше</pldr>
             <rec>
                <verb lemma="смиꙗти сѧ" number="sg" person="3" tense="ipf">смѣꙗше(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>ся,</ms>
             <pldr>ся,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>пустыню</ms>
             <pldr>пустыню</pldr>
             <rec>
                <noun lemma="пꙋстыни" number="sg" case="A">пꙋстыню</noun>
             </rec>
          </w>
          <w>
+            <ms>вниде,</ms>
             <pldr>вниде,</pldr>
             <rec>
                <verb lemma="вънити" tense="aor" person="3" number="sg">въниде,</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>сниде</ms>
             <pldr>сниде</pldr>
             <rec>
                <verb lemma="сънити" tense="aor" person="3" number="sg">съниде</verb>
             </rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>
                <preposition lemma="съ">съ</preposition>
             </rec>
          </w>
          <w>
+            <ms>коня,</ms>
             <pldr>коня,</pldr>
             <rec>
                <noun lemma="конь" number="sg" case="G">конꙗ,</noun>
             </rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>
                <conjunction lemma="ꙗко">ꙗко</conjunction>
             </rec>
          </w>
          <w>
+            <ms>соколъ</ms>
             <pldr>соколъ</pldr>
             <rec>
                <noun lemma="соколъ" case="N" number="sg">соколъ</noun>
             </rec>
          </w>
          <w>
+            <ms>млады,</ms>
             <pldr>млады,</pldr>
             <rec>
                <adjective lemma="младыи" length="lg" gender="m" number="sg" case="N"
@@ -936,12 +1094,14 @@
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>Божию</ms>
             <pldr>Божию</pldr>
             <rec>
                <adjective lemma="божии" case="A" number="sg" gender="f" length="sh"
@@ -949,12 +1109,14 @@
             </rec>
          </w>
          <w>
+            <ms>силу</ms>
             <pldr>силу</pldr>
             <rec>
                <noun lemma="сила" number="sg" case="A">силꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>надея</ms>
             <pldr>надея</pldr>
             <rec>
                <participle lemma="надѣꙗти сѧ" gender="m" case="N" number="sg" length="sh" tense="pr"
@@ -962,6 +1124,7 @@
             </rec>
          </w>
          <w>
+            <ms>сь.</ms>
             <pldr>сь.</pldr>
             <rec>
                <particle lemma="сѧ">сѧ.</particle>
@@ -970,54 +1133,63 @@
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>два</ms>
             <pldr>два</pldr>
             <rec>
                <number lemma="дъва" number="du" case="N" gender="m">дъва</number>
             </rec>
          </w>
          <w>
+            <ms>медведя</ms>
             <pldr>медведя</pldr>
             <rec>
                <noun lemma="медвѣдь" case="N" number="du">медвѣди</noun>
             </rec>
          </w>
          <w>
+            <ms>по</ms>
             <pldr>по</pldr>
             <rec>
                <preposition lemma="по">по</preposition>
             </rec>
          </w>
          <w>
+            <ms>тростию</ms>
             <pldr>тростию</pldr>
             <rec>
                <noun lemma="трьстиѥ" number="sg" case="D">тръстию</noun>
             </rec>
          </w>
          <w>
+            <ms>хождаше,</ms>
             <pldr>хождаше,</pldr>
             <rec>
                <verb lemma="ходити" tense="ipf" person="3" number="du">хожашета,</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>с</ms>
             <pldr>с</pldr>
             <rec>
                <preposition lemma="съ">съ</preposition>
             </rec>
          </w>
          <w>
+            <ms>ними</ms>
             <pldr>ними</pldr>
             <rec>
                <pronoun lemma="и" type="pers" number="du" case="I" person="3" gender="m"
@@ -1025,54 +1197,63 @@
             </rec>
          </w>
          <w>
+            <ms>дети</ms>
             <pldr>дети</pldr>
             <rec>
                <noun lemma="дѣти" case="N" number="pl">дѣти</noun>
             </rec>
          </w>
          <w>
+            <ms>ихъ</ms>
             <pldr>ихъ</pldr>
             <rec>
                <pronoun type="poss" lemma="ѥю" person="3" number="du">ѥю</pronoun>
             </rec>
          </w>
          <w>
+            <ms>бысть.</ms>
             <pldr>бысть.</pldr>
             <rec>
                <verb lemma="быти" person="3" number="pl" tense="impf aor">бѣшѧ.</verb>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>очюти</ms>
             <pldr>очюти</pldr>
             <rec>
                <verb lemma="очꙋтити" tense="aor" number="sg" person="3">очꙋти</verb>
             </rec>
          </w>
          <w>
+            <ms>медведица</ms>
             <pldr>медведица</pldr>
             <rec>
                <noun lemma="медвѣдица" number="sg" case="N">медвѣдица</noun>
             </rec>
          </w>
          <w>
+            <ms>юношу,</ms>
             <pldr>юношу,</pldr>
             <rec>
                <noun lemma="оуноша" case="A" number="sg">оуношꙋ,</noun>
             </rec>
          </w>
          <w>
+            <ms>противъ</ms>
             <pldr>противъ</pldr>
             <rec>
                <preposition lemma="противъ">противъ</preposition>
             </rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>
                <pronoun type="pers" person="3" number="sg" case="D" lemma="и" gender="m"
@@ -1080,24 +1261,28 @@
             </rec>
          </w>
          <w>
+            <ms>поскочи</ms>
             <pldr>поскочи</pldr>
             <rec>
                <verb lemma="поскочити" tense="aor" number="sg" person="3">поскочи</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>хотяше</ms>
             <pldr>хотяше</pldr>
             <rec>
                <verb lemma="хотѣти" number="sg" person="3" tense="ipf">хотꙗше(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m"
@@ -1105,85 +1290,99 @@
             </rec>
          </w>
          <w>
+            <ms>пожрети.</ms>
             <pldr>пожрети.</pldr>
             <rec>
                <verb lemma="пожрети" tense="inf">пожрети.</verb>
             </rec>
          </w>
          <w>
+            <ms>Юноша</ms>
             <pldr>Юноша</pldr>
             <rec>
                <noun lemma="оуноша" case="N" number="sg">Оуноша</noun>
             </rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>
                <particle lemma="же">же</particle>
             </rec>
          </w>
          <w>
+            <ms>еще</ms>
             <pldr>еще</pldr>
             <rec>
                <adverb lemma="ѥще">ѥще</adverb>
             </rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>
                <particle lemma="не">не</particle>
             </rec>
          </w>
          <w>
+            <ms>ученъ,</ms>
             <pldr>ученъ,</pldr>
             <rec>
                <participle lemma="оучити" gender="m" case="N" number="sg" length="sh" tense="pt"
-                  voice="act">оученъ,</participle>
+                  voice="pass">оученъ,</participle>
             </rec>
          </w>
          <w>
+            <ms>како</ms>
             <pldr>како</pldr>
             <rec>
                <adverb lemma="како">како</adverb>
             </rec>
          </w>
          <w>
+            <ms>звѣри</ms>
             <pldr>звѣри</pldr>
             <rec>
                <noun lemma="звѣрь" case="A" number="pl">звѣри</noun>
             </rec>
          </w>
          <w>
+            <ms>бити,</ms>
             <pldr>бити,</pldr>
             <rec>
                <verb lemma="бити" tense="inf">бити,</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>поскочи</ms>
             <pldr>поскочи</pldr>
             <rec>
                <verb lemma="поскочити" tense="aor" person="3" number="sg">поскочи</verb>
             </rec>
          </w>
          <w>
+            <ms>вборзе</ms>
             <pldr>вборзе</pldr>
             <rec>
                <adverb lemma="въбързѣ">въбързѣ</adverb>
             </rec>
          </w>
          <w>
+            <ms>переди</ms>
             <pldr>переди</pldr>
             <rec>
-               <preposition lemma="переди">переди</preposition>
+               <preposition lemma="преди">преди</preposition>
             </rec>
          </w>
          <w>
+            <ms>ея,</ms>
             <pldr>ея,</pldr>
             <rec>
                <pronoun lemma="и" gender="f" case="G" number="sg" person="3" type="pers"
@@ -1191,24 +1390,28 @@
             </rec>
          </w>
          <w>
+            <ms>похвати</ms>
             <pldr>похвати</pldr>
             <rec>
                <verb lemma="похватити" person="3" number="sg" tense="aor">похвати</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>согну</ms>
             <pldr>согну</pldr>
             <rec>
                <verb lemma="съгънꙋти" tense="aor" person="3" number="sg">съгънꙋ</verb>
             </rec>
          </w>
          <w>
+            <ms>ея</ms>
             <pldr>ея</pldr>
             <rec>
                <pronoun lemma="и" number="sg" person="3" type="pers" case="A" gender="f"
@@ -1216,6 +1419,7 @@
             </rec>
          </w>
          <w>
+            <ms>лактями,</ms>
             <pldr>лактями,</pldr>
             <rec>
                <noun lemma="локъть" case="I" number="pl">локътьми,</noun>
@@ -1226,60 +1430,70 @@
             -->
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>все,</ms>
             <pldr>все,</pldr>
             <rec>
                <pronoun type="all" lemma="вьсь" number="sg" gender="n" case="A">вьсе,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>еже</ms>
             <pldr>еже</pldr>
             <rec>
                <pronoun lemma="иже" type="rel" case="N" gender="n" number="sg">ѥже</pronoun>
             </rec>
          </w>
          <w>
+            <ms>бѣ</ms>
             <pldr>бѣ</pldr>
             <rec>
                <verb lemma="быти" tense="impf aor" person="3" number="sg">бѣ</verb>
             </rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>чреве</ms>
             <pldr>чреве</pldr>
             <rec>
                <noun lemma="чрево" number="sg" case="L">чрѣвѣ</noun>
             </rec>
          </w>
          <w>
+            <ms>ея,</ms>
             <pldr>ея,</pldr>
             <rec>
                <pronoun lemma="ѥѩ" type="poss" person="3" number="sg">ѥѩ,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>выде</ms>
             <pldr>выде</pldr>
             <rec>
                <verb lemma="выити" tense="aor" person="3" number="sg">выиде</verb>
             </rec>
          </w>
          <w>
+            <ms>из</ms>
             <pldr>из</pldr>
             <rec>
                <preposition lemma="из">из</preposition>
             </rec>
          </w>
          <w>
+            <ms>нея,</ms>
             <pldr>нея,</pldr>
             <rec>
                <pronoun lemma="и" type="pers" person="3" number="sg" gender="f" case="G"
@@ -1287,12 +1501,14 @@
             </rec>
          </w>
          <w>
+            <ms>борзо</ms>
             <pldr>борзо</pldr>
             <rec>
                <adverb lemma="бързо">бързо</adverb>
             </rec>
          </w>
          <w>
+            <ms>мертва</ms>
             <pldr>мертва</pldr>
             <rec>
                <adjective lemma="мьртвыи" gender="f" case="N" number="sg" length="sh"
@@ -1300,24 +1516,28 @@
             </rec>
          </w>
          <w>
+            <ms>бысть</ms>
             <pldr>бысть</pldr>
             <rec>
                <verb lemma="быти" person="3" number="sg" tense="aor">бы(сть)</verb>
             </rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>руку.</ms>
             <pldr>руку.</pldr>
             <rec>
                <noun lemma="рꙋка" number="du" case="L">рꙋкꙋ.</noun>
             </rec>
          </w>
          <w>
+            <ms>Други</ms>
             <pldr>Други</pldr>
             <rec>
                <adjective lemma="дрꙋгыи" case="N" number="sg" length="lg" gender="m"
@@ -1325,36 +1545,42 @@
             </rec>
          </w>
          <w>
+            <ms>медведь</ms>
             <pldr>медведь</pldr>
             <rec>
                <noun lemma="медвѣдь" case="N" number="sg">медвѣдь</noun>
             </rec>
          </w>
          <w>
+            <ms>бежаше</ms>
             <pldr>бежаше</pldr>
             <rec>
                <verb lemma="бѣжати" tense="ipf" person="3" number="sg">бѣжаше(ть)</verb>
             </rec>
          </w>
          <w>
+            <ms>во</ms>
             <pldr>во</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>глубину</ms>
             <pldr>глубину</pldr>
             <rec>
                <noun lemma="глꙋбина" case="A" number="sg">глꙋбинꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>тростия</ms>
             <pldr>тростия</pldr>
             <rec>
                <noun lemma="трьстиѥ" case="G" number="sg">тръстиꙗ</noun>
             </rec>
          </w>
          <w>
+            <ms>того.</ms>
             <pldr>того.</pldr>
             <rec>
                <pronoun type="dem" lemma="тъ" number="sg" case="G" gender="n">того.</pronoun>
@@ -1363,36 +1589,42 @@
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>кликну</ms>
             <pldr>кликну</pldr>
             <rec>
                <verb lemma="кликнꙋти" tense="aor" person="3" number="sg">кликнꙋ</verb>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="poss" lemma="ѥго" person="3" number="sg">ѥго</pronoun>
             </rec>
          </w>
          <w>
+            <ms>стрый</ms>
             <pldr>стрый</pldr>
             <rec>
                <noun lemma="стрыи" case="N" number="sg">стрыи</noun>
             </rec>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>
                <preposition lemma="къ">къ</preposition>
             </rec>
          </w>
          <w>
+            <ms>нему:</ms>
             <pldr>нему:</pldr>
             <rec>
                <pronoun type="pers" lemma="и" gender="m" case="D" number="sg" person="3"
@@ -1400,48 +1632,56 @@
             </rec>
          </w>
          <w>
+            <ms>«Чадо,</ms>
             <pldr>«Чадо,</pldr>
             <rec>
                <noun lemma="чѧдо" case="V" number="sg">«Чѧдо,</noun>
             </rec>
          </w>
          <w>
+            <ms>стереги</ms>
             <pldr>стереги</pldr>
             <rec>
                <verb lemma="стрещи сѧ" person="2" number="sg" tense="imv">стрези</verb>
             </rec>
          </w>
          <w>
+            <ms>сь,</ms>
             <pldr>сь,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
          </w>
          <w>
+            <ms>доколе</ms>
             <pldr>доколе</pldr>
             <rec>
                <adverb lemma="доколѣ">доколѣ</adverb>
             </rec>
          </w>
          <w>
+            <ms>не</ms>
             <pldr>не</pldr>
             <rec>
                <particle lemma="не">не</particle>
             </rec>
          </w>
          <w>
+            <ms>скочитъ</ms>
             <pldr>скочитъ</pldr>
             <rec>
                <verb lemma="скочити" tense="pr" person="3" number="sg">скочить</verb>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>тебѣ</ms>
             <pldr>тебѣ</pldr>
             <rec>
                <pronoun type="pers" person="2" number="sg" lemma="ты" case="A" length="lg"
@@ -1449,24 +1689,28 @@
             </rec>
          </w>
          <w>
+            <ms>медведь».</ms>
             <pldr>медведь».</pldr>
             <rec>
                <noun lemma="медвѣдь" case="N" number="sg">медвѣдь».</noun>
             </rec>
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>
                <noun lemma="девгении" case="N" number="sg">Девгении</noun>
             </rec>
          </w>
          <w>
+            <ms>радостенъ</ms>
             <pldr>радостенъ</pldr>
             <rec>
                <adjective lemma="радостьныи" gender="m" case="N" number="sg" length="sh"
@@ -1474,72 +1718,84 @@
             </rec>
          </w>
          <w>
+            <ms>бысть</ms>
             <pldr>бысть</pldr>
             <rec>
                <verb lemma="быти" tense="aor" person="3" number="sg">бы(сть)</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>поверже</ms>
             <pldr>поверже</pldr>
             <rec>
                <verb lemma="поврещи" tense="aor" number="sg" person="3">повьрже</verb>
             </rec>
          </w>
          <w>
+            <ms>свою</ms>
             <pldr>свою</pldr>
             <rec>
                <pronoun type="poss" lemma="свои" gender="f" case="A" number="sg">свою</pronoun>
             </rec>
          </w>
          <w>
+            <ms>рогвицу</ms>
             <pldr>рогвицу</pldr>
             <rec>
                <noun lemma="рогъвица" case="A" number="sg">рогъвицꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>месте,</ms>
             <pldr>месте,</pldr>
             <rec>
                <noun lemma="мѣсто" case="L" number="sg">мѣстѣ,</noun>
             </rec>
          </w>
          <w>
+            <ms>на</ms>
             <pldr>на</pldr>
             <rec>
                <preposition lemma="на">на</preposition>
             </rec>
          </w>
          <w>
+            <ms>немже</ms>
             <pldr>немже</pldr>
             <rec>
                <pronoun lemma="иже" type="rel" case="N" number="sg" gender="n">нѥмьже</pronoun>
             </rec>
          </w>
          <w>
+            <ms>стояше,</ms>
             <pldr>стояше,</pldr>
             <rec>
                <verb lemma="стоꙗти" tense="ipf" person="3" number="sg">стоꙗше(ть),</verb>
             </rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>
                <conjunction lemma="ꙗко">ꙗко</conjunction>
             </rec>
          </w>
          <w>
+            <ms>скоры</ms>
             <pldr>скоры</pldr>
             <rec>
                <adjective lemma="скорыи" gender="m" case="N" number="sg" length="lg"
@@ -1547,18 +1803,21 @@
             </rec>
          </w>
          <w>
+            <ms>соколъ</ms>
             <pldr>соколъ</pldr>
             <rec>
                <noun lemma="соколъ" case="N" number="sg">соколъ</noun>
             </rec>
          </w>
          <w>
+            <ms>медведя</ms>
             <pldr>медведя</pldr>
             <rec>
                <noun lemma="медвѣдь" case="A" number="sg">медвѣди</noun>
             </rec>
          </w>
          <w>
+            <ms>наскочи.</ms>
             <pldr>наскочи.</pldr>
             <rec>
                <verb lemma="наскочити" tense="aor" person="3" number="sg">наскочи.</verb>
@@ -1580,24 +1839,28 @@
            -->
          </w>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>медведь</ms>
             <pldr>медведь</pldr>
             <rec>
                <noun lemma="медвѣдь" case="N" number="sg">медвѣдь</noun>
             </rec>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>
                <preposition lemma="къ">къ</preposition>
             </rec>
          </w>
          <w>
+            <ms>нему</ms>
             <pldr>нему</pldr>
             <rec>
                <pronoun lemma="и" type="pers" person="3" case="D" number="sg" gender="m"
@@ -1605,18 +1868,21 @@
             </rec>
          </w>
          <w>
+            <ms>возврати</ms>
             <pldr>возврати</pldr>
             <rec>
                <verb lemma="възвратити сѧ" tense="aor" person="3" number="sg">възврати</verb>
             </rec>
          </w>
          <w>
+            <ms>сь,</ms>
             <pldr>сь,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
          </w>
          <w>
+            <ms>разверзь</ms>
             <pldr>разверзь</pldr>
             <rec>
                <participle lemma="разврести" gender="m" case="N" number="sg" length="sh" tense="pt"
@@ -1624,6 +1890,7 @@
             </rec>
          </w>
          <w>
+            <ms>уды</ms>
             <pldr>уды</pldr>
             <rec>
                <noun lemma="оузда" number="pl" case="A">оузды</noun>
@@ -1631,12 +1898,14 @@
             <!-- Тх has уды, Tvorogov (prob. < Speranskij) emends to уста, Vaillant emends to узды-->
          </w>
          <w>
+            <ms>своя,</ms>
             <pldr>своя,</pldr>
             <rec>
                <pronoun type="poss" lemma="свои" case="A" number="pl" gender="f">своѩ,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>хотя</ms>
             <pldr>хотя</pldr>
             <rec>
                <participle lemma="хотѣти" gender="m" case="N" number="sg" length="sh" tense="pr"
@@ -1644,6 +1913,7 @@
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="pers" lemma="и" person="3" case="A" number="sg" gender="m"
@@ -1651,48 +1921,56 @@
             </rec>
          </w>
          <w>
+            <ms>пожрети.</ms>
             <pldr>пожрети.</pldr>
             <rec>
-               <verb lemma="пожрети" tense="inf">пожьрети.</verb>
+               <verb lemma="пожрети" tense="inf">пожрети.</verb>
             </rec>
          </w>
          <w>
+            <ms>Юноша</ms>
             <pldr>Юноша</pldr>
             <rec>
                <noun lemma="оуноша" case="N" number="sg">Оуноша</noun>
             </rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>
                <particle lemma="же">же</particle>
             </rec>
          </w>
          <w>
+            <ms>борзо</ms>
             <pldr>борзо</pldr>
             <rec>
                <adverb lemma="бързо">бързо</adverb>
             </rec>
          </w>
          <w>
+            <ms>скочи,</ms>
             <pldr>скочи,</pldr>
             <rec>
                <verb lemma="скочити" tense="aor" person="3" number="sg">скочи,</verb>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>ухвати</ms>
             <pldr>ухвати</pldr>
             <rec>
                <verb lemma="оухватити" tense="aor" person="3" number="sg">оухвати</verb>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="pers" lemma="и" person="3" number="sg" case="A" gender="m"
@@ -1700,30 +1978,35 @@
             </rec>
          </w>
          <w>
+            <ms>за</ms>
             <pldr>за</pldr>
             <rec>
                <preposition lemma="за">за</preposition>
             </rec>
          </w>
          <w>
+            <ms>главу,</ms>
             <pldr>главу,</pldr>
             <rec>
                <noun lemma="глава" case="A" number="sg">главꙋ,</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>оторва</ms>
             <pldr>оторва</pldr>
             <rec>
                <verb lemma="отъръвати" tense="aor" person="3" number="sg">отърва</verb>
             </rec>
          </w>
          <w>
+            <ms>ему</ms>
             <pldr>ему</pldr>
             <rec>
                <pronoun type="pers" lemma="и" case="D" number="sg" gender="m" person="3"
@@ -1731,102 +2014,119 @@
             </rec>
          </w>
          <w>
+            <ms>главу,</ms>
             <pldr>главу,</pldr>
             <rec>
                <noun lemma="глава" number="sg" case="A">главꙋ,</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>вборзе</ms>
             <pldr>вборзе</pldr>
             <rec>
                <adverb lemma="въбързѣ">въбързѣ</adverb>
             </rec>
          </w>
          <w>
+            <ms>умре</ms>
             <pldr>умре</pldr>
             <rec>
                <verb lemma="оумрети" tense="aor" number="sg" person="3">оумре(тъ)</verb>
             </rec>
          </w>
          <w>
+            <ms>в</ms>
             <pldr>в</pldr>
             <rec>
                <preposition lemma="въ">въ</preposition>
             </rec>
          </w>
          <w>
+            <ms>руку</ms>
             <pldr>руку</pldr>
             <rec>
                <noun lemma="рꙋка" case="L" number="du">рꙋкꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>его.</ms>
             <pldr>его.</pldr>
             <rec>
                <pronoun type="poss" lemma="ѥго" number="sg" person="3">ѥго.</pronoun>
             </rec>
          </w>
          <w>
+            <ms>От</ms>
             <pldr>От</pldr>
             <rec>
                <preposition lemma="отъ">Отъ</preposition>
             </rec>
          </w>
          <w>
+            <ms>рыкания</ms>
             <pldr>рыкания</pldr>
             <rec>
                <noun lemma="рыканиѥ" number="sg" case="G">рыканиꙗ</noun>
             </rec>
          </w>
          <w>
+            <ms>жъ</ms>
             <pldr>жъ</pldr>
             <rec>
                <particle lemma="же">же</particle>
             </rec>
          </w>
          <w>
+            <ms>медведя</ms>
             <pldr>медведя</pldr>
             <rec>
                <noun lemma="медвѣдь" case="G" number="sg">медвѣди</noun>
             </rec>
          </w>
          <w>
+            <ms>того</ms>
             <pldr>того</pldr>
             <rec>
                <pronoun type="dem" lemma="тъ" number="sg" case="G" gender="m">того</pronoun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>от</ms>
             <pldr>от</pldr>
             <rec>
                <preposition lemma="отъ">отъ</preposition>
             </rec>
          </w>
          <w>
+            <ms>гласа</ms>
             <pldr>гласа</pldr>
             <rec>
                <noun lemma="гласъ" case="G" number="sg">гласа</noun>
             </rec>
          </w>
          <w>
+            <ms>юноши</ms>
             <pldr>юноши</pldr>
             <rec>
                <noun lemma="оуноша" case="G" number="sg">оуношѧ</noun>
             </rec>
          </w>
          <w>
+            <ms>голкъ</ms>
             <pldr>голкъ</pldr>
             <rec>
                <noun lemma="гълка" number="sg" case="N">гълка</noun>
@@ -1834,6 +2134,7 @@
             <!-- SDRJa11-14 only gives fem. form for 'noise'. Clearly this whole line is bad, but let's stay close to Тх-->
          </w>
          <w>
+            <ms>великъ</ms>
             <pldr>великъ</pldr>
             <rec>
                <adjective lemma="великыи" number="sg" case="N" gender="f" length="sh"
@@ -1841,6 +2142,7 @@
             </rec>
          </w>
          <w>
+            <ms>побѣже.</ms>
             <pldr>побѣже.</pldr>
             <rec>
                <verb number="sg" lemma="побѣгнꙋти" person="3" tense="aor">побѣже.</verb>
@@ -1850,96 +2152,112 @@
       </p>
       <p>
          <w>
+            <ms>И</ms>
             <pldr>И</pldr>
             <rec>
                <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
+            <ms>Амира</ms>
             <pldr>Амира</pldr>
             <rec>
                <noun lemma="амира" number="sg" case="N">Амира</noun>
             </rec>
          </w>
          <w>
+            <ms>царь</ms>
             <pldr>царь</pldr>
             <rec>
                <noun lemma="цьсарь" case="N" number="sg">цьсарь</noun>
             </rec>
          </w>
          <w>
+            <ms>к</ms>
             <pldr>к</pldr>
             <rec>
                <preposition lemma="къ">къ</preposition>
             </rec>
          </w>
          <w>
+            <ms>сыну</ms>
             <pldr>сыну</pldr>
             <rec>
                <noun lemma="сынъ" number="sg" case="D">сынови</noun>
             </rec>
          </w>
          <w>
+            <ms>кликну:</ms>
             <pldr>кликну:</pldr>
             <rec>
                <verb lemma="кликнꙋти" number="sg" tense="aor" person="3">кликнꙋ:</verb>
             </rec>
          </w>
          <w>
+            <ms>«Девгений,</ms>
             <pldr>«Девгений,</pldr>
             <rec>
                <noun number="sg" lemma="девгении" case="V">«Девгении,</noun>
             </rec>
          </w>
          <w>
+            <ms>сыну</ms>
             <pldr>сыну</pldr>
             <rec>
                <noun lemma="сынъ" case="V" number="sg">сынꙋ</noun>
             </rec>
          </w>
          <w>
+            <ms>мой,</ms>
             <pldr>мой,</pldr>
             <rec>
                <pronoun type="poss" lemma="мои" number="sg" case="V" gender="m">мои,</pronoun>
             </rec>
          </w>
          <w>
+            <ms>стереги</ms>
             <pldr>стереги</pldr>
             <rec>
                <verb lemma="стрещи сѧ" tense="imv" number="sg" person="2">стрези</verb>
             </rec>
          </w>
          <w>
+            <ms>сь,</ms>
             <pldr>сь,</pldr>
             <rec>
                <particle lemma="сѧ">сѧ,</particle>
             </rec>
          </w>
          <w>
+            <ms>понеже</ms>
             <pldr>понеже</pldr>
             <rec>
                <conjunction lemma="понѥже">понѥже</conjunction>
             </rec>
          </w>
          <w>
+            <ms>лось</ms>
             <pldr>лось</pldr>
             <rec>
                <noun lemma="лось" number="sg" case="N">лось</noun>
             </rec>
          </w>
          <w>
+            <ms>бѣжитъ</ms>
             <pldr>бѣжитъ</pldr>
             <rec>
                <verb number="sg" lemma="бѣжати" person="3" tense="pr">бѣжить</verb>
             </rec>
          </w>
          <w>
+            <ms>велми</ms>
             <pldr>велми</pldr>
             <rec>
                <adverb lemma="вельми">вельми</adverb>
             </rec>
          </w>
          <w>
+            <ms>великъ,</ms>
             <pldr>великъ,</pldr>
             <rec>
                <adjective lemma="великыи" number="sg" case="N" gender="m" length="sh"
@@ -1947,6 +2265,7 @@
             </rec>
          </w>
          <w>
+            <ms>тебе</ms>
             <pldr>тебе</pldr>
             <rec>
                <pronoun type="pers" case="D" number="sg" length="lg" lemma="ты" person="2"
@@ -1954,36 +2273,42 @@
             </rec>
          </w>
          <w>
+            <ms>же</ms>
             <pldr>же</pldr>
             <rec>
                <particle lemma="же">же</particle>
             </rec>
          </w>
          <w>
+            <ms>укрыти</ms>
             <pldr>укрыти</pldr>
             <rec>
                <verb lemma="оукрыти сѧ" tense="imv" person="2" number="sg">оукрыти</verb>
             </rec>
          </w>
          <w>
+            <ms>сь</ms>
             <pldr>сь</pldr>
             <rec>
                <particle lemma="сѧ">сѧ</particle>
             </rec>
          </w>
          <w>
+            <ms>негде».</ms>
             <pldr>негде».</pldr>
             <rec>
                <adverb lemma="нѣкъде">нѣкъде».</adverb>
             </rec>
          </w>
          <w>
+            <ms>То</ms>
             <pldr>То</pldr>
             <rec>
                <pronoun type="dem" lemma="тъ" number="sg" case="A" gender="n">То</pronoun>
             </rec>
          </w>
          <w>
+            <ms>слышавъ,</ms>
             <pldr>слышавъ,</pldr>
             <rec>
                <participle lemma="слышати" gender="m" case="N" number="sg" tense="pt" voice="act"
@@ -1991,36 +2316,42 @@
             </rec>
          </w>
          <w>
+            <ms>Девгений</ms>
             <pldr>Девгений</pldr>
             <rec>
                <noun lemma="девгении" number="sg" case="N">Девгении</noun>
             </rec>
          </w>
          <w>
+            <ms>поскочи,</ms>
             <pldr>поскочи,</pldr>
             <rec>
                <verb lemma="поскочити" tense="aor" person="3" number="sg">поскочи,</verb>
             </rec>
          </w>
          <w>
+            <ms>яко</ms>
             <pldr>яко</pldr>
             <rec>
                <conjunction lemma="ꙗко">ꙗко</conjunction>
             </rec>
          </w>
          <w>
+            <ms>левъ,</ms>
             <pldr>левъ,</pldr>
             <rec>
                <noun lemma="львъ" number="sg" case="N">львъ,</noun>
             </rec>
          </w>
          <w>
+            <ms>и</ms>
             <pldr>и</pldr>
             <rec>
                <conjunction lemma="и">и</conjunction>
             </rec>
          </w>
          <w>
+            <ms>догнавъ</ms>
             <pldr>догнавъ</pldr>
             <rec>
                <participle lemma="догънати" gender="m" case="N" number="sg" tense="pt" voice="act"
@@ -2028,18 +2359,21 @@
             </rec>
          </w>
          <w>
+            <ms>лося,</ms>
             <pldr>лося,</pldr>
             <rec>
                <noun lemma="лось" number="sg" case="A">лоси,</noun>
             </rec>
          </w>
          <w>
+            <ms>похвати</ms>
             <pldr>похвати</pldr>
             <rec>
                <verb lemma="похватити" tense="aor" person="3" number="sg">похвати</verb>
             </rec>
          </w>
          <w>
+            <ms>его</ms>
             <pldr>его</pldr>
             <rec>
                <pronoun type="pers" lemma="и" number="sg" person="3" case="A" gender="m"
@@ -2047,19 +2381,22 @@
             </rec>
          </w>
          <w>
+            <ms>за</ms>
             <pldr>за</pldr>
             <rec>
                <preposition lemma="за">за</preposition>
             </rec>
          </w>
          <w>
+            <ms>задние</ms>
             <pldr>задние</pldr>
             <rec>
-               <adjective lemma="задьнии" gender="f" case="A" number="du" length="lg"
+               <adjective lemma="задьнии" gender="f" case="A" number="pl" length="lg"
                   >задьнѩѩ</adjective>
             </rec>
          </w>
          <w>
+            <ms>ноги,</ms>
             <pldr>ноги,</pldr>
             <rec>
                <noun lemma="нога" number="pl" case="A">ногы,</noun>
@@ -2067,12 +2404,14 @@
          </w>
          <!-- Should this be du., or is du. only for a pair of human legs (even though there are two at issue here)?-->
          <w>
+            <ms>надвое</ms>
             <pldr>надвое</pldr>
             <rec>
                <adverb lemma="надъвоѥ">надъвоѥ</adverb>
             </rec>
          </w>
          <w>
+            <ms>раздра.</ms>
             <pldr>раздра.</pldr>
             <rec>
                <verb lemma="раздьрати" tense="aor" number="sg" person="3">раздьра.</verb>
