@@ -428,7 +428,8 @@
     </xsl:template>
     <xsl:template match="number" mode="grammar">
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
-        <xsl:value-of select="$abbreviate(@type)"/>
+        <xsl:value-of
+            select="$abbreviate(@type), $local-categories ! concat(@gender, @case, @number)"/>
     </xsl:template>
     <xsl:template match="pronoun" mode="grammar">
         <!-- ============================================================ -->
@@ -436,18 +437,17 @@
         <!-- add type after part of speech except for 'all' -->
         <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
-        <xsl:choose>
-            <xsl:when test="@type eq 'poss'">
-                <xsl:value-of select="'poss-adj'"/>
-            </xsl:when>
-            <xsl:when test="@type ne 'all'">
-                <xsl:value-of select="$abbreviate(@type)"/>
-            </xsl:when>
-        </xsl:choose>
-        <xsl:where-populated>
-            <xsl:value-of select="' ' || $local-categories/@length"/>
-        </xsl:where-populated>
-        <xsl:value-of select="' ' || $local-categories ! concat(@gender, @case, @number)"/>
+        <xsl:value-of select="
+                if (@type eq 'poss') then
+                    'poss-adj'
+                else
+                    (),
+                if (not(@type eq 'all')) then
+                    $abbreviate(@type)
+                else
+                    (),
+                $local-categories/@length,
+                $local-categories ! concat(@gender, @case, @number)"/>
     </xsl:template>
     <xsl:template match="verb" mode="grammar">
         <!-- ============================================================ -->
