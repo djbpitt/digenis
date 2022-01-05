@@ -13,6 +13,13 @@
             </rec>
          </w>
          <w>
+            <ms>и</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>
+               <conjunction lemma="и">и</conjunction>
+            </rec>
+         </w>
+         <w>
             <ms>ЖИТИЕ</ms>
             <pldr>ЖИТИЕ</pldr>
             <rec>
