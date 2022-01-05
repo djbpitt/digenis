@@ -15,6 +15,11 @@ pos =
   | particle
   | participle
   | number
+  | punc
+punc =
+  element punc {
+    xsd:string { pattern = ".+" }
+  }
 noun =
   element noun {
     lemma,

@@ -2,6 +2,7 @@
 <?xml-model href="conjunctions.rnc" type="application/relax-ng-compact-syntax"?>
 <conjunctions>
   <conjunction lemma="а" gloss="and; but"/>
+  <conjunction lemma="да" gloss="(so) that"/>
   <conjunction lemma="занѥ" gloss="because"/>
   <conjunction lemma="и" gloss="and"/>
   <conjunction lemma="нъ" gloss="but"/>

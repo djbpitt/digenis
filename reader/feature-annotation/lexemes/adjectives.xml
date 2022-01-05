@@ -6,6 +6,8 @@
   <adjective lemma="девгениѥвъ" poss="poss" gloss="Digenis’s"/>
   <adjective lemma="дрꙋгыи" gloss="other"/>
   <adjective lemma="задьнии" gloss="rear"/>
+  <adjective lemma="лосевъ" gloss="elk’s; moose’s" poss="poss"/>
+  <adjective lemma="дѣвыи" gloss="left"/>
   <adjective lemma="лютыи" gloss="fierce"/>
   <adjective lemma="младыи" gloss="young"/>
   <adjective lemma="мьртвыи" gloss="dead"/>
@@ -16,6 +18,7 @@
   Sreznevskij's 2.838 long is only a fixed phrase '(military) volunteer'-->
   <adjective lemma="охочь" gloss="eager; desirous"/>
   <adjective lemma="преславьныи" gloss="most glorious"/>
+  <adjective lemma="правыи" gloss="right"/>
   <adjective lemma="простыи" gloss="simple"/>
   <adjective lemma="радостьныи" gloss="glad; happy"/>
   <adjective lemma="радъ" gloss="glad; happy"/>

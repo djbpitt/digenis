@@ -5,10 +5,13 @@
   <verb lemma="бѣжати" pl3="бѣжѧть" class="IVB" gloss="run"/>
   <verb lemma="быти" pl3="сꙋть" class="V" gloss="be"/>
   <verb lemma="видѣти" pl3="видѧть" class="IVB" gloss="see"/>
+  <verb lemma="влещи" pl3="влекꙋть" class="I" gloss="drag"/>
+  <verb lemma="врѣдити" pl3="врѣдѧть" class="IVA" gloss="harm"/>
   <verb lemma="възвратити сѧ" pl3="възвратѧть сѧ" class="IVA" gloss="return"/>
   <verb lemma="вънити" pl3="вънидꙋть" gloss="enter" class="I"/>
   <verb lemma="выити" pl3="выидꙋть" gloss="go out" class="I"/>
   <verb lemma="глаголати" pl3="глаголють" gloss="speak; say" class="III"/>
+  <verb lemma="глѧдати" pl3="глѧдають" class="III" gloss="watch"/>
   <verb lemma="дивити сѧ" pl3="дивѧть сѧ" class="IVA" gloss="marvel; wonder"/>
   <verb lemma="догънати" pl3="доженꙋть" class="I" gloss="catch (up to)"/>
   <verb lemma="играти" pl3="играють" gloss="play" class="III"/>
@@ -46,6 +49,7 @@
   <verb lemma="съзьдати" pl3="съзижꙋть" class="III" gloss="create" irreg="yes"/>
   <verb lemma="сънити" pl3="сънидꙋть" gloss="descend" class="I"/>
   <verb lemma="сътворити" pl3="сътворѧть" gloss="do; complete" class="IVA"/>
+  <verb lemma="оубити" pl3="оубиють" class="I" gloss="kill"/>
   <verb lemma="оукрыти сѧ" pl3="оукроють сѧ" class="I" gloss="hide"/>
   <verb lemma="оумрети" pl3="оумьрꙋть" class="I" gloss="die"/>
   <verb lemma="оухватити" pl3="оухватѧть" class="IVA" gloss="seize"/>
