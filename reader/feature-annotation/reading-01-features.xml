@@ -2,12 +2,12 @@
 <?xml-model href="reader.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="reader.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section>
-   <title>ДѢꙖНИѤ И ЖИТИѤ ДЕВГЕНИѤВО АКРИТА ·а҃·</title>
+   <title>ДѢꙖНИѤ ПРЕЖЬНИХЪ ВРЕМЕНЪ ХРАБРЫХЪ ЧЕЛОВѢКЪ ·а҃·</title>
    <body>
       <p>
          <w>
             <ms>Дѣянїе</ms>
-            <pldr> </pldr>
+            <pldr>&#xa0;</pldr>
             <rec>
                <noun lemma="дѣꙗниѥ" case="N" number="sg">ДѢꙖНИѤ</noun>
             </rec>
@@ -16,21 +16,28 @@
             <ms>и</ms>
             <pldr>&#xa0;</pldr>
             <rec>
-               <conjunction lemma="и">и</conjunction>
+               <conjunction lemma="и">И</conjunction>
             </rec>
          </w>
          <w>
             <ms>ЖИТИЕ</ms>
             <pldr>ЖИТИЕ</pldr>
             <rec>
-               <noun lemma="житиѥ" case="N" number="sg">ЖИТИЕ</noun>
+               <noun lemma="житиѥ" case="N" number="sg">ЖИТИѤ</noun>
             </rec>
          </w>
          <w>
             <ms>ДЕВГЕНИЯ</ms>
             <pldr>ДЕВГЕНИЯ</pldr>
             <rec>
-               <noun lemma="девгении" case="G" number="sg">ДЕВГЕНИЯ</noun>
+               <adjective lemma="девгениѥвъ" number="sg" case="N" gender="n" length="sh">ДЕВГЕНИѤВО</adjective>
+            </rec>
+         </w>
+         <w>
+            <ms>&#xa0;</ms>
+            <pldr>&#xa0;</pldr>
+            <rec>
+               <noun lemma="акритъ" case="G" number="sg">АКРИТА</noun>
             </rec>
          </w>
       </p>
