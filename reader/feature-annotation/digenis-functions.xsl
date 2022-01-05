@@ -60,7 +60,8 @@
     <!-- я ѧ ꙗ, е ѥ, й и, у оу  ꙋ, final ъ                                -->
     <!-- ================================================================ -->
     <xsl:param name="input" as="xs:string"/>
-    <xsl:sequence select="replace($input, 'оу', 'ꙋ') ! 
+    <xsl:sequence select="lower-case($input) !
+      replace(., 'оу', 'ꙋ') ! 
       translate(., 'ѧꙗѩѥйу', 'яяяеиꙋ') ! 
       replace(.,'\P{L}','') !
       replace(., 'ъ$', '')"/>
