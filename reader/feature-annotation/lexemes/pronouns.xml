@@ -4,6 +4,7 @@
   <pronoun lemma="вьсь" type="all" gloss="all"/>
   <pronoun lemma="и" type="personal" gloss="he (etc.)"/>
   <pronoun lemma="иже" type="relative" gloss="that; which"/>
+  <pronoun lemma="ихъ" type="possessive" gloss="their" gender="pl"/>
   <pronoun lemma="каковъ" type="interrogative" gloss="what (sort of)"/>
   <pronoun lemma="къто" type="interrogative" gloss="who"/>
   <pronoun lemma="къто" type="relative" gloss="who"/>
@@ -14,7 +15,7 @@
   <pronoun lemma="тъ" type="demonstrative" gloss="that"/>
   <pronoun lemma="ты" type="personal" gloss="you (sg)"/>
   <pronoun lemma="ꙗзъ" type="personal" gloss="I"/>
-  <pronoun lemma="ѥго" type="possessive" gloss="his"/>
-  <pronoun lemma="ѥю" type="possessive" gloss="their"/>
-  <pronoun lemma="ѥѩ" type="possessive" gloss="her"/>
+  <pronoun lemma="ѥго" type="possessive" gender="m" gloss="his"/>
+  <pronoun lemma="ѥю" type="possessive" gender="du" gloss="their"/>
+  <pronoun lemma="ѥѩ" type="possessive" gender="f" gloss="her"/>
 </pronouns>

@@ -24,6 +24,7 @@
   <verb lemma="наскочити" pl3="наскочѧть" class="IVA" gloss="attack; seize"/>
   <verb lemma="начѧти" pl3="начьнꙋть" gloss="begin" class="I"/>
   <verb lemma="нꙋдити" pl3="нꙋдѧть" gloss="plead (with); insist (to)" class="IVA"/>
+  <verb lemma="отъвѣщати" pl3="отъвѣщають" class="III" gloss="answer"/>
   <verb lemma="отъръвати" pl3="отъръвꙋть" class="III" gloss="tear off"/>
   <verb lemma="очꙋтити" pl3="очꙋтѧть" gloss="feel; sense" class="IVA"/>
   <verb lemma="побѣдити" pl3="побѣдѧть" gloss="conquer; vanquish" class="IVA"/>
@@ -51,6 +52,8 @@
   <verb lemma="сънити" pl3="сънидꙋть" gloss="descend" class="I"/>
   <verb lemma="сътворити" pl3="сътворѧть" gloss="do; complete" class="IVA"/>
   <verb lemma="оубити" pl3="оубиють" class="I" gloss="kill"/>
+  <!-- Class IVB with stable jer in root, Prague dictionary -->
+  <verb lemma="оузьрѣти" pl3="оузьрѧть" class="IVB" gloss="catch sight of"/>
   <verb lemma="оукрыти сѧ" pl3="оукроють сѧ" class="I" gloss="hide"/>
   <verb lemma="оумрети" pl3="оумьрꙋть" class="I" gloss="die"/>
   <verb lemma="оухватити" pl3="оухватѧть" class="IVA" gloss="seize"/>

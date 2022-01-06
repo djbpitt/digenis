@@ -46,7 +46,7 @@
             <ms>Кто</ms>
             <pldr>Кто</pldr>
             <rec>
-               <pronoun type="interrog" number="sg" case="N" lemma="къто" gender="m">Къто</pronoun>
+               <pronoun type="interrog" case="N" lemma="къто">Къто</pronoun>
             </rec>
          </w>
          <w>
@@ -125,7 +125,7 @@
             <ms>кто</ms>
             <pldr>кто</pldr>
             <rec>
-               <pronoun type="rel" case="N" number="sg" lemma="къто" gender="m">къто</pronoun>
+               <pronoun type="rel" case="N" lemma="къто">къто</pronoun>
             </rec>
          </w>
          <w>
@@ -505,12 +505,8 @@
             <ms>узреста</ms>
             <pldr>узреста</pldr>
             <rec>
-               <verb lemma="узьрѣти" tense="aor" person="3" number="du">оузьрѣста</verb>
+               <verb lemma="оузьрѣти" tense="aor" person="3" number="du">оузьрѣста</verb>
             </rec>
-            <note>aor 3du <os>узьрѣти</os>
-               <gloss>catch sight of</gloss>
-            </note>
-            <!-- Class IVB with stable jer in root, Prague dictionary -->
          </w>
          <w>
             <ms>юношу,</ms>
@@ -830,7 +826,7 @@
             <ms>понеже</ms>
             <pldr>понеже</pldr>
             <rec>
-               <conjunction lemma="понѥжѥ">понѥже</conjunction>
+               <conjunction lemma="понѥже">понѥже</conjunction>
             </rec>
          </w>
          <w>
@@ -879,7 +875,7 @@
             <ms>то</ms>
             <pldr>то</pldr>
             <rec>
-               <pronoun lemma="тъ" number="sg" case="N" type="dem">то</pronoun>
+               <pronoun lemma="тъ" number="sg" case="N" type="dem" gender="n">то</pronoun>
             </rec>
          </w>
          <w>
@@ -916,82 +912,108 @@
             <ms>обороною</ms>
             <pldr>обороною</pldr>
             <rec>
-               <noun lemma="обрана" number="sg" case="I">обороною</noun>
+               <noun lemma="оборона" number="sg" case="I">обороною</noun>
             </rec>
-            <!-- TODO: should be обраною? -->
+            <note>Here <gloss>caution</gloss>.</note>
          </w>
          <w>
             <ms>итти</ms>
             <pldr>итти</pldr>
-            <rec>ити</rec>
+            <rec>
+               <verb lemma="ити" tense="inf">ити</verb>
+            </rec>
          </w>
          <w>
             <ms>к</ms>
             <pldr>к</pldr>
-            <rec>къ</rec>
+            <rec>
+               <preposition lemma="къ">къ</preposition>
+            </rec>
          </w>
          <w>
             <ms>нему».</ms>
             <pldr>нему».</pldr>
-            <rec>нѥмꙋ».</rec>
+            <rec>
+               <pronoun lemma="и" type="pers" person="3" case="D" gender="m" number="sg"
+                  >нѥмꙋ».</pronoun>
+            </rec>
          </w>
          <w>
             <ms>Отвещаша</ms>
             <pldr>Отвещаша</pldr>
-            <rec>Отъвѣща</rec>
-            <note>aor 3sg <os>отъвѣщати</os>
-               <gloss>answer</gloss>
-            </note>
+            <rec>
+               <verb lemma="отъвѣщати" tense="aor" person="3" number="sg">Отъвѣща</verb>
+            </rec>
          </w>
          <w>
             <ms>юноша:</ms>
             <pldr>юноша:</pldr>
-            <rec>оуноша:</rec>
+            <rec>
+               <noun lemma="оуноша" case="N" number="sg">оуноша:</noun>
+            </rec>
          </w>
          <w>
             <ms>«Господине</ms>
             <pldr>«Господине</pldr>
-            <rec>«Господине</rec>
+            <rec>
+               <noun lemma="господинъ" case="V" number="sg">«Господине</noun>
+            </rec>
          </w>
          <w>
             <ms>стрыю!</ms>
             <pldr>стрыю!</pldr>
-            <rec>стрыю!</rec>
+            <rec>
+               <noun lemma="стрыи" case="V" number="sg">стрыю!</noun>
+            </rec>
          </w>
          <w>
             <ms>Надею</ms>
             <pldr>Надею</pldr>
-            <rec>Надѣю</rec>
+            <rec>
+               <verb lemma="надѣꙗти сѧ" tense="pr" person="1" number="sg">Надѣю</verb>
+            </rec>
          </w>
          <w>
             <ms>сь</ms>
             <pldr>сь</pldr>
-            <rec>сѧ</rec>
+            <rec>
+               <particle lemma="сѧ">сѧ</particle>
+            </rec>
          </w>
          <w>
             <ms>на</ms>
             <pldr>на</pldr>
-            <rec>на</rec>
+            <rec>
+               <preposition lemma="на">на</preposition>
+            </rec>
          </w>
          <w>
             <ms>Творца</ms>
             <pldr>Творца</pldr>
-            <rec>Творьца</rec>
+            <rec>
+               <noun lemma="творьць" case="A" number="sg">Творьца</noun>
+            </rec>
          </w>
          <w>
             <ms>и</ms>
             <pldr>и</pldr>
-            <rec>и</rec>
+            <rec>
+               <conjunction lemma="и">и</conjunction>
+            </rec>
          </w>
          <w>
             <ms>на</ms>
             <pldr>на</pldr>
-            <rec>на</rec>
+            <rec>
+               <preposition lemma="на">на</preposition>
+            </rec>
          </w>
          <w>
             <ms>его</ms>
             <pldr>его</pldr>
-            <rec>ѥго</rec>
+            <rec>
+               <pronoun type="poss" lemma="ѥго">ѥго</pronoun>
+            </rec>
          </w>
          <w>
             <ms>величие</ms>

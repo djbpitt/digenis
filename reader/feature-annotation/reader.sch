@@ -12,6 +12,7 @@
     <sch:let name="prepositions" value="doc('lexemes/prepositions.xml')"/>
     <sch:let name="numbers" value="doc('lexemes/numbers.xml')"/>
     <sch:pattern>
+        <sch:p>Check orthography and verify whether lemmata are in master vocabulary lists</sch:p>
         <sch:rule context="adjective">
             <sch:assert test="@lemma = $adjectives//@lemma">Adjective <sch:value-of select="@lemma"
                 /> is not in master list of adjectives</sch:assert>
@@ -91,6 +92,96 @@
             <sch:report role="warning" test="matches(., '[аеыоуѧѩѥꙋиюꙗ][аѧе]')">Plain (non-jotated)
                 vowels should not follow vowel letters except at hiatus.</sch:report>
             <sch:report test=". eq 'дабы'">Да бы is two words.</sch:report>
+        </sch:rule>
+    </sch:pattern>
+    <sch:pattern>
+        <sch:p>Fine-tune pronoun attribute combinations. All pronouns have @lemma and @type; they
+            vary as to whether they specify person, gender, case, number, and length.</sch:p>
+        <sch:p>Personal pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'pers' and not(@person)]">
+            <sch:report test="true()">Personal pronouns must specify person</sch:report>
+        </sch:rule>
+        <sch:rule
+            context="pronoun[@type eq 'pers' and @person = ('1', '2') and @case = ('G', 'A', 'D')]">
+            <sch:assert test="@number and @case and @gender">First- and second-person personal
+                pronouns must specify person, gender, case, and number, and, if G, A, or D, also
+                length.</sch:assert>
+        </sch:rule>
+        <sch:rule
+            context="pronoun[@type eq 'pers' and @person = ('1', '2') and not(@case = ('G', 'A', 'D'))]">
+            <sch:assert test="@number and @case and @gender">First- and second-person personal
+                pronouns that are not G, A, or D must specify person, gender, case, and number, but
+                not length.</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun[@type eq 'pers' and @person = ('R') and @case = ('G', 'A', 'D')]">
+            <sch:assert test="@length and not(@person or @number or @gender)">Reflexive personal
+                pronouns must specify only case, and, if G, A, or D, also length, but not person,
+                gender, or number</sch:assert>
+        </sch:rule>
+        <sch:rule
+            context="pronoun[@type eq 'pers' and @person = ('R') and not(@case = ('G', 'A', 'D'))]">
+            <sch:assert test="not(@number or @gender or @length)">Reflexive personal pronouns that
+                are not G, A, or D must specify only case, and not gender, number, or
+                length</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun[@type eq 'pers' and @person = '3']">
+            <sch:assert test="@gender and @case and @number and not(@length)">Third-person personal
+                pronouns must specify only gender, case, and number, and not length.</sch:assert>
+        </sch:rule>
+
+        <sch:p>Possessive pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'poss' and @person = ('1', '2', 'R')]">
+            <sch:assert test="@gender and @case and @number and not(@length)">First- and
+                second-person and reflexive possessive pronouns must specify gender, case, and
+                number, but not length.</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun[@type eq 'poss' and not(@person)]">
+            <sch:assert
+                test="@lemma = ('ѥго', 'ѥѩ', 'ихъ') and not(@gender or @case or @number or @length)"
+                >Third-person possessive pronouns must be ѥго, ѥѩ, and ихъ and must not specify any
+                properties (gender is part of lexical entry).</sch:assert>
+        </sch:rule>
+
+        <sch:p>Interrogative pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'interrog' and @lemma = ('къто', 'чьто')]">
+            <sch:assert test="@case and not(@person or @gender or @number or @length)">Personal
+                interrogative къто and чьто have case, but no person, gender, number, or
+                length</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun[@type eq 'interrog' and not(@lemma = ('къто', 'чьто'))]">
+            <sch:assert test="@number and @gender and @case and not(@length or @person)"
+                >Non-personal interrogative pronouns have gender, case, and number, but not person
+                or length</sch:assert>
+        </sch:rule>
+
+        <sch:p>Relative pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'rel' and @lemma eq 'и']">
+            <sch:assert test="@person and @gender @ case @number and not(@length)">Relative и has
+                person, gender, case, and number, but not length</sch:assert>
+        </sch:rule>
+        <sch:rule context="pronoun[@type eq 'rel' and not(@lemma eq 'и')]">
+            <sch:assert test="@case and not(@person or @gender or @number or @length)">Relative
+                pronouns other than и (that is, къто and чьто) have case, but not person, gender,
+                number, or length</sch:assert>
+        </sch:rule>
+
+        <sch:p>Pronoun вьсь</sch:p>
+        <sch:rule context="pronoun[@type eq 'all']">
+            <sch:assert
+                test="@lemma eq 'вьсь' and @gender and @case and @number and not(@person or @length)"
+                >The pronoun вьсь has gender, case, and number, but not person or
+                length.</sch:assert>
+        </sch:rule>
+
+        <sch:p>Indefinite pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'indef']"/>
+
+        <sch:p>Demonstrative pronouns</sch:p>
+        <sch:rule context="pronoun[@type eq 'dem']">
+            <sch:assert
+                test="@lemma = ('сь', 'тъ') and @gender and @case and @number and not(@person or @length)"
+                >Demonstrative pronouns (сь, тъ) have gender, case, and number, but not person or
+                length</sch:assert>
         </sch:rule>
     </sch:pattern>
 </sch:schema>

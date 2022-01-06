@@ -1,21 +1,17 @@
 start = pronouns
 pronouns = element pronouns { pronoun+ }
-pronoun = element pronoun { lemma, type, gloss }
-lemma =
-  attribute lemma {
-    xsd:string { pattern = ".+" }
-  }
-type =
-  attribute type {
-    "personal"
-    | "possessive"
-    | "interrogative"
-    | "relative"
-    | "all"
-    | "indefinite"
-    | "demonstrative"
-  }
-gloss =
-  attribute gloss {
-    xsd:string { pattern = ".+" }
+# Third-person possessives have lexical gender (including du and pl); other pronouns do not
+pronoun =
+  element pronoun {
+    attribute lemma {
+      xsd:string { pattern = ".+" }
+    },
+    attribute gloss {
+      xsd:string { pattern = ".+" }
+    },
+    (attribute type {
+       "personal" | "interrogative" | "relative" | "all" | "indefinite" | "demonstrative"
+     }
+     | (attribute type { "possessive" },
+        attribute gender { "m" | "f" | "n" | "du" | "pl" }?))
   }

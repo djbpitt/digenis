@@ -12,6 +12,7 @@
   <noun lemma="глава" paradigm="a" gender="f" gloss="head"/>
   <noun lemma="гласъ" paradigm="o" gender="m" gloss="voice"/>
   <noun lemma="глꙋбина" paradigm="a" gender="f" gloss="depth"/>
+  <noun lemma="господинъ" paradigm="o" gender="m" gloss="lord"/>
   <noun lemma="градъ" paradigm="o" gender="m" gloss="city"/>
   <noun lemma="гълка" paradigm="a" gender="f" gloss="noise"/>
   <noun lemma="дароваинѥ" paradigm="jo" gender="n" gloss="gift"/>
@@ -38,6 +39,7 @@
   <noun lemma="мѣсто" paradigm="o" gender="n" gloss="place"/>
   <noun lemma="нога" paradigm="a" gender="f" gloss="leg; foot"/>
   <noun lemma="нꙋда" paradigm="a" gender="f" gloss="need"/>
+  <noun lemma="оборона" paradigm="a" gender="f" gloss="defense"/>
   <noun lemma="орꙋжиѥ" paradigm="jo" gender="n" gloss="weapons"/>
   <noun lemma="отрочѧ" paradigm="nt" gender="n" gloss="youth"/>
   <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
@@ -50,6 +52,7 @@
   <noun lemma="соколъ" paradigm="o" gender="m" gloss="falcon"/>
   <noun lemma="стрыи" paradigm="jo" gender="m" gloss="(paternal) uncle"/>
   <noun lemma="сынъ" paradigm="u" gender="m" gloss="son"/>
+  <noun lemma="творьць" paradigm="jo" gender="m" gloss="creator"/>
   <noun lemma="трьстиѥ" paradigm="jo" gender="n" gloss="thicket"/>
   <noun lemma="оузда" paradigm="a" gender="f" gloss="bridle; corner of mouth"/>
   <noun lemma="оуноша" paradigm="ja" gender="m" gloss="youth"/>

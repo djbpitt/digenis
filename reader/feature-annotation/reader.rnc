@@ -35,25 +35,13 @@ noun =
 # all pronouns have lemma, number, case
 pronoun =
   element pronoun {
-    ((lemma,
-      attribute type { "pers" },
-      attribute person { "1" | "2" | "R" },
-      attribute case { "G" | "A" | "D" },
-      attribute length { "sh" | "lg" })
-     | (lemma,
-        attribute type { "pers" },
-        attribute person { "3" },
-        gender,
-        case)
-     | (lemma,
-        attribute type { "pers" },
-        attribute person { "1" | "2" | "R" },
-        attribute case { "N" | "I" | "L" })
-     | (attribute type { "poss" },
-        attribute lemma { "ѥго" | "ѥѩ" | "ѥю" | "ихъ" },
-        attribute person { "3" })
-     | (lemma, pron-type, gender, case)),
+    lemma,
+    pron-type,
+    person?,
+    gender?,
     number-category?,
+    case?,
+    length?,
     xsd:string { pattern = ".+" }
   }
 # person and number only if tense is not inf
@@ -140,7 +128,7 @@ tense =
   }
 voice = attribute voice { "act" | "pass" }
 # omit pers and handle separately because pers require person
-pron-type = attribute type { "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
+pron-type = attribute type { "pers" | "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
 length = attribute length { "sh" | "lg" }
 degree = attribute degree { "comp" | "sup" }
 syntax = attribute syntax { "dat+inf" | "dat abs" }

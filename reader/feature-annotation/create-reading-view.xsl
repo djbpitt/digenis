@@ -435,17 +435,15 @@
         <!-- ============================================================ -->
         <!-- pronoun | mApl | вьсь all -->
         <!-- add type after part of speech except for 'all' -->
+        <!-- gender for third-person possessives is lexical -->
         <!-- ============================================================ -->
         <xsl:param name="local-categories" required="yes" tunnel="yes"/>
         <xsl:value-of select="
-                if (@type eq 'poss') then
-                    'poss-adj'
-                else
-                    (),
                 if (not(@type eq 'all')) then
                     $abbreviate(@type)
                 else
                     (),
+                @gender, (: third-person possessive has lexical gender:)
                 $local-categories/@length,
                 $local-categories ! concat(@gender, @case, @number)"/>
     </xsl:template>
