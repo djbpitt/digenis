@@ -30,10 +30,11 @@
   <verb lemma="побѣгнꙋти" pl3="побѣгнꙋть" class="II" gloss="set off running"/>
   <verb lemma="поврещи" pl3="повьргꙋть" class="I" gloss="turn; cast down"/>
   <verb lemma="пожрети" pl3="пожьрꙋть" gloss="eat (up)" class="I"/>
-  <verb lemma="поити" pl3="поидꙋть" gloss="go" class="I" irreg="yes"/>
+  <verb lemma="поити" pl3="поидꙋть" gloss="go" class="I" irreg="irreg"/>
   <verb lemma="покꙋшати сѧ" pl3="покушають сѧ" gloss="екн" class="III"/>
   <verb lemma="поскочити" pl3="поскочѧть" gloss="leap (out)" class="IVA"/>
   <verb lemma="похватити" pl3="похватѧть" class="IVA" gloss="seize"/>
+  <verb lemma="приити" pl3="придꙋть" class="I" gloss="come" irreg="irreg"/>
   <verb lemma="пꙋдити" pl3="пꙋдѧть" gloss="frighten" class="IVA"/>
   <verb lemma="разврести" pl3="развьрзꙋть" class="I" gloss="open"/>
   <verb lemma="раздьрати" pl3="раздерꙋть" class="I" gloss="tear apart"/>
@@ -46,7 +47,7 @@
   <verb lemma="съвъкꙋпити" pl3="съвъкꙋпѧть" gloss="gather; amass" class="IVA"/>
   <verb lemma="съгънꙋти" pl3="съгънꙋть" class="II" gloss="fold; press"/>
   <!-- Vasmer II: 89 confirms ж in ESl alongside жд borrowed from OCS -->
-  <verb lemma="съзьдати" pl3="съзижꙋть" class="III" gloss="create" irreg="yes"/>
+  <verb lemma="съзьдати" pl3="съзижꙋть" class="III" gloss="create" irreg="irreg"/>
   <verb lemma="сънити" pl3="сънидꙋть" gloss="descend" class="I"/>
   <verb lemma="сътворити" pl3="сътворѧть" gloss="do; complete" class="IVA"/>
   <verb lemma="оубити" pl3="оубиють" class="I" gloss="kill"/>
@@ -59,7 +60,7 @@
     Vlasto 137.2 (p. 185): inf either хотѣти or хътѣти;
     We lemmatize as хотѣти and assign to class III noting that it’s irreg
   -->
-  <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="yes"/>
+  <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="irreg"/>
   <verb lemma="ѣхати" pl3="едꙋть" gloss="ride" class="I"/>
   <verb lemma="ꙗвити сѧ" pl3="ꙗвѧть сѧ" class="IVA" gloss="appear; show forth"/>
 </verbs>

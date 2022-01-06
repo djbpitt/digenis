@@ -10,7 +10,7 @@ pl3 =
     xsd:string { pattern = "(.|\n)+" }
   }
 class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
-irreg = attribute irreg { "yes" }
+irreg = attribute irreg { "irreg" }
 gloss =
   attribute gloss {
     xsd:string { pattern = "(.|\n)+" }
