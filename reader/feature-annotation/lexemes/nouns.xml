@@ -6,6 +6,7 @@
   <noun lemma="амира" paradigm="a" gender="m" gloss="Emir"/>
   <noun lemma="блато" paradigm="o" gender="n" gloss="swamp"/>
   <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
+  <noun lemma="величиѥ" paradigm="jo" gender="n" gloss="greatness"/>
   <noun lemma="вои" paradigm="jo" gender="m" gloss="soldier"/>
   <noun lemma="воинъ" paradigm="o" gender="m" gloss="soldier"/>
   <noun lemma="възрасть" paradigm="o" gender="m" gloss="age"/>
@@ -36,6 +37,7 @@
   <noun lemma="медвѣдица" paradigm="ja" gender="f" gloss="she-bear"/>
   <noun lemma="медвѣдь" paradigm="i" gender="m" gloss="bear"/>
   <noun lemma="мечь" paradigm="jo" gender="m" gloss="sword"/>
+  <noun lemma="молитва" paradigm="a" gender="f" gloss="prayer"/>
   <noun lemma="мѣсто" paradigm="o" gender="n" gloss="place"/>
   <noun lemma="нога" paradigm="a" gender="f" gloss="leg; foot"/>
   <noun lemma="нꙋда" paradigm="a" gender="f" gloss="need"/>
@@ -44,6 +46,7 @@
   <noun lemma="отрочѧ" paradigm="nt" gender="n" gloss="youth"/>
   <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
   <noun lemma="пꙋстыни" paradigm="ja" gender="f" gloss="desert"/>
+  <noun lemma="ребро" paradigm="o" gender="n" gloss="rib"/>
   <noun lemma="рогъвица" paradigm="ja" gender="f" gloss="staff"/>
   <noun lemma="рꙋка" paradigm="a" gender="f" gloss="arm; hand"/>
   <noun lemma="рыканиѥ" paradigm="jo" gender="n" gloss="roaring"/>
@@ -58,7 +61,9 @@
   <noun lemma="оуноша" paradigm="ja" gender="m" gloss="youth"/>
   <noun lemma="оупъваниѥ" paradigm="jo" gender="n" gloss="hope"/>
   <noun lemma="оутѣшениѥ" paradigm="jo" gender="n" gloss="comfort; solace"/>
+  <noun lemma="хвостъ" paradigm="o" gender="m" gloss="tail"/>
   <noun lemma="цьсарь" paradigm="jo" gender="m" gloss="emperor"/>
+  <noun lemma="челюсть" paradigm="i" gender="f" gloss="jaw"/>
   <noun lemma="чрево" paradigm="o" gender="n" gloss="belly"/>
   <noun lemma="чꙋдо" paradigm="o" gender="n" gloss="marvel; miracle"/>
   <noun lemma="чѧдо" paradigm="o" gender="n" gloss="child"/>

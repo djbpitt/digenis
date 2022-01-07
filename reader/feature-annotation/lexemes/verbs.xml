@@ -9,6 +9,7 @@
   <verb lemma="врѣдити" pl3="врѣдѧть" class="IVA" gloss="harm"/>
   <verb lemma="възвратити сѧ" pl3="възвратѧть сѧ" class="IVA" gloss="return"/>
   <verb lemma="вънити" pl3="вънидꙋть" gloss="enter" class="I"/>
+  <verb lemma="въсхытити" pl3="въсхытѧть" class="IVA" gloss="take up"/>
   <verb lemma="выити" pl3="выидꙋть" gloss="go out" class="I"/>
   <verb lemma="глаголати" pl3="глаголють" gloss="speak; say" class="III"/>
   <verb lemma="глѧдати" pl3="глѧдають" class="III" gloss="watch"/>
@@ -24,6 +25,7 @@
   <verb lemma="наскочити" pl3="наскочѧть" class="IVA" gloss="attack; seize"/>
   <verb lemma="начѧти" pl3="начьнꙋть" gloss="begin" class="I"/>
   <verb lemma="нꙋдити" pl3="нꙋдѧть" gloss="plead (with); insist (to)" class="IVA"/>
+  <verb lemma="обрѣсти" pl3="обрѧчꙋть" class="I" gloss="find"/>
   <verb lemma="отъвѣщати" pl3="отъвѣщають" class="III" gloss="answer"/>
   <verb lemma="отъръвати" pl3="отъръвꙋть" class="III" gloss="tear off"/>
   <verb lemma="очꙋтити" pl3="очꙋтѧть" gloss="feel; sense" class="IVA"/>
@@ -32,14 +34,16 @@
   <verb lemma="поврещи" pl3="повьргꙋть" class="I" gloss="turn; cast down"/>
   <verb lemma="пожрети" pl3="пожьрꙋть" gloss="eat (up)" class="I"/>
   <verb lemma="поити" pl3="поидꙋть" gloss="go" class="I" irreg="irreg"/>
-  <verb lemma="покꙋшати сѧ" pl3="покушають сѧ" gloss="екн" class="III"/>
+  <verb lemma="покꙋшати сѧ" pl3="покушають сѧ" gloss="try" class="III"/>
+  <verb lemma="породити" pl3="породѧть" class="IVA" gloss="give birth (to)"/>
   <verb lemma="поскочити" pl3="поскочѧть" gloss="leap (out)" class="IVA"/>
   <verb lemma="похватити" pl3="похватѧть" class="IVA" gloss="seize"/>
-  <verb lemma="приити" pl3="придꙋть" class="I" gloss="come" irreg="irreg"/>
+  <verb lemma="приити" pl3="приидꙋть" class="I" gloss="come" irreg="irreg"/>
   <verb lemma="пꙋдити" pl3="пꙋдѧть" gloss="frighten" class="IVA"/>
   <verb lemma="разврести" pl3="развьрзꙋть" class="I" gloss="open"/>
   <verb lemma="раздьрати" pl3="раздерꙋть" class="I" gloss="tear apart"/>
   <verb lemma="рещи" pl3="рекꙋть" gloss="say" class="I"/>
+  <verb lemma="рыкати" pl3="рыкають" class="III" gloss="howl"/>
   <verb lemma="скочити" pl3="скочѧть" class="IVA" gloss="jump"/>
   <verb lemma="слышати" pl3="слышѧть" gloss="hear" class="IVB"/>
   <verb lemma="смиꙗти сѧ" pl3="смѣють сѧ" gloss="laugh (at)" class="III"/>

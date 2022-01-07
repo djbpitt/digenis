@@ -30,7 +30,8 @@
             <ms>ДЕВГЕНИЯ</ms>
             <pldr>ДЕВГЕНИЯ</pldr>
             <rec>
-               <adjective lemma="девгениѥвъ" number="sg" case="N" gender="n" length="sh">ДЕВГЕНИѤВО</adjective>
+               <adjective lemma="девгениѥвъ" number="sg" case="N" gender="n" length="sh"
+                  >ДЕВГЕНИѤВО</adjective>
             </rec>
          </w>
          <w>
@@ -230,7 +231,8 @@
             <ms>своего</ms>
             <pldr>своего</pldr>
             <rec>
-               <pronoun lemma="свои" type="poss" gender="m" case="A" number="sg">своѥго</pronoun>
+               <pronoun lemma="свои" type="poss" person="R" case="A" number="sg" gender="m"
+                  >своѥго</pronoun>
             </rec>
          </w>
          <w>
@@ -336,7 +338,8 @@
             <ms>мой,</ms>
             <pldr>мой,</pldr>
             <rec>
-               <pronoun lemma="мои" type="poss" gender="m" case="V" number="sg">мои,</pronoun>
+               <pronoun lemma="мои" type="poss" gender="m" case="V" number="sg" person="1"
+                  >мои,</pronoun>
             </rec>
          </w>
          <w>
@@ -452,7 +455,8 @@
             <ms>своему:</ms>
             <pldr>своему:</pldr>
             <rec>
-               <pronoun lemma="свои" type="poss" gender="m" case="D" number="sg">своѥмꙋ:</pronoun>
+               <pronoun lemma="свои" type="poss" person="R" gender="m" case="D" number="sg"
+                  >своѥмꙋ:</pronoun>
             </rec>
          </w>
          <w>
@@ -1756,7 +1760,8 @@
             <ms>свою</ms>
             <pldr>свою</pldr>
             <rec>
-               <pronoun type="poss" lemma="свои" gender="f" case="A" number="sg">свою</pronoun>
+               <pronoun type="poss" lemma="свои" person="R" gender="f" case="A" number="sg"
+                  >свою</pronoun>
             </rec>
          </w>
          <w>
@@ -1915,7 +1920,8 @@
             <ms>своя,</ms>
             <pldr>своя,</pldr>
             <rec>
-               <pronoun type="poss" lemma="свои" case="A" number="pl" gender="f">своѩ,</pronoun>
+               <pronoun type="poss" lemma="свои" person="R" case="A" number="pl" gender="f"
+                  >своѩ,</pronoun>
             </rec>
          </w>
          <w>
@@ -2225,7 +2231,8 @@
             <ms>мой,</ms>
             <pldr>мой,</pldr>
             <rec>
-               <pronoun type="poss" lemma="мои" number="sg" case="V" gender="m">мои,</pronoun>
+               <pronoun type="poss" lemma="мои" number="sg" person="R" case="V" gender="m"
+                  >мои,</pronoun>
             </rec>
          </w>
          <w>
