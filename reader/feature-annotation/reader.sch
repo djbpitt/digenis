@@ -103,20 +103,20 @@
         </sch:rule>
         <sch:rule
             context="pronoun[@type eq 'pers' and @person = ('1', '2') and @case = ('G', 'A', 'D')]">
-            <sch:assert test="@number and @case and @gender">First- and second-person personal
-                pronouns must specify person, gender, case, and number, and, if G, A, or D, also
-                length.</sch:assert>
+            <sch:assert test="@number and @case and not(@gender)">First- and second-person personal
+                pronouns must specify person, case, and number, but not gender, and, if G, A, or D,
+                also length.</sch:assert>
         </sch:rule>
         <sch:rule
             context="pronoun[@type eq 'pers' and @person = ('1', '2') and not(@case = ('G', 'A', 'D'))]">
-            <sch:assert test="@number and @case and @gender">First- and second-person personal
-                pronouns that are not G, A, or D must specify person, gender, case, and number, but
-                not length.</sch:assert>
+            <sch:assert test="@number and @case and not(@gender or @length)">First- and
+                second-person personal pronouns that are not G, A, or D must specify person, case,
+                and number, but not gender and not length.</sch:assert>
         </sch:rule>
         <sch:rule context="pronoun[@type eq 'pers' and @person = ('R') and @case = ('G', 'A', 'D')]">
-            <sch:assert test="@length and not(@person or @number or @gender)">Reflexive personal
-                pronouns must specify only case, and, if G, A, or D, also length, but not person,
-                gender, or number</sch:assert>
+            <sch:assert test="@length and not(@number or @gender)">Reflexive personal pronouns must
+                specify only person and case, and, if G, A, or D, also length, but not gender or
+                number</sch:assert>
         </sch:rule>
         <sch:rule
             context="pronoun[@type eq 'pers' and @person = ('R') and not(@case = ('G', 'A', 'D'))]">
@@ -155,13 +155,13 @@
         </sch:rule>
 
         <sch:p>Relative pronouns</sch:p>
-        <sch:rule context="pronoun[@type eq 'rel' and @lemma eq 'и']">
-            <sch:assert test="@person and @gender @ case @number and not(@length)">Relative и has
-                person, gender, case, and number, but not length</sch:assert>
+        <sch:rule context="pronoun[@type eq 'rel' and @lemma eq 'иже']">
+            <sch:assert test="@gender and @case and @number and not(@person or @length)">Relative
+                иже has gender, case, and number, but not person or length</sch:assert>
         </sch:rule>
-        <sch:rule context="pronoun[@type eq 'rel' and not(@lemma eq 'и')]">
+        <sch:rule context="pronoun[@type eq 'rel' and not(@lemma eq 'иже')]">
             <sch:assert test="@case and not(@person or @gender or @number or @length)">Relative
-                pronouns other than и (that is, къто and чьто) have case, but not person, gender,
+                pronouns other than иже (that is, къто and чьто) have case, but not person, gender,
                 number, or length</sch:assert>
         </sch:rule>
 

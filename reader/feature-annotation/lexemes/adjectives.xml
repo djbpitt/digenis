@@ -2,14 +2,18 @@
 <?xml-model href="adjectives.rnc" type="application/relax-ng-compact-syntax"?>
 <adjectives>
   <adjective lemma="божии" poss="poss" gloss="divine"/>
+  <adjective lemma="велии" gloss="big"/>
   <adjective lemma="великыи" gloss="great"/>
+  <adjective lemma="вельгласьныи" gloss="grandiloquent"/>
   <adjective lemma="девгениѥвъ" poss="poss" gloss="Digenis’s"/>
   <adjective lemma="дрꙋгыи" gloss="other"/>
   <adjective lemma="живыи" gloss="living"/>
   <adjective lemma="задьнии" gloss="rear"/>
   <adjective lemma="иныи" gloss="other"/>
+  <adjective lemma="кꙋдрꙗвыи" gloss="curly"/>
   <adjective lemma="лосевъ" gloss="elk’s; moose’s" poss="poss"/>
   <adjective lemma="лѣвыи" gloss="left"/>
+  <adjective lemma="лѣпыи" gloss="beautiful"/>
   <adjective lemma="лютыи" gloss="fierce"/>
   <adjective lemma="матерьнии" gloss="maternal; mother’s"/>
   <adjective lemma="младыи" gloss="young"/>
@@ -20,6 +24,7 @@
     the в is a northern dialect feature (Vasmer 3.175); 
   Sreznevskij's 2.838 long is only a fixed phrase '(military) volunteer'-->
   <adjective lemma="охочь" gloss="eager; desirous"/>
+  <adjective lemma="прежьнии" gloss="previous"/>
   <adjective lemma="преславьныи" gloss="most glorious"/>
   <adjective lemma="правыи" gloss="right"/>
   <adjective lemma="простыи" gloss="simple"/>

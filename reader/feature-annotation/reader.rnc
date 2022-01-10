@@ -49,7 +49,7 @@ pronoun =
 verb =
   element verb {
     ((lemma,
-      ((person, number-category, tense)
+      ((person, number-category, tense, gender?)
        | attribute tense { "inf" }))
      | (attribute lemma { "быти" },
         attribute tense { "pr" },
@@ -124,7 +124,7 @@ noun-paradigm =
 class = attribute class { "I" | "II" | "III" | "IVA" | "IVB" | "V" }
 tense =
   attribute tense {
-    "pr" | "pt" | "fut" | "aor" | "pf" | "pf neg" | "ipf" | "impf aor" | "imv" | "cond"
+    "pr" | "pt" | "fut" | "aor" | "pf" | "pf neg" | "ipf" | "impf aor" | "imv" | "cond" | "l-part"
   }
 voice = attribute voice { "act" | "pass" }
 # omit pers and handle separately because pers require person

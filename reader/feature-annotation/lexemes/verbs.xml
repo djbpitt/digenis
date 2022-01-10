@@ -4,6 +4,7 @@
   <verb lemma="бити" pl3="биють" class="I" gloss="beat; fight"/>
   <verb lemma="бѣжати" pl3="бѣжѧть" class="IVB" gloss="run"/>
   <verb lemma="быти" pl3="сꙋть" class="V" gloss="be"/>
+  <!-- imv attested in SDRJa11-14 s.v. видѣти 421 9up -->
   <verb lemma="видѣти" pl3="видѧть" class="IVB" gloss="see"/>
   <verb lemma="влещи" pl3="влекꙋть" class="I" gloss="drag"/>
   <verb lemma="врѣдити" pl3="врѣдѧть" class="IVA" gloss="harm"/>
@@ -15,6 +16,7 @@
   <verb lemma="глѧдати" pl3="глѧдають" class="III" gloss="watch"/>
   <verb lemma="дивити сѧ" pl3="дивѧть сѧ" class="IVA" gloss="marvel; wonder"/>
   <verb lemma="догънати" pl3="доженꙋть" class="I" gloss="catch (up to)"/>
+  <verb lemma="зьрѣти" pl3="зьрѧть" class="IVB" gloss="look"/>
   <verb lemma="играти" pl3="играють" gloss="play" class="III"/>
   <verb lemma="имѣти" pl3="имꙋть, имѣють" gloss="have" class="V"/>
   <verb lemma="ити" pl3="идꙋть" gloss="go" class="I"/>
@@ -32,16 +34,20 @@
   <verb lemma="побѣдити" pl3="побѣдѧть" gloss="conquer; vanquish" class="IVA"/>
   <verb lemma="побѣгнꙋти" pl3="побѣгнꙋть" class="II" gloss="set off running"/>
   <verb lemma="поврещи" pl3="повьргꙋть" class="I" gloss="turn; cast down"/>
+  <verb lemma="подивити сѧ" pl3="подивѧть сѧ" class="IVA" gloss="marvel"/>
   <verb lemma="пожрети" pl3="пожьрꙋть" gloss="eat (up)" class="I"/>
   <verb lemma="поити" pl3="поидꙋть" gloss="go" class="I" irreg="irreg"/>
   <verb lemma="покꙋшати сѧ" pl3="покушають сѧ" gloss="try" class="III"/>
   <verb lemma="породити" pl3="породѧть" class="IVA" gloss="give birth (to)"/>
   <verb lemma="поскочити" pl3="поскочѧть" gloss="leap (out)" class="IVA"/>
   <verb lemma="похватити" pl3="похватѧть" class="IVA" gloss="seize"/>
+  <verb lemma="пресещи" pl3="пресекꙋть" class="I" gloss="cut off"/>
   <verb lemma="приити" pl3="приидꙋть" class="I" gloss="come" irreg="irreg"/>
   <verb lemma="пꙋдити" pl3="пꙋдѧть" gloss="frighten" class="IVA"/>
   <verb lemma="разврести" pl3="развьрзꙋть" class="I" gloss="open"/>
   <verb lemma="раздьрати" pl3="раздерꙋть" class="I" gloss="tear apart"/>
+  <verb lemma="разѧти" pl3="разьмꙋть" class="I" gloss="open (wide)"/>
+  <verb lemma="расѣщи" pl3="расѣкꙋть" class="I" gloss="cut through"/>
   <verb lemma="рещи" pl3="рекꙋть" gloss="say" class="I"/>
   <verb lemma="рыкати" pl3="рыкають" class="III" gloss="howl"/>
   <verb lemma="скочити" pl3="скочѧть" class="IVA" gloss="jump"/>
@@ -58,6 +64,7 @@
   <verb lemma="оубити" pl3="оубиють" class="I" gloss="kill"/>
   <!-- Class IVB with stable jer in root, Prague dictionary -->
   <verb lemma="оузьрѣти" pl3="оузьрѧть" class="IVB" gloss="catch sight of"/>
+  <verb lemma="оударити" pl3="оударѧть" class="IVA" gloss="strike"/>
   <verb lemma="оукрыти сѧ" pl3="оукроють сѧ" class="I" gloss="hide"/>
   <verb lemma="оумрети" pl3="оумьрꙋть" class="I" gloss="die"/>
   <verb lemma="оухватити" pl3="оухватѧть" class="IVA" gloss="seize"/>
@@ -68,6 +75,7 @@
     We lemmatize as хотѣти and assign to class III noting that it’s irreg
   -->
   <verb lemma="хотѣти" pl3="хотѧть" gloss="want" class="III" irreg="irreg"/>
+  <verb lemma="цѣловати" pl3="цѣлꙋють" class="III" gloss="kiss"/>
   <verb lemma="ѣхати" pl3="едꙋть" gloss="ride" class="I"/>
   <verb lemma="ꙗвити сѧ" pl3="ꙗвѧть сѧ" class="IVA" gloss="appear; show forth"/>
 </verbs>

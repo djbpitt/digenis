@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="particles.rnc" type="application/relax-ng-compact-syntax"?>
 <particles>
+  <particle lemma="бо" gloss="for"/>
   <particle lemma="же" gloss="and"/>
   <particle lemma="не" gloss="not"/>
-  <particle lemma="сѧ" gloss= "(one)self"/>
+  <particle lemma="сѧ" gloss="(one)self"/>
 </particles>

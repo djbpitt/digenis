@@ -56,6 +56,7 @@
                     'possessive': 'poss',
                     'relative': 'rel',
                     'demonstrative': 'dem',
+                    'l-part': 'l participle',
                     'a': 'a',
                     'ja': 'jā',
                     'o': 'o',
