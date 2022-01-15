@@ -2055,7 +2055,9 @@
          <w>
             <ms>брови</ms>
             <pldr>брови</pldr>
-            <rec>бръви</rec>
+            <rec>
+               <noun lemma="бръвь" case="N" number="du">бръви</noun>
+            </rec>
          </w>
          <w>
             <ms>же</ms>
@@ -2067,19 +2069,24 @@
          <w>
             <ms>черны</ms>
             <pldr>черны</pldr>
-            <rec>чьрнѣ</rec>
+            <rec>
+               <adjective lemma="чьрныи" gender="f" case="N" number="du" length="sh"
+                  >чьрнѣ</adjective>
+            </rec>
          </w>
          <w>
             <ms>имяше,</ms>
             <pldr>имяше,</pldr>
-            <rec>имѧше(ть),</rec>
-            <note>ipf 3sg <os>имѣти, имꙋть</os> <gloss>have</gloss>
-            </note>
+            <rec>
+               <verb lemma="имѣти" tense="ipf" person="3" number="sg">имѧше(ть),</verb>
+            </rec>
          </w>
          <w>
             <ms>перси</ms>
             <pldr>перси</pldr>
-            <rec>пьрси</rec>
+            <rec>
+               <noun lemma="пьрси" number="pl" case="N">пьрси</noun>
+            </rec>
          </w>
          <w>
             <ms>жъ</ms>
@@ -2091,17 +2098,24 @@
          <w>
             <ms>его</ms>
             <pldr>его</pldr>
-            <rec>ѥго</rec>
+            <rec>
+               <pronoun type="poss" lemma="ѥго" person="3" gender="m">ѥго</pronoun>
+            </rec>
          </w>
          <w>
             <ms>сажени</ms>
             <pldr>сажени</pldr>
-            <rec>сажени</rec>
+            <rec>
+               <noun lemma="сажень" number="sg" case="G">сажени</noun>
+            </rec>
          </w>
          <w>
             <ms>шире.</ms>
             <pldr>шире.</pldr>
-            <rec>ширѣиши.</rec>
+            <rec>
+               <adjective lemma="широкыи" gender="f" case="N" number="pl" length="sh" grade="comp"
+                  >ширѣишѧ.</adjective>
+            </rec>
          </w>
          <w>
             <ms>Видев</ms>

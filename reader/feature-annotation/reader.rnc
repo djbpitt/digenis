@@ -61,6 +61,7 @@ verb =
 adjective =
   element adjective {
     lemma,
+    grade?,
     length,
     gender,
     case,
@@ -130,7 +131,6 @@ voice = attribute voice { "act" | "pass" }
 # omit pers and handle separately because pers require person
 pron-type = attribute type { "pers" | "poss" | "interrog" | "rel" | "all" | "indef" | "dem" }
 length = attribute length { "sh" | "lg" }
-degree = attribute degree { "comp" | "sup" }
 syntax = attribute syntax { "dat+inf" | "dat abs" }
 lemma =
   attribute lemma {

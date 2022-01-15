@@ -6,6 +6,7 @@
   <noun lemma="амира" paradigm="a" gender="m" gloss="Emir"/>
   <noun lemma="блато" paradigm="o" gender="n" gloss="swamp"/>
   <noun lemma="богъ" paradigm="o" gender="m" gloss="god"/>
+  <noun lemma="бръвь" paradigm="i" gender="f" gloss="eyebrow"/>
   <noun lemma="величиѥ" paradigm="jo" gender="n" gloss="greatness"/>
   <noun lemma="власъ" paradigm="o" gender="m" gloss="hair"/>
   <noun lemma="вои" paradigm="jo" gender="m" gloss="soldier"/>
@@ -52,10 +53,12 @@
   <noun lemma="отьць" paradigm="jo" gender="m" gloss="father"/>
   <noun lemma="полъ" paradigm="u" gender="m" gloss="half"/>
   <noun lemma="пꙋстыни" paradigm="ja" gender="f" gloss="desert"/>
+  <noun lemma="пьрси" paradigm="i" gender="f" gloss="chest (pl)"/>
   <noun lemma="ребро" paradigm="o" gender="n" gloss="rib"/>
   <noun lemma="рогъвица" paradigm="ja" gender="f" gloss="staff"/>
   <noun lemma="рꙋка" paradigm="a" gender="f" gloss="arm; hand"/>
   <noun lemma="рыканиѥ" paradigm="jo" gender="n" gloss="roaring"/>
+  <noun lemma="сажень" paradigm="i" gender="f" gloss="sažen (distance, approx. 7 feet)"/>
   <noun lemma="сила" paradigm="a" gender="f" gloss="strength"/>
   <noun lemma="слово" paradigm="s" gender="n" gloss="word; speech"/>
   <noun lemma="снѣгъ" paradigm="o" gender="m" gloss="snow"/>
@@ -75,5 +78,6 @@
   <noun lemma="челюсть" paradigm="i" gender="f" gloss="jaw"/>
   <noun lemma="чрево" paradigm="o" gender="n" gloss="belly"/>
   <noun lemma="чꙋдо" paradigm="o" gender="n" gloss="marvel; miracle"/>
+  <noun lemma="чьрвьць" paradigm="jo" gender="m" gloss="red"/>
   <noun lemma="чѧдо" paradigm="o" gender="n" gloss="child"/>
 </nouns>
